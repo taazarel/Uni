@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "tabSize": 4,
+  "trashOption": "local",
+  "attachmentFolderPath": "Assets",
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

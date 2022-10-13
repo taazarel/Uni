@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "DD-MM-YYYY [Uge] w",
+    "template": "",
+    "folder": "Hjælpemidler/Periodic Notes/Daily",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY [Uge] w",
+    "template": "",
+    "folder": "Hjælpemidler/Periodic Notes/Weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "MM-YYYY",
+    "template": "",
+    "folder": "Hjælpemidler/Periodic Notes/Monthly",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "de249cb02cf0d110",
+    "type": "split",
+    "children": [
+      {
+        "id": "817ccaf38d33b8dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kurser/LinAlys/Matricer uden markovkæder.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c397b476684c4a54",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kurser/LinAlys/Retningsafledte.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b4c65b7e2a90c63",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ff76e3a07d87ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "477e1a55f44a8a4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0c8350b788d63e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "integration",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "751d10a9900e0151",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f67102a27132052b",
+    "type": "split",
+    "children": [
+      {
+        "id": "868873d194dbf0b7",
+        "type": "tabs",
+        "dimension": 49.02439024390244,
+        "children": [
+          {
+            "id": "7524363f665398c7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ceba97dbe93cd497",
+        "type": "tabs",
+        "dimension": 50.97560975609756,
+        "children": [
+          {
+            "id": "d2dfc0df18a6f857",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kurser/LinAlys/Matricer uden markovkæder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9a2c29b98a31eb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0852db6c9e653e4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kurser/LinAlys/Matricer uden markovkæder.md"
+              }
+            }
+          },
+          {
+            "id": "150480a7a48fcaf0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "817ccaf38d33b8dd",
+  "lastOpenFiles": [
+    "Kurser/LinAlys/Retningsafledte.md",
+    "Kurser/LinAlys/Matricer uden markovkæder.md",
+    "Hjælpemidler/Periodic Notes/Daily/11-10-2022 Uge 41.md",
+    "Kurser/LinAlys/Huskeregler.md",
+    "Kurser/MekRel/Mindstevirkningsprincippet.md",
+    "Kurser/LinAlys/Repræsentation af funktioner af flere variable.md",
+    "Kurser/LinAlys/Partial integration.md",
+    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-10 11.35.30.excalidraw.md",
+    "Assets/Excalidraw/Template.md",
+    "Hjælpemidler/Periodic Notes/Daily/03-10-2022 Uge 40.md"
+  ]
+}
