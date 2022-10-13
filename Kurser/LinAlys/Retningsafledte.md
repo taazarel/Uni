@@ -75,6 +75,13 @@ $f'(\vec{a};\vec{r})=\nabla f(\vec{a})*\vec{r}$. prik produkt.
 Hvis f er defineret på en åben mængde A (alle punkter er indre, dvs at randen ikke er en del af mængden) da er f $C^{1}$ hvis alle de partielt afledte er kontinuerte på A.
 Hvis f er $C^{1}$ er f specielt kontinuert.
 ## Sætning 2.57
+Hvis f er $C^{1}$ da er $f'(\vec{a};\vec{r})=\nabla f(\vec{a})\cdot\vec{r}$.
+
+## Sætning 2.58 (Geometrisk fortolkning af gradient)
+Hvis f er $C^{1}$ så er $\nabla f(\vec{a})$ i retningen hvor f vokser hurtigst og dens længde er den retningsafledte i den regning $f'(\vec{a};\vec{u})$ hvor u er en enhedsvektor i den retning f vokser hurtigst i.
+### Bevis
+$f'(\vec{a};\vec{u})=\nabla f(\vec{a})\cdot \vec{u}=||\nabla f(\vec{a})|| ||\vec{u}||\cos{\theta}$
+Og kun hvis $\theta=n \pi$ så bliver det $\leq||\nabla f(\vec{a})||$
 
 ## Definition 2.32 (Kontinuitet)
 f siges at være kontinuert i $\vec{a}$ hvis $\vec{a}$ er isoleret eller hvis $f(\vec{x})\rightarrow f(\vec{a})$ når $\vec{x}\rightarrow \vec{a}$.
