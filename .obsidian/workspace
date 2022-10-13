@@ -16,18 +16,6 @@
         }
       },
       {
-        "id": "672a90a2ef74f816",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "test.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "c397b476684c4a54",
         "type": "leaf",
         "state": {
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Kurser/LinAlys/Matricer uden markovkæder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Kurser/LinAlys/Matricer uden markovkæder.md"
               }
             }
           },
@@ -164,8 +152,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "672a90a2ef74f816",
+  "active": "817ccaf38d33b8dd",
   "lastOpenFiles": [
+    "test.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/LinAlys/Retningsafledte.md",
     "Hjælpemidler/Periodic Notes/Daily/11-10-2022 Uge 41.md",
@@ -174,7 +163,6 @@
     "Kurser/LinAlys/Repræsentation af funktioner af flere variable.md",
     "Kurser/LinAlys/Partial integration.md",
     "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-10 11.35.30.excalidraw.md",
-    "Assets/Excalidraw/Template.md",
-    "Hjælpemidler/Periodic Notes/Daily/03-10-2022 Uge 40.md"
+    "Assets/Excalidraw/Template.md"
   ]
 }
