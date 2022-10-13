@@ -13,7 +13,7 @@ Hvis det gælder at både A og B er kvadratiske og invertible af lige store dime
 det gælder at AB er invertibel
 det gælder at $(AB)^{-1}=B^{-1}A^{-1}$
 
-Hvis det gælder at både A og B er
+Hvis det gælder at både A og B er nxn matricer så gælder det at deres produkt er... :: både $AB=I$ og $BA=I$.
 
 En invertibel matrix betyder... :: En matrix med præcis én Invers.
 
@@ -180,6 +180,7 @@ Hvis $A,B$ er nxn matricer og $AB=I$ da vil $BA=I$.
 $AB=I$ betyder at $[A|I]\rightarrow[I|C]$.
 Hvis dette er sandt så kan vi finde at $[C|I]\rightarrow[I|A]$.
 Derfor må A være højreinvers til C og C til A. Og derfor må $C=B$ da B var en højreinvers.
+
 
 [^1]: I_m er identitetsmatricen til m rækker og kolonner
 [^2]: Vi kommer til at se at det kræver n=m og at der kun kan være ét B

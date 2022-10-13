@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Matricer uden markovkæder.md",
+                "file": "Kurser/LinAlys/Retningsafledte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Matricer uden markovkæder.md"
+                "file": "Kurser/LinAlys/Retningsafledte.md"
               }
             }
           },
@@ -164,17 +164,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b5e953e439055fd2",
+  "active": "c397b476684c4a54",
   "lastOpenFiles": [
-    "test.md",
-    "Kurser/LinAlys/Matricer uden markovkæder.md",
+    "Hjælpemidler/Flashcards/MekRel/Statistik.md",
     "Kurser/LinAlys/Retningsafledte.md",
+    "Kurser/LinAlys/Matricer uden markovkæder.md",
+    "test.md",
     "Hjælpemidler/Periodic Notes/Daily/11-10-2022 Uge 41.md",
     "Kurser/LinAlys/Huskeregler.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Kurser/LinAlys/Repræsentation af funktioner af flere variable.md",
     "Kurser/LinAlys/Partial integration.md",
-    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-10 11.35.30.excalidraw.md",
-    "Assets/Excalidraw/Template.md"
+    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-10 11.35.30.excalidraw.md"
   ]
 }

@@ -60,7 +60,6 @@ Og derfor kan vi finde $\lim_{\vec{x}\to\vec{a}}x_{j}=a_{j}$, hvor $\vec{x}=(x_{
 $\lim_{(x,y,z)\to(0,0,\pi)}sin(xy+z)=$ da sin er kontinuert $=sin(0*0+\pi)=\sin{\pi}=0$
 
 ### Eksempel
-
 Findes $\lim_{(x,y)\to(0,0)} \frac{2xy}{x^{2}+y^{2}}$?
 Vi kan dele den op i dens to variable.
 $f(x,0)=\frac{0}{x^{2}}=0$ og $f(0,y)=\frac{0}{y^{2}}=0$
@@ -72,6 +71,25 @@ En funktion er kontinuert når værdien $\vec{a}$ går mod grænseværdien $\vec
 Vi siger at en funktion er $C^{1}$ når de partielt aflede er kontinuerte.
 man kan skrive 
 $f'(\vec{a};\vec{r})=\nabla f(\vec{a})*\vec{r}$. prik produkt.
+### Definition
+Hvis f er defineret på en åben mængde A (alle punkter er indre, dvs at randen ikke er en del af mængden) da er f $C^{1}$ hvis alle de partielt afledte er kontinuerte på A.
+Hvis f er $C^{1}$ er f specielt kontinuert.
+## Sætning 2.57
+
+## Definition 2.32 (Kontinuitet)
+f siges at være kontinuert i $\vec{a}$ hvis $\vec{a}$ er isoleret eller hvis $f(\vec{x})\rightarrow f(\vec{a})$ når $\vec{x}\rightarrow \vec{a}$.
+Dvs. $\lim_{\vec{x}\to\vec{a}} f(\vec{x})=f(\vec{a})$.
+Hvis f er kontinuert i alle punkter i $D_{f}$ kaldes den kontinuert.
+
+## Sætning 2.33 (Regneregler for kontinuitet)
+Hvis f,g er kontinuerte i $\vec{a}$ da er
+$f+g,f*g,f-g$ kontinuerte i $\vec{a}$.
+$\frac{f}{g}$ er kontinuert i $\vec{a}$, hvis $g(a)\neq0$.
+
+## Sætning 2.34
+$f_{1},...,f_{n}$ kontinuerte i $\vec{a}\in \mathbb{R}^{m}$ g er kontinuert i $(f_{1}(\vec{a}),...,f_{n}(\vec{a}))$ da er $h(x)=g(f_{1}(x),...,f_{n}(x))$ kontinuert i $\vec{a}$.
+
+
 
 [^1]: Noget som er nemt at tjekke. Beskriver differentiabilitet for funktioner af flere variabler. Det er normalt svært at vise at en funktion af flere variabler er differentiabel.
 [^2]: Dette er meget vigtigt, Referer til fodnote tre.
