@@ -2,8 +2,17 @@
 #### mws572, Luci Fenger
 # 1
 a) Opskriv taylorpolynomiet af begge dele
-$T_{2}f(x^{2})=\frac{f''(a)}{2!}(x^{2})^{2}$ 
-$T_{4}g(x)=\frac{f^{4}(a)}{4!}x^{4}$ 
+$$T_{2}f(x^{2})=\sum_{k}^{2} \frac{f^{k}(a)}{k!}(x^{2})^{k}$$
+$$T_{4}g(x)=\sum_{k}^{4} \frac{g^{k}(a)}{k!}(x)^{k}$$
+$$T_{n}f(x)= \sum_{k}^{n} \frac{f^{n}(a)}{k!}(x-a)^{k}$$
+
+$T_{2}f(x^{2})=f(0)+f'(0)x^{2}+ \frac{1}{2}f''(0)x^{4}$ 
+
+$T_{4}g(x)=f(0)+f'(0)x+ \frac{1}{2}f''(0)x^{2}+ \frac{1}{6}f'''(0)x^{3}+ \frac{1}{24}f^{(4)}(0)x^{4}$ 
+
+$$T_{4}g(x)=f(0)+f'(x^{2})2x$$
+
+$g(x)=f(x^{2})\Rightarrow g'(x)=f(x^{2})2x$ 
 b) idfk
 
 # 2
