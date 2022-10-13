@@ -8,12 +8,12 @@ $$T_{n}f(x)= \sum_{k}^{n} \frac{f^{n}(a)}{k!}(x-a)^{k}$$
 
 $T_{2}f(x^{2})=f(0)+f'(0)x^{2}+ \frac{1}{2}f''(0)x^{4}$ 
 
-$T_{4}g(x)=f(x^{2})+f'(x^{2})2x(x^{2})+ \frac{1}{2}f'(x^{2})2$    
+$T_{4}g(x)=f(0^{2})+f'(0^{2})2(0)x+ \frac{1}{2}f'(0^{2})2$    
 
 $$T_{4}g(x)=f(0)+f'(x^{2})2x$$
 
 $g(x)=f(x^{2})\Rightarrow g'(x)=f'(x^{2})2(x)=0$
-$g'(x)=f'(0^{2})2(0)\Rightarrow g''(x)=f''(x^{2})4(x)+f'(x^{2})2$
+$g'(x)=f'(0^{2})2(0)\Rightarrow g''(x)=f''(x^{2})4(x^{2})+f'(x^{2})2$
 $g''(x)=f''(0^{2})4(0)+f'(0^{2})2\Rightarrow g'''(x)=f'''(x^{2})8x^{2}+f''(x^{2})4+ f''(x^{2})4x=f''(x^{2})4$
 
 
@@ -26,3 +26,5 @@ b) Lav a først
 # 3
 Har ingen ide om den her opgave
 a) Hvad er en kommutator?
+b) 
+c) Prøv an med nogle eksempler, og derefter som generel ting.
