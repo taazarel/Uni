@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "b5e953e439055fd2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kurser/LinAlys/Matricer uden markovkæder.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "c397b476684c4a54",
         "type": "leaf",
         "state": {
@@ -152,7 +164,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "817ccaf38d33b8dd",
+  "active": "b5e953e439055fd2",
   "lastOpenFiles": [
     "test.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",

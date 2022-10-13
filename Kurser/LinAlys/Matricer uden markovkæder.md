@@ -8,10 +8,12 @@ Begyndelsesdato: 07:54   13-10-2022   Uge-41
 - Finde invers ved Gauss elimination
 
 # Flashcards
-Hvis det gælder at både A og B er kvadratiske og invertible hvad gælder så for AB? 
+Hvis det gælder at både A og B er kvadratiske og invertible af lige store dimensioner hvad gælder så for AB? 
 ?
 det gælder at AB er invertibel
 det gælder at $(AB)^{-1}=B^{-1}A^{-1}$
+
+Hvis det gælder at både A og B er
 
 En invertibel matrix betyder... :: En matrix med præcis én Invers.
 
@@ -137,9 +139,9 @@ $rang(A)=rank(A)=$ antallet af ledende 1-taller efter Gauss elimination.
 Antallet af ledende 1-taller er uafhængige af valg af rækkeoperationer, så rangen er veldefineret.
 
 ## Teorem 5.12 (Eksistens af højre invers)
-$A \in \mathbb{M}_{mn}$ har en højre invers hvis $rang(A)=m$. dvs $m \leq n$.
+$A \in \mathbb{M}_{mn}$ har en højre invers hvis og KUN HVIS $rang(A)=m$. dvs der er et ledende 1-tal i hver række og $m \leq n$.
 
-### Bevis
+### Bevis (<=)
 $$[A|I]\rightarrow \left[
 \begin{array}{ccc|c}
 1 & ... & 0 & * \\ 
@@ -147,8 +149,37 @@ $$[A|I]\rightarrow \left[
 0 & ... & 1 & *
 \end{array}
 \right]$$
-Hvis $A \in \mathbb{M}_{nn}$ rang(A)=n så $[A|I]=[I|A^{-1}]$ 
+Hvis $A \in \mathbb{M}_{nn}$ rang(A)=m så $[A|I]=[I|A^{-1}]$ 
 Dvs $AC=I$ har mindst en løsning da der ikke er 0-rækker.
+
+### Bevis (=>) 
+Hvis der findes en højre invers så har ligningssystem $AC=I$ løsninger.
+vi kunne have situationen
+$$[A|I]=\left[
+\begin{array}{ccc|ccc}
+* & * & * & * & * & * \\ 
+0 & ... & 0 & 0 & ... & 0
+\end{array}
+\right]$$
+Det kan ikke lade sig gøre 
+$$I=\left[
+\begin{array}{ccc}
+1 &... &  0 \\ 0  & ...& 1
+\end{array}
+\right]=\left[
+\begin{array}{ccc}
+* & * & * \\ 
+0 & ... & 0
+\end{array}
+\right]$$
+Hvilket er reduceret række echelon form. Dette er absurd hvis vi starter med I.
+
+## Mirakel 5.13
+Hvis $A,B$ er nxn matricer og $AB=I$ da vil $BA=I$.
+### Bevis
+$AB=I$ betyder at $[A|I]\rightarrow[I|C]$.
+Hvis dette er sandt så kan vi finde at $[C|I]\rightarrow[I|A]$.
+Derfor må A være højreinvers til C og C til A. Og derfor må $C=B$ da B var en højreinvers.
 
 [^1]: I_m er identitetsmatricen til m rækker og kolonner
 [^2]: Vi kommer til at se at det kræver n=m og at der kun kan være ét B
