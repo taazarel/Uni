@@ -92,7 +92,10 @@ Hvor at centrifugalaccelerationen er $a=r \theta'^{2}$.
 
 # Skrivepapir
 
-$m_{1}g=(m_{1}M_{2})a_{1}$ 
+$kx_{2}$
+$m_{2}v_{2}$
+$m_{2}a_{2}$
+$m_{2}a_{2}=kx_{2}$
 
 
 [^1]: Man kan også skrive x' som v, og x'' som a. Dette vil jeg gøre i fremtiden da det er lettere at skrive i $\LaTeX$. Derudover er det også lettere at bruge d, istedet for $\delta$, så det vil jeg også gøre.
