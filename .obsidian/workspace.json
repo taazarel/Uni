@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91c807983a950a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Formelsamling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
+                "file": "Kurser/MekRel/Formelsamling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md"
+                "file": "Kurser/MekRel/Formelsamling.md"
               }
             }
           },
@@ -166,17 +178,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7d8598fcf8d5080c",
+  "active": "91c807983a950a7e",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Retningsafledte.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
+    "Kurser/MekRel/Formelsamling.md",
+    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
+    "Kurser/LinAlys/Matricer uden markovkæder.md",
+    "Kurser/LinAlys/Retningsafledte.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
     "Untitled.md",
-    "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
     "Hjælpemidler/Flashcards/MekRel/Statistik.md",
-    "test.md",
-    "Hjælpemidler/Periodic Notes/Daily/11-10-2022 Uge 41.md",
-    "Kurser/LinAlys/Huskeregler.md"
+    "test.md"
   ]
 }
