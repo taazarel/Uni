@@ -182,5 +182,6 @@ Hvis dette er sandt så kan vi finde at $[C|I]\rightarrow[I|A]$.
 Derfor må A være højreinvers til C og C til A. Og derfor må $C=B$ da B var en højreinvers.
 
 
+
 [^1]: I_m er identitetsmatricen til m rækker og kolonner
 [^2]: Vi kommer til at se at det kræver n=m og at der kun kan være ét B
