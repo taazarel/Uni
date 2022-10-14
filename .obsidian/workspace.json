@@ -4,40 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "817ccaf38d33b8dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Kurser/LinAlys/Matricer uden markovkæder.md",
-            "mode": "source",
-            "source": false
+        "id": "f7b11cdf2b9ba16c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "817ccaf38d33b8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Matricer uden markovkæder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a38b3c7cc7a646a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       },
       {
-        "id": "c397b476684c4a54",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Kurser/LinAlys/Retningsafledte.md",
-            "mode": "source",
-            "source": false
+        "id": "99029617d0905fdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c397b476684c4a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Retningsafledte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       },
       {
-        "id": "88c655117e76d3dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
-            "mode": "source",
-            "source": false
+        "id": "32abaed90ae9c094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c655117e76d3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -164,7 +195,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "817ccaf38d33b8dd",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "8a38b3c7cc7a646a",
   "lastOpenFiles": [
     "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",
