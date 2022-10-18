@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "06cfc161eebba4ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -144,8 +160,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5e5a25485c628858",
+  "active": "06cfc161eebba4ea",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/LinAlys/Retningsafledte.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
@@ -154,7 +171,6 @@
     "test.md",
     "Hjælpemidler/Periodic Notes/Daily/11-10-2022 Uge 41.md",
     "Kurser/LinAlys/Huskeregler.md",
-    "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Kurser/LinAlys/Repræsentation af funktioner af flere variable.md"
+    "Kurser/MekRel/Mindstevirkningsprincippet.md"
   ]
 }
