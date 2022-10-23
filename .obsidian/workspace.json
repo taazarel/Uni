@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "65f28c72a7259cbf",
+        "id": "9960b6e8438fca85",
         "type": "tabs",
         "children": [
           {
-            "id": "5e5a25485c628858",
+            "id": "7f1ceea61e2770db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,17 +144,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5e5a25485c628858",
+  "active": "7f1ceea61e2770db",
   "lastOpenFiles": [
+    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/LinAlys/Retningsafledte.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
     "Hjælpemidler/Flashcards/MekRel/Statistik.md",
     "test.md",
     "Hjælpemidler/Periodic Notes/Daily/11-10-2022 Uge 41.md",
-    "Kurser/LinAlys/Huskeregler.md",
-    "Kurser/MekRel/Mindstevirkningsprincippet.md"
+    "Kurser/LinAlys/Huskeregler.md"
   ]
 }
