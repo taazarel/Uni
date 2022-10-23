@@ -25,6 +25,6 @@ b) Lav a først
 
 # 3
 Har ingen ide om den her opgave
-a) Hvad er en kommutator?
+a) B+B' kan skrives som en matrix kaldet C. 
 b) 
 c) Prøv an med nogle eksempler, og derefter som generel ting.

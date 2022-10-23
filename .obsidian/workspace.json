@@ -11,8 +11,12 @@
             "id": "5e5a25485c628858",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md"
+              }
             }
           },
           {
