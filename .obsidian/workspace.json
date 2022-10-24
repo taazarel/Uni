@@ -91,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md"
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md"
               }
             }
           },
@@ -178,7 +177,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7d8598fcf8d5080c",
+  "active": "477e1a55f44a8a4f",
   "lastOpenFiles": [
     "Kurser/MekRel/Formelsamling.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
