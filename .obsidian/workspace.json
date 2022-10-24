@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8705d2c8bbaf0583",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -127,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,17 +182,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "477e1a55f44a8a4f",
+  "active": "8705d2c8bbaf0583",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
     "Kurser/MekRel/Formelsamling.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/LinAlys/Retningsafledte.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
     "Untitled.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
-    "Hjælpemidler/Flashcards/MekRel/Statistik.md",
-    "test.md"
+    "Hjælpemidler/Flashcards/MekRel/Statistik.md"
   ]
 }

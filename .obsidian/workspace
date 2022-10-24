@@ -4,9 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "817ccaf38d33b8dd",
+        "id": "5e5a25485c628858",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
+          "type": "empty",
+          "state": {}
+=======
           "type": "markdown",
           "state": {
             "file": "Kurser/LinAlys/Matricer uden markovkæder.md",
@@ -37,6 +41,7 @@
             "mode": "source",
             "source": false
           }
+>>>>>>> origin/main
         }
       }
     ],
@@ -117,7 +122,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
                 "file": "Kurser/LinAlys/Matricer uden markovkæder.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,9 +152,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
+              "state": {}
+=======
               "state": {
                 "file": "Kurser/LinAlys/Matricer uden markovkæder.md"
               }
+>>>>>>> origin/main
             }
           },
           {
@@ -164,12 +176,21 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< HEAD
+  "active": "5e5a25485c628858",
+  "lastOpenFiles": [
+    "Kurser/LinAlys/Matricer uden markovkæder.md",
+    "Kurser/LinAlys/Retningsafledte.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
+=======
   "active": "817ccaf38d33b8dd",
   "lastOpenFiles": [
     "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
     "Kurser/LinAlys/Retningsafledte.md",
+>>>>>>> origin/main
     "Hjælpemidler/Flashcards/MekRel/Statistik.md",
     "test.md",
     "Hjælpemidler/Periodic Notes/Daily/11-10-2022 Uge 41.md",
