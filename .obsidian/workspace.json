@@ -42,17 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8705d2c8bbaf0583",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -135,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md"
+              }
             }
           },
           {
@@ -182,17 +177,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8705d2c8bbaf0583",
+  "active": "7d8598fcf8d5080c",
   "lastOpenFiles": [
+    "Hjælpemidler/Periodic Notes/Daily/24-10-2022 Uge 43.md",
+    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
+    "Kurser/MekRel/Mindstevirkningsprincippet.md",
+    "Kurser/MekRel/Formelsamling.md",
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
-    "Kurser/MekRel/Formelsamling.md",
-    "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/LinAlys/Retningsafledte.md",
     "Untitled.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
-    "Hjælpemidler/Flashcards/MekRel/Statistik.md"
+    "Kurser/LinAlys/Afleveringer/Pointopgave 4.md"
   ]
 }
