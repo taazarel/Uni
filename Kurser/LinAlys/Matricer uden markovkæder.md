@@ -12,30 +12,31 @@ Hvis det gælder at både A og B er kvadratiske og invertible af lige store dime
 ?
 det gælder at AB er invertibel
 det gælder at $(AB)^{-1}=B^{-1}A^{-1}$
-<!--SR:!2022-10-17,3,250-->
+<!--SR:!2022-11-12,18,250-->
 
 Hvis det gælder at både A og B er nxn matricer og hinandens inverse så gælder det at deres produkt er... :: både $AB=I$ og $BA=I$.
+<!--SR:!2022-10-29,4,279-->
 
 En invertibel matrix betyder... :: En matrix med præcis én Invers.
-<!--SR:!2022-10-18,4,270-->
+<!--SR:!2022-12-08,44,290-->
 
 Den invertible af $A$ er $A^{-1}$, og den invertible af $A^{-1}$ er... :: $(A^{-1})^{-1}=A$
-<!--SR:!2022-10-18,4,270-->
+<!--SR:!2022-12-07,43,290-->
 
 Man finder en matrix's invers gennem gauss elimination gennem... :: $[A|I]=[I|A^{-1}]$ 
-<!--SR:!2022-10-18,4,270-->
+<!--SR:!2022-12-05,41,290-->
 
 Der findes tre forskellige slags af inverse matricer
 ?
 Venstre invers givet ved $A_{mn}B_{nm}=I_{m}$
 Højre invers givet ved $B_{nm}A_{mn}=I_{n}$
 Den invertibles invers givet ved $AB=I_{m}$ og $AB=I_{n}$ givet $n=m$.
-<!--SR:!2022-10-18,4,270-->
+<!--SR:!2022-12-04,40,290-->
 
 Rang af matricer er defineret som... :: $rang(A)=$ nummeret af ledende 1-tal.
-<!--SR:!2022-10-18,4,270-->
+<!--SR:!2022-12-06,42,290-->
 Hvis en matrix har n ud af n ledende 1-tal siger man at dens rang er ... ::: en fuld rang.
-<!--SR:!2022-10-18,4,270!2022-10-18,4,270-->
+<!--SR:!2022-12-02,38,290!2022-12-03,39,290-->
 
 
 # Matrix Invers
