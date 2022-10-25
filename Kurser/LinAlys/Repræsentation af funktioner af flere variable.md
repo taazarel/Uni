@@ -58,3 +58,31 @@ $$
 g(\rho,\theta,\phi)= \frac{\rho^{2}sin^{2}(\phi)cos^{2}\theta}{\rho^{2}cos^{2}(\phi)} + \frac{\rho^{2}sin^{2}(\phi)sin^{2}(\theta)}{\rho^{2}sin^{2}(\phi)cos^{2}(\theta)}
 $$
 $=tan^{2}(\phi)cos^{2}(\theta)+tan^{2}(\theta)$ 
+
+# Topologiske begreber
+$A \in \mathbb{R}^{n}$. ![[Repræsentation af funktioner af flere variable 2022-10-25 08.02.38.excalidraw]]
+Hvor randen af $A: \delta A = \delta A$
+og punkterne:
+- $R \in \delta A, R \notin A$ 
+- $S \in \delta A, S \in A$
+- $Q,T \notin \delta A, Q,T \notin A$
+- $P \in A, P \notin \delta A$ P er et indre punkt
+Det indre af $A=A^{o}=A/\delta A$ $=\{\vec{x}\in \vec{A}|\vec{x}\notin \delta A\}$
+Afslutningen af $A=\vec{A}=AU \delta A= \{\vec{x}\in \mathbb{R}^{n}|\vec{x}\in A$  eller $\vec{x}\in \delta A\}$ 
+Husk komplementærmængden $CA=\mathbb{R}^{n}/A=\{\vec{x}\in \mathbb{R}^{n}|\vec{x}\notin A\}$
+Bemærk: $\delta A = \delta (CA)$ 
+
+
+## Definition 2.13 og 2.14
+(Om Åbne mængder og lukkede=afsluttede mængder)
+$A \subseteq R^{n}$ kaldes åben hvis den kun har indre punkter, dvs. $A=A/\delta A$ 
+$A \subseteq \mathbb{R}^{n}$ kaldes lukket eller afsluttet hvis $A=\vec{A}=AU \delta A$.
+
+## Definition (Isoleret punkt)
+$\vec{a}\in A$ kaldes isoleret hvis. $\vec{a}\notin \vec{A/{\vec{a}}}$
+
+## Definition (Fortætningspunkt)
+$\vec{a}\in \mathbb{R}^{n}$ er et fortætningspunkt(akkumulationspunkt) hvis $\vec{a}$ ikke er et isoleret punkt for $\vec{A}$.
+
+## Definition (Randpunkt)
+$A \subseteq$
