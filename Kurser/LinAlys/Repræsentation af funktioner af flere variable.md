@@ -68,21 +68,36 @@ og punkterne:
 - $Q,T \notin \delta A, Q,T \notin A$
 - $P \in A, P \notin \delta A$ P er et indre punkt
 Det indre af $A=A^{o}=A/\delta A$ $=\{\vec{x}\in \vec{A}|\vec{x}\notin \delta A\}$
-Afslutningen af $A=\vec{A}=AU \delta A= \{\vec{x}\in \mathbb{R}^{n}|\vec{x}\in A$  eller $\vec{x}\in \delta A\}$ 
-Husk komplementærmængden $CA=\mathbb{R}^{n}/A=\{\vec{x}\in \mathbb{R}^{n}|\vec{x}\notin A\}$
+Afslutningen af $A=\vec{A}=A\cup \delta A= \{\vec{x}\in \mathbb{R}^{n}|\vec{x}\in A$  eller $\vec{x}\in \delta A\}$ 
+Husk komplementærmængden $CA=\mathbb{R}^{n}\backslash A=\{\vec{x}\in \mathbb{R}^{n}|\vec{x}\notin A\}$
 Bemærk: $\delta A = \delta (CA)$ 
 
 
-## Definition 2.13 og 2.14
+## Definition 2.13 og 2.14[^1]
 (Om Åbne mængder og lukkede=afsluttede mængder)
 $A \subseteq R^{n}$ kaldes åben hvis den kun har indre punkter, dvs. $A=A/\delta A$ 
-$A \subseteq \mathbb{R}^{n}$ kaldes lukket eller afsluttet hvis $A=\vec{A}=AU \delta A$.
+$A \subseteq \mathbb{R}^{n}$ kaldes lukket eller afsluttet hvis $A=\vec{A}=A\cup \delta A$.
 
 ## Definition (Isoleret punkt)
-$\vec{a}\in A$ kaldes isoleret hvis. $\vec{a}\notin \vec{A/{\vec{a}}}$
+$\vec{a}\in A$ kaldes isoleret hvis. $\vec{a}\notin \overrightarrow{A/{\vec{a}}}$
 
 ## Definition (Fortætningspunkt)
 $\vec{a}\in \mathbb{R}^{n}$ er et fortætningspunkt(akkumulationspunkt) hvis $\vec{a}$ ikke er et isoleret punkt for $\vec{A}$.
 
 ## Definition (Randpunkt)
-$A \subseteq$
+$A \subseteq \mathbb{R}^{n}$ da er $\vec{a}\in \mathbb{R}^{n}$ et randpunkt for A hvis der for alle $\delta>0$ gælder at $\{\vec{x}\in \mathbb{R}^{n}|||\vec{x}-\vec{a}||<\delta\}\cap A \neq Ø$ og $\{\vec{x}\in \mathbb{R}^{n}|||\vec{x}-\vec{a}||<\delta\}\cap CA \neq Ø$ 
+
+### Eksempel
+$\mathbb{Q} \subset \mathbb{R}$ derfor $\delta \mathbb{Q}=\mathbb{R}$
+
+## Sætning 2.15 (Indre punkter)
+Husk de indre punkter i A udgør det indre $A/\delta A$ 
+$A \subseteq \mathbb{R}^{n}$, og $\vec{a }\in \mathbb{R}^{n}$ er et indre punkt for A, hvis og kun hvis der findes et $\delta>0$ så $\{\vec{x}\in \mathbb{R}^{n}|||\vec{x}-\vec{a}||<\delta\}\subset A$ 
+
+## Definition 2.16 (Begrænset mængde)
+$A \subseteq \mathbb{R}^{n}$ siges at være begrænset hvis der findes et $\mathbb{R}>0$ så $A \subseteq\{\vec{x}\in \mathbb{R}^{n}|||\vec{x}||<\mathbb{R}\}$
+Ikke afgørende at kuglen har centrum i $\vec{o}$.
+
+
+
+[^1]: De eneste to mængder som er både åbne og lukkede i $\mathbb{R}^{n}$ er Ø tommængden og $\mathbb{R}^{n}$ selv.
