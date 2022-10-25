@@ -1,5 +1,8 @@
-#forelæsning 
+#forelæsning #review
 Begyndelsesdato: 13:18   06-10-2022   Uge-40
+# Flashcards
+
+
 # Grafer
 $f(x_{1},x_{2},...,x_{n})$ bliver til en graf $(f)=\{(x_{1},...,x_{n},f(x_{1},...,x_{n}))|(x_{1},...,x_{n}\in D_{f}) \}\subseteq \mathbb{R}^{n+1}$ 
 
