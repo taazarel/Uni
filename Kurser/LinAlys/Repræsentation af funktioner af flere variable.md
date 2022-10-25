@@ -96,7 +96,7 @@ $A \subseteq \mathbb{R}^{n}$, og $\vec{a }\in \mathbb{R}^{n}$ er et indre punkt 
 
 ## Definition 2.16 (Begrænset mængde)
 $A \subseteq \mathbb{R}^{n}$ siges at være begrænset hvis der findes et $\mathbb{R}>0$ så $A \subseteq\{\vec{x}\in \mathbb{R}^{n}|||\vec{x}||<\mathbb{R}\}$
-Ikke afgørende at kuglen har centrum i $\vec{o}$.
+								Ikke afgørende at kuglen har centrum i $\vec{o}$.^
 
 
 
