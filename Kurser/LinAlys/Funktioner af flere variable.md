@@ -67,13 +67,13 @@ og punkterne:
 - $S \in \delta A, S \in A$
 - $Q,T \notin \delta A, Q,T \notin A$
 - $P \in A, P \notin \delta A$ P er et indre punkt
-Det indre af $A=A^{o}=A/\delta A$ $=\{\vec{x}\in \vec{A}|\vec{x}\notin \delta A\}$
+Det indre af $A=A^{o}=A\backslash\delta A$ $=\{\vec{x}\in \vec{A}|\vec{x}\notin \delta A\}$
 Afslutningen af $A=\vec{A}=A\cup \delta A= \{\vec{x}\in \mathbb{R}^{n}|\vec{x}\in A$  eller $\vec{x}\in \delta A\}$ 
 Husk komplementærmængden $CA=\mathbb{R}^{n}\backslash A=\{\vec{x}\in \mathbb{R}^{n}|\vec{x}\notin A\}$
 Bemærk: $\delta A = \delta (CA)$ 
 
 
-## Definition 2.13 og 2.14[^1]
+## Definition 2.13(Åbne mængder) og 2.14(Lukkede mængder)[^1]
 (Om Åbne mængder og lukkede=afsluttede mængder)
 $A \subseteq R^{n}$ kaldes åben hvis den kun har indre punkter, dvs. $A=A/\delta A$ 
 $A \subseteq \mathbb{R}^{n}$ kaldes lukket eller afsluttet hvis $A=\vec{A}=A\cup \delta A$.
@@ -97,6 +97,16 @@ $A \subseteq \mathbb{R}^{n}$, og $\vec{a }\in \mathbb{R}^{n}$ er et indre punkt 
 ## Definition 2.16 (Begrænset mængde)
 $A \subseteq \mathbb{R}^{n}$ siges at være begrænset hvis der findes et $\mathbb{R}>0$ så $A \subseteq\{\vec{x}\in \mathbb{R}^{n}|||\vec{x}||<\mathbb{R}\}$
 								Ikke afgørende at kuglen har centrum i $\vec{o}$.^
+
+### Eksempel 2.6
+Mængden er defineret som$A=\{(x,y)\in \mathbb{R}^{n}|x<y\} \cup\{(3,2)\}$ 
+Randen er derfor $\delta A=\{(x,y)\in \mathbb{R}^{n}|x=y\} \cup\{(3,2)\}$
+Hvor (3,2) er et isoleret punkt:
+$A \backslash \{(3,2)\}=\{(x,y)\in \mathbb{R}^{n}|x<y\}$ og derved $\overrightarrow{A \backslash \{(3,2)\}}=\{(3,2)\} \notin\{(x,y)\in \mathbb{R}^{n}|x<y\}$ 
+A er ikke begrænset da det er en mængde uden nogen øvre grænse  og ikke kan defineres indenfor en cirkel.
+A er ikke åben da (3,2) er et randpunkt som er med i mængden.
+A er ikke lukket da den ikke har hele randen med i dens mængde.
+
 
 
 
