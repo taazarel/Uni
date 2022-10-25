@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Funktioner af flere variable.md",
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Funktioner af flere variable.md",
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Funktioner af flere variable.md"
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md"
               }
             }
           },
@@ -153,10 +153,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d0c8350b788d63e0",
+  "active": "b4daafa00015e078",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Repræsentation af funktioner af flere variable 2022-10-25 08.02.38.excalidraw.md",
     "Kurser/LinAlys/Funktioner af flere variable.md",
+    "Assets/Excalidraw/Repræsentation af funktioner af flere variable 2022-10-25 08.02.38.excalidraw.md",
     "Untitled.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
