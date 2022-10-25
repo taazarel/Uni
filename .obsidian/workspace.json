@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rumlig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +153,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "477e1a55f44a8a4f",
+  "active": "d0c8350b788d63e0",
   "lastOpenFiles": [
     "Assets/Excalidraw/Repræsentation af funktioner af flere variable 2022-10-25 08.02.38.excalidraw.md",
     "Kurser/LinAlys/Funktioner af flere variable.md",
