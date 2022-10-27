@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -198,9 +199,9 @@
   },
   "active": "35a1b90555811a83",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
-    "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md",
     "RØ 27-10-2022.md",
+    "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md",
+    "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.55.19.excalidraw.md",
     "Assets/Excalidraw/Template.md",
     "Assets/fv2 1.png",
