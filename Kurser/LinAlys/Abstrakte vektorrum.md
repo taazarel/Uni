@@ -68,9 +68,10 @@ r_{1}+r_{2}=1 \\ 2r_{2}=1 \\ 5r_{1}r_{2}=2
 Ja! q er en linearkombination af $P_{1},P_{2}$.
 
 ## Defintion 3.4 (Span)
+Et span af vektorer er bare mængden af vektorerne som vi vælger.
 $\vec{v_{1}},\vec{v_{2}},..,\vec{v_{n}}$ vektorer i et vektorrum V.
 spannet af disse er delmængden
-spannet skrives således:
+spannet af vektorerne for alle linearkombinationer skrives således:
 $span\{\vec{v_{1}},..,\vec{v_{n}}\}=\{r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}}|r_{1},...,r_{n}\in \mathbb{R} \}$
 altså mængden af alle linearkombinationer.
 
