@@ -1,6 +1,10 @@
 #forelæsning 
 Begyndelsesdato: 08:03   27-10-2022   Uge-43
 # Flashcards
+Disse antagelser skal være til stede for at man kan benytte sig af ekstremalværdisætningen... :: funktionen er lukket og begrænset under mængden, og funktionen er kontinuer på mængden. Så vil funktionen have ekstremum på mængden.
+
+Man kan finde lineær uafhængighed ved at gausseliminere til reduceret echelon form, men hvordan er det sandt... :: Det er sandt fordi lineær uafhængighed er defineret som at spannet af vektorene kun har én måde at finde nulvektoren på. nemlig $r_{1}(1,1,0)+r_{2}(1,0,1)+r_{3}(0,1,1)=(0,0,0)$ medfører at $r_{1}=r_{2}=r_{3}=0$.
+
 
 # Dagsplan
 - Dimensionsteori
@@ -98,5 +102,7 @@ Punktet kaldes et min punkt hvis $f(\vec{a})\leq f(\vec{x})$ for alle $\vec{x}\i
 
 ## Ekstremalværdisætningen 2.42
 Hvis $A \subseteq \mathbb{R}^{n}$ som er lukket og begrænset, og hvis $f:A \rightarrow \mathbb{R}$ er kontinuert så vil der være både makspunkter og minpunkter for f på mængden A.
+
+## Sætning
 
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
