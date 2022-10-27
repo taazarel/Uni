@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce32a2d35a2e045a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RØ 27-10-2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30acb24b6ee5ef57",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md",
+                "file": "Kurser/LinAlys/Abstrakte vektorrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md"
+                "file": "Kurser/LinAlys/Abstrakte vektorrum.md"
               }
             }
           },
@@ -172,11 +149,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "30acb24b6ee5ef57",
+  "active": "cfe1004680375707",
   "lastOpenFiles": [
-    "RØ 27-10-2022.md",
     "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
+    "Kurser/LinAlys/Regnepapir.md",
     "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.55.19.excalidraw.md",
     "Assets/Excalidraw/Template.md",
     "Assets/fv2 1.png",

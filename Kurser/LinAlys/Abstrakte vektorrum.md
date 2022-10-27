@@ -89,6 +89,14 @@ $v_{1},...,v_{i}\in \mathbb{R}^{m}$, udspænder de hele $\mathbb{R}^{m}$? Er de 
 Hvis man har en kvadratisk matrix vil den altid udspænde hvis den er lineært uafhængig. 
 Da kvadratiske matrixer kun udspænder hvis: Udspænder $<=>$ Ingen 0-række. og lineæruafhængig <=> ingen frie variable.
 
+## Definition 2.41 (største/mindsteværdipunkter = max/min punkter)
 
+$\vec{a}\in D_{f} \subseteq \mathbb{R}_{n}$ 
+Hvor $D_{f}=$ definitionsmængden for $f:D_{f}\rightarrow \mathbb{R}$
+punktet $\vec{a}$ kaldes et maxpunkt hvis $f(\vec{a})\geq f(\vec{x})$ for alle $\vec{x}\in D_{f}$
+Punktet kaldes et min punkt hvis $f(\vec{a})\leq f(\vec{x})$ for alle $\vec{x}\in D_{f}$ 
+
+## Ekstremalværdisætningen 2.42
+Hvis $A \subseteq \mathbb{R}^{n}$ som er lukket og begrænset, og hvis $f:A \rightarrow \mathbb{R}$ er kontinuert så vil der være både makspunkter og minpunkter for f på mængden A.
 
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
