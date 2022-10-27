@@ -103,6 +103,17 @@ Punktet kaldes et min punkt hvis $f(\vec{a})\leq f(\vec{x})$ for alle $\vec{x}\i
 ## Ekstremalværdisætningen 2.42
 Hvis $A \subseteq \mathbb{R}^{n}$ som er lukket og begrænset, og hvis $f:A \rightarrow \mathbb{R}$ er kontinuert så vil der være både makspunkter og minpunkter for f på mængden A.
 
-## Sætning
+## Theorem 3.9
+Hvis man har $\vec{v_{1}},...,\vec{v_{n}}$ i et vektorrum V er lineært afhængige <=>[^2] en af vektorerne kan skrives som linearkombination af de øvrige.
+### Bevis
+Gennem lineær afhængighed:
+Der findes $r_{1},...,r_{n}$ som ikke alle er 0, således at $r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}}=\vec{o}$
+Vi antager at $r_{i}\neq0$
+$r_{i}\vec{v_{i}}=-r_{i-1}\vec{v_{i-1}}-r_{i+1}\vec{v_{i+1}}-...-r_{n}v_{n} \Rightarrow \vec{v_{i}}=\frac{1}{r_{i}}(-r_{i-1}\vec{v_{i-1}}-r_{i+1}\vec{v_{i+1}}-...-r_{n}v_{n})$
+
+Gennem antagelse
+$\vec{v_{i}}=r_{1}\vec{v_{1}}+...+r_{i-1}\vec{v_{i-1}}+r_{i+1}\vec{v_{i+1}}+...+r_{n}\vec{v_{n}}$
+$\vec{o}=r_{1}\vec{v_{1}}+...+r_{i-1}\vec{v_{i-1}}-\vec{v_{i}}+r_{i+1}\vec{v_{i+1}}+...+r_{n}(\vec{v_{n}})$
 
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
+[^2]: Betyder: Hvis og KUN hvis.
