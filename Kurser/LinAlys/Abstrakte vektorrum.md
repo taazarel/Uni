@@ -82,6 +82,11 @@ $span\{\vec{v_{1}},..,\vec{v_{n}} \}$ er et underrum.
 - Lukket under addition $(r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}})+(s_{1}\vec{v_{1}}+...+s_{n}\vec{v_{n}})=(r_{1}+s_{1})\vec{v_{1}}+...+(r_{n}s_{n})\vec{v_{n}} \in span\{\vec{v_{1}},..,\vec{v_{n}} \}$ 
 - lukket under multiplikation i $r \in \mathbb{R}$. $s(r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}})=(sr_{1})\vec{v_{1}}+...+(sr_{n})\vec{v_{n}}\in span\{\vec{v_{1}},..,\vec{v_{n}} \}$
 
-
+# Lineær uafhængighed
+## Definition 3.8 (Lineær uafhængighed)
+En endelig familie $\vec{v_{1}},\vec{v_{2}},...,\vec{v_{n}}$ af vektorer i et vektorrum kaldes lineært uafhængige hvis $r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}}=\vec{o} \Rightarrow r_{1}=...=r_{n}=0$
+$v_{1},...,v_{i}\in \mathbb{R}^{m}$, udspænder de hele $\mathbb{R}^{m}$? Er de lineært uafhængige?
+Hvis man har en kvadratisk matrix vil den altid udspænde hvis den er lineært uafhængig. 
+Da kvadratiske matrixer kun udspænder hvis: Udspænder $>$
 
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
