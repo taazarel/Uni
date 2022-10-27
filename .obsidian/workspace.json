@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce32a2d35a2e045a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RØ 27-10-2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Abstrakte vektorrum.md",
+                "file": "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Abstrakte vektorrum.md"
+                "file": "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md"
               }
             }
           },
@@ -149,20 +162,52 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "floating": {
+    "id": "203bc9c53c7e2efc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "13fd090da0f99673",
+        "type": "window",
+        "children": [
+          {
+            "id": "b0802fc820ba1241",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35a1b90555811a83",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
-  "active": "cfe1004680375707",
+  "active": "35a1b90555811a83",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.55.19.excalidraw.md",
+    "RØ 27-10-2022.md",
+    "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
+    "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.55.19.excalidraw.md",
     "Assets/Excalidraw/Template.md",
     "Assets/fv2 1.png",
     "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.15.41.excalidraw.md",
     "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.15.00.excalidraw.md",
     "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.05.05.excalidraw.md",
-    "Kurser/LinAlys/Funktioner af flere variable.md",
-    "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Assets/Excalidraw/Repræsentation af funktioner af flere variable 2022-10-25 08.02.38.excalidraw.md"
+    "Kurser/LinAlys/Funktioner af flere variable.md"
   ]
 }
