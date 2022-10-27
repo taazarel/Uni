@@ -250,14 +250,7 @@
   ],
   "hotkeysplus-obsidian:duplicate-lines-up": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "D"
-    }
-  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [],
   "obsidian-excalidraw-plugin:save": [],
   "flashcards-obsidian:generate-flashcard-current-file": [
     {
@@ -323,6 +316,24 @@
         "Alt"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
     }
   ]
 }

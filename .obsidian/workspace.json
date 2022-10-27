@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "334ae4959dac50d4",
+        "id": "3df4157a53cfcb69",
         "type": "tabs",
         "children": [
           {
-            "id": "b4daafa00015e078",
+            "id": "cfe1004680375707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
+                "file": "Kurser/LinAlys/Abstrakte vektorrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,17 +149,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b4daafa00015e078",
+  "active": "cfe1004680375707",
   "lastOpenFiles": [
+    "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.15.41.excalidraw.md",
+    "Kurser/LinAlys/Abstrakte vektorrum.md",
+    "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.15.00.excalidraw.md",
+    "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.05.05.excalidraw.md",
     "Kurser/LinAlys/Funktioner af flere variable.md",
-    "Assets/Excalidraw/Repræsentation af funktioner af flere variable 2022-10-25 08.02.38.excalidraw.md",
-    "Untitled.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
+    "Assets/Excalidraw/Repræsentation af funktioner af flere variable 2022-10-25 08.02.38.excalidraw.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
     "Hjælpemidler/Periodic Notes/Daily/24-10-2022 Uge 43.md",
-    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
-    "Kurser/MekRel/Formelsamling.md",
-    "conflict-files-obsidian-git.md",
-    "Kurser/LinAlys/Matricer uden markovkæder.md"
+    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md"
   ]
 }
