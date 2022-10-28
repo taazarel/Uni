@@ -57,3 +57,10 @@ Men dette har vi jo netop bevist i (a). Så hermed kan vi se at underrummet som 
 # 2
 ## a
 
+## b
+
+# 3
+## a
+
+## b
+For at gøre det let for os selv bruger vi bare forslaget i opgaven, dvs. $m=1, c=300$.
