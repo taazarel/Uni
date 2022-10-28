@@ -130,11 +130,24 @@ Jeg laver den for længden.
 4. $\frac{dL}{dl}=mg \cos{\theta}-k \delta l$
 5. $\frac{dL}{dl^{´}}=m \theta^{´}( \delta l^{´}+l_{0})$ 
 6. $\frac{d}{dt}(\frac{dL}{dl^{´}})=m \theta^{´2}( \delta l^{´}+l_{0})$ 
-7. $\frac{d}{dt}(\frac{dL}{d \delta l^{´}})=\frac{dL}{d \delta l}\Rightarrow m \delta l^{´´}=m \theta^{´2}( \delta l^{´}+l_{0})+mg \cos{\theta}-k \delta l \Rightarrow \delta l^{´´}= \theta^{´2}( \delta l^{´}+l_{0})+g \cos{\theta}-\frac{k \delta l$
+7. $\frac{d}{dt}(\frac{dL}{d \delta l^{´}})=\frac{dL}{d \delta l}\Rightarrow m \delta l^{´´}=m \theta^{´2}( \delta l^{´}+l_{0})+mg \cos{\theta}-k \delta l \Rightarrow \delta l^{´´}= \theta^{´2}( \delta l^{´}+l_{0})+g \cos{\theta}-\frac{k \delta l}{m}$ 
 
 Hvis vinklen går mod nul så bliver:
 $dl^{´´}=g- \frac{k \delta l}{m}$
 
+#### Dobbelt pendul
+![[Mindstevirkningsprincippet 2022-10-28 09.53.52.excalidraw]]
+Bemærk at $l_{1}+l_{2}=$ snorlængden $\Rightarrow l_{1}^{´}+l_{2}^{´}=0 \Rightarrow (l_{1}^{´})^{2}=(-l_{2}^{´})^{2}$
+
+0. Koordinaterne vi vælger er $\theta,l_{2}$
+1. $K=\frac{1}{2}mv_{1}^{2}+ \frac{1}{2}mv_{2}^{2} \Rightarrow \frac{1}{2}ml_{1}^{´2}+ \frac{1}{2}m(l_{1}^{´2}+l_{2}^{2}\theta^{´2})$
+2. $U=mgh - mgh \Rightarrow mgl_{2}-mg\cos{\theta}l_{2}$ [^3]
+3. $L=\frac{1}{2}ml_{1}^{´2}+ \frac{1}{2}m(l_{1}^{´2}+l_{2}^{2}\theta^{´2}) +mg\cos{\theta}l_{2}-mgl_{2}$
+4. $\frac{dL}{dl_{2}}=mg-mg \cos{\theta}$
+5. $\frac{dL}{dl_{2}^{´}}=ml_{2}^{´}+ml_{2}^{´}$ og $\frac{dL}{d \theta^{´}}=ml_{2}^{2}\theta^{´}$ 
+6. $\frac{dL}{dl_{2}}=2ml_{2}^{´´}$ og $\frac{dL}{d \theta^{´}}=ml_{2}^{2}\theta^{´´}$
+7. Vi har stadigvæk to ligninger: $$
 
 [^1]: Man kan også skrive x' som v, og x'' som a. Dette vil jeg gøre i fremtiden da det er lettere at skrive i $\LaTeX$. Derudover er det også lettere at bruge d, istedet for $\delta$, så det vil jeg også gøre.
 [^2]: Hvor $l(t)=l_{0}+\delta l(t)$
+[^3]: Hint; man kan vælge to forskellige nulpunkter, en til hver kasse
