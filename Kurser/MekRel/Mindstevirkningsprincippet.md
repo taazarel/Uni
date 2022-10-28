@@ -125,8 +125,15 @@ Dette sætter vi ind i stedet for x og y i K.
 Vi finder to euler lagrange ligninger, en for l, og en for $\theta$. De bliver altså:
 $\frac{d}{dt}(\frac{dL}{d \delta l^{´}})=\frac{dL}{d \delta l}$ Den for længden og:
 $\frac{d}{dt}(\frac{dL}{d \delta \theta^{´}})=\frac{dL}{d \theta}$ Den for vinklen $\theta$.
+HUSK: $d(t)=l_{0}+\delta l(t)$ 
 Jeg laver den for længden.
-4. $\frac{dL}{d \theta}=$
+4. $\frac{dL}{dl}=mg \cos{\theta}-k \delta l$
+5. $\frac{dL}{dl^{´}}=m \theta^{´}( \delta l^{´}+l_{0})$ 
+6. $\frac{d}{dt}(\frac{dL}{dl^{´}})=m \theta^{´2}( \delta l^{´}+l_{0})$ 
+7. $\frac{d}{dt}(\frac{dL}{d \delta l^{´}})=\frac{dL}{d \delta l}\Rightarrow m \delta l^{´´}=m \theta^{´2}( \delta l^{´}+l_{0})+mg \cos{\theta}-k \delta l \Rightarrow \delta l^{´´}= \theta^{´2}( \delta l^{´}+l_{0})+g \cos{\theta}-\frac{k \delta l$
+
+Hvis vinklen går mod nul så bliver:
+$dl^{´´}=g- \frac{k \delta l}{m}$
 
 
 [^1]: Man kan også skrive x' som v, og x'' som a. Dette vil jeg gøre i fremtiden da det er lettere at skrive i $\LaTeX$. Derudover er det også lettere at bruge d, istedet for $\delta$, så det vil jeg også gøre.

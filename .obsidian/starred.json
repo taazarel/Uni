@@ -1,3 +1,9 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "file",
+      "title": "Mindstevirkningsprincippet",
+      "path": "Kurser/MekRel/Mindstevirkningsprincippet.md"
+    }
+  ]
 }
