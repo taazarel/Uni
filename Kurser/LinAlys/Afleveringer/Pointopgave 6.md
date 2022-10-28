@@ -64,4 +64,17 @@ Men dette har vi jo netop bevist i (a). Så hermed kan vi se at underrummet som 
 
 ## b
 For at gøre det let for os selv bruger vi bare forslaget i opgaven, dvs. $m=1, c=300$.
-Vi benytter os af python til at finde taylorpolynomierne af 4 og 
+Vi benytter os af python til at finde taylorpolynomierne af 4 og 10 grad.
+$E(0)=mc^{2}=1kg300 \frac{m}{s}^{2}=90000*10^{-6} \frac{m^{2}}{s^{2}}kg$   
+$T_{2}E(v)=mc^{2}+ \frac{mv^{2}}{2}=90000+ \frac{v^{2}}{2} \frac{m^{2}}{s^{2}}kg*10^{-6}$ 
+$T_{4}E(v)=mc^{2}+ \frac{mv^{2}}{2}+ \frac{mv^{4}}{240000}=90000+ \frac{v^{2}}{2}+ \frac{v^{4}}{240000} \frac{m^{2}}{s^{2}}kg*10^{-6}$
+Lad os forkorte det længste led til resultatet.
+$T_{10}E(v)=90000+ \frac{v^{2}}{2}+ \frac{v^{4}}{240000}+ \frac{v^{6}}{25920000000}+ \frac{7v^{8}}{18662400000000000}+ \frac{7v^{10}}{1866240000000000000000} \frac{m^{2}}{s^{2}}kg*10^{-6}$
+
+Vi kan se at alle disse polynomier og også $E(v)$ selv skærer ved $90000 J$, så vi vælger dette til vores graf. Vi finder også at 400 til begge sider passer godt da vi satte $c=300$ i programmet.
+
+![[Pointopgave 6.3.b 2.png]]
+
+Ud fra denne figur kan vi se at vi kunne benytte $T_{2}E(v)$ ca op til $180 \frac{m^{2}}{s^{2}}*10^{-6}$.
+Og $T_{10}E(v)$ ser ud til at følge meget nærmere på $E(v)$ så den kan vi godt bruge i vores interval fra (-200,200) og jeg vurderer at den er en god approksimation.
+(Jeg forøgede intervallet for at se om $T_{10}E(v)$ fulgtes med $E(v)$, og det gør den, til gengæld ser grafen ikke godt ud, så jeg valgte dette interval)
