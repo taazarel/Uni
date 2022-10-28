@@ -1,5 +1,8 @@
 #forelæsning 
 Begyndelsesdato: 10:54   10-10-2022   Uge-41
+# Flashcards
+
+
 # Euler-lagrange formlen
 $L=K-U$ , hvor $L=$ Mindstevirkningen, $K=$ den kinetiske energi, og $U=$ den potentielle energi.
 Normalt skrives den totale energi i et system således: $E=K+U$. 
@@ -19,7 +22,7 @@ $L=\frac{1}{2}mv^{2}-mgx$, denne differentieret er $\frac{\delta L}{\delta x}=- 
 $$\frac{d}{dt}(\frac{\delta L}{\delta v})=ma$$
 Nu kan vi indsætte i mindstevirkningsprincippet.
 Lagrange formlen skrives som... :: $$\left[\left[\frac{d}{dt} \left(\frac{\delta L}{\delta v}\right)= \frac{\delta L}{\delta x}\right]\right]$$
-<!--SR:!2022-10-28,14,290-->
+<!--SR:!2022-12-23,56,310-->
 Denne formel kaldes også for Euler-Lagrange formlen. Enheden for "Lagrangen" er Joule.
 fx er: Euler lagrange ligningen for noget i fald i et tyngdefelt er derfor: $ma=-mg$ 
 
@@ -61,7 +64,7 @@ Impuls er additiv da... :: $p=\frac{\delta L}{\delta v}$.
 Når Lagrange funktionen er uafhængig af tiden får vi... :: Energibevarelse.
 <!--SR:!2022-12-10,46,296-->
 Den generelle ligning for den tidsligt afledte L er... :: $\frac{dL}{dt}=\frac{\delta L}{\delta x}v+ \frac{\delta L}{\delta v}a+ \frac{\delta L}{\delta t}$.
-<!--SR:!2022-10-27,2,218-->
+<!--SR:!2022-11-02,5,218-->
 Og hvis vi har tidslig symmetri så bliver $\frac{\delta L}{\delta t}=0$.
 Dette kombineret med EL ligningen på første led ovenover bliver til $$\frac{dL}{dt}=\frac{d}{dt}\left(\frac{\delta L}{\delta v}\right)v+\frac{\delta L}{\delta v}a$$
 Hvilket kan omskrives til $$H=v \frac{\delta L}{\delta v}-L,$$
@@ -90,7 +93,6 @@ Gennem polære koordinater kan vi se at en acceleration bliver til centrifugal k
 $L=\frac{1}{2}m(r'^{2}+r^{2}\theta'^{2})$ hvilket bliver til $mr''=mr \theta '^{2}$ 
 Hvor at centrifugalaccelerationen er $a=r \theta'^{2}$.
 
-# Skrivepapir
-
+$K=K_{1}=\frac{1}{2}m_{1}(L\theta^{.})^{2}+K_{2} \frac{1}{2}m_{2}\theta^{2}$ 
 
 [^1]: Man kan også skrive x' som v, og x'' som a. Dette vil jeg gøre i fremtiden da det er lettere at skrive i $\LaTeX$. Derudover er det også lettere at bruge d, istedet for $\delta$, så det vil jeg også gøre.

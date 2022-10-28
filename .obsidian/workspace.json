@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3df4157a53cfcb69",
+        "id": "fe3b4d52964eeea4",
         "type": "tabs",
         "children": [
           {
-            "id": "cfe1004680375707",
+            "id": "185e12c68e4aa914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Abstrakte vektorrum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90836e8c4bc39d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Retningsafledte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12a67b64f243c8a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Partial integration.md",
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -127,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Retningsafledte.md",
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Retningsafledte.md"
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md"
               }
             }
           },
@@ -174,14 +149,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "90836e8c4bc39d6d",
+  "active": "185e12c68e4aa914",
   "lastOpenFiles": [
     "Kurser/LinAlys/Partial integration.md",
+    "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Retningsafledte.md",
     "Untitled.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Assets/Excalidraw/Abstrakte vektorrum 2022-10-27 08.55.19.excalidraw.md",
     "Assets/Excalidraw/Template.md",
     "Assets/fv2 1.png",

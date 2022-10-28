@@ -2,8 +2,10 @@
 Begyndelsesdato: 08:03   27-10-2022   Uge-43
 # Flashcards
 Disse antagelser skal være til stede for at man kan benytte sig af ekstremalværdisætningen... :: funktionen er lukket og begrænset under mængden, og funktionen er kontinuer på mængden. Så vil funktionen have ekstremum på mængden.
+<!--SR:!2022-11-01,4,270-->
 
 Man kan finde lineær uafhængighed ved at gausseliminere til reduceret echelon form, men hvordan er det sandt... :: Det er sandt fordi lineær uafhængighed er defineret som at spannet af vektorene kun har én måde at finde nulvektoren på. nemlig $r_{1}(1,1,0)+r_{2}(1,0,1)+r_{3}(0,1,1)=(0,0,0)$ medfører at $r_{1}=r_{2}=r_{3}=0$.
+<!--SR:!2022-11-01,4,270-->
 
 
 # Dagsplan
