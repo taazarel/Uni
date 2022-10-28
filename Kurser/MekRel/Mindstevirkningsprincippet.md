@@ -149,10 +149,11 @@ Bemærk at $l_{1}+l_{2}=$ snorlængden $\Rightarrow l_{1}^{´}+l_{2}^{´}=0 \Rig
 7. Vi har stadigvæk to ligninger: $\frac{d}{dt}(2ml_{2}^{´})=mg-mg \cos{\theta}$ og $\frac{d}{dt}(ml_{2}^{2}\theta^{´})=-mgl_{2} \sin{\theta}$
 Hvis vinklen er lille så rykker loddene sig ikke da: $\sin{\theta}=\theta,\cos{\theta}=1$ så;
 $2ml_{2}^{´´}=mg-mg \cos{\theta} \Rightarrow l_{2}^{´´}=0$
-Hvis vinklen bliver større så bliver forskydningen
-Hvor 
 
-$l_{2}^{´´}=l$
+Hvis vinklen bliver større så bliver forskydningen
+Hvor A er starter amplituden $A=\frac{\theta}{\cos{l_{2}\omega t}}$
+$l_{2}^{´´}=gA^{2}\omega^{2}\sin^{2}{\omega t}- \frac{g}{2}A^{2}\cos^{2}{\omega t}$ 
+
 
 
 [^1]: Man kan også skrive x' som v, og x'' som a. Dette vil jeg gøre i fremtiden da det er lettere at skrive i $\LaTeX$. Derudover er det også lettere at bruge d, istedet for $\delta$, så det vil jeg også gøre.
