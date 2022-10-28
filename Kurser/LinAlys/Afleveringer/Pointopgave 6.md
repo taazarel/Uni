@@ -90,9 +90,14 @@ Vi finder at $a=1$ har præcist 1 ligevægtspunkt.
 Vi skal finde $T_{2}E(v)$ hvor: $E(v)= \frac{mc^{2}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$.
 Vi kan starte med at differentiere $E(v)$ først 1 gang og så differentiere resultatet igen.
 For at spare på pladsen viser jeg blot metoden ikke udregningen.
-$\frac{dE(v)}{dv}=f'(g(h(j(v))))\cdot g'(h(j(v)))\cdot h'(j(v))\cdot j'(v)= \frac{mv}{\left(1-\frac{v^{2}}{c^{2}}\right)^{\frac{3}{2}}}=E'(v)$ 
+$\frac{dE(v)}{dv}=f'(g(h(v)))\cdot g'(h(v))\cdot h'(v)= \frac{mv}{\left(1-\frac{v^{2}}{c^{2}}\right)^{\frac{3}{2}}}\Rightarrow E'(v)$ 
+Hvor $f(v)=\frac{mc^{2}}{g(v)}$, $g(v)=\sqrt{h(v)}$ og $h(v)=1- \frac{v^{2}}{c^{2}}$   
 For det første led, og derefter kan vi finde det andet led til at være:
-$dE'\frac{dE'v}{dv}$
+$\frac{dE'v}{dv}=f'(v)\cdot g(h(j(v))) + f(v)\cdot g'(h(j(v)))\cdot h'(j(v))\cdot j'(v)\Rightarrow mc^{2}\frac{c^{2}+2v^{2}}{(c^{2}-v^{2})^{2}\sqrt{1- \frac{v^{2}}{c^{2}}}} \Rightarrow E''(v)$  
+Hvor $f(v)=mv$, $g(v)=\frac{1}{h(v)}$, $h(v)=(j(v))^{\frac{3}{2}}$  og $j(v)=1- \frac{v^{2}}{c^{2}}$ .
+Nu kan vi samle dette til taylorpolynomiet ved v=0.
+$$T_{2}E(v)=mc^{2}+ \frac{0}{1!}(v-0)^{1}+ \frac{m}{2!}(v-0)^{2}\Rightarrow mc^{2}+ \frac{mv^{2}}{2}$$
+Vi kan herved se at enheden for dette polynomium er $\frac{m^{2}}{s^{2}}kg$ eller også skrevet som $J$
 ## b
 For at gøre det let for os selv bruger vi bare forslaget i opgaven, dvs. $m=1, c=300$.
 Vi benytter os af Python til at finde taylorpolynomierne af 4 og 10 grad.
