@@ -56,7 +56,21 @@ Men dette har vi jo netop bevist i (a). Så hermed kan vi se at underrummet som 
 
 # 2
 ## a
+*Betragt kraftfelterne, afgør om de er konservative og bestem i givet fald en tilhørende potentialfunktion.*
 
+$F_{1}(x,y)=(y,x),F_{2}(x,y)=(-y,x)$
+Gradienten til en funktion er givet ved $\nabla V=(\frac{d}{dx}V(x,y), \frac{d}{dy}V(x,y))$. hvis vi kan finde en funktion for denne gradient som giver $F(x,y)=-\nabla V$ så er kraftfeltet konservativt.
+For $F_{1}$ kan vi vise dette da en funktion findes som gør dette muligt, nemlig: $V=-xy$
+$-\nabla V=(\frac{d}{dx}(-xy), \frac{d}{dy}(-xy))=-(-y,-x)=(y,x)=F_{1}(x,y)$ 
+Derfor er $F_{1}$ konservativ.
+
+Vi kan til gengæld ikke finde en fælles stamfunktion for $F_{2}$ som gælder. Da vi har: $F_{2}(x,y)=(-y,x)$
+$\int_{}^{}-y dx=-xy+c(y)$ Hvor c er en konstant som kunne være afhængig af y.
+$\int_{}^{}xdy=xy+c(x)$ hvor c er en konstant som kunne være afhængig af x.
+Her kan vi se at stamfunktionen for den delvist afledte af x, kan ikke være det samme som stamfunktionen for den delvist afledte af y. 
+Vi har altså 
+$F_{2}(x,y)=(-y,x)\neq -\nabla V$
+Og denne er ikke et konservativ kraftfelt.
 ## b
 
 # 3
@@ -64,7 +78,7 @@ Men dette har vi jo netop bevist i (a). Så hermed kan vi se at underrummet som 
 
 ## b
 For at gøre det let for os selv bruger vi bare forslaget i opgaven, dvs. $m=1, c=300$.
-Vi benytter os af python til at finde taylorpolynomierne af 4 og 10 grad.
+Vi benytter os af Python til at finde taylorpolynomierne af 4 og 10 grad.
 $E(0)=mc^{2}=1kg300 \frac{m}{s}^{2}=90000*10^{-6} \frac{m^{2}}{s^{2}}kg$   
 $T_{2}E(v)=mc^{2}+ \frac{mv^{2}}{2}=90000+ \frac{v^{2}}{2} \frac{m^{2}}{s^{2}}kg*10^{-6}$ 
 $T_{4}E(v)=mc^{2}+ \frac{mv^{2}}{2}+ \frac{mv^{4}}{240000}=90000+ \frac{v^{2}}{2}+ \frac{v^{4}}{240000} \frac{m^{2}}{s^{2}}kg*10^{-6}$
@@ -75,6 +89,6 @@ Vi kan se at alle disse polynomier og også $E(v)$ selv skærer ved $90000 J$, s
 
 ![[Pointopgave 6.3.b 2.png]]
 
-Ud fra denne figur kan vi se at vi kunne benytte $T_{2}E(v)$ ca op til $180 \frac{m^{2}}{s^{2}}*10^{-6}$.
+Ud fra denne figur kan vi se at vi kunne benytte $T_{2}E(v)$ ca. op til $180 \frac{m^{2}}{s^{2}}*10^{-6}$.
 Og $T_{10}E(v)$ ser ud til at følge meget nærmere på $E(v)$ så den kan vi godt bruge i vores interval fra (-200,200) og jeg vurderer at den er en god approksimation.
 (Jeg forøgede intervallet for at se om $T_{10}E(v)$ fulgtes med $E(v)$, og det gør den, til gengæld ser grafen ikke godt ud, så jeg valgte dette interval)
