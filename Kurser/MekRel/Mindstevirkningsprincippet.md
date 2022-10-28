@@ -143,10 +143,17 @@ Bemærk at $l_{1}+l_{2}=$ snorlængden $\Rightarrow l_{1}^{´}+l_{2}^{´}=0 \Rig
 1. $K=\frac{1}{2}mv_{1}^{2}+ \frac{1}{2}mv_{2}^{2} \Rightarrow \frac{1}{2}ml_{1}^{´2}+ \frac{1}{2}m(l_{1}^{´2}+l_{2}^{2}\theta^{´2})$
 2. $U=mgh - mgh \Rightarrow mgl_{2}-mg\cos{\theta}l_{2}$ [^3]
 3. $L=\frac{1}{2}ml_{1}^{´2}+ \frac{1}{2}m(l_{1}^{´2}+l_{2}^{2}\theta^{´2}) +mg\cos{\theta}l_{2}-mgl_{2}$
-4. $\frac{dL}{dl_{2}}=mg-mg \cos{\theta}$
+4. $\frac{dL}{dl_{2}}=mg-mg \cos{\theta}$ og $\frac{dL}{d \theta}=-mgl_{2} \sin{\theta}$ 
 5. $\frac{dL}{dl_{2}^{´}}=ml_{2}^{´}+ml_{2}^{´}$ og $\frac{dL}{d \theta^{´}}=ml_{2}^{2}\theta^{´}$ 
 6. $\frac{dL}{dl_{2}}=2ml_{2}^{´´}$ og $\frac{dL}{d \theta^{´}}=ml_{2}^{2}\theta^{´´}$
-7. Vi har stadigvæk to ligninger: $$
+7. Vi har stadigvæk to ligninger: $\frac{d}{dt}(2ml_{2}^{´})=mg-mg \cos{\theta}$ og $\frac{d}{dt}(ml_{2}^{2}\theta^{´})=-mgl_{2} \sin{\theta}$
+Hvis vinklen er lille så rykker loddene sig ikke da: $\sin{\theta}=\theta,\cos{\theta}=1$ så;
+$2ml_{2}^{´´}=mg-mg \cos{\theta} \Rightarrow l_{2}^{´´}=0$
+Hvis vinklen bliver større så bliver forskydningen
+Hvor 
+
+$l_{2}^{´´}=l$
+
 
 [^1]: Man kan også skrive x' som v, og x'' som a. Dette vil jeg gøre i fremtiden da det er lettere at skrive i $\LaTeX$. Derudover er det også lettere at bruge d, istedet for $\delta$, så det vil jeg også gøre.
 [^2]: Hvor $l(t)=l_{0}+\delta l(t)$
