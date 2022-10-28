@@ -112,7 +112,22 @@ Især er den sidste del relevant. Vi kan nemlig se at kraften på begge sider af
 
 #### Fjendul
 ![[Mindstevirkningsprincippet 2022-10-28 08.50.02.excalidraw]]
-0. Vælge koordinater: l(t)
+0. Vælge koordinater: l(t) og $\theta(t)$
+1. $K=\frac{1}{2}m(x^{´}+y^{´})^{2}\Rightarrow \frac{1}{2}m(l^{´2}+l^{2}\theta^{´2})$ 
+Lille tangent:
+$\frac{dK}{dx}=l^{´}\sin{\theta}+l \cos({\theta})\theta^{´}$
+$\frac{dK}{dy}=l^{´}\cos{\theta}-l \sin({\theta})\theta^{´}$
+$l^{´2}+l^{2}\theta^{´2}=x^{´2}+y^{´2}=l^{´2}\sin^{2}{\theta}+l^{2}\cos^{2}{(\theta)}\theta^{´2}+2ll^{´}\sin{\theta}\cos{\theta}(\theta^{´})+l^{´2}\cos^{2}{\theta}+l^{2}\sin{\theta^{2}}(\theta^{´2})-2ll^{´}\sin{\theta}\cos{\theta}(\theta^{´})$
+$\Rightarrow l^{´2}\sin^{2}{\theta}+l^{2}\cos^{2}{(\theta)}\theta^{´2}+l^{´2}\cos^{2}{\theta}+l^{2}\sin{\theta^{2}}(\theta^{´2})\Rightarrow l^{´2}+l^{2}\theta^{´2}$
+Dette sætter vi ind i stedet for x og y i K.
+2. $U=\frac{1}{2}k \triangle x +mgh \Rightarrow \frac{1}{2}k \delta l^{2} -\cos{\theta}lmg$ [^2]
+3. $L=\frac{1}{2}m(l^{´2}+l^{2}\theta^{´2})+lmg \cos{\theta}- \frac{1}{2}k \delta l^{2}$ 
+Vi finder to euler lagrange ligninger, en for l, og en for $\theta$. De bliver altså:
+$\frac{d}{dt}(\frac{dL}{d \delta l^{´}})=\frac{dL}{d \delta l}$ Den for længden og:
+$\frac{d}{dt}(\frac{dL}{d \delta \theta^{´}})=\frac{dL}{d \theta}$ Den for vinklen $\theta$.
+Jeg laver den for længden.
+4. $\frac{dL}{d \theta}=$
 
 
 [^1]: Man kan også skrive x' som v, og x'' som a. Dette vil jeg gøre i fremtiden da det er lettere at skrive i $\LaTeX$. Derudover er det også lettere at bruge d, istedet for $\delta$, så det vil jeg også gøre.
+[^2]: Hvor $l(t)=l_{0}+\delta l(t)$
