@@ -64,3 +64,4 @@ Men dette har vi jo netop bevist i (a). Så hermed kan vi se at underrummet som 
 
 ## b
 For at gøre det let for os selv bruger vi bare forslaget i opgaven, dvs. $m=1, c=300$.
+Vi benytter os af python til at finde taylorpolynomierne af 4 og 
