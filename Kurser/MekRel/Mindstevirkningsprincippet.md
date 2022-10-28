@@ -93,6 +93,26 @@ Gennem polære koordinater kan vi se at en acceleration bliver til centrifugal k
 $L=\frac{1}{2}m(r'^{2}+r^{2}\theta'^{2})$ hvilket bliver til $mr''=mr \theta '^{2}$ 
 Hvor at centrifugalaccelerationen er $a=r \theta'^{2}$.
 
-$K=K_{1}=\frac{1}{2}m_{1}(L\theta^{.})^{2}+K_{2} \frac{1}{2}m_{2}\theta^{2}$ 
+### Eksempler
+#### Vippe
+![[Mindstevirkningsprincippet 2022-10-28 08.26.45.excalidraw]]
+0. Brug polære koordinater
+1. $K=\frac{1}{2}m_{1}(l_{1}\theta^{´})^{2}+ \frac{1}{2}m_{2}(l_{2}\theta^{´})^{2}$  
+2. $U=-m_{1}g(l_{1}\sin{\theta})+m_{2}g(l_{2}\sin{ \theta})$ 
+3. $L=\frac{1}{2}m_{1}(l_{1}\theta^{´})^{2}+ \frac{1}{2}m_{2}(l_{2}\theta^{´})^{2}-(-m_{1}g(l_{1}\sin{\theta})+m_{2}g(l_{2}\sin{ \theta)})$
+4. $\frac{dL}{d \theta}=m_{1}gl_{1}\cos{\theta}-m_{2}l_{2}\cos{\theta}\Rightarrow (m_{1}l_{1}-m_{2}l_{2})g\cos{\theta}$  
+5. $\frac{dL}{d \theta^{´}}=(m_{1}l_{1}^{2}+m_{2}l_{2}^{2})\theta^{´}$
+6. $\frac{d}{dt} \frac{dL}{d \theta^{´}}=(m_{1}l_{1}^{2}+m_{2}l_{2}^{2})\theta^{´´}$
+7. $\frac{d}{dt} \frac{dL}{d \theta^{´}}=\frac{dL}{d \theta} \Rightarrow \theta^{´´}= g\cos{\theta}\frac{(m_{1}l_{1}-m_{2}l_{2})}{m_{1}l_{1}^{2}+m_{2}l_{2}^{2}}$ 
+Lad os tjekke grænseværdien når barn 1 hopper af vippen:
+$$-g \cos{\theta} \frac{1}{l_{2}}$$
+Dette ligner meget et matematisk pendul.
+Vi kan også se at (7) har ligevægt når: $g=0,\cos{\theta}=0,m_{1}l_{1}-m_{2}l_{2}=0$
+Især er den sidste del relevant. Vi kan nemlig se at kraften på begge sider af vippen vil blive: $gm_{1}l_{1}-gm_{2}l_{2}=0$ ved ligevægt. Dette er en kraft ganget længden, hvilket er et kraftmoment, eller (leveraction.).
+
+#### Fjendul
+![[Mindstevirkningsprincippet 2022-10-28 08.50.02.excalidraw]]
+0. Vælge koordinater: l(t)
+
 
 [^1]: Man kan også skrive x' som v, og x'' som a. Dette vil jeg gøre i fremtiden da det er lettere at skrive i $\LaTeX$. Derudover er det også lettere at bruge d, istedet for $\delta$, så det vil jeg også gøre.
