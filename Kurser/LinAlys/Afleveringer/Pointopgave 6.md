@@ -72,10 +72,27 @@ Vi har altså
 $F_{2}(x,y)=(-y,x)\neq -\nabla V$
 Og denne er ikke et konservativ kraftfelt.
 ## b
+Lad os først finde de delvist afledte af x,y, og z.
+$\frac{dV}{dx}=y+z$, $\frac{dV}{dy}=x+z$, $\frac{dV}{dz}=2az+y+x$.
+Herefter kan vi indsætte dette i en gradient.
 
+$-\nabla V=-(y+z,x+z,2az+y+x)=\vec{0}$ 
+Så dette må betyde at alle led skal være lig med nul.
+Vi kan derfor finde at.
+$a= -(\frac{x+y}{2z})$
+Og vi kan benytte de andre to koordinater til at finde:
+$x=-z$
+$y=-z$
+Derfor må: $a=-\left(\frac{-2z}{2z}\right)= 1$
+Vi finder at $a=1$ har præcist 1 ligevægtspunkt.
 # 3
 ## a
-
+Vi skal finde $T_{2}E(v)$ hvor: $E(v)= \frac{mc^{2}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$.
+Vi kan starte med at differentiere $E(v)$ først 1 gang og så differentiere resultatet igen.
+For at spare på pladsen viser jeg blot metoden ikke udregningen.
+$\frac{dE(v)}{dv}=f'(g(h(j(v))))\cdot g'(h(j(v)))\cdot h'(j(v))\cdot j'(v)= \frac{mv}{\left(1-\frac{v^{2}}{c^{2}}\right)^{\frac{3}{2}}}=E'(v)$ 
+For det første led, og derefter kan vi finde det andet led til at være:
+$dE'\frac{dE'v}{dv}$
 ## b
 For at gøre det let for os selv bruger vi bare forslaget i opgaven, dvs. $m=1, c=300$.
 Vi benytter os af Python til at finde taylorpolynomierne af 4 og 10 grad.
