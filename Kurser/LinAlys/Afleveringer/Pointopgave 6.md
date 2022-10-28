@@ -51,4 +51,9 @@ Vis, at det underrum i $\mathbb{F}_{\mathbb{R}}$, der udspændes af polynomierne
 Vi kalder $span(p_{1},p_{2},p_{3})=V$. Vi skal herved vise at mængden $V=\mathbb{P}_{2}$, hvor $V,\mathbb{P}_{2} \subseteq \mathbb{F}_{\mathbb{R}}$.
 Nu kan vi finde et vilkårligt polynomie af højst 2 grad, dvs. 2 grad: $ax^{2}+bx+c \in \mathbb{P}_{2}$. Hvis det er sandt at V udspænder hele $\mathbb{P}_{2}$ så må der findes $r_{1},r_{2},r_{3} \in \mathbb{R}$ som gør 
 $r_{1}(p_{1})+r_{2}(p_{2})+r_{3}(p_{3})=ax^{2}+bx+c$, et sandt udtryk.
-Men dette har vi jo netop bevist i (a). Så hermed kan vi se at underrummet som V spanner i $\mathbb{F}_{\mathbb{R}}$ er det samme
+
+Men dette har vi jo netop bevist i (a). Så hermed kan vi se at underrummet som V spanner i $\mathbb{F}_{\mathbb{R}}$ er det samme som alle polynomier af 2 grad, dvs. $V=\mathbb{P}_{2}$.
+
+# 2
+## a
+
