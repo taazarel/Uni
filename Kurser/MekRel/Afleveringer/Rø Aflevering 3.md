@@ -15,5 +15,13 @@ Dette er altså den potientielle energi af hele systemet.
 Vi kan se her at $U(t)$ hvilket betyder at vi ikke har impulsbevarelse.
 
 # 4
-$L=\frac{1}{2}m_{b}(-\dot a(t)-\dot d(t))^{2}+ \frac{1}{2}M_{a}(\dot a(t))^{2}-$
+3. $L=\frac{1}{2}m_{b}(-\dot a(t)-\dot d(t))^{2}+ \frac{1}{2}M_{a}(\dot a(t))^{2}-m_{b}g(h+a(t)+d(t)-l)+M_{a}g(h-a(t))$
+4. $$\frac{dU}{dx}=m_{b}g \delta a(t)+m_{b}g \delta d(t) -M_{a}g \delta a(t)\Rightarrow 2m_{b}g-M_{a}g$$
+5. $$\frac{dK}{d \dot x}=-m_{b}\dot a-m_{b}\dot d+M_{a}\dot a$$
+6. $$\frac{d}{dt}\left(\frac{dK}{d \dot x}\right)=M_{a}\ddot a-m_{b}\ddot a-m_{b}\ddot d$$
+7. $$\frac{d}{dt}\left(\frac{dK}{d \dot x}\right)=\frac{dU}{dx}\Rightarrow M_{a}\ddot a-m_{b}\ddot a-m_{b}\ddot d=2m_{b}g-M_{a}g$$
+Nu kan vi finde:$$(M_{a}-m_{b})\ddot a-m_{b}\ddot d=2m_{b}g-M_{a}g \Rightarrow \ddot a=\frac{2m_{b}g-M_{a}g+m_{b}\ddot d}{M_{a}-m_{b}}$$
+Her har vi et udtryk for $\ddot a$ som er beskrevet kun ved funktioner af $m_{b}\text{ og }M_{a}$.
+# 5
+Hvis $\dot d=0$ så bliver $$\ddot a= \frac{2m_{b}g-M_{a}g}{M_{a}-m_{b}} \Rightarrow g 2$$
 
