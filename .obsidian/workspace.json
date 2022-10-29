@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
+                "file": "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82eb7344f31dddde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,24 +33,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "7deaa71acc7fac65",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7697629f869320e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md"
               }
             }
           },
@@ -167,17 +161,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7697629f869320e0",
+  "active": "87c1a9e9f6288a7a",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
+    "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
     "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 09.53.52.excalidraw.md",
     "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.50.02.excalidraw.md",
     "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.26.45.excalidraw.md",
     "Kurser/LinAlys/Partial integration.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Retningsafledte.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md"
+    "Kurser/LinAlys/Regnepapir.md"
   ]
 }
