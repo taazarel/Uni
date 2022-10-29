@@ -8,10 +8,11 @@ $$\ddot a(t)=-\ddot b(t)-\ddot d(t)$$
 (**Note: fandt ud af hvordan man skrev prikker, bruger det fra nu af**)
 # 2
 Den kinetiske energi er givet ved: $$K=\frac{1}{2}m_{1}v^{2}_{1}+ \frac{1}{2}m_{2}v_{2}^{2}\Rightarrow \frac{1}{2}m_{b}(-\dot a(t)-\dot d(t))^{2}+ \frac{1}{2}M_{a}(\dot a(t))^{2}$$
+$$K=\frac{1}{2}m(\dot a^{2}+\dot d^{2}-2\dot a \dot d)+ \frac{1}{2}M_{a}$$
 # 3
 Den potentiale energi er givet ved: $$U=m_{1}gh_{1}+m_{2}gh_{2}\Rightarrow m_{b}g(h-b(t))+M_{a}g(h-a(t))\Rightarrow m_{b}g(h-(l-a(t)-d(t)) +M_{a}g(h-a(t))$$
 $$\Rightarrow U=m_{b}g(h+a(t)+d(t)-l)+M_{a}g(h-a(t))$$
-Dette er altså den potientielle energi af hele systemet.
+Dette er altså den potentielle energi af hele systemet.
 Vi kan se her at $U(t)$ hvilket betyder at vi ikke har impulsbevarelse.
 
 # 4
@@ -20,8 +21,14 @@ Vi kan se her at $U(t)$ hvilket betyder at vi ikke har impulsbevarelse.
 5. $$\frac{dK}{d \dot x}=-m_{b}\dot a-m_{b}\dot d+M_{a}\dot a$$
 6. $$\frac{d}{dt}\left(\frac{dK}{d \dot x}\right)=M_{a}\ddot a-m_{b}\ddot a-m_{b}\ddot d$$
 7. $$\frac{d}{dt}\left(\frac{dK}{d \dot x}\right)=\frac{dU}{dx}\Rightarrow M_{a}\ddot a-m_{b}\ddot a-m_{b}\ddot d=2m_{b}g-M_{a}g$$
+Her kan vi observere at siden vi har et geometrisk bånd så må $|\ddot a|=|\ddot d|=a$ 
+Herved kan vi se: $M_{a}\ddot a-2m_{b}\ddot a=2m_{b}g-M_{a}g \Rightarrow \ddot a=-g$. 
 Nu kan vi finde:$$(M_{a}-m_{b})\ddot a-m_{b}\ddot d=2m_{b}g-M_{a}g \Rightarrow \ddot a=\frac{2m_{b}g-M_{a}g+m_{b}\ddot d}{M_{a}-m_{b}}$$
 Her har vi et udtryk for $\ddot a$ som er beskrevet kun ved funktioner af $m_{b}\text{ og }M_{a}$.
 # 5
-Hvis $\dot d=0$ så bliver $$\ddot a= \frac{2m_{b}g-M_{a}g}{M_{a}-m_{b}} \Rightarrow g 2$$
+Hvis $\dot d=0$ så bliver $$\ddot a= \frac{2m_{b}g-M_{a}g}{M_{a}-m_{b}} \Rightarrow g \frac{2m_{b}-M_{a}}{M_a-m_{b}}$$
+Dette udtryk ligner meget det som man får fra Atwoods maskine, på nær det faktum at nævneren er forskellen og ikke summen af inertien.
+
+# 6
+
 
