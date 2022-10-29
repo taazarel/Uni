@@ -21,18 +21,23 @@ Vi kan se her at $U(t)$ hvilket betyder at vi ikke har impulsbevarelse.
 5. $$\frac{dK}{d \dot x}=m_{b}\dot a+m_{b}\dot d-2m_{b}+M_{a}\dot a$$
 6. $$\frac{d}{dt}\left(\frac{dK}{d \dot x}\right)=M_{a}\ddot a+m_{b}\ddot a+m_{b}\ddot d$$
 7. $$\frac{d}{dt}\left(\frac{dK}{d \dot x}\right)=\frac{dU}{dx}\Rightarrow M_{a}\ddot a+m_{b}\ddot a+m_{b}\ddot d=2m_{b}g-M_{a}g$$
-Nu kan vi finde:$$(M_{a}+m_{b})\ddot a+m_{b}\ddot d=2m_{b}g-M_{a}g \Rightarrow \ddot a=\frac{2m_{b}g-M_{a}g+m_{b}\ddot d}{M_{a}+m_{b}}$$
+Nu kan vi finde:$$(M_{a}+m_{b})\ddot a+m_{b}\ddot d=2m_{b}g-M_{a}g \Rightarrow \ddot a=\frac{2m_{b}g-M_{a}g-m_{b}\ddot d}{M_{a}+m_{b}}$$
 Her har vi et udtryk for $\ddot a$ som er beskrevet kun ved funktioner af $m_{b}\text{ og }M_{a}$.
 # 5
-Hvis $\dot d=0$ så bliver $$\ddot a=\frac{2m_{b}g-M_{a}g+m_{b}\ddot d}{M_{a}+m_{b}}= \frac{m_{b}g-M_{a}g}{M_{a}+m_{b}} \Rightarrow g \frac{m_{b}-M_{a}}{M_a+m_{b}}$$
+Hvis $\dot d=0$ så bliver $$\ddot a=\frac{2m_{b}g-M_{a}g-m_{b}\ddot d}{M_{a}+m_{b}}= \frac{m_{b}g-M_{a}g}{M_{a}+m_{b}} \Rightarrow g \frac{m_{b}-M_{a}}{M_a+m_{b}}$$
 Hvor 2'et bliver fjernet da d ikke længere har en påvirkning på potentialet af aben.
 Dette udtryk er nemlig atwoods maskine.
 Udtrykket giver perfekt mening, hvis $\dot d=0$ betyder det at aben ikke klatrer og derfor vil aben opføre sig som en kasse i atwoods maskine.
 
 # 6
-Hvis $M_{a}=m_{b}=m$ så bliver $$\ddot a= \frac{2mg-mg+m \ddot d}{m+m}=\frac{0}{2m}=0 \frac{m}{s^{2}}$$
+Hvis $M_{a}=m_{b}=m$ så bliver $$\ddot a= \frac{2mg-mg-m \ddot d}{m+m}=\frac{0}{2m}=0 \frac{m}{s^{2}}$$
 Her antager vi at $|g|=|\ddot d|=a$ da vi har et geometrisk bånd.
 Hvilket blot betyder at aben ikke flytter sig. Men rebets ende og kassen kan stadigvæk godt.
 
 # 7
+for at aben skal kunne nå kassen før den bliver knust skal aben veje mindre end trissen.
+
+$$\ddot a= \frac{2m_{b}g-M_{a}g-m_{b}g}{M_{a}+m_{b}}\Rightarrow g \frac{m_{b}-M_{a}}{m_{b}+M_{a}}$$ Hvis $m_{b}>M_{a}$ så bliver $\ddot a>0$. positiv. derfor må aben kunne nå kassen på vejen op mod loftet.
+Men hvis aben kravler opad, så påvirker den rebet med samme kraft som den selv får opad. Dvs. at banankassen vil blive accelereret mod trissen (og dens sikre ødelæggelse) med samme størrelse som rebet der skyder nedad under aben.
+
 
