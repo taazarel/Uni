@@ -1,5 +1,8 @@
 #forelæsning 
 Begyndelsesdato: 16:21   30-10-2022   Uge-43
+# Spørgsmål
+I 6.4.1, hvorfor skal vi ikke se på den potentielle energi i systemet? Den ændres jo da barnet bliver løftet opad.
+Er der ikke også en fortegnsfejl i opgaven, specifikt (6.28)
 # Kraft og energi (6.1)
 
 Arbejde(Eller energiligningen) beskrives som... :: energiændringen af systemet når det bliver påvirket af en ydre kraft: $W=\triangle E=\triangle K+\triangle U$.
@@ -51,6 +54,7 @@ Tyngdekraftens arbejde er positiv når... :: Systemet falder. Og hvis systemet s
 Vi kan udlede potentielgravitationsenergi gennem arbejdet ved at se på et faldende system således... :: $W_{E}=\int_{\vec{y_{i}}}^{\vec{y_{f}}} \vec{F_{E}}\cdot d \vec{r}=[F_{E}r]^{y_{f}}_{y_{i}}=F_{E}(y_{f}-y_{i})=F_{E}\Delta y=mg \Delta y$ hvor y-aksen peger parallelt med tyngdekraften.[^5]
 
 
+
 # Konservativ Kraft (6.5)
 
 (Sandt eller falskt) Når vi kigger på arbejdet af en kraft skal vi se på hele distance rejst... :: Dette er falskt. Vi skal blot se på den samlede forskydning af vektorerne.[^6]
@@ -60,7 +64,6 @@ Disse kræfter er ikke konservative...
 ?
 Tyngdekraften, Fjederkraften
 Friktionskraften
-
 
 
 [^1]: Det vigtigste i denne sætning er helt klart $\triangle x_{F}$. Dette er beskrevet som hvor stor forskydningen er af det punkt hvor kraften virker på systemet, også kaldet kontaktpunktet.
