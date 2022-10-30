@@ -11,26 +11,11 @@
             "id": "5f475ea9f3a2b30d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "209dde43d72f5bcf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 6.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,12 +141,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "209dde43d72f5bcf",
+  "active": "5f475ea9f3a2b30d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
     "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
-    "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/LinAlys/Retningsafledte.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
