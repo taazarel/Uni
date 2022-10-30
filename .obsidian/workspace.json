@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f67102a27132052b",
@@ -148,7 +149,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "477e1a55f44a8a4f",
+  "active": "5f475ea9f3a2b30d",
   "lastOpenFiles": [
     "Assets/Excalidraw/Arbejde 2022-10-30 17.00.05.excalidraw.md",
     "Arbejde.md",
