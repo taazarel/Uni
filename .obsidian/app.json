@@ -2,7 +2,9 @@
   "promptDelete": false,
   "rightToLeft": false,
   "spellcheck": true,
-  "spellcheckLanguages": null,
+  "spellcheckLanguages": [
+    "da"
+  ],
   "tabSize": 4,
   "trashOption": "local",
   "attachmentFolderPath": "Assets",

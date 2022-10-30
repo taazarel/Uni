@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85ee4a693178400b",
+        "id": "ccc04313e688a085",
         "type": "tabs",
         "children": [
           {
-            "id": "87c1a9e9f6288a7a",
+            "id": "5f475ea9f3a2b30d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,9 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "209dde43d72f5bcf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "integration",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 300
   },
   "right": {
     "id": "f67102a27132052b",
@@ -149,17 +159,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "87c1a9e9f6288a7a",
+  "active": "209dde43d72f5bcf",
   "lastOpenFiles": [
-    "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 09.53.52.excalidraw.md",
-    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.50.02.excalidraw.md",
-    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.26.45.excalidraw.md",
-    "Kurser/LinAlys/Partial integration.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
-    "Kurser/LinAlys/Retningsafledte.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Assets/Excalidraw/RØ 27-10-2022 2022-10-27 09.33.01.excalidraw.md"
+    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
+    "conflict-files-obsidian-git.md",
+    "Kurser/LinAlys/Matricer uden markovkæder.md",
+    "Kurser/LinAlys/Retningsafledte.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
+    "Hjælpemidler/Flashcards/MekRel/Statistik.md",
+    "test.md",
+    "Hjælpemidler/Periodic Notes/Daily/11-10-2022 Uge 41.md"
   ]
 }
