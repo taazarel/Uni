@@ -30,7 +30,7 @@ Den generelle definition af kraftens arbejde er... :: $W=\int_{\vec{r_{i}}}^{\ve
 
 Den generelle definition af arbejdet skrives som dette i en dimension med en variabel, ikke dissipativ kraft...
 Hvis kun en kraft virker på en enkelt partikel i en dimension så bliver arbejdet...
-Og hvis der er flere krafter som virker på samme partikel i en dimension så...
+Og hvis der er flere kræfter som virker på samme partikel i en dimension så...
 ?
 $W=\int_{\vec{x_{i}}}^{\vec{x_{f}}} \vec{F_{ydre}}(\vec{x})\cdot d \vec{x}$
 $W=\vec{F_{x}}\cdot \Delta \vec{x_{F}}$
@@ -39,10 +39,13 @@ $W=\sum \vec{F_{x}}\cdot \Delta \vec{x_{F}}$ Denne ligning kaldes også *Arbejds
 # Valg af system (6.3)
 **Her menes der systemer som i systemer af elementer ikke koordinater**
 
-Valg af system er vigitgt da... :: Man kan få vidt forskellige arbejde ud fra det system man vælger[^4]
-Disse slags energier er vigitge at huske... :: Varmeenergi, indre energi. Disse to sker hvis man har friktion og et element som ikke er en punkt-partikel.
+Valg af system er vigtigt da... :: Man kan få vidt forskellige arbejde ud fra det system man vælger[^4]
+Disse slags energier er vigtige at huske... :: Varmeenergi, indre energi. Disse to sker hvis man har friktion og et element som ikke er en punkt-partikel.
 Det er vigtigt at inkludere underlaget af et system når der er friktion, da... :: Friktion skaber varmeenergi på begge overflader som gnides mod hinanden. Men vi ved ikke hvordan denne er fordelt.
 En kraft udfører arbejde når... :: den ikke er med i systemet.
+Kræfter er kræfter på systemet hvis de er ydre, men hvis de er indre så behandles de som... :: Energiformer, både fjederkraften og tyngdekraften bliver til potentiel energi.
+
+# Arbejdet udført af tyngdekraften (6.4)
 
 
 [^1]: Det vigtigste i denne sætning er helt klart $\triangle x_{F}$. Dette er beskrevet som hvor stor forskydningen er af det punkt hvor kraften virker på systemet, også kaldet kontaktpunktet.
