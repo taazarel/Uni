@@ -11,8 +11,12 @@
             "id": "5f475ea9f3a2b30d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arbejde.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arbejde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arbejde.md"
+              }
             }
           },
           {
@@ -143,6 +150,8 @@
   },
   "active": "5f475ea9f3a2b30d",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Funktioner af flere variable.md",
+    "Arbejde.md",
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
     "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
@@ -150,8 +159,6 @@
     "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/LinAlys/Retningsafledte.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
-    "Hjælpemidler/Flashcards/MekRel/Statistik.md",
-    "test.md",
-    "Hjælpemidler/Periodic Notes/Daily/11-10-2022 Uge 41.md"
+    "Hjælpemidler/Flashcards/MekRel/Statistik.md"
   ]
 }
