@@ -51,8 +51,21 @@ Tyngdekraftens arbejde er positiv når... :: Systemet falder. Og hvis systemet s
 Vi kan udlede potentielgravitationsenergi gennem arbejdet ved at se på et faldende system således... :: $W_{E}=\int_{\vec{y_{i}}}^{\vec{y_{f}}} \vec{F_{E}}\cdot d \vec{r}=[F_{E}r]^{y_{f}}_{y_{i}}=F_{E}(y_{f}-y_{i})=F_{E}\Delta y=mg \Delta y$ hvor y-aksen peger parallelt med tyngdekraften.[^5]
 
 
+# Konservativ Kraft (6.5)
+
+(Sandt eller falskt) Når vi kigger på arbejdet af en kraft skal vi se på hele distance rejst... :: Dette er falskt. Vi skal blot se på den samlede forskydning af vektorerne.[^6]
+
+Disse kræfter er konservative...
+Disse kræfter er ikke konservative...
+?
+Tyngdekraften, Fjederkraften
+Friktionskraften
+
+
+
 [^1]: Det vigtigste i denne sætning er helt klart $\triangle x_{F}$. Dette er beskrevet som hvor stor forskydningen er af det punkt hvor kraften virker på systemet, også kaldet kontaktpunktet.
 [^2]: Da en punkt-partikel ikke kan deformeres, og derfor ikke har indre energi.
 [^3]: Vi benytter vektorer her da de gælder i lige så mange koordinats retninger som man har lyst til at bruge. **Produktet her er et prikprodukt for $\vec{F}\cdot \vec{r}=|\vec{F}||\vec{r}|\cos{\theta }$ hvor $\theta$ er vinklen mellem de to vektorer.**
 [^4]: Ergo at man kan vælge et system af den samme situation som giver en lukket eller åben reaktion i systemet.
 [^5]: Bemærk at dette dog er den kinetiske energi som er givet ved den tilbagelagte distance.
+[^6]: Givet at vi har en konservativ kraft. Hvilket er en kraft som ikke ændrer sig.
