@@ -97,7 +97,7 @@ Hvis F=240 N, m=50g, Vf=30m/s
 Hvad er så $\Delta x_{F}$?
 $W=\Delta K=F \Delta x_{f}-0$ bliver så til$\frac{1}{2}0.05*30^{2}=22,5 J=F \Delta x_{f}\Rightarrow \Delta x_{f}=\frac{22.5}{240}=0.09 m$
 
-
+# Fodnoter
 [^1]: Det vigtigste i denne sætning er helt klart $\triangle x_{F}$. Dette er beskrevet som hvor stor forskydningen er af det punkt hvor kraften virker på systemet, også kaldet kontaktpunktet.
 [^2]: Da en punkt-partikel ikke kan deformeres, og derfor ikke har indre energi.
 [^3]: Vi benytter vektorer her da de gælder i lige så mange koordinats retninger som man har lyst til at bruge. **Produktet her er et prikprodukt for $\vec{F}\cdot \vec{r}=|\vec{F}||\vec{r}|\cos{\theta }$ hvor $\theta$ er vinklen mellem de to vektorer.**
