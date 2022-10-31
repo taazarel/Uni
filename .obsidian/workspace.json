@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "f67102a27132052b",
@@ -147,10 +148,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "3922d136a8c75381",
   "lastOpenFiles": [
+    "Assets/Excalidraw/Arbejde 2022-10-31 10.56.56.excalidraw.md",
     "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Formelsamling.md",
     "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
@@ -159,7 +162,6 @@
     "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 09.53.52.excalidraw.md",
     "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.50.02.excalidraw.md",
     "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.26.45.excalidraw.md",
-    "Kurser/LinAlys/Partial integration.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md"
+    "Kurser/LinAlys/Partial integration.md"
   ]
 }

@@ -177,7 +177,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowUp"
+      "key": "ArrowDown"
     }
   ],
   "editor:swap-line-up": [
@@ -185,7 +185,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowDown"
+      "key": "ArrowUp"
     }
   ],
   "note-refactor-obsidian:app:split-note-by-heading-h1": [
@@ -341,7 +341,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "ArrowLeft"
+      "key": "ArrowRight"
     }
   ],
   "editor:fold-more": [
@@ -349,7 +349,34 @@
       "modifiers": [
         "Mod"
       ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
       "key": "ArrowRight"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
     }
   ]
 }

@@ -4,7 +4,7 @@ Begyndelsesdato: 16:21   30-10-2022   Uge-43
 ## Spørgsmål
 I 6.4.1, hvorfor skal vi ikke se på den potentielle energi i systemet? Den ændres jo da barnet bliver løftet opad.
 Er der ikke også en fortegnsfejl i opgaven, specifikt (6.28)
-## Kraft og energi (6.1)
+## [[Kraft]] og [[energi]] (6.1)
 
 Arbejde(Eller energiligningen) beskrives som... :: energiændringen af systemet når det bliver påvirket af en ydre kraft: $W=\triangle E=\triangle K+\triangle U$.
 <!--SR:!2022-11-03,3,250-->
@@ -32,7 +32,7 @@ Man kan beskrive $\Delta K$ som en kraft gennem dette udtryk... :: $\Delta K=ma_
 Når ens system består af en punkt-partikel bliver... :: $W=\Delta E=\Delta K$ og derfor også $W=F_{x}\Delta x_{F}$ [^2]
 <!--SR:!2022-11-04,4,270-->
 
-Impuls bestemmes af kraften gennem... 
+[[Impuls]] bestemmes af kraften gennem... 
 Energi bestemmes af kraften gennem... 
 ?
 Tiden, da $p= \frac{F}{\Delta t}$ 
@@ -87,6 +87,11 @@ Friktionskraften
 <!--SR:!2022-11-04,4,277-->
 
 # Plenum
+## Eksempel
+![[Arbejde 2022-10-31 10.56.56.excalidraw]]
+Hvis F=240 N, m=50g, Vf=30m/s
+Hvad er så $\Delta x_{F}$?
+$W=\Delta K=F \Delta x_{f}-0$ bliver så til$\frac{1}{2}0.05*30^{2}=22,5 J=F \Delta x_{f}\Rightarrow \Delta x_{f}=\frac{22.5}{240}=0.09 m$
 
 
 [^1]: Det vigtigste i denne sætning er helt klart $\triangle x_{F}$. Dette er beskrevet som hvor stor forskydningen er af det punkt hvor kraften virker på systemet, også kaldet kontaktpunktet.
