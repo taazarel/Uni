@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc04313e688a085",
+        "id": "85ee4a693178400b",
         "type": "tabs",
         "children": [
           {
-            "id": "5f475ea9f3a2b30d",
+            "id": "87c1a9e9f6288a7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +18,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c091086a882056ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/MekRel/Formelsamling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -60,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#forelæsning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -161,17 +149,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5f475ea9f3a2b30d",
+  "active": "87c1a9e9f6288a7a",
   "lastOpenFiles": [
-    "Kurser/MekRel/Formelsamling.md",
-    "Kurser/MekRel/Arbejde.md",
-    "Assets/Excalidraw/Arbejde 2022-10-30 17.00.05.excalidraw.md",
-    "Assets/Excalidraw/Arbejde 2022-10-30 17.03.20.excalidraw.md",
-    "Kurser/LinAlys/Funktioner af flere variable.md",
-    "conflict-files-obsidian-git.md",
+    "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
+    "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
-    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
-    "Kurser/LinAlys/Matricer uden markovkæder.md"
+    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 09.53.52.excalidraw.md",
+    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.50.02.excalidraw.md",
+    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.26.45.excalidraw.md",
+    "Kurser/LinAlys/Partial integration.md",
+    "Kurser/LinAlys/Abstrakte vektorrum.md",
+    "Kurser/LinAlys/Retningsafledte.md",
+    "Kurser/LinAlys/Regnepapir.md"
   ]
 }
