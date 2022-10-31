@@ -15,7 +15,7 @@ det gælder at $(AB)^{-1}=B^{-1}A^{-1}$
 <!--SR:!2022-11-12,18,250-->
 
 Hvis det gælder at både A og B er nxn matricer og hinandens inverse så gælder det at deres produkt er... :: både $AB=I$ og $BA=I$.
-<!--SR:!2022-10-29,4,279-->
+<!--SR:!2022-11-23,23,299-->
 
 En invertibel matrix betyder... :: En matrix med præcis én Invers.
 <!--SR:!2022-12-08,44,290-->
