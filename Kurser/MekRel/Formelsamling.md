@@ -1,4 +1,4 @@
-#hjælp 
+[^1]#hjælp 
 # Mekanik
 ## Energi
 $K=\frac{1}{2}mv^{2}$ for kinetisk energi af hastighed
