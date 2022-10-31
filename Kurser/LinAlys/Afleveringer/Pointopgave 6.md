@@ -1,4 +1,4 @@
-# 1
+# Delopgave 1
 ## a
 Afgør om polynomierne 
 $p_{1}(x)=x^{2}-1,p_{2}(x)=2x^{2}+x,p_{3}(x)=x+1$
@@ -12,7 +12,7 @@ $$
 r_{1}+r_{2}=a \\ r_{2}+r_{3}=b \\ -r_{1}+r_{3}=c
 \end{array}
 $$
-Og derefter skrive som en koefficientsmatrice.
+Og derefter skrive som en koefficientsmatrix.
 $$\left[
 \begin{array}{ccc|c}
 1 & 2 & 0 & a \\ 0 & 1 & 1 & b \\ -1 & 0 & 1 & c
@@ -54,7 +54,7 @@ $r_{1}(p_{1})+r_{2}(p_{2})+r_{3}(p_{3})=ax^{2}+bx+c$, et sandt udtryk.
 
 Men dette har vi jo netop bevist i (a). Så hermed kan vi se at underrummet som V spanner i $\mathbb{F}_{\mathbb{R}}$ er det samme som alle polynomier af 2 grad, dvs. $V=\mathbb{P}_{2}$.
 
-# 2
+# Delopgave 2
 ## a
 *Betragt kraftfelterne, afgør om de er konservative og bestem i givet fald en tilhørende potentialfunktion.*
 
@@ -85,7 +85,7 @@ $x=-z$
 $y=-z$
 Derfor må: $a=-\left(\frac{-2z}{2z}\right)= 1$
 Vi finder at $a=1$ har præcist 1 ligevægtspunkt.
-# 3
+# Delopgave 3
 ## a
 Vi skal finde $T_{2}E(v)$ hvor: $E(v)= \frac{mc^{2}}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$.
 Vi kan starte med at differentiere $E(v)$ først 1 gang og så differentiere resultatet igen.
@@ -97,7 +97,8 @@ $\frac{dE'v}{dv}=f'(v)\cdot g(h(j(v))) + f(v)\cdot g'(h(j(v)))\cdot h'(j(v))\cdo
 Hvor $f(v)=mv$, $g(v)=\frac{1}{h(v)}$, $h(v)=(j(v))^{\frac{3}{2}}$  og $j(v)=1- \frac{v^{2}}{c^{2}}$ .
 Nu kan vi samle dette til taylorpolynomiet ved v=0.
 $$T_{2}E(v)=mc^{2}+ \frac{0}{1!}(v-0)^{1}+ \frac{m}{2!}(v-0)^{2}\Rightarrow mc^{2}+ \frac{mv^{2}}{2}$$
-Vi kan herved se at enheden for dette polynomium er $\frac{m^{2}}{s^{2}}kg$ eller også skrevet som $J$
+Vi kan herved se at enheden for dette polynomium er $\frac{m^{2}}{s^{2}}kg$ eller også skrevet som $J$ . Dette passer altså perfekt med newtons kinetiske energi.
+
 ## b
 For at gøre det let for os selv bruger vi bare forslaget i opgaven, dvs. $m=1, c=300$.
 Vi benytter os af Python til at finde taylorpolynomierne af 4 og 10 grad.

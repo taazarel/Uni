@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "85ee4a693178400b",
+        "id": "ccc04313e688a085",
         "type": "tabs",
         "children": [
           {
-            "id": "87c1a9e9f6288a7a",
+            "id": "5f475ea9f3a2b30d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
+                "file": "Kurser/MekRel/Arbejde.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82eb7344f31dddde",
+            "id": "c091086a882056ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
+                "file": "Kurser/MekRel/Formelsamling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#forelæsning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f67102a27132052b",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
+                "file": "Kurser/MekRel/Arbejde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md"
+                "file": "Kurser/MekRel/Arbejde.md"
               }
             }
           },
@@ -161,17 +161,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "87c1a9e9f6288a7a",
+  "active": "5f475ea9f3a2b30d",
   "lastOpenFiles": [
-    "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
+    "Kurser/MekRel/Formelsamling.md",
+    "Kurser/MekRel/Arbejde.md",
+    "Assets/Excalidraw/Arbejde 2022-10-30 17.00.05.excalidraw.md",
+    "Assets/Excalidraw/Arbejde 2022-10-30 17.03.20.excalidraw.md",
+    "Kurser/LinAlys/Funktioner af flere variable.md",
+    "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
-    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 09.53.52.excalidraw.md",
-    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.50.02.excalidraw.md",
-    "Assets/Excalidraw/Mindstevirkningsprincippet 2022-10-28 08.26.45.excalidraw.md",
-    "Kurser/LinAlys/Partial integration.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
-    "Kurser/LinAlys/Retningsafledte.md",
-    "Kurser/LinAlys/Regnepapir.md"
+    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md",
+    "Kurser/LinAlys/Matricer uden markovkæder.md"
   ]
 }
