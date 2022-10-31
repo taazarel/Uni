@@ -12,12 +12,12 @@ $N_{c}=\{(x_{1},...,x_{n})\in D_{f}|f(x_{1},...,x_{n})=c \} \subseteq \mathbb{R}
 # Funktioner af flere variable til at beskrive geometriske objekter
 ### Eksempel: Cirkel
 ![[Repræsentation af funktioner af flere variable 2022-10-06 13.27.08.excalidraw]]
-Niveaukurve for $f(x,y)=x^{2}+y^{2}, N_{1}(f)$.
+[[Partiel integration#Def 1.5 (Niveaukurve)|Niveaukurve]] for $f(x,y)=x^{2}+y^{2}, N_{1}(f)$.
 
 På samme måde er niveaukurven for:
 $f(x)=\sqrt{1-x^{2}}$ hvor $y=f(x)$ dvs $x^{2}+y^{2}=1$ er en halvcirkel
 
-# Kordinatsystemer
+# Koordinatsystemer
 Disse er smarte da man kan fjerne en variabel ved at vælge det rigtige koordinatsystem.
 - Kartetiske: (x,y), (x,y,z)
 - Polære koordinater i planen: $(r,\theta)$ 

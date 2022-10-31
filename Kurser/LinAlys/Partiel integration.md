@@ -1,5 +1,5 @@
 #forelæsning
-# Partial integratoin/delvis integration
+# Partiel integration/delvis integration
 
 $$\int_{}^{}u(x)v'(x)dx=u(x)v(x)-\int_{}^{}u'(x)v(x)dx$$
 ## Bevis
@@ -27,7 +27,7 @@ Her kan vi bruge partiel integration med
 	Indsæt i $(1)_n$ 
 	$$=f(a)+f'(a)(b-a)+...+ \frac{f^{n}(a)}{n!}(b-a)^{n}+ \frac{1}{(n+1)!}f^{n+1}(a)(b-a)^{n+1}+ \frac{1}{(n+1)!}\int_{a}^{b}f^{n+2}(t)(b-t)^{n+1}dt$$
 
-# En reel funktion af flere variable
+# En reel [[Funktioner af flere variable|funktion af flere variable]]
 $f:a\rightarrow \mathbb{R}$ , $A=D_{f}$, $A\subseteq \mathbb{R}^{n}$ , Hvis n=2, har vi 2 variable $f(x,y)\in \mathbb{R}$ og hvis det er 3 har vi 3 dimensioner $f(x,y,z)\in \mathbb{R}$.
 For funktioner af n=1 variabel der tog vi ofte $D_{f}=[a,b]$ et interval (linje).
 For $n>1$ variable vil definitionsmængderne ofte være indviklede, såsom en cirkel med huller, eller $A\subseteq\mathbb{R}^{2}$, $A=\{(x,y)\in\mathbb{R}|x^{2}+y^{2}\leq1\}$.
@@ -42,3 +42,5 @@ Vi kan betragte funktioner langs linjer$(\vec{x}+r\vec{v})$ ved at fjerne et giv
 	$g(r)=f(x_{1}+rv_{1},...,x_{n}+rv_{n})$ Hvor $x_{n}+rv_{n}$ er en parameterfremstilling for en linje.
 
   
+
+Niveaukurve

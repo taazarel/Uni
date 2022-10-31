@@ -93,7 +93,7 @@ $span\{\vec{v_{1}},..,\vec{v_{n}} \}$ er et underrum.
 En endelig familie $\vec{v_{1}},\vec{v_{2}},...,\vec{v_{n}}$ af vektorer i et vektorrum kaldes lineært uafhængige hvis $r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}}=\vec{o} \Rightarrow r_{1}=...=r_{n}=0$
 $v_{1},...,v_{i}\in \mathbb{R}^{m}$, udspænder de hele $\mathbb{R}^{m}$? Er de lineært uafhængige?
 Hvis man har en kvadratisk matrix vil den altid udspænde hvis den er lineært uafhængig. 
-Da kvadratiske matrixer kun udspænder hvis: Udspænder $<=>$ Ingen 0-række. og lineæruafhængig <=> ingen frie variable.
+Da kvadratiske [[Matricer uden markovkæder|matricer]] kun udspænder hvis: Udspænder $<=>$ Ingen 0-række. og lineæruafhængig <=> ingen frie variable.
 
 ## Definition 2.41 (største/mindsteværdipunkter = max/min punkter)
 

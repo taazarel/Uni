@@ -36,7 +36,7 @@ Indre: $\vec{a} \in A$ er vigtigt at det er defineret som et indre tal da det me
 $f'(a,\vec{r})=\lim_{h \to0} \frac{f(a+h \vec{r})-f(a)}{h}=\lim_{h \to0} \frac{g(h)-g(a)}{h}=g'(0)$
 
 # Gradienten
-Man kan differentiere to akser og så sætte dem sammen som en vektorer i ens koordinatsystem. Denne regel gælder ikke generelt, men kun en gang imellem.
+Man kan [[#Sætning 2.24 (fortsat)|differentiere]] to akser og så sætte dem sammen som en vektorer i ens koordinatsystem. Denne regel gælder ikke generelt, men kun en gang imellem.
 ## Definition
 Gradienten for f i $\vec{a}$ er vektoren $\nabla f(\vec{a})=\frac{df}{dx_{1}}(\vec{a}),..., \frac{df}{dx_{n}}(\vec{a})$.
 
