@@ -10,7 +10,7 @@ Det gælder at L kan være en funktion som skrives... :: $L(x,v,t)$.
 <!--SR:!2022-12-11,47,296-->
 
 Mindstevirkningsprincippet skrives som... :: $\left[L=K-U\right]$.
-<!--SR:!2022-10-29,15,294-->
+<!--SR:!2023-01-08,69,314-->
 
 $L=K-U$ kaldes også mindstevirkningsprincippet, og den kan bruges til at beskrive bevægelsen af et objekt.
 Objekter bevæger sig over... :: Den korteste længde/mindste virkning/the path of least resistance.

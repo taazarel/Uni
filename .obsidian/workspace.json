@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a075489fd8c89de6",
+        "id": "2cf42426fe285f69",
         "type": "tabs",
         "children": [
           {
-            "id": "105d02c2129c67ee",
+            "id": "3922d136a8c75381",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Arbejde.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/MekRel/Arbejde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/MekRel/Arbejde.md"
+              }
             }
           },
           {
@@ -142,7 +149,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "105d02c2129c67ee",
+  "active": "3922d136a8c75381",
   "lastOpenFiles": [
     "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Formelsamling.md",

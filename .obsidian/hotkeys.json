@@ -135,7 +135,7 @@
   "editor:focus-bottom": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "ArrowDown"
     }
@@ -143,7 +143,7 @@
   "editor:focus-top": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "ArrowUp"
     }
@@ -175,17 +175,17 @@
   "editor:swap-line-down": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
-      "key": "F2"
+      "key": "ArrowUp"
     }
   ],
   "editor:swap-line-up": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
-      "key": "F1"
+      "key": "ArrowDown"
     }
   ],
   "note-refactor-obsidian:app:split-note-by-heading-h1": [
@@ -334,6 +334,22 @@
         "Alt"
       ],
       "key": "D"
+    }
+  ],
+  "editor:fold-less": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:fold-more": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }
