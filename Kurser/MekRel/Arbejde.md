@@ -87,11 +87,13 @@ Friktionskraften
 <!--SR:!2022-11-04,4,277-->
 
 # Plenum
-## Eksempel
+## Eksempel af bold skubbet af fjeder
 ![[Arbejde 2022-10-31 10.56.56.excalidraw]]
 Hvis F=240 N, m=50g, Vf=30m/s
 Hvad er så $\Delta x_{F}$?
 $W=\Delta K=F \Delta x_{f}-0$ bliver så til$\frac{1}{2}0.05*30^{2}=22,5 J=F \Delta x_{f}\Rightarrow \Delta x_{f}=\frac{22.5}{240}=0.09 m$
+
+## Eksempel med flyttende væg
 
 
 [^1]: Det vigtigste i denne sætning er helt klart $\triangle x_{F}$. Dette er beskrevet som hvor stor forskydningen er af det punkt hvor kraften virker på systemet, også kaldet kontaktpunktet.

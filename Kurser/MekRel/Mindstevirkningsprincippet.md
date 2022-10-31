@@ -4,7 +4,7 @@ Begyndelsesdato: 10:54   10-10-2022   Uge-41
 
 
 # Euler-lagrange formlen
-$L=K-U$ , hvor $L=$ Mindstevirkningen, $K=$ den kinetiske energi, og $U=$ den potentielle energi.
+$L=K-U$ , hvor $L=$ Mindstevirkningen, $K=$ den kinetiske [[energi]], og $U=$ den potentielle energi.
 Normalt skrives den totale energi i et system således: $E=K+U$. 
 Det gælder at L kan være en funktion som skrives... :: $L(x,v,t)$.
 <!--SR:!2022-12-11,47,296-->
@@ -48,7 +48,7 @@ OBS[^1]
 ## Impulsbevarelse
 Hvis vi har konstant potential i et system så bliver euler-larange ligningen $L=K-konstant$ hvilket betyder at vores larange funktion bliver:
 $\frac{d}{dt}\left(\frac{\delta L}{\delta v}\right) =\frac{d}{dt}(mv)=0$ da vi differentierer en konstant. 
-Men $p=mv$ er vores impuls, så derfor kan vi se at vores impuls er konstant, da accelerationen bliver 0.
+Men $p=mv$ er vores [[Impuls]], så derfor kan vi se at vores impuls er konstant, da accelerationen bliver 0.
 Under konstant potientiale bliver lagrange ligningen... :: $\frac{d}{dt}\left(\frac{\delta L}{\delta v}\right) =\frac{d}{dt}(mv)=0$
 <!--SR:!2022-11-30,36,276-->
 
@@ -86,7 +86,7 @@ I tredimensionelt rum er vektorer bevaret dvs $\vec{J}=\vec{r}x \vec{p}$ og derv
 Der er 7 bevarede størrelser i alt, de er... :: Impuls i 3 forskellige dimensioner, impulsmomentet J i tre forskellige dimensioner og energi.
 <!--SR:!2022-12-09,45,296-->
 
-## Polære Koordinater
+## [[Polære Koordinater]]
 Spørgsmål om hvad fanden der sker i (5.35) da jeg ingen ide har !?
 
 Gennem polære koordinater kan vi se at en acceleration bliver til centrifugal kraften.
