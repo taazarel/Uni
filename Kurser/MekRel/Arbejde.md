@@ -86,7 +86,9 @@ Tyngdekraften, Fjederkraften
 Friktionskraften
 <!--SR:!2022-11-04,4,277-->
 
-## 
+## Arbejde Udført på et fler-partikel-system (6.6)
+
+
 
 # Plenum
 ## Eksempel af bold skubbet af fjeder
