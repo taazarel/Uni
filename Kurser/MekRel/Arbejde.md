@@ -86,6 +86,8 @@ Tyngdekraften, Fjederkraften
 Friktionskraften
 <!--SR:!2022-11-04,4,277-->
 
+## 
+
 # Plenum
 ## Eksempel af bold skubbet af fjeder
 ![[Arbejde 2022-10-31 10.56.56.excalidraw]]
