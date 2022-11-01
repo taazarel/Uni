@@ -39,6 +39,20 @@ $$\frac{h_{1}(\vec{x})-h_{2}(\vec{x})}{||\vec{x}-\vec{a}||}\to_{\vec{x}-\vec{a}}
 Vi kan med sikkerhed finde en affin funktion som tangerer f i $\vec{a}$ når... :: f er $C^{1}$ og $\vec{a}$ er et indre punkt i $D_{f}$.
 Man definerer en affin funktion matematisk som... :: $h(\vec{x})=f(\vec{a})+\nabla f(\vec{a})\cdot (\vec{x}-\vec{a})$[^2]
 
+## Definition 2.67(Differentiabilitet af funktioner af flere variabler)
+En funktion f er diffrentiabel i et indre punkt $\vec{a}$ i $D_{f}$ hvis... :: der findes en affin funktion der tangerer f i det punkt.
+En kontinuer funktion $C^{1}$ medfører at... :: Funktionen er differentiabel.
+Differentiabilitet af en funktion medfører at... :: Funktionen har en partielt afledt i $\vec{a}$.
+
+## Sætning 2.70(Kædereglen af funktioner af flere variabler)
+
+Givet er $f(u_{1},...,u_{m})$ er $C^{1}$ og $g_{1}(x_{1},...,x_{n}),g_{2}(x_{1},...,x_{n}),...,g_{m}(x_{1},...,x_{n}) \text{ er alle }C^{1}$.
+Hvis vi indsætter g funktionerne på u pladserne i f, så er følgende sandt
+Og differentiationen af k kan skrives således:
+?
+$k(x_{1},...,x_{n})=f(g_{1}(x_{1},...,x_{n}),...,g_{m}(x_{1},...,x_{n}))$ er derved $C^{1}$.
+$$\frac{dk}{dx_{j}}(\vec{a})= \frac{df}{du_{1}}(\vec{b}) \frac{dg_{1}}{dx_{j}}(\vec{a})+...+ \frac{df}{du_{m}}\vec{b} \frac{dg_{m}}{dx_{j}}(\vec{a})$$
+Hvor $\vec{a}=(a_1,...,a_{n})\in \mathbb{R}^{n}$ og $\vec{b}=g_{1}(\vec{a}),g_{2}(\vec{a}),...,$
 
 [^1]: Hvis d=0 så kaldes dette for en lineær funktion
 [^2]: Dette ligner meget et Taylorpolynomie når det bliver udvidet: $f(\vec{a})+ \frac{df}{dx_{1}}\vec{a}(x_{1}-a_{1})+...+ \frac{df}{dx_{n}}\vec{a}(x_{n}-a_{n})$
