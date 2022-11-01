@@ -1,5 +1,9 @@
 [^1]#hjælp 
 # Mekanik
+## Bevægelseslinjer
+$v_{f}^{2}-v_{i}^{2}=2a \Delta x$ 
+$\Delta t= \frac{2v_{i}-2\Delta x}{a}$
+
 ## Energi
 $K=\frac{1}{2}mv^{2}$ for kinetisk energi af hastighed
 $U=mgh$ for potentiel energi af højde over jorden
