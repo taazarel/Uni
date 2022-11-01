@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md",
+                "file": "Kurser/LinAlys/Tangetplaner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md"
+                "file": "Kurser/LinAlys/Tangetplaner.md"
               }
             }
           },
@@ -164,45 +164,10 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "958bcd5e808ff506",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b1a025036e24ba00",
-        "type": "window",
-        "children": [
-          {
-            "id": "a04e8e76e84b5222",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c5bfed1e245348ba",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c5bfed1e245348ba",
+  "active": "b02007c13cef2d4a",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Tangetplaner.md",
     "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md",
+    "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/LinAlys/Retningsafledte.md",
     "Kurser/LinAlys/Regnepapir.md",
     "RØ 01-11-2022.excalidraw.md",
