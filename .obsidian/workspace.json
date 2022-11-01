@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a08e25391a71072d",
+        "id": "08615d0eff2fe103",
         "type": "tabs",
         "children": [
           {
-            "id": "ab67ba7b10799f90",
+            "id": "b02007c13cef2d4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c40dfd446ab39cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Retningsafledte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kontinuer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +79,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Tangetplaner.md",
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Tangetplaner.md"
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md"
               }
             }
           },
@@ -151,17 +164,52 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab67ba7b10799f90",
+  "floating": {
+    "id": "958bcd5e808ff506",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b1a025036e24ba00",
+        "type": "window",
+        "children": [
+          {
+            "id": "a04e8e76e84b5222",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5bfed1e245348ba",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c5bfed1e245348ba",
   "lastOpenFiles": [
     "Kurser/LinAlys/Retningsafledte.md",
+    "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md",
     "Kurser/LinAlys/Tangetplaner.md",
-    "Kurser/MekRel/Arbejde.md",
+    "Kurser/LinAlys/Regnepapir.md",
+    "RØ 01-11-2022.excalidraw.md",
     "Kurser/LinAlys/Partiel integration.md",
-    "Kurser/LinAlys/Funktioner af flere variable.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
-    "Kurser/LinAlys/Matricer uden markovkæder.md",
-    "Kurser/MekRel/Usikkerhed og Statistik.md",
-    "Kurser/MekRel/Friktion 2.md",
-    "Kurser/MekRel/Friktion.md"
+    "Kurser/LinAlys/Huskeregler.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 4.md",
+    "Kurser/MekRel/Arbejde.md",
+    "Kurser/LinAlys/Funktioner af flere variable.md"
   ]
 }
