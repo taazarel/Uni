@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf42426fe285f69",
+        "id": "a08e25391a71072d",
         "type": "tabs",
         "children": [
           {
-            "id": "3922d136a8c75381",
+            "id": "ab67ba7b10799f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/MekRel/Arbejde.md",
+                "file": "Tangetplaner.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Arbejde.md",
+                "file": "Tangetplaner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Arbejde.md"
+                "file": "Tangetplaner.md"
               }
             }
           },
@@ -151,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3922d136a8c75381",
+  "active": "ab67ba7b10799f90",
   "lastOpenFiles": [
-    "Kurser/MekRel/Arbejde.md",
     "Kurser/LinAlys/Retningsafledte.md",
+    "Tangetplaner.md",
+    "Kurser/MekRel/Arbejde.md",
     "Kurser/LinAlys/Partiel integration.md",
     "Kurser/LinAlys/Funktioner af flere variable.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Matricer uden markovkæder.md",
     "Kurser/MekRel/Usikkerhed og Statistik.md",
     "Kurser/MekRel/Friktion 2.md",
-    "Kurser/MekRel/Friktion.md",
-    "Kurser/MekRel/Mindstevirkningsprincippet.md"
+    "Kurser/MekRel/Friktion.md"
   ]
 }
