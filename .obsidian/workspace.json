@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Kurser/LinAlys/Tangetplaner.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "Kurser/LinAlys/Retningsafledte.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -84,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "f67102a27132052b",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md",
+                "file": "Kurser/LinAlys/Tangetplaner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md"
+                "file": "Kurser/LinAlys/Tangetplaner.md"
               }
             }
           },
@@ -199,11 +199,11 @@
       }
     ]
   },
-  "active": "c5bfed1e245348ba",
+  "active": "b02007c13cef2d4a",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Retningsafledte.md",
     "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md",
     "Kurser/LinAlys/Tangetplaner.md",
+    "Kurser/LinAlys/Retningsafledte.md",
     "Kurser/LinAlys/Regnepapir.md",
     "RØ 01-11-2022.excalidraw.md",
     "Kurser/LinAlys/Partiel integration.md",
