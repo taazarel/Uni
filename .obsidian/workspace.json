@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "08615d0eff2fe103",
+        "id": "a56098f49cf6557b",
         "type": "tabs",
         "children": [
           {
-            "id": "b02007c13cef2d4a",
+            "id": "ade1304f5385c667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Tangetplaner.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c40dfd446ab39cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Retningsafledte.md",
-                "mode": "preview",
+                "file": "Kurser/MekRel/Arbejde.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -78,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Tangetplaner.md",
+                "file": "Kurser/MekRel/Arbejde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Tangetplaner.md"
+                "file": "Kurser/MekRel/Arbejde.md"
               }
             }
           },
@@ -164,12 +150,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b02007c13cef2d4a",
+  "active": "ade1304f5385c667",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md",
-    "Kurser/LinAlys/Tangetplaner.md",
-    "Kurser/LinAlys/Regnepapir.md",
     "Kurser/LinAlys/Retningsafledte.md",
+    "Kurser/LinAlys/Tangetplaner.md",
+    "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md",
+    "Kurser/LinAlys/Regnepapir.md",
     "RØ 01-11-2022.excalidraw.md",
     "Kurser/LinAlys/Partiel integration.md",
     "Kurser/LinAlys/Huskeregler.md",
