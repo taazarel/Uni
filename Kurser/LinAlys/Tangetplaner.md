@@ -37,7 +37,7 @@ $$\frac{h_{1}(\vec{x})-h_{2}(\vec{x})}{||\vec{x}-\vec{a}||}\to_{\vec{x}-\vec{a}}
 
 ## Sætning 2.63
 Vi kan med sikkerhed finde en affin funktion som tangerer f i $\vec{a}$ når... :: f er $C^{1}$ og $\vec{a}$ er et indre punkt i $D_{f}$.
-Man definerer en affin funktion matematisk som... :: $h(\vec{x})=f(\vec{a})+\nabla f(\vec{a})\cdot (\vec{x}-\vec{a})$[^2]
+Man definerer en tangenthyperplan h som en affin funktion matematisk således... :: $h(\vec{x})=f(\vec{a})+\nabla f(\vec{a})\cdot (\vec{x}-\vec{a})$[^2]
 
 ## Definition 2.67(Differentiabilitet af funktioner af flere variabler)
 En funktion f er diffrentiabel i et indre punkt $\vec{a}$ i $D_{f}$ hvis... :: der findes en affin funktion der tangerer f i det punkt.
