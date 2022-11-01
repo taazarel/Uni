@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tangetplaner.md",
+                "file": "Kurser/LinAlys/Tangetplaner.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tangetplaner.md",
+                "file": "Kurser/LinAlys/Tangetplaner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tangetplaner.md"
+                "file": "Kurser/LinAlys/Tangetplaner.md"
               }
             }
           },
@@ -154,7 +154,7 @@
   "active": "ab67ba7b10799f90",
   "lastOpenFiles": [
     "Kurser/LinAlys/Retningsafledte.md",
-    "Tangetplaner.md",
+    "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/MekRel/Arbejde.md",
     "Kurser/LinAlys/Partiel integration.md",
     "Kurser/LinAlys/Funktioner af flere variable.md",
