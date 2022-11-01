@@ -92,6 +92,7 @@ Vi har et fler-partikel-system når... :: Et legeme er deformerbart, eller vi ha
 Arbejdet i et fler-partikel-system bliver beskrevet således... :: $$W_{tot}=W_{1}+W_{2}+...+W_{n}=\sum_{i=1}^{N}W_{i}$$ så længe at den enkelte kraft $F_{i}$ skaber en forskydning.
 
 
+
 # Plenum
 ## Eksempel af bold skubbet af fjeder
 ![[Arbejde 2022-10-31 10.56.56.excalidraw]]
