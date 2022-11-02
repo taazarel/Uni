@@ -93,8 +93,18 @@ Arbejdet i et fler-partikel-system bliver beskrevet således... :: $$W_{tot}=W_{
 
 En ydre kraft vil altid påvirke... :: Massemidtpunktet med en forskydelse ogen acceleration
 
-Ændringen af et systems massemidtpunkts hastighed er...
-Forskydningen af et systems massemidtpunkt er...
+Givet at krafterne er konstante, hvad bliver disse så?
+- Ændringen af et systems massemidtpunkts hastighed er...
+- Forskydningen af et systems massemidtpunkt er...
+- Ændringen af systemets translatoriske K er...
+?
+$\vec{v_{CM,f}}=\vec{v_{CM,i}}+\vec{a_{CM}}\Delta t$ 
+$\Delta \vec{x}_{CM}=\vec{v}_{CM,i}\Delta t+ \frac{1}{2}\vec{a_{CM}}\Delta t^{2}$
+$\Delta K_{CM}=\frac{1}{2}m_{tot}(v_{CM,f}^{2}-v_{CM,i}^{2})$
+
+Man kan skrive $\Delta K_{CM}$ som dette for konstante kræfter som virker i én dimension... :: $\Delta K_{CM}=\sum \vec{F}_{ydre,x}\Delta x_{CM}$[^7]
+
+
 
 
 
@@ -112,3 +122,4 @@ $W=\Delta K=F \Delta x_{f}-0$ bliver så til$\frac{1}{2}0.05*30^{2}=22,5 J=F \De
 [^4]: Ergo at man kan vælge et system af den samme situation som giver en lukket eller åben reaktion i systemet.
 [^5]: Bemærk at dette dog er den kinetiske energi som er givet ved den tilbagelagte distance.
 [^6]: Givet at vi har en konservativ kraft. Hvilket er en kraft som ikke ændrer sig.
+[^7]: Noter at dette ikke er kontaktpunktets forskydning.
