@@ -119,7 +119,19 @@ Ved variable kræfter kan man ikke bruge $W=F \Delta x$, så vi benytter os af..
 Integralet for variable kræfter kan reduceres til dette når vi har en kraft som virker på en fjeder... :: $W=\frac{1}{2}k(x-x_{i})^{2}$[^8]
 Vi kan beskrive hastigheden af en punkt-partikel som bremses af en fjeder således... :: $v_{f}=\sqrt{v_{i}^{2}- \frac{k(x_{f}-x_{i})^{2}}{m}}$ 
 Friktionskraften burde altid skrives som... :: En termisk energiændring, da den aldrig vil forskyde kontaktpunktet.
-Hvis arbejdet fra tt
+Hvis arbejdet fra tyngdekraften er nul og partiklen ikke deformeres så bliver  varmeenergien af friktion i et lukket system til...  ::  $\Delta E_{TH}=- \Delta K$.
+Friktionskraften kan beskrives ved... :: $\Delta E_{TH}=F_{x}^{f}d$
+
+## Effekt - luminositet (6.8)
+
+Effekt skrives således
+i gennemsnit...
+og øjeblikkeligt...
+?
+$P_{gns}= \frac{\Delta E}{\Delta t}$
+$P= \frac{dE}{dt}$
+
+
 
 # Plenum
 ## Eksempel af bold skubbet af fjeder
