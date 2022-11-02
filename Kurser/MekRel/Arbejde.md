@@ -57,7 +57,7 @@ $W=\sum \vec{F_{x}}\cdot \Delta \vec{x_{F}}$ Denne ligning kaldes også *Arbejds
 Valg af system er vigtigt da... :: Man kan få vidt forskellige arbejde ud fra det system man vælger[^4]
 <!--SR:!2022-11-04,4,277-->
 Disse slags energier er vigtige at huske... :: Varmeenergi, indre energi. Disse to sker hvis man har friktion og et element som ikke er en punkt-partikel.
-<!--SR:!2022-11-01,1,237-->
+<!--SR:!2022-11-06,4,237-->
 Det er vigtigt at inkludere underlaget af et system når der er friktion, da... :: Friktion skaber varmeenergi på begge overflader som gnides mod hinanden. Men vi ved ikke hvordan denne er fordelt.
 <!--SR:!2022-11-04,4,277-->
 En kraft udfører arbejde når... :: den ikke er med i systemet.
@@ -89,9 +89,12 @@ Friktionskraften
 ## Arbejde Udført på et fler-partikel-system (6.6)
 
 Vi har et fler-partikel-system når... :: Et legeme er deformerbart, eller vi har flere partikler i systemet.
+<!--SR:!2022-11-05,3,266-->
 Arbejdet i et fler-partikel-system bliver beskrevet således... :: $$W_{tot}=W_{1}+W_{2}+...+W_{n}=\sum_{i=1}^{N}W_{i}$$ så længe at den enkelte kraft $F_{i}$ skaber en forskydning.
+<!--SR:!2022-11-05,3,266-->
 
 En ydre kraft vil altid påvirke... :: Massemidtpunktet med en forskydelse ogen acceleration
+<!--SR:!2022-11-05,3,266-->
 
 Givet at krafterne er konstante, hvad bliver disse så?
 - Ændringen af et systems massemidtpunkts hastighed er...
@@ -101,8 +104,12 @@ Givet at krafterne er konstante, hvad bliver disse så?
 $\vec{v_{CM,f}}=\vec{v_{CM,i}}+\vec{a_{CM}}\Delta t$ 
 $\Delta \vec{x}_{CM}=\vec{v}_{CM,i}\Delta t+ \frac{1}{2}\vec{a_{CM}}\Delta t^{2}$
 $\Delta K_{CM}=\frac{1}{2}m_{tot}(v_{CM,f}^{2}-v_{CM,i}^{2})$
+<!--SR:!2022-11-05,3,266-->
 
 Man kan skrive $\Delta K_{CM}$ som dette for konstante kræfter som virker i én dimension... :: $\Delta K_{CM}=\sum \vec{F}_{ydre,x}\Delta x_{CM}$[^7]
+<!--SR:!2022-11-05,3,266-->
+Generelt gælder det at $\Delta K=\Delta K_{CM}+\Delta K_{konvert}$ men for et flerpartikelsystem kan vi sige... :: $\Delta K_{konvert}\neq 0$ modsat end i et punkt-partikel-system $\Delta K_{konvert}=0$.
+<!--SR:!2022-11-05,3,266-->
 
 
 
