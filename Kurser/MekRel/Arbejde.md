@@ -117,8 +117,9 @@ En variabel kraft er... :: en kraft som ændrer sin værdi over en størrelse, f
 En fordelt kraft er... :: En kraft som ikke er fokuseret på et punkt, men er fordelt, fx friktion.
 Ved variable kræfter kan man ikke bruge $W=F \Delta x$, så vi benytter os af... :: integraler i form af $\int_{x_{i}}^{x_{f}}F_{kf,x}(x)dx$
 Integralet for variable kræfter kan reduceres til dette når vi har en kraft som virker på en fjeder... :: $W=\frac{1}{2}k(x-x_{i})^{2}$[^8]
-
-
+Vi kan beskrive hastigheden af en punkt-partikel som bremses af en fjeder således... :: $v_{f}=\sqrt{v_{i}^{2}- \frac{k(x_{f}-x_{i})^{2}}{m}}$ 
+Friktionskraften burde altid skrives som... :: En termisk energiændring, da den aldrig vil forskyde kontaktpunktet.
+Hvis arbejdet fra tt
 
 # Plenum
 ## Eksempel af bold skubbet af fjeder
