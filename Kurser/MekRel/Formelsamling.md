@@ -2,12 +2,13 @@
 # Mekanik
 ## Bevægelseslinjer
 $v_{f}^{2}-v_{i}^{2}=2a \Delta x$ 
-$\Delta t= \frac{2v_{i}-2\Delta x}{a}$
-
+$\Delta t=\sqrt{\frac{-2\Delta x}{a}}$
 ## Energi
 $K=\frac{1}{2}mv^{2}$ for kinetisk energi af hastighed
 $U=mgh$ for potentiel energi af højde over jorden
 $U_{f}=\frac{1}{2}kx^{2}$ for potentiel energi af en fjeder, hvor x er distance fra hvile, og k er fjederkonstanten.
+$P=\frac{E}{t}=[\frac{J}{s}]=[W]$ Dette er effekten af energi. Måles enten i joules per sekund eller i watt.
+
 
 ## Krafter
 $F=ma$
