@@ -93,7 +93,7 @@ Vi har et fler-partikel-system når... :: Et legeme er deformerbart, eller vi ha
 Arbejdet i et fler-partikel-system bliver beskrevet således... :: $$W_{tot}=W_{1}+W_{2}+...+W_{n}=\sum_{i=1}^{N}W_{i}$$ så længe at den enkelte kraft $F_{i}$ skaber en forskydning.
 <!--SR:!2022-11-05,3,266-->
 
-En ydre kraft vil altid påvirke... :: Massemidtpunktet med en forskydelse ogen acceleration
+En ydre kraft vil altid påvirke... :: Massemidtpunktet med en forskydelse ogen acceleration. (Husk at kraften ikke behøver at udøve arbejde)
 <!--SR:!2022-11-05,3,266-->
 
 Givet at krafterne er konstante, hvad bliver disse så?
@@ -111,7 +111,12 @@ Man kan skrive $\Delta K_{CM}$ som dette for konstante kræfter som virker i én
 Generelt gælder det at $\Delta K=\Delta K_{CM}+\Delta K_{konvert}$ men for et flerpartikelsystem kan vi sige... :: $\Delta K_{konvert}\neq 0$ modsat end i et punkt-partikel-system $\Delta K_{konvert}=0$.
 <!--SR:!2022-11-05,3,266-->
 
+## Arbejde udført af variable og fordelte kræfter (6.7)
 
+En variabel kraft er... :: en kraft som ændrer sin værdi over en størrelse, fx fjederkraften.
+En fordelt kraft er... :: En kraft som ikke er fokuseret på et punkt, men er fordelt, fx friktion.
+Ved variable kræfter kan man ikke bruge $W=F \Delta x$, så vi benytter os af... :: integraler i form af $\int_{x_{i}}^{x_{f}}F_{kf,x}(x)dx$
+Integralet for variable kræfter kan reduceres til dette når vi har en kraft som virker på en fjeder... :: $W=\frac{1}{2}k(x-x_{i})^{2}$[^8]
 
 
 
@@ -130,3 +135,4 @@ $W=\Delta K=F \Delta x_{f}-0$ bliver så til$\frac{1}{2}0.05*30^{2}=22,5 J=F \De
 [^5]: Bemærk at dette dog er den kinetiske energi som er givet ved den tilbagelagte distance.
 [^6]: Givet at vi har en konservativ kraft. Hvilket er en kraft som ikke ændrer sig.
 [^7]: Noter at dette ikke er kontaktpunktets forskydning.
+[^8]: Dette er også hvor vi har den potentielle energi af en fjeder fra. 
