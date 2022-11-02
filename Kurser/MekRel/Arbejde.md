@@ -124,13 +124,18 @@ Friktionskraften kan beskrives ved... :: $\Delta E_{TH}=F_{x}^{f}d$
 
 ## Effekt - luminositet (6.8)
 
-Effekt skrives således
+Effekt defineres således
 i gennemsnit...
 og øjeblikkeligt...
 ?
-$P_{gns}= \frac{\Delta E}{\Delta t}$
-$P= \frac{dE}{dt}$
+$P_{gns}= \frac{\Delta E}{\Delta t}=[W]$[^9]
+$P= \frac{dE}{dt}=[W]$
 
+Når kraft er konstant kan effekten omskrives til... :: $P=F_{ydre}v_{x,gns}$
+
+## Bevæget inertialsystem (6.9)
+
+Hvorfor er det ikke et problem med forskellige inertialsystemer når vi ser på arbejde? :: Dette er fordi vi måler energiændringen i systemet, $W=\Delta K$ er altid sandt, talværdien er ikke.
 
 
 # Plenum
@@ -149,3 +154,4 @@ $W=\Delta K=F \Delta x_{f}-0$ bliver så til$\frac{1}{2}0.05*30^{2}=22,5 J=F \De
 [^6]: Givet at vi har en konservativ kraft. Hvilket er en kraft som ikke ændrer sig.
 [^7]: Noter at dette ikke er kontaktpunktets forskydning.
 [^8]: Dette er også hvor vi har den potentielle energi af en fjeder fra. 
+[^9]: I astrofysikken kan vi beskrive dette som luminositet, $L= \frac{\Delta E}{\Delta t}$.
