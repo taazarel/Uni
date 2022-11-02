@@ -91,6 +91,11 @@ Friktionskraften
 Vi har et fler-partikel-system når... :: Et legeme er deformerbart, eller vi har flere partikler i systemet.
 Arbejdet i et fler-partikel-system bliver beskrevet således... :: $$W_{tot}=W_{1}+W_{2}+...+W_{n}=\sum_{i=1}^{N}W_{i}$$ så længe at den enkelte kraft $F_{i}$ skaber en forskydning.
 
+En ydre kraft vil altid påvirke... :: Massemidtpunktet med en forskydelse ogen acceleration
+
+Ændringen af et systems massemidtpunkts hastighed er...
+Forskydningen af et systems massemidtpunkt er...
+
 
 
 # Plenum
