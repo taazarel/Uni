@@ -69,7 +69,13 @@ $$\frac{dk}{dx_{j}}(\vec{a})= \frac{df}{du_{1}}(\vec{b}) \frac{dg_{1}}{dx_{j}}(\
 Hvor $\vec{a}=(a_1,...,a_{n})\in \mathbb{R}^{n}$ og $\vec{b}=g_{1}(\vec{a}),g_{2}(\vec{a}),...,g_{m}(\vec{a})\in \mathbb{R}^{m}$.
 <!--SR:!2022-11-05,3,250-->
 
+## Tangenten for [[Partiel integration#Def 1.5 (Niveaukurve)|niveaukurven]].
+Princip: Tangenten til niveaukurven er niveaukurven til den tangerende affine funktion.
+
+## Definition 2.72 (Tangent til niveaukurven)
+Givet er en $C^{1}$ funktion og punktet $\vec{a}\in D_{f}$. Så vil tangenten til niveaukurven i $\vec{a}$ være... :: $f(\vec{a})+\nabla f(\vec{a})\cdot (\vec{x}-\vec{a})=f(\vec{a})$.[^3]
 
 
 [^1]: Hvis d=0 så kaldes dette for en lineær funktion
 [^2]: Dette ligner meget et Taylorpolynomie når det bliver udvidet: $f(\vec{a})+ \frac{df}{dx_{1}}\vec{a}(x_{1}-a_{1})+...+ \frac{df}{dx_{n}}\vec{a}(x_{n}-a_{n})$
+[^3]: Ergo det samme som niveaukurven af tangenten til f.

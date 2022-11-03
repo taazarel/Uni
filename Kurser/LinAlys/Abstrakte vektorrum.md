@@ -170,6 +170,7 @@ Givet er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, som en ordnet basis for vektorrummet
 \right] \in \mathbb{R}^{n}$$
 
 
+
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
 [^2]: Betyder: Hvis og KUN hvis.
 [^3]: Dette er dimensionsanalyse. DVS analyse af en matrix dimensioner.
