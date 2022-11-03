@@ -153,7 +153,7 @@ Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde f
 ### Bevis
 Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers kan vi bruge... :: Udtyndingslemmaet da $dim V<n$ og derfor er $\vec{v_{1}},...,\vec{v_{n}}$ ikke lineært uafhængig. Så bruger vi bare 3.17. indtil $dim V=n$
 
-## 
+
 
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
 [^2]: Betyder: Hvis og KUN hvis.

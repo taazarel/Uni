@@ -1,2 +1,3 @@
 [[RØ 27-10-2022 2022-10-27 09.33.01.excalidraw]]
 [[Regnepapir 2022-11-01 09.38.29.excalidraw]]
+[[Regnepapir 2022-11-03 09.39.46.excalidraw]]
