@@ -117,5 +117,10 @@ Gennem antagelse
 $\vec{v_{i}}=r_{1}\vec{v_{1}}+...+r_{i-1}\vec{v_{i-1}}+r_{i+1}\vec{v_{i+1}}+...+r_{n}\vec{v_{n}}$
 $\vec{o}=r_{1}\vec{v_{1}}+...+r_{i-1}\vec{v_{i-1}}-\vec{v_{i}}+r_{i+1}\vec{v_{i+1}}+...+r_{n}(\vec{v_{n}})$
 
+## Sammenligningssætningen(3.15)
+
+Et vektorrum V $\vec{v_{1}},...,\vec{v_{m}}$ udspænder V og $\vec{w_{1}},...,\vec{w_{n}}$, der er lineært uafhængighed i V, da kan vi sige dette om størrelserne n og m... :: $m \geq n$.
+
+
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
 [^2]: Betyder: Hvis og KUN hvis.
