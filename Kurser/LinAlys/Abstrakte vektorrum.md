@@ -12,7 +12,7 @@ Man kan finde lineær uafhængighed ved at gausseliminere til reduceret echelon 
 - Dimensionsteori
 - Lineær uafhængighed
 
-# Dimensionsteori
+# Forelæsning
 ## Definition 3.2 (lineær kombination)
 Hvis $\vec{v}_{1},...,\vec{v}_{n} \in V$ et vektorrum, da er en linearkombination af disse enhver ny vektor på formen:
 $r_{1}\vec{v}_{1}+r_{2}\vec{v}_{2}+...+r_{n}\vec{v}_{n}$, hvor $r_{1}...r_{n} \in \mathbb{R}$.
@@ -88,7 +88,6 @@ $span\{\vec{v_{1}},..,\vec{v_{n}} \}$ er et underrum.
 - Lukket under addition $(r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}})+(s_{1}\vec{v_{1}}+...+s_{n}\vec{v_{n}})=(r_{1}+s_{1})\vec{v_{1}}+...+(r_{n}s_{n})\vec{v_{n}} \in span\{\vec{v_{1}},..,\vec{v_{n}} \}$ 
 - lukket under multiplikation i $r \in \mathbb{R}$. $s(r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}})=(sr_{1})\vec{v_{1}}+...+(sr_{n})\vec{v_{n}}\in span\{\vec{v_{1}},..,\vec{v_{n}} \}$
 
-# Lineær uafhængighed
 ## Definition 3.8 (Lineær uafhængighed)
 En endelig familie $\vec{v_{1}},\vec{v_{2}},...,\vec{v_{n}}$ af vektorer i et vektorrum kaldes lineært uafhængige hvis $r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}}=\vec{o} \Rightarrow r_{1}=...=r_{n}=0$
 $v_{1},...,v_{i}\in \mathbb{R}^{m}$, udspænder de hele $\mathbb{R}^{m}$? Er de lineært uafhængige?
@@ -153,9 +152,20 @@ Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde f
 ### Bevis
 Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers kan vi bruge... :: Udtyndingslemmaet da $dim V<n$ og derfor er $\vec{v_{1}},...,\vec{v_{n}}$ ikke lineært uafhængig. Så bruger vi bare 3.17. indtil $dim V=n$
 
+## 3.19 (Udvidelseslemmaet)
+Hvis vi har et span som $\vec{v_{n+1}}\notin span \{\vec{v_{1}},...,\vec{v_{n}} \}$ hvor spannet er lineært uafhængigt så vil... :: $\vec{v_{1}},...,\vec{v_{n}},\vec{v_{n+1}}$ være lineært uafhængigt.
+
+## 3.20 (Udvidelsessætningen)
+Hvis vi har en vektorfamilie $\vec{v_{1}},...,\vec{v_{n}}$ i et endeligt vektorrum med m, dimensioner, kan vi... :: udvide familien til en basis på m dimensioner.
+### Bevis
+Udvidelsesalgoritmen
+
+## Sætning 3.22
+Vi har $dim V=n$ og $\vec{v_{1}},...,\vec{v_{n}}$ er det en base hvis... :: den enten udspænder eller er lineært uafhængig.[^5]
 
 
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
 [^2]: Betyder: Hvis og KUN hvis.
 [^3]: Dette er dimensionsanalyse. DVS analyse af en matrix dimensioner.
 [^4]: Alle identitetsmatricer er baser
+[^5]: Den må derfor også være det modsatte samtidigt.
