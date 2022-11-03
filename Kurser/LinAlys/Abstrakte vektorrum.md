@@ -161,7 +161,13 @@ Hvis vi har en vektorfamilie $\vec{v_{1}},...,\vec{v_{n}}$ i et endeligt vektorr
 Udvidelsesalgoritmen
 
 ## Sætning 3.22
-Vi har $dim V=n$ og $\vec{v_{1}},...,\vec{v_{n}}$ er det en base hvis... :: den enten udspænder eller er lineært uafhængig.[^5]
+Vi har $dim V=n$ og $\vec{v_{1}},...,\vec{v_{n}}$ er det en base hvis... :: den enten udspænder V eller er [[#Definition 3.8 (Lineær uafhængighed)|lineært uafhængig]].[^5]
+
+## Definition 3.24 (Koordinater)
+Givet er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, som en ordnet basis for vektorrummet V kan vi definere $\vec{v}\in V$ som... :: $\vec{v}=r_{1}\vec{u_{1}}+...+r_{n}\vec{u_{n}}$, som en linearkombination. Dette kan omformuleres til... :: $$[\vec{v}]_{B}=\left[
+\begin{array}{c}r_{1} \\ : \\ r_{n}
+\end{array}
+\right] \in \mathbb{R}^{n}$$
 
 
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
