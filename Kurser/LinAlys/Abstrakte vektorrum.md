@@ -137,7 +137,25 @@ Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimension
 ### Eksempel
 dimensionen af $\mathbb{R}^{n}$ kan skrives som... :: $dim \mathbb{R}^{n}=n$ da vi kan skrive en identitetsmatrix som er nxn.[^4]
 
+## Definition 3.14 (Endelige og Uendelige vektorrum)
+
+Et endeligt vektorrum defineres som...
+Et uendeligt vektorrum defineres som...
+?
+Et vektorrum med en endelig base.
+Alt som ikke er et endeligt vektorrum
+
+## 3.17 (Udtyndningslemmaet)
+Vektorrummet V udspændes af familien $\vec{v_{1}},...,\vec{v_{n}}$ givet $\vec{v_{j}}$ kan skrives som en linearkombination af de andre kan vi omdefinere til... :: $V=span \{\vec{v_{1}},...,\vec{v_{n}}  \}\cap \vec{v_{j}}$. Hvis $\vec{v_{1}}=\vec{v_{j}}$ kunne vi skrive; $V=span \{\vec{v_{2}},...,\vec{v_{n}} \}$
+
+## 3.18 (Udtydningssætningen)
+Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde familien til en basis.
+### Bevis
+Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers kan vi bruge... :: Udtyngingslemmaet da $dim V<n$ og derfor er $\vec{v_{1}},...,\vec{v_{n}}$ ikke lineært uafhængig. Så bruger vi bare 3.17. indtil $dim V=n$
+
+
+
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
 [^2]: Betyder: Hvis og KUN hvis.
 [^3]: Dette er dimensionsanalyse. DVS analyse af en matrix dimensioner.
-[^4]: Alle identitetsmatricer er 
+[^4]: Alle identitetsmatricer er baser
