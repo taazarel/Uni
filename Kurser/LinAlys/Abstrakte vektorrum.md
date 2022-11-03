@@ -119,8 +119,25 @@ $\vec{o}=r_{1}\vec{v_{1}}+...+r_{i-1}\vec{v_{i-1}}-\vec{v_{i}}+r_{i+1}\vec{v_{i+
 
 ## Sammenligningssætningen(3.15)
 
-Et vektorrum V $\vec{v_{1}},...,\vec{v_{m}}$ udspænder V og $\vec{w_{1}},...,\vec{w_{n}}$, der er lineært uafhængighed i V, da kan vi sige dette om størrelserne n og m... :: $m \geq n$.
+Et vektorrum V $\vec{v_{1}},...,\vec{v_{m}}$ udspænder V og $\vec{w_{1}},...,\vec{w_{n}}$, der er lineært uafhængig i V, da kan vi sige dette om størrelserne n og m... :: $m \geq n$.[^3]
+### Bevis
+Man kan bruge to matricer, en a matrix med mxn dimensioner og en c matrix med nx1 dimensioner.
+Derefter viser man en modstrid med at $\vec{w_{1}},...,\vec{w_{n}}$ ikke er lineært uafhængig. Og derfor at der skal være flere rækker m, end søjler n når der gauss-elimineres i w's familie.
 
+## Definition 3.12(Basis)
+
+Vi har en basis af vektorer $\vec{v_{1}},...,\vec{v_{n}}$ i V når... :: Den både udspænder og er lineært uafhængig.
+
+## Theorem 3.16
+Givet $\vec{v_{1}},...,\vec{v_{m}}\text{ og }\vec{w_{1}},...,\vec{w_{n}}$ er baser da er deres dimensioner... :: $n=m$ kvadratiske.
+Theorem 3.16 kan bevises med... :: Sammenligningssætningen.
+
+## Definition 3.13(Dimension)
+Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimensioner og vi kan skrive $dimV=n$
+### Eksempel
+dimensionen af $\mathbb{R}^{n}$ kan skrives som... :: $dim \mathbb{R}^{n}=n$ da vi kan skrive en identitetsmatrix som er nxn.[^4]
 
 [^1]: Men hvad nu hvis de x-værdier som man valgte havde løsninger? Så bruger vi eksemplet nedenunder.
 [^2]: Betyder: Hvis og KUN hvis.
+[^3]: Dette er dimensionsanalyse. DVS analyse af en matrix dimensioner.
+[^4]: Alle identitetsmatricer er 
