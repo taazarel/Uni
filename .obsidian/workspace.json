@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Arbejde.md",
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Arbejde.md"
+                "file": "Kurser/MekRel/Mindstevirkningsprincippet.md"
               }
             }
           },
@@ -164,10 +165,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edb6e0567aaf3687",
+  "active": "515c77a81852e7c4",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/MekRel/Arbejde.md",
+    "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Kurser/LinAlys/Regnepapir.md",
