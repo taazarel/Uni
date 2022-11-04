@@ -9,3 +9,11 @@ Så kan vi beregne et mål for uenighed
 $z=\frac{D}{\triangle_{D}}=n \sigma$ 
 Hvor $\sigma$ er standardafgivelsen. Vi siger så at forsøgene er $n \sigma$ forskellige.
 
+# Dataens validitet
+
+$$\chi ^{2}=\sum_{i=1}^{N}\left( \frac{data_{i}-teori_{i}}{\Delta_{data,i}}\right)^{2}$$
+Det er ikke x men chi.(udtalt ki). $\chi$ viser forholdet mellem teori og data.
+# Obhobningsloven
+$$\Delta f=\sqrt{\sum_{i=1}^{N} \left(\frac{\delta f}{\delta \alpha_{i}}\cdot \Delta \alpha_{i}\right)^{2}}$$
+Hvor $\alpha$ er alle de forskellige dimensioner. 
+Der kan være dominerende led i usikkerheden. Man kan finde den relative usikkerhed ved at tage $\Delta \frac{f}{\alpha_{i}}$

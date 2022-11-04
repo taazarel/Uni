@@ -11,8 +11,12 @@
             "id": "28d0af1c6cf8d578",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Usikkerhed og Statistik.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Arbejde.md",
+                "file": "Kurser/MekRel/Usikkerhed og Statistik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Arbejde.md"
+                "file": "Kurser/MekRel/Usikkerhed og Statistik.md"
               }
             }
           },
@@ -146,10 +150,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "477e1a55f44a8a4f",
+  "active": "28d0af1c6cf8d578",
   "lastOpenFiles": [
-    "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Kurser/MekRel/Arbejde.md",
+    "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/LinAlys/Regnepapir.md",
