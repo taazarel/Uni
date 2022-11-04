@@ -20,7 +20,7 @@ $n=3 \text{ , } h(x,y,z)=ax+by+cz+d$
 En affin funktion kan kaldes for en lineær funktion når $d=0$, men dette er grunden... :: $d=0$, da dette gør grafen af den lineære funktion til et underrum. Vi kan skrive $\vec{0}\in \{\vec{x}+r \vec{v}+s \vec{w}|r,s \in \mathbb{R} \}$.
 <!--SR:!2022-11-06,4,270-->
 Grafen for en affin funktion er... :: hyperplan.
-<!--SR:!2022-11-03,1,230-->
+<!--SR:!2022-11-07,3,230-->
 Man kan definere en hyperplan som... :: en graf som har n-1 dimensioner fra den n dimension vi arbejder i.
 <!--SR:!2022-11-06,4,270-->
 ### Eksempel:
@@ -32,7 +32,7 @@ $h(x)=3x+2$ Dette er stadigvæk ikke en lineær funktion da $d \neq 0$
 Vi har en tangering af to funktioner $f,g$ af n variabler og $\vec{a}\in D_{f}\cap D_{g}$ når... :: $$f(\vec{a})-g(\vec{a})$$ og $$\lim_{\vec{x}\to\vec{a}} \frac{f(\vec{x})-g(\vec{x})}{||\vec{x}-\vec{a}||}=0$$
 <!--SR:!2022-11-05,3,250-->
 Hvad kalder man det hvis funktionen f tangerer en affin funktion h i a... :: at grafen for f har en tangenthyperplan givet ved grafen af h.
-<!--SR:!2022-11-03,1,230-->
+<!--SR:!2022-11-05,1,210-->
 
 ## Sætning 2.62(Entydighed af tangentplan)
 Entydighed af en tangenthyperplan betyder blot at... :: Der kan højst være **en** tangenthyperplan af 2 funktioner.
@@ -51,7 +51,7 @@ Man definerer en tangenthyperplan h som en affin funktion matematisk således...
 
 ## Definition 2.67(Differentiabilitet af funktioner af flere variabler)
 En funktion f er diffrentiabel i et indre punkt $\vec{a}$ i $D_{f}$ hvis... :: der findes en affin funktion der tangerer f i det punkt.
-<!--SR:!2022-11-03,1,230-->
+<!--SR:!2022-11-05,1,210-->
 En 
 funktion $C^{1}$ medfører at... :: Funktionen er differentiabel.
 <!--SR:!2022-11-06,4,270-->

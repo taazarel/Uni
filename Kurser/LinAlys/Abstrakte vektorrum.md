@@ -5,7 +5,7 @@ Disse antagelser skal være til stede for at man kan benytte sig af ekstremalvæ
 <!--SR:!2022-11-21,19,290-->
 
 Man kan finde lineær uafhængighed ved at gausseliminere til reduceret echelon form, men hvordan er det sandt... :: Det er sandt fordi lineær uafhængighed er defineret som at spannet af vektorene kun har én måde at finde nulvektoren på. nemlig $r_{1}(1,1,0)+r_{2}(1,0,1)+r_{3}(0,1,1)=(0,0,0)$ medfører at $r_{1}=r_{2}=r_{3}=0$.
-<!--SR:!2022-11-04,2,250-->
+<!--SR:!2022-11-10,6,270-->
 
 
 # Dagsplan
@@ -126,6 +126,7 @@ Derefter viser man en modstrid med at $\vec{w_{1}},...,\vec{w_{n}}$ ikke er line
 ## Definition 3.12(Basis)
 
 Vi har en basis af vektorer $\vec{v_{1}},...,\vec{v_{n}}$ i V når... :: Den både udspænder og er lineært uafhængig.
+<!--SR:!2022-11-08,4,274-->
 
 ## Theorem 3.16
 Givet $\vec{v_{1}},...,\vec{v_{m}}\text{ og }\vec{w_{1}},...,\vec{w_{n}}$ er baser da er deres dimensioner... :: $n=m$ kvadratiske.
@@ -133,6 +134,7 @@ Theorem 3.16 kan bevises med... :: Sammenligningssætningen.
 
 ## Definition 3.13(Dimension)
 Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimensioner og vi kan skrive $dimV=n$
+<!--SR:!2022-11-08,4,274-->
 ### Eksempel
 dimensionen af $\mathbb{R}^{n}$ kan skrives som... :: $dim \mathbb{R}^{n}=n$ da vi kan skrive en identitetsmatrix som er nxn.[^4]
 
@@ -143,6 +145,7 @@ Et uendeligt vektorrum defineres som...
 ?
 Et vektorrum med en endelig base.
 Alt som ikke er et endeligt vektorrum
+<!--SR:!2022-11-08,4,274-->
 
 ## 3.17 (Udtyndningslemmaet)
 Vektorrummet V udspændes af familien $\vec{v_{1}},...,\vec{v_{n}}$ givet $\vec{v_{j}}$ kan skrives som en linearkombination af de andre kan vi omdefinere til... :: $V=span \{\vec{v_{1}},...,\vec{v_{n}}  \}\cap \vec{v_{j}}$. Hvis $\vec{v_{1}}=\vec{v_{j}}$ kunne vi skrive; $V=span \{\vec{v_{2}},...,\vec{v_{n}} \}$
@@ -162,6 +165,7 @@ Udvidelsesalgoritmen
 
 ## Sætning 3.22
 Vi har $dim V=n$ og $\vec{v_{1}},...,\vec{v_{n}}$ er det en base hvis... :: den enten udspænder V eller er [[#Definition 3.8 (Lineær uafhængighed)|lineært uafhængig]].[^5]
+<!--SR:!2022-11-07,3,254-->
 
 ## Definition 3.24 (Koordinater)
 Givet er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, som en ordnet basis for vektorrummet V kan vi definere $\vec{v}\in V$ som... :: $\vec{v}=r_{1}\vec{u_{1}}+...+r_{n}\vec{u_{n}}$, som en linearkombination. Dette kan omformuleres til... :: $$[\vec{v}]_{B}=\left[
