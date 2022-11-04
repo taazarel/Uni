@@ -74,6 +74,7 @@ Princip: Tangenten til niveaukurven er niveaukurven til den tangerende affine fu
 
 ## Definition 2.72 (Tangent til niveaukurven)
 Givet er en $C^{1}$ funktion og punktet $\vec{a}\in D_{f}$. Så vil tangenten til niveaukurven i $\vec{a}$ være... :: $f(\vec{a})+\nabla f(\vec{a})\cdot (\vec{x}-\vec{a})=f(\vec{a})$.[^3]
+<!--SR:!2022-11-08,4,275-->
 
 
 [^1]: Hvis d=0 så kaldes dette for en lineær funktion
