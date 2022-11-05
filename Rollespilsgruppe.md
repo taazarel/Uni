@@ -2,5 +2,14 @@
 
 - Lucina
 - Adam
-- Erik?
-- 
+- Sejr
+- Stella
+- Mols
+
+## Interesserede
+- Erik
+- Patrick
+- Sylle
+- Arnulf Johannes S.N.
+- Jonas F.P
+- Frederik Finderup
