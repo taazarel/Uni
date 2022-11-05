@@ -1,0 +1,4 @@
+# Liste af medlemmer
+
+- Lucina
+- 

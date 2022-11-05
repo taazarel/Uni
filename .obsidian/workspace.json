@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fba16bd24f8ed545",
+        "id": "ccc04313e688a085",
         "type": "tabs",
         "children": [
           {
-            "id": "28d0af1c6cf8d578",
+            "id": "5f475ea9f3a2b30d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/MekRel/Usikkerhed og Statistik.md",
+                "file": "Kurser/MekRel/Arbejde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c091086a882056ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Formelsamling.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,6 +33,24 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "275ee2089b32fc86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4214b50ff9bb8bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rollespilsgruppe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "basis",
+                "query": "tag:#forelæsning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 300
   },
   "right": {
     "id": "f67102a27132052b",
@@ -102,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Usikkerhed og Statistik.md",
+                "file": "Rollespilsgruppe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Usikkerhed og Statistik.md"
+                "file": "Rollespilsgruppe.md"
               }
             }
           },
@@ -147,20 +177,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "28d0af1c6cf8d578",
+  "active": "4214b50ff9bb8bac",
   "lastOpenFiles": [
     "Kurser/MekRel/Arbejde.md",
-    "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
-    "Kurser/LinAlys/Tangetplaner.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Assets/Excalidraw/Regnepapir 2022-11-03 09.39.46.excalidraw.md",
+    "Rollespilsgruppe.md",
     "Kurser/MekRel/Formelsamling.md",
-    "Kurser/LinAlys/Retningsafledte.md",
-    "Assets/Excalidraw/Regnepapir 2022-11-01 09.38.29.excalidraw.md",
-    "RØ 01-11-2022.excalidraw.md"
+    "Assets/Excalidraw/Arbejde 2022-10-30 17.00.05.excalidraw.md",
+    "Assets/Excalidraw/Arbejde 2022-10-30 17.03.20.excalidraw.md",
+    "Kurser/LinAlys/Funktioner af flere variable.md",
+    "conflict-files-obsidian-git.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
+    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md"
   ]
 }
