@@ -48,7 +48,20 @@ En punktpartikel som bevæger sig i en cirkel vil altid have den samme buelængd
 Vinkelhastigheden bliver ændret af snorlængden således... :: vinkelhast skrives $\omega = \frac{\Delta \theta}{\Delta t}$ Så hvis vi har en mindre længde, bliver vinklen større og så bliver hastigheden større.
 Vi kan omskrive den kinetiske energi til et udtryk af vinkelhastigheden... :: $K= \frac{1}{2}mv^{2}= \frac{1}{2}m (r \omega )^{2}$ Som vi også kan skrive som $\frac{1}{2}(mr^{2})\omega ^{2}$ (7.17)[^12]
 Den rotationskinetiske energi skrives som... :: $K_{ro}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.18)
-Ligningen af rotationsinertien for en punkt-partikel er... :: $I=mr^{2}$
+Ligningen af rotationsinertien for en punkt-partikel er... :: $I=mr^{2}$ (7.19)
+Rotationskinetiske energi som en generel formel... :: bliver skrevet som $$K=\left(\sum_{i}^{N}(\delta m_{i}r_{i}^{2})\right)\omega ^{2}=\frac{1}{2}I_{Q}\omega ^{2}$$ (7.20+7.21)[^13]
+Inertimomentet $I_{Q}$ i (7.20) kan også integreres til... :: $I_{Q}=\int_{}^{} r^{2}dm$ (7.23)[^14]
+
+For jævn massefordeling i legemer kan vi skrive deres inertimoment som dette
+Den generelle løsning: $I_{Q}=\int_{}^{} r^{2}dm$
+I en dimension...
+I to dimensioner...
+I tre dimensioner...
+?
+$I_{Q}=\lambda \int_{}^{} x^{2}dx$ hvor $\lambda = \frac{dm}{dx}$ hvilket beskriver massefordelingen per længdeenhed dx. $\lambda$ er konstant. (7.24)
+$I_{Q}=\sigma \int_{}^{} r^{2}dA$ hvor $\sigma= \frac{dm}{dA}$, sigma er massefordelingen over et areal. A er arealet. (7.25)
+$I_{Q}=\rho \int_{}^{} r^{2}dV$ hvor $\rho = \frac{dm}{dV}$, rho er massefordelingen over en volumen, V er volumen. (7.26)
+
 
 
 ## Rotationskinetisk [[energi]] (7.5)
@@ -68,3 +81,5 @@ Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså b�
 [^10]: Disse er defineret som, fra top til bund (7.7),(7.8) og (7.9)
 [^11]: hvilket bare betyder at deres buelængde er bevaret, selvom snorlængden og vinklen ikke er. Vi kan også vise dette ved $s=v \Delta t$ Ergo hvis deres hastighed er det samme, og vi kigger på det samme tidsstep er buelængden det samme.
 [^12]: Vi kan nemlig skrive $(mr^{2})\omega ^{2}$ som $I_{Q}$ hvilket er brugbart i  (7.18)
+[^13]: Den sidste del kan vi skrive da vi ser på vinkelhastigheden i stedet for hastigheden og radius af alle de forskellige punkter.  
+[^14]: Dette er den generelle løsning, men vi kan forbedre den hvis vi har et legeme som har en vis symmetri.
