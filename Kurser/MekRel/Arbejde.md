@@ -4,7 +4,7 @@ Begyndelsesdato: 16:21   30-10-2022   Uge-43
 ## Spørgsmål
 I 6.4.1, hvorfor skal vi ikke se på den potentielle energi i systemet? Den ændres jo da barnet bliver løftet opad.
 Er der ikke også en fortegnsfejl i opgaven, specifikt (6.28)
-## [[Kraft]] og [[energi]] (6.1)
+## [[Kraft]] og [[energi]] [6.1]
 
 Arbejde(Eller energiligningen) beskrives som... :: energiændringen af systemet når det bliver påvirket af en ydre kraft: $W=\triangle E=\triangle K+\triangle U$.
 <!--SR:!2022-11-14,10,250-->
@@ -25,7 +25,7 @@ Kraftens arbejde er positivt når... :: kraften peger samme vej som forskydninge
 <!--SR:!2022-11-18,14,290-->
 Kraftens arbejde er negativt når... :: kraften peger modsatte vej af forskydningen af kontaktpunktet ![[Arbejde 2022-10-30 17.00.05.excalidraw]]
 <!--SR:!2022-11-20,16,290-->
-## Matematisk beskrivelse af arbejde (6.2)
+## Matematisk beskrivelse af arbejde [6.2]
 
 Man kan beskrive $\Delta K$ som en kraft gennem dette udtryk... :: $\Delta K=ma_{CM,x}(v_{x,i}+ \frac{1}{2}a_{CM,x}(\Delta t)^{2})=ma_{CM,x}\Delta x_{F}=F_{x}\Delta x_{F}$.
 <!--SR:!2022-11-21,17,297-->
@@ -51,7 +51,7 @@ $W=\vec{F_{x}}\cdot \Delta \vec{x_{F}}$
 $W=\sum \vec{F_{x}}\cdot \Delta \vec{x_{F}}$ Denne ligning kaldes også *Arbejdssætningen* for en partikel.
 <!--SR:!2022-11-21,17,297-->
 
-## Valg af system (6.3)
+## Valg af system [6.3]
 **Her menes der systemer som i systemer af elementer ikke koordinater**
 
 Valg af system er vigtigt da... :: Man kan få vidt forskellige arbejde ud fra det system man vælger[^4]
@@ -65,7 +65,7 @@ En kraft udfører arbejde når... :: den ikke er med i systemet.
 Kræfter er kræfter på systemet hvis de er ydre, men hvis de er indre så behandles de som... :: Energiformer, både fjederkraften og tyngdekraften bliver til potentiel energi.
 <!--SR:!2022-11-19,15,297-->
 
-## Arbejdet udført af tyngdekraften (6.4)
+## Arbejdet udført af tyngdekraften [6.4]
 
 Tyngdekraftens arbejde er positiv når... :: Systemet falder. Og hvis systemet stiger fra jordens overflade ville det være negativt. Dette er sandt da retningen af forskydningen er den modsatte retning af kraften.
 <!--SR:!2022-11-17,13,297-->
@@ -74,7 +74,7 @@ Vi kan udlede potentielgravitationsenergi gennem arbejdet ved at se på et falde
 
 
 
-## Konservativ Kraft (6.5)
+## Konservativ Kraft [6.5]
 
 (Sandt eller falskt) Når vi kigger på arbejdet af en kraft skal vi se på hele distance rejst... :: Trick spørgsmål. Det kommer an på om vi har en konservativ kraft eller ej.[^6]
 <!--SR:!2022-11-17,13,297-->
@@ -86,7 +86,7 @@ Tyngdekraften, Fjederkraften
 Friktionskraften
 <!--SR:!2022-11-19,15,297-->
 
-## Arbejde Udført på et fler-partikel-system (6.6)
+## Arbejde Udført på et fler-partikel-system [6.6]
 
 Vi har et fler-partikel-system når... :: Et legeme er deformerbart, eller vi har flere partikler i systemet.
 <!--SR:!2022-11-05,3,266-->
@@ -111,7 +111,7 @@ Man kan skrive $\Delta K_{CM}$ som dette for konstante kræfter som virker i én
 Generelt gælder det at $\Delta K=\Delta K_{CM}+\Delta K_{konvert}$ men for et flerpartikelsystem kan vi sige... :: $\Delta K_{konvert}\neq 0$ modsat end i et punkt-partikel-system $\Delta K_{konvert}=0$.
 <!--SR:!2022-11-05,3,266-->
 
-## Arbejde udført af variable og fordelte kræfter (6.7)
+## Arbejde udført af variable og fordelte kræfter [6.7]
 
 En variabel kraft er... :: en kraft som ændrer sin værdi over en størrelse, fx fjederkraften.
 <!--SR:!2022-11-08,4,297-->
@@ -130,7 +130,7 @@ Hvis arbejdet fra tyngdekraften er nul og partiklen ikke deformeres så bliver  
 Friktionskraften kan beskrives ved... :: $\Delta E_{TH}=F_{x}^{f}d$
 <!--SR:!2022-11-08,4,297-->
 
-## Effekt - luminositet (6.8)
+## Effekt - luminositet [6.8]
 
 Effekt defineres således
 i gennemsnit...
@@ -143,7 +143,7 @@ $P= \frac{dE}{dt}=[W]$
 Når kraft er konstant kan effekten omskrives til... :: $P=F_{ydre}v_{x,gns}$
 <!--SR:!2022-11-07,3,277-->
 
-## Bevæget inertialsystem (6.9)
+## Bevæget inertialsystem [6.9]
 
 Hvorfor er det ikke et problem med forskellige inertialsystemer når vi ser på arbejde? :: Dette er fordi vi måler energiændringen i systemet, $W=\Delta K$ er altid sandt, talværdien er ikke.
 <!--SR:!2022-11-08,4,297-->

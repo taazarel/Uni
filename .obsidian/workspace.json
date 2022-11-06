@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rotationsmekanik.md",
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rotationsmekanik.md",
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rotationsmekanik.md"
+                "file": "Kurser/MekRel/Rotationsmekanik.md"
               }
             }
           },
@@ -154,14 +154,14 @@
   "active": "30ab5c5b825450b4",
   "lastOpenFiles": [
     "Kurser/MekRel/Formelsamling.md",
+    "Kurser/LinAlys/Huskeregler.md",
+    "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/MekRel/Arbejde.md",
     "Rollespilsgruppe.md",
     "Assets/Excalidraw/Arbejde 2022-10-30 17.00.05.excalidraw.md",
     "Assets/Excalidraw/Arbejde 2022-10-30 17.03.20.excalidraw.md",
     "Kurser/LinAlys/Funktioner af flere variable.md",
     "conflict-files-obsidian-git.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 6.md",
-    "Hjælpemidler/Periodic Notes/Daily/17-10-2022 Uge 42.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 5.md"
+    "Kurser/LinAlys/Afleveringer/Pointopgave 6.md"
   ]
 }

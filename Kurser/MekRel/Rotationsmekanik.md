@@ -1,6 +1,9 @@
 # Spørgsmål
 Hvorfor kan vi egentligt reducere til (7.2)?
 Kig på nogle videoer om hvordan (7.1) udledes.
+Hvad mener i egentligt med "Analogt"?
+burde der ikke være to prikker over theta under (7.6)?
+
 # Kapitel 7, rotationsmekanik.
 ## Definitioner (7.1)
 At dreje beskrives som... :: Bevægelse af et legeme omkring en ydre akse med en given afstand
@@ -22,11 +25,28 @@ Centrifugalkraften bliver defineret som en fiktiv kraft, som er... :: en kraft m
 
 
 ## Rotations[[kinematik]] (7.3)
+For at gøre det lettere for os selv kan vi oversætte bevægelsen i et polært koordinatsystem som... :: $s=\theta r$[^7] hvor s er buestykkets længde.
+Den tidsafledte (7.4) skrives som... :: $\dot s=r \dot \theta$ hvor vi kan skrive $\dot \theta =\omega$ altså vinkelhastigheden og $\dot s=v_{t}$ altså den tangentielle fart.[^8]
+Vi kan finde $a_{t}$ ved at differentiere den tangentielle fart... :: $a_{t}=r \alpha$[^9]
+
+Disse er omregningerne fra de kartetiske koordinater til polære
+$x \to$
+$v=\frac{dx}{dt}=\dot x \to$
+$a=\frac{dv}{dt}=\dot v \to$
+?
+$\theta$
+$\omega =  \frac{d\theta}{dt}=\dot \theta$
+$\alpha = \frac{d\omega}{dt}=\dot \omega$[^10]
+
+Så længe man har konstant acceleration og husker at skifte koordinatsystem så kan vi... :: bruge vores kinematik på præcis den samme metode som normalt.
 
 
 ## [[Inerti]] og Inertimoment/Rotationsinerti (7.4)
+![[Rotationsinerti.png]]
 
 ## Rotationskinetisk [[energi]] (7.5)
+Hvis vi har $\omega, I_{Q} \text{ og } Q$ som er vinkelhastigheden, inertimomentet og omdrejningsaksen, bliver den kinetiske energi så... :: $K_{rot}=\frac{1}{2}I_{Q}\omega ^{2}$
+
 
 
 ## Fodnoter
@@ -37,3 +57,7 @@ Centrifugalkraften bliver defineret som en fiktiv kraft, som er... :: en kraft m
 [^4]: Hvor $\hat r$ er enhedsvektoren for stedvektoren. Som starter i origo og peger mod legemet. (7.1)
 [^5]: Dette kaldes også (7.2)
 [^6]: (7.3)
+[^7]: (7.4)
+[^8]: Vi kan herved skrive ligningen som $v_{t}=r \omega$ (7.5)
+[^9]: (7.6)
+[^10]: Disse er defineret som, fra top til bund (7.7),(7.8) og (7.9)
