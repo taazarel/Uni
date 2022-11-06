@@ -62,7 +62,8 @@ $I_{Q}=\lambda \int_{}^{} x^{2}dx$ hvor $\lambda = \frac{dm}{dx}$ hvilket beskri
 $I_{Q}=\sigma \int_{}^{} r^{2}dA$ hvor $\sigma= \frac{dm}{dA}$, sigma er massefordelingen over et areal. A er arealet. (7.25)
 $I_{Q}=\rho \int_{}^{} r^{2}dV$ hvor $\rho = \frac{dm}{dV}$, rho er massefordelingen over en volumen, V er volumen. (7.26)
 
-
+Parallelakseteoremet beskriver sammenhængen mellem aksen for massemidtpunktet $I_{CM}$ og en vilkårlig parallel akse $I_{Q}$ således... :: $I_{Q}=I_{CM}+md^{2}$ (7.43)[^15]
+Vinkelretakseteoremet viser sammenhængen mellem alle inertimomenterne over akserne i et tredimensionelt rum... :: $I_{z}=I_{x}+I_{y}$ (7.44) givet at vi har et legeme som er tæt på at være plan. dvs: $dz<<dx,dy$ 
 
 ## Rotationskinetisk [[energi]] (7.5)
 Hvis vi har $\omega, I_{Q} \text{ og } Q$ som er vinkelhastigheden, inertimomentet og omdrejningsaksen, bliver den [[#Inerti og Inertimoment/Rotationsinerti (7.4)|rotationskinetiske]] energi så... :: $K_{rot}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.45)
@@ -83,3 +84,4 @@ Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså b�
 [^12]: Vi kan nemlig skrive $(mr^{2})\omega ^{2}$ som $I_{Q}$ hvilket er brugbart i  (7.18)
 [^13]: Den sidste del kan vi skrive da vi ser på vinkelhastigheden i stedet for hastigheden og radius af alle de forskellige punkter.  
 [^14]: Dette er den generelle løsning, men vi kan forbedre den hvis vi har et legeme som har en vis symmetri.
+[^15]: Hvor d er distance mellem de to akser og m er inertien.
