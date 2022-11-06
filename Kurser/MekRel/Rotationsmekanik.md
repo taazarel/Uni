@@ -44,13 +44,12 @@ Så længe man har konstant acceleration og husker at skifte koordinatsystem så
 ## [[Inerti]] og Inertimoment/Rotationsinerti (7.4)
 ![[Rotationsinerti.png]]
 
+
 ## Rotationskinetisk [[energi]] (7.5)
-Hvis vi har $\omega, I_{Q} \text{ og } Q$ som er vinkelhastigheden, inertimomentet og omdrejningsaksen, bliver den kinetiske energi så... :: $K_{rot}=\frac{1}{2}I_{Q}\omega ^{2}$
-
-
+Hvis vi har $\omega, I_{Q} \text{ og } Q$ som er vinkelhastigheden, inertimomentet og omdrejningsaksen, bliver den [[#Inerti og Inertimoment/Rotationsinerti (7.4)|rotationskinetiske]] energi så... :: $K_{rot}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.45)
+Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså både vores translationsenergi og rotationsenergi i formlen... :: $K_{tot}=K_{CM}+K_{rot}= \frac{1}{2}mv^{2}+ \frac{1}{2}I_{Q}\omega^{2}$. (7.46)
 
 ## Fodnoter
-
 [^1]: Dette kaldes også tangential-hastigheden $\vec{v_{t}}$
 [^2]: Jo mindre r, desto højere kraft.
 [^3]: Centripetal betyder center-søgende på latin.
