@@ -133,7 +133,7 @@ Vi har en basis af vektorer $\vec{v_{1}},...,\vec{v_{n}}$ i V når... :: Den bå
 Givet $\vec{v_{1}},...,\vec{v_{m}}\text{ og }\vec{w_{1}},...,\vec{w_{n}}$ er baser da er deres dimensioner... :: $n=m$ kvadratiske.
 <!--SR:!2022-11-08,4,283-->
 Theorem 3.16 kan bevises med... :: Sammenligningssætningen.
-<!--SR:!2022-11-07,3,260-->
+<!--SR:!2022-11-16,9,280-->
 
 ## Definition 3.13(Dimension)
 Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimensioner og vi kan skrive $dimV=n$
@@ -160,7 +160,7 @@ Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde f
 <!--SR:!2022-11-08,4,284-->
 ### Bevis
 Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers kan vi bruge... :: Udtyndingslemmaet da $dim V<n$ og derfor er $\vec{v_{1}},...,\vec{v_{n}}$ ikke lineært uafhængig. Så bruger vi bare 3.17. indtil $dim V=n$
-<!--SR:!2022-11-05,1,240-->
+<!--SR:!2022-11-15,8,260-->
 
 ## 3.19 (Udvidelseslemmaet)
 Hvis vi har et span som $\vec{v_{n+1}}\notin span \{\vec{v_{1}},...,\vec{v_{n}} \}$ hvor spannet er lineært uafhængigt så vil spannet inkluderende $\vec{v_{n+1}}$... :: $\vec{v_{1}},...,\vec{v_{n}},\vec{v_{n+1}}$ være lineært uafhængigt.
@@ -174,11 +174,11 @@ Udvidelsesalgoritmen
 
 ## Sætning 3.22
 Vi har $dim V=n$ og $\vec{v_{1}},...,\vec{v_{n}}$ er det en base hvis... :: den enten udspænder V eller er [[#Definition 3.8 (Lineær uafhængighed)|lineært uafhængig]].[^5]
-<!--SR:!2022-11-07,3,254-->
+<!--SR:!2022-11-16,9,274-->
 
 ## Definition 3.24 (Koordinater)
 Givet er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, som en ordnet basis for vektorrummet V kan vi definere $\vec{v}\in V$ som... :: $\vec{v}=r_{1}\vec{u_{1}}+...+r_{n}\vec{u_{n}}$, som en linearkombination. Dette kan omformuleres til... :: $[\vec{v}]_{B}=\left[\begin{array}{c}r_{1} \\:\\r_{n}\end{array}\right] \in \mathbb{R}^{n}$
-<!--SR:!2022-11-07,3,263-->
+<!--SR:!2022-11-16,9,283-->
 
 
 

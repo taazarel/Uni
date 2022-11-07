@@ -89,9 +89,9 @@ Friktionskraften
 ## Arbejde Udført på et fler-partikel-system [6.6]
 
 Vi har et fler-partikel-system når... :: Et legeme er deformerbart, eller vi har flere partikler i systemet.
-<!--SR:!2022-11-05,3,266-->
+<!--SR:!2022-11-26,19,286-->
 Arbejdet i et fler-partikel-system bliver beskrevet således... :: $$W_{tot}=W_{1}+W_{2}+...+W_{n}=\sum_{i=1}^{N}W_{i}$$ så længe at den enkelte kraft $F_{i}$ skaber en forskydning.
-<!--SR:!2022-11-05,3,266-->
+<!--SR:!2022-11-28,21,286-->
 
 En ydre kraft vil altid påvirke... :: Massemidtpunktet med en forskydelse ogen acceleration. (Husk at kraften ikke behøver at udøve arbejde)
 <!--SR:!2022-11-05,3,266-->
@@ -122,9 +122,9 @@ Ved variable kræfter kan man ikke bruge $W=F \Delta x$, så vi benytter os af..
 Integralet for variable kræfter kan reduceres til dette når vi har en kraft som virker på en fjeder... :: $W=\frac{1}{2}k(x-x_{i})^{2}$[^8]
 <!--SR:!2022-11-08,4,297-->
 Vi kan beskrive hastigheden af en punkt-partikel som bremses af en fjeder således... :: $v_{f}=\sqrt{v_{i}^{2}- \frac{k(x_{f}-x_{i})^{2}}{m}}$ 
-<!--SR:!2022-11-07,3,277-->
+<!--SR:!2022-11-09,2,257-->
 Friktionskraften burde altid skrives som... :: En termisk energiændring, da den aldrig vil forskyde kontaktpunktet.
-<!--SR:!2022-11-07,3,277-->
+<!--SR:!2022-11-19,12,297-->
 Hvis arbejdet fra tyngdekraften er nul og partiklen ikke deformeres så bliver  varmeenergien af friktion i et lukket system til...  ::  $\Delta E_{TH}=- \Delta K$.
 <!--SR:!2022-11-08,4,297-->
 Friktionskraften kan beskrives ved... :: $\Delta E_{TH}=F_{x}^{f}d$
@@ -141,7 +141,7 @@ $P= \frac{dE}{dt}=[W]$
 <!--SR:!2022-11-08,4,297-->
 
 Når kraft er konstant kan effekten omskrives til... :: $P=F_{ydre}v_{x,gns}$
-<!--SR:!2022-11-07,3,277-->
+<!--SR:!2022-11-09,2,257-->
 
 ## Bevæget inertialsystem [6.9]
 
@@ -155,6 +155,7 @@ Hvorfor er det ikke et problem med forskellige inertialsystemer når vi ser på 
 Hvis F=240 N, m=50g, Vf=30m/s
 Hvad er så $\Delta x_{F}$?
 $W=\Delta K=F \Delta x_{f}-0$ bliver så til$\frac{1}{2}0.05*30^{2}=22,5 J=F \Delta x_{f}\Rightarrow \Delta x_{f}=\frac{22.5}{240}=0.09 m$
+
 
 
 # Fodnoter
