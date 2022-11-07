@@ -11,6 +11,7 @@ At dreje beskrives som... :: Bevægelse af et legeme omkring en ydre akse med en
 At rotere beskrives som... :: Bevægelse af et legeme omkring sig selv, altså en bevægelse omkring akserne i massemidtpunktet.
 Vi bruger ofte polære koordinater til drejende legemer med disse størrelser... :: $\theta$ som vinklen mellem akserne og længden fra origo r og retningen af stedvektoren $\vec{r}$.
 Hvis vi har et legeme med jævn cirkelbevægelse kan vi bruge et bevægende koordinatsystem til at... :: beskrive legemet i origo, som legemet drejer sig om som et roterende legeme.
+<!--SR:!2022-11-11,4,272-->
 Ved jævn cirkelbevægelse har det drejende legeme... :: konstant fart og en hastighedsvektor parallel med den tangentiale akse.[^1]
 
 
@@ -23,6 +24,7 @@ Centripetal-accelerationen $\vec{a}_{c}$ er givet ved... :: $\vec{a_{c}}=- \frac
 Fordi centripetal-accelerationen er parallel med $\hat r=\vec{r}$ så kan vi skrive værdien af $\vec{a_{c}}$ som... :: $a_{c}=|\vec{a_{c}}|= \frac{\vec{v_{t}}^{2}}{r}$.[^5]
 <!--SR:!2022-11-08,1,230-->
 Ikke jævne cirkelbaner har også en anden acceleration som hedder... :: tangentiel-accelerationen $a_t$.
+<!--SR:!2022-11-11,4,272-->
 Ujævne cirkelbevægelser er defineret som... :: cirkelbevægelser som ikke har konstant hastighed.
 Tangentiel-accelerationen $a_{t}$ er givet ved... :: $a_{t}= \frac{d \vec{v_{t}}}{dt}$[^6]
 <!--SR:!2022-11-10,3,250-->
@@ -33,6 +35,7 @@ Centrifugalkraften bliver defineret som en fiktiv kraft, som er... :: en kraft m
 For at gøre det lettere for os selv kan vi oversætte bevægelsen i et polært koordinatsystem som... :: $s=\theta r$[^7] hvor s er buestykkets længde.
 <!--SR:!2022-11-11,4,270-->
 Den tidsafledte (7.4) skrives som... :: $\dot s=r \dot \theta$ hvor vi kan skrive $\dot \theta =\omega$ altså vinkelhastigheden og $\dot s=v_{t}$ altså den tangentielle fart.[^8]
+<!--SR:!2022-11-10,3,252-->
 Vi kan finde $a_{t}$ ved at differentiere den tangentielle fart... :: $a_{t}=r \alpha$[^9]
 
 Disse er omregningerne fra de kartetiske koordinater til polære
@@ -75,6 +78,7 @@ Vinkelretakseteoremet viser sammenhængen mellem alle inertimomenterne over akse
 
 ## Rotationskinetisk [[energi]] (7.5)
 Hvis vi har $\omega, I_{Q} \text{ og } Q$ som er vinkelhastigheden, inertimomentet og omdrejningsaksen, bliver den [[#Inerti og Inertimoment/Rotationsinerti (7.4)|rotationskinetiske]] energi så... :: $K_{rot}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.45)
+<!--SR:!2022-11-11,4,272-->
 Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså både vores translationsenergi og rotationsenergi i formlen... :: $K_{tot}=K_{CM}+K_{rot}= \frac{1}{2}mv^{2}+ \frac{1}{2}I_{Q}\omega^{2}$. (7.46)
 <!--SR:!2022-11-11,4,270-->
 
