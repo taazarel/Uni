@@ -1,12 +1,12 @@
 # Liste af medlemmer
 
-- Lucina
-- Adam
-- Sejr
-- Stella
-- Mols
-- Raith
-- Ellen
+- [x] Lucina
+- [x] Adam
+- [x] Sejr
+- [x] Stella
+- [ ] Mols
+- [x] Raith
+- [ ] Ellen
 
 ## Interesserede?
 - Erik
