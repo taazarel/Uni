@@ -57,7 +57,7 @@ $W=\sum \vec{F_{x}}\cdot \Delta \vec{x_{F}}$ Denne ligning kaldes også *Arbejds
 Valg af system er vigtigt da... :: Man kan få vidt forskellige arbejde ud fra det system man vælger[^4]
 <!--SR:!2022-11-20,16,297-->
 Disse slags energier er vigtige at huske... :: Varmeenergi, indre energi. Disse to sker hvis man har friktion og et element som ikke er en punkt-partikel.
-<!--SR:!2022-11-06,4,237-->
+<!--SR:!2022-11-22,15,257-->
 Det er vigtigt at inkludere underlaget af et system når der er friktion, da... :: Friktion skaber varmeenergi på begge overflader som gnides mod hinanden. Men vi ved ikke hvordan denne er fordelt.
 <!--SR:!2022-11-18,14,297-->
 En kraft udfører arbejde når... :: den ikke er med i systemet.
@@ -94,7 +94,7 @@ Arbejdet i et fler-partikel-system bliver beskrevet således... :: $$W_{tot}=W_{
 <!--SR:!2022-11-28,21,286-->
 
 En ydre kraft vil altid påvirke... :: Massemidtpunktet med en forskydelse ogen acceleration. (Husk at kraften ikke behøver at udøve arbejde)
-<!--SR:!2022-11-05,3,266-->
+<!--SR:!2022-11-27,20,286-->
 
 Givet at krafterne er konstante, hvad bliver disse så?
 - Ændringen af et systems massemidtpunkts hastighed er...
@@ -104,12 +104,12 @@ Givet at krafterne er konstante, hvad bliver disse så?
 $\vec{v_{CM,f}}=\vec{v_{CM,i}}+\vec{a_{CM}}\Delta t$ 
 $\Delta \vec{x}_{CM}=\vec{v}_{CM,i}\Delta t+ \frac{1}{2}\vec{a_{CM}}\Delta t^{2}$
 $\Delta K_{CM}=\frac{1}{2}m_{tot}(v_{CM,f}^{2}-v_{CM,i}^{2})$
-<!--SR:!2022-11-05,3,266-->
+<!--SR:!2022-11-17,10,266-->
 
 Man kan skrive $\Delta K_{CM}$ som dette for konstante kræfter som virker i én dimension... :: $\Delta K_{CM}=\sum \vec{F}_{ydre,x}\Delta x_{CM}$[^7]
-<!--SR:!2022-11-05,3,266-->
+<!--SR:!2022-11-24,17,286-->
 Generelt gælder det at $\Delta K=\Delta K_{CM}+\Delta K_{konvert}$ men for et flerpartikelsystem kan vi sige... :: $\Delta K_{konvert}\neq 0$ modsat end i et punkt-partikel-system $\Delta K_{konvert}=0$.
-<!--SR:!2022-11-05,3,266-->
+<!--SR:!2022-11-18,11,266-->
 
 ## Arbejde udført af variable og fordelte kræfter [6.7]
 

@@ -7,6 +7,7 @@ burde der ikke være to prikker over theta under (7.6)?
 # Kapitel 7, rotationsmekanik.
 ## Definitioner (7.1)
 At dreje beskrives som... :: Bevægelse af et legeme omkring en ydre akse med en given afstand
+<!--SR:!2022-11-11,4,270-->
 At rotere beskrives som... :: Bevægelse af et legeme omkring sig selv, altså en bevægelse omkring akserne i massemidtpunktet.
 Vi bruger ofte polære koordinater til drejende legemer med disse størrelser... :: $\theta$ som vinklen mellem akserne og længden fra origo r og retningen af stedvektoren $\vec{r}$.
 Hvis vi har et legeme med jævn cirkelbevægelse kan vi bruge et bevægende koordinatsystem til at... :: beskrive legemet i origo, som legemet drejer sig om som et roterende legeme.
@@ -16,16 +17,21 @@ Ved jævn cirkelbevægelse har det drejende legeme... :: konstant fart og en has
 ## Cirkelbevægelse (7.2)
 For at vedligeholde en jævn cirkelbevægelse skal vi have... :: en kraft som påvirker legemet.[^2] 
 Accelerationen på et legeme i cirkelbevægelse bliver påvirket af... :: centripetalaccelerationen[^3] som peger mod centrum af cirklen.
+<!--SR:!2022-11-11,4,270-->
 Centripetal-accelerationen $\vec{a}_{c}$ er givet ved... :: $\vec{a_{c}}=- \frac{\vec{v_{t}}^{2}}{r}\hat{r}$ [^4]
+<!--SR:!2022-11-08,1,230-->
 Fordi centripetal-accelerationen er parallel med $\hat r=\vec{r}$ så kan vi skrive værdien af $\vec{a_{c}}$ som... :: $a_{c}=|\vec{a_{c}}|= \frac{\vec{v_{t}}^{2}}{r}$.[^5]
+<!--SR:!2022-11-08,1,230-->
 Ikke jævne cirkelbaner har også en anden acceleration som hedder... :: tangentiel-accelerationen $a_t$.
 Ujævne cirkelbevægelser er defineret som... :: cirkelbevægelser som ikke har konstant hastighed.
 Tangentiel-accelerationen $a_{t}$ er givet ved... :: $a_{t}= \frac{d \vec{v_{t}}}{dt}$[^6]
+<!--SR:!2022-11-10,3,250-->
 Centrifugalkraften bliver defineret som en fiktiv kraft, som er... :: en kraft man føler da man er i et accelereret koordinatsystem.
 
 
 ## Rotations[[kinematik]] (7.3)
 For at gøre det lettere for os selv kan vi oversætte bevægelsen i et polært koordinatsystem som... :: $s=\theta r$[^7] hvor s er buestykkets længde.
+<!--SR:!2022-11-11,4,270-->
 Den tidsafledte (7.4) skrives som... :: $\dot s=r \dot \theta$ hvor vi kan skrive $\dot \theta =\omega$ altså vinkelhastigheden og $\dot s=v_{t}$ altså den tangentielle fart.[^8]
 Vi kan finde $a_{t}$ ved at differentiere den tangentielle fart... :: $a_{t}=r \alpha$[^9]
 
@@ -47,7 +53,9 @@ Så længe man har konstant acceleration og husker at skifte koordinatsystem så
 En punktpartikel som bevæger sig i en cirkel vil altid have den samme buelængde per tidsstep til forskellige snorlængder da... :: vi kan skrive $s_{1}=s_{2}\Rightarrow r_{1}\theta_{1}=r_{2}\theta_{2}\Rightarrow \frac{r_{1}}{r_{2}}=\frac{\theta_{1}}{\theta_{2}}$ (7.14-7.15-7.16)[^11] 
 Vinkelhastigheden bliver ændret af snorlængden således... :: vinkelhast skrives $\omega = \frac{\Delta \theta}{\Delta t}$ Så hvis vi har en mindre længde, bliver vinklen større og så bliver hastigheden større.
 Vi kan omskrive den kinetiske energi til et udtryk af vinkelhastigheden... :: $K= \frac{1}{2}mv^{2}= \frac{1}{2}m (r \omega )^{2}$ Som vi også kan skrive som $\frac{1}{2}(mr^{2})\omega ^{2}$ (7.17)[^12]
+<!--SR:!2022-11-08,1,230-->
 Den rotationskinetiske energi skrives som... :: $K_{ro}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.18)
+<!--SR:!2022-11-11,4,270-->
 Ligningen af rotationsinertien for en punkt-partikel er... :: $I=mr^{2}$ (7.19)
 Rotationskinetiske energi som en generel formel... :: bliver skrevet som $$K=\left(\sum_{i}^{N}(\delta m_{i}r_{i}^{2})\right)\omega ^{2}=\frac{1}{2}I_{Q}\omega ^{2}$$ (7.20+7.21)[^13]
 Inertimomentet $I_{Q}$ i (7.20) kan også integreres til... :: $I_{Q}=\int_{}^{} r^{2}dm$ (7.23)[^14]
@@ -68,6 +76,7 @@ Vinkelretakseteoremet viser sammenhængen mellem alle inertimomenterne over akse
 ## Rotationskinetisk [[energi]] (7.5)
 Hvis vi har $\omega, I_{Q} \text{ og } Q$ som er vinkelhastigheden, inertimomentet og omdrejningsaksen, bliver den [[#Inerti og Inertimoment/Rotationsinerti (7.4)|rotationskinetiske]] energi så... :: $K_{rot}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.45)
 Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså både vores translationsenergi og rotationsenergi i formlen... :: $K_{tot}=K_{CM}+K_{rot}= \frac{1}{2}mv^{2}+ \frac{1}{2}I_{Q}\omega^{2}$. (7.46)
+<!--SR:!2022-11-11,4,270-->
 
 ## Fodnoter
 [^1]: Dette kaldes også tangential-hastigheden $\vec{v_{t}}$
