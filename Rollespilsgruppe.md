@@ -4,9 +4,9 @@
 - [x] Adam
 - [x] Sejr
 - [x] Stella
-- [ ] Mols
+- [x] Mols
 - [x] Raith
-- [ ] Ellen
+- [x] Ellen
 
 ## Interesserede?
 - Erik
