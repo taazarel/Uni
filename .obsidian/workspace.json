@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Arbejde.md",
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Arbejde.md"
+                "file": "Kurser/MekRel/Rotationsmekanik.md"
               }
             }
           },
@@ -164,12 +163,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fb05a824e9816cc",
+  "active": "7006ef3fd3a585b1",
   "lastOpenFiles": [
+    "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/MekRel/Usikkerhed og Statistik.md",
     "Rollespilsgruppe.md",
-    "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Tangetplaner.md",
