@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aabd2048e6157221",
+        "id": "3707b8815aa8b427",
         "type": "tabs",
         "children": [
           {
-            "id": "ad5aa1f298e23a80",
+            "id": "5eb480f71e738058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Komplekse tal.md",
+                "file": "Kurser/LinAlys/Komplekse tal.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Komplekse tal.md",
+                "file": "Kurser/LinAlys/Komplekse tal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Komplekse tal.md"
+                "file": "Kurser/LinAlys/Komplekse tal.md"
               }
             }
           },
@@ -151,8 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad5aa1f298e23a80",
+  "active": "5eb480f71e738058",
   "lastOpenFiles": [
+    "Assets/Excalidraw/Komplekse tal 2022-11-08 08.21.05.excalidraw.md",
+    "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/MekRel/Arbejde.md",
     "Rollespilsgruppe.md",
     "Kurser/MekRel/Rotationsmekanik.md",
@@ -160,8 +162,6 @@
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Tangetplaner.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Assets/Excalidraw/Regnepapir 2022-11-03 09.39.46.excalidraw.md",
-    "Kurser/MekRel/Formelsamling.md"
+    "Kurser/LinAlys/Regnepapir.md"
   ]
 }
