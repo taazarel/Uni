@@ -30,10 +30,11 @@ En god huskeregel er den udvidede form af $0\leq a^{2}+b^{2}\in \mathbb{R}=(a+ib
 ### Polarform
 Vi kan bruge polære koordinater til at vise $|z|$ bedre... :: ![[Komplekse tal 2022-11-08 09.06.42.excalidraw]] $|z|=r$ hvor $a=r \cos{\theta },b=r \sin{\theta }$.[^3]
 Definitionen af z i polarform er... :: $z=r \cos{\theta }+ir \sin{\theta }=re^{i \theta }$ 
+Vi kan definere r som... :: $r=\sqrt{a^{2}+b^{2}}$ 
 ### Sætning
 For alle $z,w \in \mathbb{C}$ så får vi $e^{z+w}=$... :: $e^{z}+e^{w}$.
 For eksponenter i eksponenter kan vi skrive... :: $(e^{z})^{n}=e^{z}_{1}\cdot ...\cdot e_{n}^{z}=e^{nz}$.
-Hvis vi har $z=i \theta $ så kan vi udvide til dette i polarform... :: $(\cos{\theta }+i \sin{\theta })^{n}=e^{i n \theta }=\cos{}(n \theta )+i \sin{(n \theta )}=e^{i \theta }$.
+Hvis vi har $z=i \theta$ så kan vi udvide til dette i polarform... :: $(\cos{\theta }+i \sin{\theta })^{n}=e^{i n \theta }=\cos{}(n \theta )+i \sin{(n \theta )}=e^{i \theta }$.
 
 
 
