@@ -19,7 +19,10 @@ Alle komplekse tal har både... :: en reel og kompleks del. ergo $a+ib=c \in \ma
 Hvis vi regner gennem det geometriske synspunkt får vi $ib=$... :: $(0,1)\cdot (b,0)=(0b-10,1b-00)=(0,b)$ og derved $a+ib=(a,0)+(0,b)=(a,b)$
 
 ## Kompleks konjugering
-Givet $z=a+ib,\vec{z}=a-ib.a,b \in R$ så bliver produktet af de komplekse ta
+Givet $z=a+ib,\vec{z}=a-ib.a,b \in \mathbb{R}$ så bliver produktet af de komplekse tal... :: $\vec{z}z \in \mathbb{R}|\vec{z}z \geq 0$ og hvis $z=0\Rightarrow z \vec{z}=0$
+### Sætning 3.1.5
+For alle $z,w \in \mathbb{C}$ er vores regneregler for vektorer... :: $\vec{z}+\vec{w}=\vec{z+w}$, $\vec{z}-\vec{w}=\vec{z-w}$, $\vec{z}\cdot \vec{w}=\overrightarrow{zw}$, $\frac{\vec{z}}{\vec{w}}= \vec{\frac{z}{w}}$ givet $w \neq 0$.
+Definitionen af $|z|$ er... $\sqrt{z \vec{z}}\in \mathbb{R}\Rightarrow \sqrt{a^{2}+b^{2}}\geq 0$ er det samme som $|z|=0$
 
 # Fodnoter
 [^1]: Dette gør nævneren til et reelt tal.
