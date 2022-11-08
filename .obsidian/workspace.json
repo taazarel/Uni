@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09f4d961bb28d802",
+        "id": "aabd2048e6157221",
         "type": "tabs",
         "children": [
           {
-            "id": "7006ef3fd3a585b1",
+            "id": "ad5aa1f298e23a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rollespilsgruppe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fb05a824e9816cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/MekRel/Arbejde.md",
+                "file": "Komplekse tal.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rollespilsgruppe.md",
+                "file": "Komplekse tal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rollespilsgruppe.md"
+                "file": "Komplekse tal.md"
               }
             }
           },
@@ -163,12 +151,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7006ef3fd3a585b1",
+  "active": "ad5aa1f298e23a80",
   "lastOpenFiles": [
-    "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/MekRel/Arbejde.md",
-    "Kurser/MekRel/Usikkerhed og Statistik.md",
     "Rollespilsgruppe.md",
+    "Kurser/MekRel/Rotationsmekanik.md",
+    "Kurser/MekRel/Usikkerhed og Statistik.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Tangetplaner.md",
