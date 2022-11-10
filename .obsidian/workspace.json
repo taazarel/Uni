@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Komplekse tal.md",
+                "file": "Kurser/LinAlys/Indre Produkt.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Komplekse tal.md",
+                "file": "Kurser/LinAlys/Indre Produkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Komplekse tal.md"
+                "file": "Kurser/LinAlys/Indre Produkt.md"
               }
             }
           },
@@ -153,13 +153,13 @@
   },
   "active": "7ede9440d0367d0e",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/LinAlys/Indre Produkt.md",
     "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
     "conflict-files-obsidian-git.md",
     "Hjælpemidler/Templates/fore.md",
     "Kurser/LinAlys/Tangetplaner.md",
-    "Kurser/LinAlys/Komplekse tal.md",
     "Assets/Excalidraw/Regnepapir 2022-11-08 09.38.12.excalidraw.md",
     "Kurser/LinAlys/Partiel integration.md",
     "Assets/Excalidraw/Komplekse tal 2022-11-08 09.06.42.excalidraw.md"

@@ -33,6 +33,7 @@ Vi definerer vinklen mellem $\vec{v},\vec{w}\in \mathbb{R}^{n}$ som... :: $\vec{
 Hvis $\langle \vec{v},\vec{w}\rangle=0$ så kaldes vektorerne... :: ortogonale på hinanden.[^5]
 Pythagoras i vektorrumet som har indre produkter er... :: $||\vec{v}-\vec{w}||=||\vec{v}||^{2}+||\vec{w}||^{2}-2\langle \vec{v},\vec{w}\rangle$ hvor $\langle \vec{v},\vec{w}\rangle =||\vec{v}||\cdot ||\vec{w}||cos(\theta )$[^6]
 
+Ortogonalproduktet af $\vec{w}\text{ på }\vec{v}$ er... :: $\frac{\langle \vec{v},\vec{w}\rangle}{\langle \vec{v},\vec{v}\rangle}\vec{v}$
 
 # Fodnoter
 [^1]: Dette er det samme som prikproduktet af $\vec{v}\cdot \vec{w}$.
