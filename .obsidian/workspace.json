@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c941a49fd324aa29",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -112,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/LinAlys/Indre Produkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/LinAlys/Indre Produkt.md"
+              }
             }
           },
           {
@@ -157,7 +151,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c941a49fd324aa29",
+  "active": "88b55128b9396da6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Indre Produkt.md",
