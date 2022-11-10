@@ -10,8 +10,10 @@ Det algebraiske udtryk for $\mathbb{C}$ baseret på reelle tal er... :: givet ve
 Definitionen af addition i $\mathbb{C}$ er... :: $(a+ib)+(c+id)=(a+c)+i(b+d)$
 Definitionen af multiplikation i $\mathbb{C}$ er... :: $(a+ib)(c+id)=(ac-bd)+i(ad+bc)$
 Definitionen af division i $\mathbb{C}$, givet $\frac{1}{z}\neq \frac{1}{0}$, er... :: $\frac{1}{z}= \frac{1}{a+ib}= \frac{a-ib}{(a+ib)(a-ib)}= \frac{a-ib}{a^{2}+b^{2}}= (\frac{a}{a^{2}+b^{2}})+i(\frac{-b}{a^{2}+b^{2}})$ Man skal huske at forlænge med $a-ib$.[^1]
-Definitionen af eksponentialfunktionen i $\mathbb{C}$ er... :: $e^{z}=e^{a}(\cos{b}+i \sin{b})\in \mathbb{C}$.
+Definitionen af eksponentialfunktionen i $\mathbb{C}$ er... :: $e^{z}=e^{a}(\cos{b}+i \sin{b})\in \mathbb{C}$.[^4]
 
+Modulus af w er... :: $\sqrt{w \cdot w}=|w|$
+Værdimængden af den komplekse eksponentialfunktion er... :: 
 Givet $z=a+ib,w=\frac{1}{a+ib}$ så bliver deres produkt... :: $zw=1=1+i0$.
 Huskereglen for at regne med komplekse tal er... :: at bruge de sædvanlige regneregler og huske at $i^{2}=-1$.
 Mest for sjov: Hvad er kvadratroden af i? :: $\left(\frac{1}{\sqrt{2}}+ \frac{1}{\sqrt{2}}i\right)$ 
@@ -42,3 +44,4 @@ Hvis vi har $z=i \theta$ så kan vi udvide til dette i polarform... :: $(\cos{\t
 [^1]: Dette gør nævneren til et reelt tal.
 [^2]: Dette er også hvad vi bruger i definitionen ovenover.
 [^3]: Denne kaldes den polære form, eller bare polarform.
+[^4]: Her er modulus af $\cos{b}+i \sin{b}=1.$

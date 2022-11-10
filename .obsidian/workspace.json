@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Indre Produkt.md",
+                "file": "Kurser/LinAlys/Komplekse tal.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Indre Produkt.md",
+                "file": "Kurser/LinAlys/Komplekse tal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Indre Produkt.md"
+                "file": "Kurser/LinAlys/Komplekse tal.md"
               }
             }
           },
@@ -153,8 +153,8 @@
   },
   "active": "7ede9440d0367d0e",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md",
     "Kurser/LinAlys/Indre Produkt.md",
+    "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
     "conflict-files-obsidian-git.md",
     "Hjælpemidler/Templates/fore.md",
