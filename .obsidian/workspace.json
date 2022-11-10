@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md",
+                "file": "Kurser/LinAlys/Indre Produkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md"
+                "file": "Kurser/LinAlys/Indre Produkt.md"
               }
             }
           },
@@ -151,45 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "45a965672f7eb440",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e63a6b66e740a21d",
-        "type": "window",
-        "children": [
-          {
-            "id": "acad701995808084",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2ade1525220243c2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2ade1525220243c2",
+  "active": "7ede9440d0367d0e",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Indre Produkt.md",
     "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md",
+    "Kurser/LinAlys/Indre Produkt.md",
     "Kurser/LinAlys/Regnepapir.md",
     "conflict-files-obsidian-git.md",
     "Hjælpemidler/Templates/fore.md",
