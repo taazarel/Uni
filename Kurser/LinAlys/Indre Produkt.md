@@ -23,9 +23,20 @@ Da er
 ?
 1. $0$ for alle $\vec{v}$
 2. $r \langle \vec{v},\vec{w} \rangle$
-3. $\langle \vec{v},\vec{w} \rangle$
+3. $\langle \vec{v},\vec{w} \rangle+\langle \vec{v},\vec{x} \rangle$
+
+Indre produkt rum betyder... :: et vektorrum V og et indre produkt.
+Vi kan vise afstanden til $\vec{0}\in \mathbb{R}^{2}$ som... :: $\sqrt{\vec{v_{1}}^{2}+\vec{v_{2}}^{2}}=\sqrt{v \cdot v}$
+Vi kan vise afstanden til $\vec{0}\in \mathbb{R}^{n}$ som... :: $\sqrt{\vec{v_{1}}^{2}+...+\vec{v_{n}}^{2}}=\sqrt{\vec{v}\cdot \vec{v}}$.
+Vi definerer afstanden til $\vec{0}\in \mathbb{R}^{n}$ som $||\vec{v}||=$... :: $\sqrt{\vec{v}\cdot \vec{v}}$ Hvis dette er et indre produkt i V, så bliver det til$\sqrt{\langle \vec{v},\vec{v} \rangle}\geq 0$.[^3]
+Vi definerer vinklen mellem $\vec{v},\vec{w}\in \mathbb{R}^{n}$ som... :: $\vec{v}\cdot \vec{w}=||\vec{v}||\cdot ||\vec{w}||\cos{\theta }\Rightarrow$ $\frac{\vec{v}\cdot \vec{w}}{||\vec{v}||\cdot ||\vec{w}||}=\cos{\theta }\Rightarrow \theta =\cos^{-1}{\left(\frac{\langle\vec{v},\vec{w}\rangle}{||\vec{v}||\cdot ||\vec{w}||}\right)}$.[^4]
+Hvis $\langle \vec{v},\vec{w}\rangle=0$ så kaldes vektorerne... :: ortogonale på hinanden.
+
+
 
 # Fodnoter
 
 [^1]: Dette er det samme som prikproduktet af $\vec{v}\cdot \vec{w}$.
 [^2]: Herefter kan vi benytte aksiomerne på dette integral.
+[^3]: Dette kaldes også normen af $\vec{v}\in V$.
+[^4]: Vi skal tjekke at $||\vec{v}||,||\vec{w}||\neq 0$. Ellers er theta ikke defineret.
