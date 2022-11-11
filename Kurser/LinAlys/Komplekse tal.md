@@ -9,7 +9,9 @@ Det algebraiske udtryk for $\mathbb{C}$ baseret på reelle tal er... :: givet ve
 
 Definitionen af addition i $\mathbb{C}$ er... :: $(a+ib)+(c+id)=(a+c)+i(b+d)$
 Definitionen af multiplikation i $\mathbb{C}$ er... :: $zw=(a+ib)(c+id)=(ac-bd)+i(ad+bc)$
+<!--SR:!2022-11-15,4,270-->
 Definitionen af multiplikation i polarform er... :: $zw=(r_{1}e^{i \theta_{1}})(r_{2}e^{\theta_{2} i})=(r_{1}r_{2})e^{i(\theta_{1}\theta_{2})}$.
+<!--SR:!2022-11-12,1,230-->
 Definitionen af division i $\mathbb{C}$, givet $\frac{1}{z}\neq \frac{1}{0}$, er... :: $\frac{1}{z}= \frac{1}{a+ib}= \frac{a-ib}{(a+ib)(a-ib)}= \frac{a-ib}{a^{2}+b^{2}}= (\frac{a}{a^{2}+b^{2}})+i(\frac{-b}{a^{2}+b^{2}})$ Man skal huske at forlænge med $a-ib$.[^1]
 Definitionen af eksponentialfunktionen i $\mathbb{C}$ er... :: $e^{z}=e^{a}(\cos{b}+i \sin{b})\in \mathbb{C}$.[^4]
 
@@ -18,6 +20,7 @@ Værdimængden af den komplekse eksponentialfunktion er... :: hele $\mathbb{C}\b
 Givet $z=a+ib,w=\frac{1}{a+ib}$ så bliver deres produkt... :: $zw=1=1+i0$.
 Huskereglen for at regne med komplekse tal er... :: at bruge de sædvanlige regneregler og huske at $i^{2}=-1$.
 Mest for sjov: Hvad er kvadratroden af i? :: $\left(\frac{1}{\sqrt{2}}+ \frac{1}{\sqrt{2}}i\right)$ 
+<!--SR:!2022-11-12,1,230-->
 Alle komplekse tal har både... :: en reel og kompleks del. ergo $a+ib=c \in \mathbb{C}$.
 
 ## Geometriske synspunkt
@@ -37,6 +40,7 @@ Vi kan definere r som... :: $r=\sqrt{a^{2}+b^{2}}$
 ### Sætning
 For alle $z,w \in \mathbb{C}$ så får vi $e^{z+w}=$... :: $e^{z}e^{w}=e^{(a+c)+i(b+d)}$
 For eksponenter i eksponenter kan vi skrive... :: $(e^{z})^{n}=e^{z}_{1}\cdot ...\cdot e_{n}^{z}=e^{nz}$.
+<!--SR:!2022-11-15,4,270-->
 Hvis vi har $z=i \theta$ så kan vi udvide til dette i polarform... :: $(\cos{\theta }+i \sin{\theta })^{n}=e^{i n \theta }=\cos{}(n \theta )+i \sin{(n \theta )}=e^{i \theta }$.
 
 Vi definerer ikke disse operationer

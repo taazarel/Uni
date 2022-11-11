@@ -51,7 +51,7 @@ Man definerer en tangenthyperplan h som en affin funktion matematisk således...
 
 ## Definition 2.67(Differentiabilitet af funktioner af flere variabler)
 En funktion f er diffrentiabel i et indre punkt $\vec{a}$ i $D_{f}$ hvis... :: der findes en affin funktion der tangerer f i det punkt.
-<!--SR:!2022-11-08,1,190-->
+<!--SR:!2022-11-15,4,190-->
 En 
 funktion $C^{1}$ medfører at... :: Funktionen er differentiabel.
 <!--SR:!2022-11-24,17,290-->
@@ -74,7 +74,7 @@ Princip: Tangenten til niveaukurven er niveaukurven til den tangerende affine fu
 
 ## Definition 2.72 (Tangent til niveaukurven)
 Givet er en $C^{1}$ funktion og punktet $\vec{a}\in D_{f}$. Så vil tangenten til niveaukurven i $\vec{a}$ være... :: $f(\vec{a})+\nabla f(\vec{a})\cdot (\vec{x}-\vec{a})=f(\vec{a})$.[^3]
-<!--SR:!2022-11-08,4,275-->
+<!--SR:!2022-11-28,17,275-->
 
 
 [^1]: Hvis d=0 så kaldes dette for en lineær funktion

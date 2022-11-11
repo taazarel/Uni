@@ -5,7 +5,7 @@ Disse antagelser skal være til stede for at man kan benytte sig af ekstremalvæ
 <!--SR:!2022-11-21,19,290-->
 
 Man kan finde lineær uafhængighed ved at gausseliminere til reduceret echelon form, men hvordan er det sandt... :: Det er sandt fordi lineær uafhængighed er defineret som at spannet af vektorene kun har én måde at finde nulvektoren på. nemlig $r_{1}(1,1,0)+r_{2}(1,0,1)+r_{3}(0,1,1)=(0,0,0)$ medfører at $r_{1}=r_{2}=r_{3}=0$.
-<!--SR:!2022-11-10,6,270-->
+<!--SR:!2022-12-05,24,290-->
 
 
 # Dagsplan
@@ -119,7 +119,7 @@ $\vec{o}=r_{1}\vec{v_{1}}+...+r_{i-1}\vec{v_{i-1}}-\vec{v_{i}}+r_{i+1}\vec{v_{i+
 ## Sammenligningssætningen(3.15)
 
 Et vektorrum V $\vec{v_{1}},...,\vec{v_{m}}$ udspænder V og $\vec{w_{1}},...,\vec{w_{n}}$, der er lineært uafhængig i V, da kan vi sige dette om størrelserne n og m... :: $m \geq n$.[^3]
-<!--SR:!2022-11-08,4,280-->
+<!--SR:!2022-12-09,28,300-->
 ### Bevis
 Man kan bruge to matricer, en a matrix med mxn dimensioner og en c matrix med nx1 dimensioner.
 Derefter viser man en modstrid med at $\vec{w_{1}},...,\vec{w_{n}}$ ikke er lineært uafhængig. Og derfor at der skal være flere rækker m, end søjler n når der gauss-elimineres i w's familie.
@@ -127,20 +127,20 @@ Derefter viser man en modstrid med at $\vec{w_{1}},...,\vec{w_{n}}$ ikke er line
 ## Definition 3.12(Basis)
 
 Vi har en basis af vektorer $\vec{v_{1}},...,\vec{v_{n}}$ i V når... :: Den både udspænder og er lineært uafhængig.
-<!--SR:!2022-11-08,4,274-->
+<!--SR:!2022-12-08,27,294-->
 
 ## Theorem 3.16
 Givet $\vec{v_{1}},...,\vec{v_{m}}\text{ og }\vec{w_{1}},...,\vec{w_{n}}$ er baser da er deres dimensioner... :: $n=m$ kvadratiske.
-<!--SR:!2022-11-08,4,283-->
+<!--SR:!2022-12-13,32,303-->
 Theorem 3.16 kan bevises med... :: Sammenligningssætningen.
 <!--SR:!2022-11-16,9,280-->
 
 ## Definition 3.13(Dimension)
 Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimensioner og vi kan skrive $dimV=n$
-<!--SR:!2022-11-08,4,274-->
+<!--SR:!2022-12-07,26,294-->
 ### Eksempel
 dimensionen af $\mathbb{R}^{n}$ kan skrives som... :: $dim \mathbb{R}^{n}=n$ da vi kan skrive en identitetsmatrix som er nxn.[^4]
-<!--SR:!2022-11-08,4,280-->
+<!--SR:!2022-12-11,30,300-->
 
 ## Definition 3.14 (Endelige og Uendelige vektorrum)
 
@@ -149,26 +149,26 @@ Et uendeligt vektorrum defineres som...
 ?
 Et vektorrum med en endelig base.
 Alt som ikke er et endeligt vektorrum
-<!--SR:!2022-11-08,4,274-->
+<!--SR:!2022-12-06,25,294-->
 
 ## 3.17 (Udtyndningslemmaet)
 Vektorrummet V udspændes af familien $\vec{v_{1}},...,\vec{v_{n}}$ givet $\vec{v_{j}}$ kan skrives som en linearkombination af de andre kan vi omdefinere til... :: $V=span \{\vec{v_{1}},...,\vec{v_{n}}  \}\cap \vec{v_{j}}$. Hvis $\vec{v_{1}}=\vec{v_{j}}$ kunne vi skrive; $V=span \{\vec{v_{2}},...,\vec{v_{n}} \}$
-<!--SR:!2022-11-08,4,280-->
+<!--SR:!2022-12-08,27,300-->
 
 ## 3.18 (Udtydningssætningen)
 Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde familien til en basis.
-<!--SR:!2022-11-08,4,284-->
+<!--SR:!2022-12-10,29,304-->
 ### Bevis
 Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers kan vi bruge... :: Udtyndingslemmaet da $dim V<n$ og derfor er $\vec{v_{1}},...,\vec{v_{n}}$ ikke lineært uafhængig. Så bruger vi bare 3.17. indtil $dim V=n$
 <!--SR:!2022-11-15,8,260-->
 
 ## 3.19 (Udvidelseslemmaet)
 Hvis vi har et span som $\vec{v_{n+1}}\notin span \{\vec{v_{1}},...,\vec{v_{n}} \}$ hvor spannet er lineært uafhængigt så vil spannet inkluderende $\vec{v_{n+1}}$... :: $\vec{v_{1}},...,\vec{v_{n}},\vec{v_{n+1}}$ være lineært uafhængigt.
-<!--SR:!2022-11-08,4,284-->
+<!--SR:!2022-11-29,18,284-->
 
 ## 3.20 (Udvidelsessætningen)
 Hvis vi har en vektorfamilie $\vec{v_{1}},...,\vec{v_{n}}$ i et endeligt vektorrum med m, dimensioner, kan vi... :: udvide familien til en basis på m dimensioner.
-<!--SR:!2022-11-08,4,280-->
+<!--SR:!2022-12-12,31,300-->
 ### Bevis
 Udvidelsesalgoritmen
 
