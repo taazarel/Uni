@@ -114,21 +114,21 @@ Generelt gælder det at $\Delta K=\Delta K_{CM}+\Delta K_{konvert}$ men for et f
 ## Arbejde udført af variable og fordelte kræfter [6.7]
 
 En variabel kraft er... :: en kraft som ændrer sin værdi over en størrelse, fx fjederkraften.
-<!--SR:!2022-11-08,4,297-->
+<!--SR:!2022-12-13,32,317-->
 En fordelt kraft er... :: En kraft som ikke er fokuseret på et punkt, men er fordelt, fx friktion.
-<!--SR:!2022-11-08,4,297-->
+<!--SR:!2022-12-11,30,317-->
 Ved variable kræfter kan man ikke bruge $W=F \Delta x$, så vi benytter os af... :: integraler i form af $\int_{x_{i}}^{x_{f}}F_{kf,x}(x)dx$
-<!--SR:!2022-11-08,4,297-->
+<!--SR:!2022-12-09,28,317-->
 Integralet for variable kræfter kan reduceres til dette når vi har en kraft som virker på en fjeder... :: $W=\frac{1}{2}k(x-x_{i})^{2}$[^8]
-<!--SR:!2022-11-08,4,297-->
+<!--SR:!2022-12-07,26,317-->
 Vi kan beskrive hastigheden af en punkt-partikel som bremses af en fjeder således... :: $v_{f}=\sqrt{v_{i}^{2}- \frac{k(x_{f}-x_{i})^{2}}{m}}$ 
-<!--SR:!2022-11-09,2,257-->
+<!--SR:!2022-11-20,9,257-->
 Friktionskraften burde altid skrives som... :: En termisk energiændring, da den aldrig vil forskyde kontaktpunktet.
 <!--SR:!2022-11-19,12,297-->
 Hvis arbejdet fra tyngdekraften er nul og partiklen ikke deformeres så bliver  varmeenergien af friktion i et lukket system til...  ::  $\Delta E_{TH}=- \Delta K$.
-<!--SR:!2022-11-08,4,297-->
+<!--SR:!2022-12-12,31,317-->
 Friktionskraften kan beskrives ved... :: $\Delta E_{TH}=F_{x}^{f}d$
-<!--SR:!2022-11-08,4,297-->
+<!--SR:!2022-11-29,18,297-->
 
 ## Effekt - luminositet [6.8]
 
@@ -141,12 +141,12 @@ $P= \frac{dE}{dt}=[W]$
 <!--SR:!2022-12-14,33,317-->
 
 Når kraft er konstant kan effekten omskrives til... :: $P=F_{ydre}v_{x,gns}$
-<!--SR:!2022-11-09,2,257-->
+<!--SR:!2022-11-23,12,277-->
 
 ## Bevæget inertialsystem [6.9]
 
 Hvorfor er det ikke et problem med forskellige inertialsystemer når vi ser på arbejde? :: Dette er fordi vi måler energiændringen i systemet, $W=\Delta K$ er altid sandt, talværdien er ikke.
-<!--SR:!2022-11-08,4,297-->
+<!--SR:!2022-12-10,29,317-->
 
 
 # Plenum
