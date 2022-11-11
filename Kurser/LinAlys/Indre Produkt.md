@@ -6,6 +6,7 @@ W er en operation $\langle ,\rangle$, som hedder det indre produkt, og givet er 
 
 Liste af aksiomer:
 For alle $\vec{v}\in V:\langle \vec{v},\vec{v}\rangle\geq 0$ og hvis $\langle \vec{v},\vec{v}\rangle=0$ så får vi... :: $\vec{v}=\vec{0}$ (i)
+<!--SR:!2022-11-15,4,285-->
 For alle $\vec{v},\vec{w}\in V$ er $\langle \vec{v},\vec{w}\rangle=$.... :: $\langle \vec{w},\vec{v}\rangle$.  (ii)
 <!--SR:!2022-11-15,4,270-->
 For alle $\vec{v},\vec{w}\in V$, $r \in \mathbb{R}$ er $\langle r \vec{v},\vec{w}\rangle=$... :: $r\langle \vec{v},\vec{w}\rangle$ (iii)
@@ -25,7 +26,9 @@ Lad $\langle , \rangle$ være et indre produkt på V Da er $\langle \vec{v},\vec
 Indre produkt rum betyder... :: et vektorrum V og et indre produkt.
 <!--SR:!2022-11-15,4,277-->
 Vi kan vise afstanden til $\vec{0}\in \mathbb{R}^{2}$ som... :: $\sqrt{\vec{v_{1}}^{2}+\vec{v_{2}}^{2}}=\sqrt{v \cdot v}$
+<!--SR:!2022-11-15,4,285-->
 Vi kan vise afstanden til $\vec{0}\in \mathbb{R}^{n}$ som... :: $\sqrt{\vec{v_{1}}^{2}+...+\vec{v_{n}}^{2}}=\sqrt{\vec{v}\cdot \vec{v}}$.
+<!--SR:!2022-11-15,4,285-->
 Vi definerer afstanden til $\vec{0}\in \mathbb{R}^{n}$ som $||\vec{v}||=$... :: $\sqrt{\vec{v}\cdot \vec{v}}$ Hvis dette er et indre produkt i V, så bliver det til$\sqrt{\langle \vec{v},\vec{v} \rangle}\geq 0$.[^3]
 <!--SR:!2022-11-15,4,270-->
 Vi definerer vinklen mellem $\vec{v},\vec{w}\in \mathbb{R}^{n}$ som... :: $\vec{v}\cdot \vec{w}=||\vec{v}||\cdot ||\vec{w}||\cos{\theta }\Rightarrow$ $\frac{\vec{v}\cdot \vec{w}}{||\vec{v}||\cdot ||\vec{w}||}=\cos{\theta }\Rightarrow \theta =\cos^{-1}{\left(\frac{\langle\vec{v},\vec{w}\rangle}{||\vec{v}||\cdot ||\vec{w}||}\right)}$.[^4]

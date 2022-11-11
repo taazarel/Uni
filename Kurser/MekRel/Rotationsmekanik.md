@@ -26,7 +26,7 @@ Accelerationen på et legeme i cirkelbevægelse bliver påvirket af... :: centri
 Centripetal-accelerationen $\vec{a}_{c}$ er givet ved... :: $\vec{a_{c}}=- \frac{\vec{v_{t}}^{2}}{r}\hat{r}$ [^4]
 <!--SR:!2022-11-08,1,230-->
 Fordi centripetal-accelerationen er parallel med $\hat r=\vec{r}$ så kan vi skrive værdien af $\vec{a_{c}}$ som... :: $a_{c}=|\vec{a_{c}}|= \frac{\vec{v_{t}}^{2}}{r}$.[^5]
-<!--SR:!2022-11-08,1,230-->
+<!--SR:!2022-11-16,5,230-->
 Ikke jævne cirkelbaner har også en anden acceleration som hedder... :: tangentiel-accelerationen $a_t$.
 <!--SR:!2022-11-11,4,272-->
 Ujævne cirkelbevægelser er defineret som... :: cirkelbevægelser som ikke har konstant hastighed.
@@ -63,12 +63,13 @@ Så længe man har konstant acceleration og husker at skifte koordinatsystem så
 
 En punktpartikel som bevæger sig i en cirkel vil altid have den samme buelængde per tidsstep til forskellige snorlængder da... :: vi kan skrive $s_{1}=s_{2}\Rightarrow r_{1}\theta_{1}=r_{2}\theta_{2}\Rightarrow \frac{r_{1}}{r_{2}}=\frac{\theta_{1}}{\theta_{2}}$ (7.14-7.15-7.16)[^11] 
 <!--SR:!2022-11-11,4,275-->
-Vinkelhastigheden bliver ændret af snorlængden således... :: vinkelhast skrives $\omega = \frac{\Delta \theta}{\Delta t}$ Så hvis vi har en mindre længde, bliver vinklen større og så bliver hastigheden større.
+Vinkelhastigheden bliver ændret af snorlængden således... :: vinkelhast skrives $\omega = \frac{v_{t}}{r}$ Så hvis vi har en mindre længde, bliver vinkelhastigheden større.
 <!--SR:!2022-11-11,4,275-->
+Vinkelhastigheden bliver ændret af vinkel og tid således... :: $\omega = \frac{\Delta \theta}{\Delta t}$.
 Vi kan omskrive den kinetiske energi til et udtryk af vinkelhastigheden... :: $K= \frac{1}{2}mv^{2}= \frac{1}{2}m (r \omega )^{2}$ Som vi også kan skrive som $\frac{1}{2}(mr^{2})\omega ^{2}$ (7.17)[^12]
 <!--SR:!2022-11-08,1,230-->
 Den rotationskinetiske energi skrives som... :: $K_{ro}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.18)
-<!--SR:!2022-11-11,4,270-->
+<!--SR:!2022-11-25,14,290-->
 Ligningen af rotationsinertien for en punkt-partikel er... :: $I=mr^{2}$ (7.19)
 <!--SR:!2022-11-11,4,275-->
 Rotationskinetiske energi som en generel formel... :: bliver skrevet som $$K=\left(\sum_{i}^{N}(\delta m_{i}r_{i}^{2})\right)\omega ^{2}=\frac{1}{2}I_{Q}\omega ^{2}$$ (7.20+7.21)[^13]
@@ -95,7 +96,7 @@ Vinkelretakseteoremet viser sammenhængen mellem alle inertimomenterne over akse
 Hvis vi har $\omega, I_{Q} \text{ og } Q$ som er vinkelhastigheden, inertimomentet og omdrejningsaksen, bliver den [[#Inerti og Inertimoment/Rotationsinerti (7.4)|rotationskinetiske]] energi så... :: $K_{rot}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.45)
 <!--SR:!2022-11-11,4,272-->
 Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså både vores translationsenergi og rotationsenergi i formlen... :: $K_{tot}=K_{CM}+K_{rot}= \frac{1}{2}mv^{2}+ \frac{1}{2}I_{Q}\omega^{2}$. (7.46)
-<!--SR:!2022-11-11,4,270-->
+<!--SR:!2022-11-26,15,290-->
 
 ## Fodnoter
 [^1]: Dette kaldes også tangential-hastigheden $\vec{v_{t}}$

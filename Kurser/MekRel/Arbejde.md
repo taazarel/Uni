@@ -138,7 +138,7 @@ og øjeblikkeligt...
 ?
 $P_{gns}= \frac{\Delta E}{\Delta t}=[W]$[^9]
 $P= \frac{dE}{dt}=[W]$
-<!--SR:!2022-11-08,4,297-->
+<!--SR:!2022-12-14,33,317-->
 
 Når kraft er konstant kan effekten omskrives til... :: $P=F_{ydre}v_{x,gns}$
 <!--SR:!2022-11-09,2,257-->

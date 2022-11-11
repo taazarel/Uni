@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4a05fd7767de9fb",
+        "id": "098d8101f0ddb37f",
         "type": "tabs",
         "children": [
           {
-            "id": "b7898990b9389cfd",
+            "id": "fc1bd5eb6c4ecd59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Kurser/MekRel/Rotationsmekanik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "ffa9c447fdd6d4f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "92193f53af94f088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Indre Produkt.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Indre Produkt.md",
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Indre Produkt.md"
+                "file": "Kurser/MekRel/Rotationsmekanik.md"
               }
             }
           },
@@ -169,10 +150,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92193f53af94f088",
+  "active": "fc1bd5eb6c4ecd59",
   "lastOpenFiles": [
-    "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Indre Produkt.md",
+    "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Komplekse tal.md",
     "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
