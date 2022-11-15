@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "basis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "f67102a27132052b",
@@ -151,7 +152,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0c8350b788d63e0",
+  "active": "7ede9440d0367d0e",
   "lastOpenFiles": [
     "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/LinAlys/Indre Produkt.md",

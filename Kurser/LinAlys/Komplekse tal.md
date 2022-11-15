@@ -5,7 +5,7 @@ Begyndelsesdato: 07:52   08-11-2022   Uge-45
 I rækkefølge af størrelse skrives talmængderne således... :: $\mathbb{N}\subseteq \mathbb{Z}\subseteq \mathbb{Q}\subseteq \mathbb{R}\subseteq \mathbb{C}$ hvor $\mathbb{C}$ er de komplekse tal.
 <!--SR:!2022-11-15,4,274-->
 Vi har de samme regneregler i $\mathbb{C}$ som vi har i $\mathbb{R}$ udover... :: at vi ikke kan bruge uligheder.$<,>,\geq,\leq$ Vi kan ikke fortælle hvilke tal er større end andre.
-<!--SR:!2022-11-12,1,230-->
+<!--SR:!2022-11-16,1,210-->
 Det vigtigste tal i $\mathbb{C}$ er... :: de komplekse tal, helt specifikt $i=\sqrt{-1}$.
 <!--SR:!2022-11-15,4,274-->
 Det algebraiske udtryk for $\mathbb{C}$ baseret på reelle tal er... :: givet ved $\mathbb{C}=\{a+ib|a,b \in \mathbb{R} \}$.
@@ -23,15 +23,15 @@ Definitionen af eksponentialfunktionen i $\mathbb{C}$ er... :: $e^{z}=e^{a}(\cos
 <!--SR:!2022-11-15,4,270-->
 
 Modulus af w er... :: $\sqrt{w \cdot w}=|w|$
-<!--SR:!2022-11-12,1,234-->
+<!--SR:!2022-11-16,1,214-->
 Værdimængden af den komplekse eksponentialfunktion er... :: hele $\mathbb{C}\backslash 0$ altså alle komplekse tal på nær 0.
-<!--SR:!2022-11-15,4,270-->
+<!--SR:!2022-11-29,14,290-->
 Givet $z=a+ib,w=\frac{1}{a+ib}$ så bliver deres produkt... :: $zw=1=1+i0$.
 <!--SR:!2022-11-15,4,274-->
 Huskereglen for at regne med komplekse tal er... :: at bruge de sædvanlige regneregler og huske at $i^{2}=-1$.
-<!--SR:!2022-11-14,3,254-->
+<!--SR:!2022-11-30,15,274-->
 Mest for sjov: Hvad er kvadratroden af i? :: $\left(\frac{1}{\sqrt{2}}+ \frac{1}{\sqrt{2}}i\right)$ 
-<!--SR:!2022-11-12,1,230-->
+<!--SR:!2022-11-30,15,250-->
 Alle komplekse tal har både... :: en reel og kompleks del. ergo $a+ib=c \in \mathbb{C}$.
 <!--SR:!2022-11-15,4,274-->
 
@@ -50,18 +50,18 @@ Definitionen af $|z|$ er... $\sqrt{z \vec{z}}\in \mathbb{R}\Rightarrow \sqrt{a^{
 En god huskeregel er den udvidede form af $0\leq a^{2}+b^{2}\in \mathbb{R}=(a+ib)(a-ib)$[^2]
 ### Polarform
 Vi kan bruge polære koordinater til at vise $|z|$ bedre... :: ![[Komplekse tal 2022-11-08 09.06.42.excalidraw]] $|z|=r$ hvor $a=r \cos{\theta },b=r \sin{\theta }$.[^3]
-<!--SR:!2022-11-15,4,274-->
+<!--SR:!2022-12-02,17,294-->
 Definitionen af z i polarform er... :: $z=r \cos{\theta }+ir \sin{\theta }=re^{i \theta }$ 
-<!--SR:!2022-11-14,3,250-->
+<!--SR:!2022-12-01,16,270-->
 Vi kan definere r som... :: $r=\sqrt{a^{2}+b^{2}}$ 
-<!--SR:!2022-11-15,4,274-->
+<!--SR:!2022-12-01,16,294-->
 ### Sætning
 For alle $z,w \in \mathbb{C}$ så får vi $e^{z+w}=$... :: $e^{z}e^{w}=e^{(a+c)+i(b+d)}$
 <!--SR:!2022-11-15,4,274-->
 For eksponenter i eksponenter kan vi skrive... :: $(e^{z})^{n}=e^{z}_{1}\cdot ...\cdot e_{n}^{z}=e^{nz}$.
 <!--SR:!2022-11-15,4,270-->
 Hvis vi har $z=i \theta$ så kan vi udvide til dette i polarform... :: $(\cos{\theta }+i \sin{\theta })^{n}=e^{i n \theta }=\cos{}(n \theta )+i \sin{(n \theta )}=e^{i \theta }$.
-<!--SR:!2022-11-15,4,270-->
+<!--SR:!2022-11-25,10,270-->
 
 Vi definerer ikke disse operationer
 ?
