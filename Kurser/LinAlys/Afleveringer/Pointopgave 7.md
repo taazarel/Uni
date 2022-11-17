@@ -31,7 +31,7 @@ $$\left[
 4 & 0 & 11 & -4 & 8
 \end{array}
 \right] $$
-Vi kan vælge alt på nær nul-rækken dette vil give os en basis med $dim V=4$ da elementerne har 4 dimensioner (efter at vi fjerner nul-rækken)
+Vi kan vælge alt på nær nul-rækken dette vil give os en basis med $dim V=3$ da elementerne har 3 dimensioner (efter at vi fjerner nul-rækken og reducerer til echelon form.)
 
 Vi vælger disse vektorer som en basis for V:
 $$\left[
