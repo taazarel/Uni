@@ -52,20 +52,44 @@ $$\left[
 \right] $$
 **Hvad betyder det at "bestemme koordinaterne for de øvrige af vektorerne udtrykt i denne basis"?**
 ## b
+**Udvid den basis du fandt i a, med passende elementer fra standardbasen for $\mathbb{R}^{5}$, så det samlet udgør en basis for $\mathbb{R}^{5}$.**
 Vi kan udvide denne basis med [[Abstrakte vektorrum#3.20 (Udvidelsessætningen)|Udvidelsesalgoritmen]] så vi gør dette:
 $$\left[
 \begin{array}{cccc}
 1 & 2 & -3 & 4 \\ 
+0 & 0 & 0 & 0 \\ 
 3 & 5 & -7 & 11 \\ 
 -1 & -2 & 3 & -4 \\ 
 4 & 2 & -6 & 8
 \end{array}
-\right]\Rightarrow 
+\right] \Rightarrow 
 \left[
-\begin{array}{cccc}
-
+\begin{array}{cccc|ccccc}
+1 & 2 & -3 & 4  & 1 & 0 & 0 & 0 & 0\\ 
+0 & 0 & 0 & 0  & 0 & 1 & 0 & 0 & 0\\ 
+3 & 5 & -7 & 11 & 0 & 0 & 1 & 0 & 0 \\ 
+-1 & -2 & 3 & -4 & 0 & 0 & 0 & 1 & 0 \\ 
+4 & 2 & -6 & 8 & 0 & 0 & 0 & 0 & 1
 \end{array}
 \right] $$
+Vi kan allerede her se hvad vi har brug for. For at være sikker kan man forkorte til echelon form. For tidens skyld så skipper vi frem til resultatet.
+$$\left[
+\begin{array}{ccccc}
+1 & 2 & -3 & 0 & 0 \\ 
+0 & 0 & 0 & 1 & 0 \\ 
+3 & 5 & -7 & 0 & 0 \\ 
+-1 & -2 & 3 & 0 & 1 \\ 
+4 & 2 & -6 & 0 & 0
+\end{array}
+\right]$$
+Dette er en udvidet basis som udspænder $\mathbb{R}^{5}$.
+
+Hvilket vi også kan skrive som denne vektorfamilie:
+$$
+\begin{array}{ccc}
+v_{1}=(1,0,3,-1,4) & v_{2}=(2,0,5,-2,2) & v_{3}=(-3,0,-7,3,-6) \\ v_{4}=(0,1,0,0,0) & v_5=(0,0,0,1,0)
+\end{array}
+$$
 
 # 7.3
 ## a
