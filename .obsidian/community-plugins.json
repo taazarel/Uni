@@ -9,5 +9,9 @@
   "obsidian-charts",
   "obsidian-functionplot",
   "obsidian-git",
-  "periodic-notes"
+  "periodic-notes",
+  "quick-latex",
+  "obsidian-spaced-repetition",
+  "tag-wrangler",
+  "templater-obsidian"
 ]

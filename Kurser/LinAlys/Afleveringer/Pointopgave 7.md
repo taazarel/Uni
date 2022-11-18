@@ -1,6 +1,13 @@
 # 7.1
 ## a
-Givet er 
+Givet er $G(x,y)=((x+y^{2}),(\sin{}(xy)))$ , derved $g_{1}(x,y)=(x+y)^{2}$ og $g_{2}(x,y)=\sin{(xy)}$
+Jacobi matricen er defineret som:
+$$DG(x,y)=\left[
+\begin{array}{cccc}
+2(x+y) & 2(x+y) \\ 
+y \cos{(xy)} & x \cos{(xy)}
+\end{array}
+\right] $$
 ## b
 
 # 7.2
