@@ -67,7 +67,8 @@ En punktpartikel som bevæger sig i en cirkel vil altid have den samme buelængd
 Vinkelhastigheden bliver ændret af snorlængden således... :: vinkelhast skrives $\omega = \frac{v_{t}}{r}$ Så hvis vi har en mindre længde, bliver vinkelhastigheden større.
 <!--SR:!2022-11-26,15,295-->
 Vinkelhastigheden bliver ændret af vinkel og tid således... :: $\omega = \frac{\Delta \theta}{\Delta t}$.
-<!--SR:!2022-12-01,16,310-->
+
+<!--SR:!2022-12-01,16,310-->
 Vi kan omskrive den kinetiske energi til et udtryk af vinkelhastigheden... :: $K= \frac{1}{2}mv^{2}= \frac{1}{2}m (r \omega )^{2}$ Som vi også kan skrive som $\frac{1}{2}(mr^{2})\omega ^{2}$ (7.17)[^12]
 <!--SR:!2022-11-22,11,250-->
 Den rotationskinetiske energi skrives som... :: $K_{ro}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.18)
@@ -101,6 +102,10 @@ Hvis vi har $\omega, I_{Q} \text{ og } Q$ som er vinkelhastigheden, inertimoment
 Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså både vores translationsenergi og rotationsenergi i formlen... :: $K_{tot}=K_{CM}+K_{rot}= \frac{1}{2}mv^{2}+ \frac{1}{2}I_{Q}\omega^{2}$. (7.46)
 <!--SR:!2022-11-26,15,290-->
 
+## Impulsmoment (7.6)
+Impulsmomentet er det samme som impuls for rotationer og skrives som... :: $L_{Q}=I_{Q}\omega$  Husk at skrive L og $\omega$ som vektorer hvis de ikke er størrelser.(7.49)[^16]
+
+
 ## Fodnoter
 [^1]: Dette kaldes også tangential-hastigheden $\vec{v_{t}}$
 [^2]: Jo mindre r, desto højere kraft.
@@ -117,3 +122,4 @@ Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså b�
 [^13]: Den sidste del kan vi skrive da vi ser på vinkelhastigheden i stedet for hastigheden og radius af alle de forskellige punkter.  
 [^14]: Dette er den generelle løsning, men vi kan forbedre den hvis vi har et legeme som har en vis symmetri.
 [^15]: Hvor d er distance mellem de to akser og m er inertien.
+[^16]: L og I er både afhængige af aksen Q. Hvor $L_{Q}$ er impulsmomentet.
