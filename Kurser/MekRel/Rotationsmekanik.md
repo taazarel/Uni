@@ -104,7 +104,11 @@ Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså b�
 
 ## Impulsmoment (7.6)
 Impulsmomentet er det samme som impuls for rotationer og skrives som... :: $L_{Q}=I_{Q}\omega$  Husk at skrive L og $\omega$ som vektorer hvis de ikke er størrelser.(7.49)[^16]
+Impulsmomentet fra translatorisk bevægelse bliver skrevet som... :: $\vec{L_{Q}}=\vec{r_{Q}}\times \vec{p}$ som også kan skrives $\vec{L_{Q}}=\vec{r}\vec{p}\sin{\theta }$  (7.51)[^17]
+Denne regel bruges til at finde retningen af impulsmomentet af en cirkelbevægelse... :: højrehåndsreglen. Man peger sine fingre i retningen af stedvektoren, og derefter folder man dem mod impulsvektoren, så vil tommelfingeren pege i samme retning som impulsmomentet.
 
+
+## 
 
 ## Fodnoter
 [^1]: Dette kaldes også tangential-hastigheden $\vec{v_{t}}$
@@ -123,3 +127,4 @@ Impulsmomentet er det samme som impuls for rotationer og skrives som... :: $L_{Q
 [^14]: Dette er den generelle løsning, men vi kan forbedre den hvis vi har et legeme som har en vis symmetri.
 [^15]: Hvor d er distance mellem de to akser og m er inertien.
 [^16]: L og I er både afhængige af aksen Q. Hvor $L_{Q}$ er impulsmomentet.
+[^17]: hvor p er impulsvektoren og $r_{Q}$ er stedvektoren. Omskrevet er $\theta$ vinklen mellem r og p vektorerne.
