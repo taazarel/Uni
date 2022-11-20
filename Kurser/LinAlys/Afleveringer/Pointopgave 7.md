@@ -131,7 +131,13 @@ $E(\theta ,v)=\frac{1}{2}mv^{2}-mgl \cos{(\theta )}$
 ## a
 **Bestem den affine funktion, der tangerer energifunktionen E i et punkt $(\theta_{1},v_{1})$.**
 
-$h(\theta,v)=E(\theta_{1},v_{1})+\nabla E(\theta_{1},v_{1})\cdot (\theta-\theta_{1},v-v_{1})$.
+Lad os forkorte punktet til $(\theta_{1},v_{1})=(\vec{a})$ og $(\theta,v)=(\vec{x})$
+En tangenthyperplan, hvilket er det samme som en affin funktion som tangerer en funktion er givet ved: $h(\vec{x})=E(\vec{a})+\nabla E(\vec{a})\cdot (\vec{x}-\vec{a})$.
+Vi kan indsætte og reducere vores funktioner således 
+
+$h(\vec{x})=(\frac{1}{2}m(v_{1})^{2}-mgl \cos{(\theta_{1} )})+(mgl \sin{(\theta_{1})},mv_{1})\cdot (\theta-\theta_{1},v-v_{1})$
+$\Rightarrow h(\vec{x})=(\frac{1}{2}m(v_{1})^{2}-mgl \cos{(\theta_{1} )})+mgl \sin{\theta_{1}}(\theta-\theta_{1})+mv_{1}v-m(v_{1})^{2}$ 
+$\Rightarrow h(\vec{x})=m(gl(\sin{\theta_{1}}(\theta-\theta_{1})-\cos{\theta_{1}})+v_{1}v- \frac{1}{2}(v_{1})^{2})$
 
 ## b
 **Vis at i alle punkter $(\theta_{1},v_{1})\neq (n \pi ,0)$ for $n \in \mathbb{Z}$ har niveaukurven for E gennem punktet en tangent og find ligningen til denne. 
