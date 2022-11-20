@@ -138,12 +138,14 @@ Vi kan indsætte og reducere vores funktioner således
 $h(\vec{x})=(\frac{1}{2}m(v_{1})^{2}-mgl \cos{(\theta_{1} )})+(mgl \sin{(\theta_{1})},mv_{1})\cdot (\theta-\theta_{1},v-v_{1})$
 $\Rightarrow h(\vec{x})=(\frac{1}{2}m(v_{1})^{2}-mgl \cos{(\theta_{1} )})+mgl \sin{\theta_{1}}(\theta-\theta_{1})+mv_{1}v-m(v_{1})^{2}$ 
 $\Rightarrow h(\vec{x})=m(gl(\sin{\theta_{1}}(\theta-\theta_{1})-\cos{\theta_{1}})+v_{1}v- \frac{1}{2}(v_{1})^{2})$
+Dette er den affine funktion som tangerer E i punktet $\vec{a}=(\theta_{1},v_{1})$.
 
 ## b
 **Vis at i alle punkter $(\theta_{1},v_{1})\neq (n \pi ,0)$ for $n \in \mathbb{Z}$ har niveaukurven for E gennem punktet en tangent og find ligningen til denne. 
 Beskriv niveaukurverne gennem punkterne $(n \pi ,0)$for $n \in \mathbb{Z}$.**
 
-
+$\nabla E(\vec{a})\cdot (\vec{x}-\vec{a})=0$ givet at $\nabla E(\vec{a})\neq \vec{0}$ Hvilket betyder at $h(\vec{x})=E(\vec{a})$.
+Ved $(\vec{a})=(n \pi ,0)$ så bliver $\nabla E(\vec{a})=\vec{0}$ hvilket betyder at vores definition ikke fungerer. Niveaukurven 
 
 ## c
 **Tegn niveaukurver for udvalgte (positive) værdier af E og illustrer hvordan der er to kvalitativt forskellige "slags" niveaukurver, adskilt af niveaukurven for en bestemt værdi $E_{0}$. 
