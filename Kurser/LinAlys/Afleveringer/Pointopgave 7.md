@@ -144,11 +144,12 @@ Dette er den affine funktion som tangerer E i punktet $\vec{a}=(\theta_{1},v_{1}
 **Vis at i alle punkter $(\theta_{1},v_{1})\neq (n \pi ,0)$ for $n \in \mathbb{Z}$ har niveaukurven for E gennem punktet en tangent og find ligningen til denne. 
 Beskriv niveaukurverne gennem punkterne $(n \pi ,0)$for $n \in \mathbb{Z}$.**
 
-$\nabla E(\vec{a})\cdot (\vec{x}-\vec{a})=0$ givet at $\nabla E(\vec{a})\neq \vec{0}$ Hvilket betyder at $h(\vec{x})=E(\vec{a})$.
-Ved $(\vec{a})=(n \pi ,0)$ så bliver $\nabla E(\vec{a})=\vec{0}$ hvilket betyder at vores definition ikke fungerer. Niveaukurven 
+Vi kan ved 2.75 i TK se en definition for en niveaukurves tangent hvilket er givet ved: $\nabla E(\vec{a})\cdot (\vec{x}-\vec{a})=0$ så længe at $\nabla E(\vec{a})\neq \vec{0}$ dette giver at tangenthyperplanen er: $h(\vec{x})=E(\vec{a})$.
 
+Ved $(\vec{a})=(n \pi ,0)$ så bliver $\nabla E(\vec{a})=\vec{0}$ da $\cos{(n\pi)}=0,v=0$ når $n \in \mathbb{Z}$ hvilket betyder at vores definition ikke fungerer. 
 ## c
 **Tegn niveaukurver for udvalgte (positive) værdier af E og illustrer hvordan der er to kvalitativt forskellige "slags" niveaukurver, adskilt af niveaukurven for en bestemt værdi $E_{0}$. 
 Find $E_{0}$ ved at eksperimentere. 
 Giver den fundne værdi mening?**
 
+Værdien er et sted mellem 9 og 10. og fra 10 til 11 er der et til skift
