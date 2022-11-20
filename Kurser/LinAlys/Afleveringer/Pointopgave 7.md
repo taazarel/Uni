@@ -9,7 +9,37 @@ y \cos{(xy)} & x \cos{(xy)}
 \end{array}
 \right] $$
 ## b
-
+Givet er $$F(c(t))=(f_{1}(c(t)),f_{2}(c(t)))$$
+$\frac{d}{dt}F(c(t))=$
+$$\left(\frac{\delta f_{1}(c(t))}{\delta c_{1}(t)} \frac{\delta c_{1}(t)}{\delta t}+ \frac{\delta f_{1}(c(t))}{\delta c_{2}(t)} \frac{\delta c_{2}(t)}{\delta t},\frac{\delta f_{2}(c(t))}{\delta c_{1}(t)} \frac{\delta c_{1}(t)}{\delta t}+ \frac{\delta f_{2}(c(t))}{\delta c_{2}(t)} \frac{\delta c_{2}(t)}{\delta t}\right)$$
+Hvilket også kan skrives som:
+$$\Rightarrow \left[
+\begin{array}{c}
+\frac{\delta f_{1}(c(t))}{\delta c_{1}(t)} \frac{\delta c_{1}(t)}{\delta t}+ \frac{\delta f_{1}(c(t))}{\delta c_{2}(t)} \frac{\delta c_{2}(t)}{\delta t} \\ 
+\frac{\delta f_{2}(c(t))}{\delta c_{1}(t)} \frac{\delta c_{1}(t)}{\delta t}+ \frac{\delta f_{2}(c(t))}{\delta c_{2}(t)} \frac{\delta c_{2}(t)}{\delta t}
+\end{array}
+\right] $$
+Jacobimatricen er givet som
+$$DF(c(t))=\left[
+\begin{array}{cc}
+\frac{\delta f_{1}(c(t))}{\delta c_{1}(t)} & \frac{\delta f_{1}(c(t))}{\delta c_{2}(t)} \\ 
+\frac{\delta f_{2}(c(t))}{\delta c_{1}(t)} & \frac{\delta f_{2}(c(t))}{\delta c_{2}(t)}
+\end{array}
+\right] $$
+og $c'(t)=$
+$$\frac{d}{dt}c(t)=\left[
+\begin{array}{}
+\frac{\delta c_{1}(t)}{\delta t} \\ \frac{\delta c_{2}(t)}{\delta t}
+\end{array}
+\right] $$
+Nu kan vi finde den højre side af ligningen som et matrixprodukt
+$$DF(c(t))\cdot c'(t)= \left[
+\begin{array}{c}
+\frac{\delta f_{1}(c(t))}{\delta c_{1}(t)} \frac{\delta c_{1}(t)}{\delta t}+ \frac{\delta f_{1}(c(t))}{\delta c_{2}(t)} \frac{\delta c_{2}(t)}{\delta t} \\ 
+\frac{\delta f_{2}(c(t))}{\delta c_{1}(t)} \frac{\delta c_{1}(t)}{\delta t}+ \frac{\delta f_{2}(c(t))}{\delta c_{2}(t)} \frac{\delta c_{2}(t)}{\delta t}
+\end{array}
+\right]$$
+Herved har vi fundet $=DF(c(t))\cdot c'(t)$
 # 7.2
 Betragt vektorerne i $\mathbb{R}^{5}$
 $$
