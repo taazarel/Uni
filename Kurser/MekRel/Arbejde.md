@@ -7,7 +7,7 @@ Er der ikke også en fortegnsfejl i opgaven, specifikt (6.28)
 ## [[Kraft]] og [[energi]] [6.1]
 
 Arbejde(Eller energiligningen) beskrives som... :: energiændringen af systemet når det bliver påvirket af en ydre kraft: $W=\triangle E=\triangle K+\triangle U$.
-<!--SR:!2022-12-24,39,270-->
+<!--SR:!2022-12-24,39,270-->
 I et lukket system... ::: $W=0$
 <!--SR:!2022-11-20,16,290!2022-11-19,15,297-->
 
@@ -21,10 +21,8 @@ $W=0$ er energikonstanthed i systemet
 Arbejdet er afhængig af denne størrelse... :: $(\triangle x_{F})$. Hvor $\triangle x_{F}$ er forskydningen af systemets massemidtpunkt.[^1]
 <!--SR:!2022-11-17,13,297-->
 
-Kraftens arbejde er positivt når... :: kraften peger samme vej som forskydningen af kontaktpunktet ![[Arbejde 2022-10-30 17.03.20.excalidraw]]
-<!--SR:!2022-11-18,14,290-->
-Kraftens arbejde er negativt når... :: kraften peger modsatte vej af forskydningen af kontaktpunktet ![[Arbejde 2022-10-30 17.00.05.excalidraw]]
-<!--SR:!2022-11-20,16,290-->
+Kraftens arbejde er positivt når... :: kraften peger samme vej som forskydningen af kontaktpunktet ![[Arbejde 2022-10-30 17.03.20.excalidraw]]<!--SR:!2022-11-18,14,290-->
+Kraftens arbejde er negativt når... :: kraften peger modsatte vej af forskydningen af kontaktpunktet ![[Arbejde 2022-10-30 17.00.05.excalidraw]]<!--SR:!2022-11-20,16,290-->
 ## Matematisk beskrivelse af arbejde [6.2]
 
 Man kan beskrive $\Delta K$ som en kraft gennem dette udtryk... :: $\Delta K=ma_{CM,x}(v_{x,i}+ \frac{1}{2}a_{CM,x}(\Delta t)^{2})=ma_{CM,x}\Delta x_{F}=F_{x}\Delta x_{F}$.
