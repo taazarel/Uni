@@ -7,7 +7,7 @@ Er der ikke også en fortegnsfejl i opgaven, specifikt (6.28)
 ## [[Kraft]] og [[energi]] [6.1]
 
 Arbejde(Eller energiligningen) beskrives som... :: energiændringen af systemet når det bliver påvirket af en ydre kraft: $W=\triangle E=\triangle K+\triangle U$.
-<!--SR:!2022-11-14,10,250-->
+<!--SR:!2022-12-24,39,270-->
 I et lukket system... ::: $W=0$
 <!--SR:!2022-11-20,16,290!2022-11-19,15,297-->
 

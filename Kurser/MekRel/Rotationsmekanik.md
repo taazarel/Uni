@@ -67,7 +67,8 @@ En punktpartikel som bevæger sig i en cirkel vil altid have den samme buelængd
 Vinkelhastigheden bliver ændret af snorlængden således... :: vinkelhast skrives $\omega = \frac{v_{t}}{r}$ Så hvis vi har en mindre længde, bliver vinkelhastigheden større.
 <!--SR:!2022-11-26,15,295-->
 Vinkelhastigheden bliver ændret af vinkel og tid således... :: $\omega = \frac{\Delta \theta}{\Delta t}$.
-<!--SR:!2022-11-15,4,290-->
+
+<!--SR:!2022-12-01,16,310-->
 Vi kan omskrive den kinetiske energi til et udtryk af vinkelhastigheden... :: $K= \frac{1}{2}mv^{2}= \frac{1}{2}m (r \omega )^{2}$ Som vi også kan skrive som $\frac{1}{2}(mr^{2})\omega ^{2}$ (7.17)[^12]
 <!--SR:!2022-11-22,11,250-->
 Den rotationskinetiske energi skrives som... :: $K_{ro}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.18)
@@ -101,6 +102,18 @@ Hvis vi har $\omega, I_{Q} \text{ og } Q$ som er vinkelhastigheden, inertimoment
 Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså både vores translationsenergi og rotationsenergi i formlen... :: $K_{tot}=K_{CM}+K_{rot}= \frac{1}{2}mv^{2}+ \frac{1}{2}I_{Q}\omega^{2}$. (7.46)
 <!--SR:!2022-11-26,15,290-->
 
+## Impulsmoment (7.6)
+Impulsmomentet er det samme som impuls for rotationer og skrives som... :: $L_{Q}=I_{Q}\omega$  Husk at skrive L og $\omega$ som vektorer hvis de ikke er størrelser.(7.49)[^16]
+Impulsmomentet fra translatorisk bevægelse bliver skrevet som... :: $\vec{L_{Q}}=\vec{r_{Q}}\times \vec{p}$ som også kan skrives $\vec{L_{Q}}=\vec{r}\vec{p}\sin{\theta }$  (7.51)[^17]
+Denne regel bruges til at finde retningen af impulsmomentet af en cirkelbevægelse... :: højrehåndsreglen. Man peger sine fingre i retningen af stedvektoren, og derefter folder man dem mod impulsvektoren, så vil tommelfingeren pege i samme retning som impulsmomentet.
+Hvis en partikel er i cirkelbevægelse om en akse vil impulsmomentet fra en ydre akse beskrives som... :: $L_{Q}=L(t)$ at være afhængig af tiden. Den kan pege op eller ned[^18]
+Den totale impulsmoment for en partikel som roterer og drejer skrives som.. :: $\vec{L_{tot}}=\vec{L_{bane}}+\vec{L_{spin}}$  
+
+## Kraftmoment (7.7)
+Den tidsligt afledte af impulsmomentet skrives som $\frac{d \vec{L}}{dt}=$... :: $d\frac{\vec{r}\times \vec{p}}{dt}= \frac{d \vec{r}}{dt}\times \vec{p}+\vec{r}\times \frac{d \vec{p}}{dt}$ (7.54)
+Kraftmomentet, eller torque, er det samme som $\frac{d \vec{L}}{dt}=\frac{d \vec{r}}{dt}\times \vec{p}+\vec{r}\times \frac{d \vec{p}}{dt}$, hvor $\vec{F}= \frac{d \vec{p}}{dt}$ og $\vec{v}\times \vec{p}$ er vinkelrette på hinanden da $\vec{p}=m \vec{v}$, så bliver kraftmomentet... :: $\tau =\frac{d \vec{L}}{dt}= \vec{r}\times \vec{F}$ (7.58)[^19]
+
+
 ## Fodnoter
 [^1]: Dette kaldes også tangential-hastigheden $\vec{v_{t}}$
 [^2]: Jo mindre r, desto højere kraft.
@@ -117,3 +130,7 @@ Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså b�
 [^13]: Den sidste del kan vi skrive da vi ser på vinkelhastigheden i stedet for hastigheden og radius af alle de forskellige punkter.  
 [^14]: Dette er den generelle løsning, men vi kan forbedre den hvis vi har et legeme som har en vis symmetri.
 [^15]: Hvor d er distance mellem de to akser og m er inertien.
+[^16]: L og I er både afhængige af aksen Q. Hvor $L_{Q}$ er impulsmomentet.
+[^17]: hvor p er impulsvektoren og $r_{Q}$ er stedvektoren. Omskrevet er $\theta$ vinklen mellem r og p vektorerne.
+[^18]: Dette er også hvor elektroners op og ned spin kommer fra.
+[^19]: Tau bliver brugt fordi vi også siger torque.

@@ -64,7 +64,7 @@ Impuls er additiv da... :: $p=\frac{\delta L}{\delta v}$.
 Når Lagrange funktionen er uafhængig af tiden får vi... :: Energibevarelse.
 <!--SR:!2022-12-10,46,296-->
 Den generelle ligning for den tidsligt afledte L er... :: $\frac{dL}{dt}=\frac{\delta L}{\delta x}v+ \frac{\delta L}{\delta v}a+ \frac{\delta L}{\delta t}$.
-<!--SR:!2022-11-13,11,218-->
+<!--SR:!2022-12-25,40,238-->
 Og hvis vi har tidslig symmetri så bliver $\frac{\delta L}{\delta t}=0$.
 Dette kombineret med EL ligningen på første led ovenover bliver til $$\frac{dL}{dt}=\frac{d}{dt}\left(\frac{\delta L}{\delta v}\right)v+\frac{\delta L}{\delta v}a$$
 Hvilket kan omskrives til $$H=v \frac{\delta L}{\delta v}-L,$$

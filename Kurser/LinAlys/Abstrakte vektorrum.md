@@ -160,7 +160,8 @@ Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde f
 <!--SR:!2022-12-10,29,304-->
 ### Bevis
 Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers kan vi bruge... :: Udtyndingslemmaet da $dim V<n$ og derfor er $\vec{v_{1}},...,\vec{v_{n}}$ ikke lineært uafhængig. Så bruger vi bare 3.17. indtil $dim V=n$
-<!--SR:!2022-11-15,8,260-->
+
+<!--SR:!2022-12-15,30,280-->
 
 ## 3.19 (Udvidelseslemmaet)
 Hvis vi har et span som $\vec{v_{n+1}}\notin span \{\vec{v_{1}},...,\vec{v_{n}} \}$ hvor spannet er lineært uafhængigt så vil spannet inkluderende $\vec{v_{n+1}}$... :: $\vec{v_{1}},...,\vec{v_{n}},\vec{v_{n+1}}$ være lineært uafhængigt.

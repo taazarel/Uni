@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef2f1c7e126d0625",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/MekRel/Rotationsmekanik.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,14 +156,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc1bd5eb6c4ecd59",
+  "active": "ef2f1c7e126d0625",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Indre Produkt.md",
+    "conflict-files-obsidian-git.md",
     "Kurser/MekRel/Rotationsmekanik.md",
+    "Kurser/LinAlys/Indre Produkt.md",
     "Kurser/LinAlys/Komplekse tal.md",
     "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
-    "conflict-files-obsidian-git.md",
     "Hjælpemidler/Templates/fore.md",
     "Kurser/LinAlys/Tangetplaner.md",
     "Assets/Excalidraw/Regnepapir 2022-11-08 09.38.12.excalidraw.md",
