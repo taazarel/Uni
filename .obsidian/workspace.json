@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f3e56ce03797870",
+        "id": "b0deac6197713994",
         "type": "tabs",
         "children": [
           {
-            "id": "c564fabeb7d3856f",
+            "id": "74f5b4973c26969e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,8 +143,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c564fabeb7d3856f",
+  "active": "74f5b4973c26969e",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
@@ -160,7 +154,6 @@
     "Kurser/LinAlys/Komplekse tal.md",
     "conflict-files-obsidian-git.md",
     "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Hjælpemidler/Templates/fore.md"
+    "Kurser/LinAlys/Regnepapir.md"
   ]
 }
