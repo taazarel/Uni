@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "256f9c1b607cbeab",
+        "id": "4f3e56ce03797870",
         "type": "tabs",
         "children": [
           {
-            "id": "65a94616022bb5fa",
+            "id": "c564fabeb7d3856f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -143,7 +150,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65a94616022bb5fa",
+  "active": "c564fabeb7d3856f",
   "lastOpenFiles": [
     "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Rotationsmekanik.md",
