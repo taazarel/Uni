@@ -39,13 +39,14 @@ Graden af et polynomie p skrives som... :: $grad(p)$ er den største $n \in \{ 0
 Produktet af to polynomier $p,q:\mathbb{C}\to \mathbb{C}$ med graderne $grad(p)=n,grad(q)=m$ skrives som ... :: $p(z)q(z)=(a_{n}b_{m})z^{n+m}+(a_{n}b_{m-1}+a_{n-1}b_{m})z^{n+m-1}$ Et polynomie til graden $grad(p \cdot q)=grad(p)+grad(q)$.
 
 ### Sætning 1.5.2 (Division af polynomier med rest)
-Givet $p,q,k \in \mathbb{C},q \neq 0, k=\frac{p}{q}$ så findes polynomiet $k(z)=$... :: $p(z)=k(z)q(z)+r(z)$ med $grad(z)$
+Givet $p,q \in \mathbb{C}\text{ og }q \neq 0\text{ og } k=\frac{p}{q}$ så findes polynomiet $k(z)\text{ og }r(z)$ så $p(z)=$... :: $k(z)q(z)+r(z)$ med $grad(r)<grad(q)$.
 
-# Kig på senere
-## Eksempel 3.4.3 
+
+## Kig på senere
+### Eksempel 3.4.3 
 For at se hvordan man finder en rod.
-
-
+### Eksempel 1.5.1
+For at se hvordan man dividerer polynomier
 # Fodnoter
 [^1]: Der kan både være flere en en rod, eller ingen gyldige rødder. Altså er rødderne ikke entydige.
 [^2]: Diskriminanten er stadigvæk $d=b^{2}-4ac$
