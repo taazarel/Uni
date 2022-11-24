@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
+                "file": "Kurser/LinAlys/Regnepapir.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "41f94ce1701b179f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md",
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md"
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md"
               }
             }
           },
@@ -156,20 +167,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "9fdbc545e95acbe9",
+        "id": "a1a97b6ed670c6cd",
         "type": "window",
         "children": [
           {
-            "id": "410d808c6fb7332a",
+            "id": "a5aa8e9260a83e08",
             "type": "tabs",
             "children": [
               {
-                "id": "080eee762f1f748d",
+                "id": "a5de5b5632600efd",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md"
+                    "file": "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md"
                   }
                 }
               }
@@ -186,17 +197,17 @@
       }
     ]
   },
-  "active": "080eee762f1f748d",
+  "active": "a5de5b5632600efd",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md",
+    "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
+    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Assets/Excalidraw/Rødder og polynomier af komplekse tal 2022-11-24 08.33.27.excalidraw.md",
     "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
-    "Kurser/LinAlys/Tangetplaner.md",
-    "Kurser/LinAlys/Indre Produkt.md"
+    "Kurser/LinAlys/Tangetplaner.md"
   ]
 }
