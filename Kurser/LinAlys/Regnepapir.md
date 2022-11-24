@@ -3,3 +3,4 @@
 [[Regnepapir 2022-11-03 09.39.46.excalidraw]]
 [[Regnepapir 2022-11-08 09.38.12.excalidraw]]
 [[Regnepapir 2022-11-10 09.36.58.excalidraw]]
+[[Regnepapir 2022-11-24 09.35.47.excalidraw]]

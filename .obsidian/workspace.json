@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md"
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md"
               }
             }
           },
@@ -151,17 +151,52 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74f5b4973c26969e",
+  "floating": {
+    "id": "ba17470d4ebc88c5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9fdbc545e95acbe9",
+        "type": "window",
+        "children": [
+          {
+            "id": "410d808c6fb7332a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "080eee762f1f748d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "080eee762f1f748d",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Rødder og polynomier af komplekse tal 2022-11-24 08.33.27.excalidraw.md",
     "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
+    "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md",
+    "Kurser/LinAlys/Regnepapir.md",
+    "Assets/Excalidraw/Rødder og polynomier af komplekse tal 2022-11-24 08.33.27.excalidraw.md",
     "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Tangetplaner.md",
-    "Kurser/LinAlys/Indre Produkt.md",
-    "conflict-files-obsidian-git.md",
-    "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md"
+    "Kurser/LinAlys/Indre Produkt.md"
   ]
 }
