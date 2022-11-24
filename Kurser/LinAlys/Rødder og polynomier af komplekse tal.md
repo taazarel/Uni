@@ -72,7 +72,16 @@ V er et indre produkt rum $\vec{v},\vec{u}\in V$ og $a \in \mathbb{R}$
 ### Korollar
 For $f,g \in C_{[a,b]}$ så er $$\sqrt{\int_{a}^{b} (f(x)+g(x))^{2}dx}\leq ...$$ :: $$\sqrt{\int_{a}^{b} f(x)^{2}dx}+\sqrt{\int_{a}^{b} g(x)^{2}dx}$$
 ## Definition 4.16
-Lad V være et indre produkt rum. Vektorfamilien $\vec{u_{1}},...,\vec{u_{n}}\in V$ er ortogonale hvis.... :: $\langle \vec{u_{i}},\vec{u_{j}}\rangle =0$ for $i \neq j$.[^3]
+Lad V være et indre produkt rum. Vektorfamilien $\vec{u_{1}},...,\vec{u_{n}}\in V$ er ortogonale hvis.... :: $\langle \vec{u_{i}},\vec{u_{j}}\rangle =0$ for $i \neq j$ og $\langle \vec{u_{i}},\vec{u_{j}}\rangle =1$ for $i=j$.[^3]
+Vi kan skrive skalaren $r_{i}=...$ :: $\frac{\langle \vec{u_{i}},\vec{v}\rangle}{\langle \vec{u_{i}},\vec{u_{i}}\rangle }= \text{ hvis ortonormal } = \langle \vec{u_{i}},\vec{v}\rangle$.
+
+## Sætning 4.17
+Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale medfører det at familien er.... :: Lineært uafhængige. Men ortogonalitet er lettere at tjekke.
+### Korollar "Ortonormal basis" (ONB)
+$\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en endelig $dim \{ V\}$ så vil ... :: vi finde en basis $\vec{u_{1}},...,\vec{u_{n}}\in V$ gennem en Gram Schmidt Proces.
+
+## Sætning 4.20
+Givet $\vec{u_{1}},...,\vec{u_{n}}\in V$ er en basis, konstruerer vi ONB $\vec{e_{1}},...,\vec{e_{n}}\in V$ og kan definere... :: $\vec{e_{1}}= \frac{1}{||\vec{u_{1}}||}\vec{u_{1}}$ og $v_{2}=\vec{u_{2}}-\langle \vec{u_{2}},\vec{e_{1}}\rangle \vec{e_{1}}$ så kan vi definere $\vec{e_{2}}= \frac{1}{||\vec{v}||}\vec{v_{2}}$.
 
 
 ## Kig på senere
