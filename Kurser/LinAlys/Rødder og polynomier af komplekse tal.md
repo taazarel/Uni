@@ -41,6 +41,22 @@ Produktet af to polynomier $p,q:\mathbb{C}\to \mathbb{C}$ med graderne $grad(p)=
 ### Sætning 1.5.2 (Division af polynomier med rest)
 Givet $p,q \in \mathbb{C}\text{ og }q \neq 0\text{ og } k=\frac{p}{q}$ så findes polynomiet $k(z)\text{ og }r(z)$ så $p(z)=$... :: $k(z)q(z)+r(z)$ med $grad(r)<grad(q)$.
 
+Vektorer i $\mathbb{R}^{n}$ kan skrives som:
+afstand til $\vec{0},||\vec{v}||=\sqrt{\vec{v}\cdot \vec{v}}$.
+Afstand fra $\vec{v}$ til $\vec{w},||\vec{v}-\vec{w}||$
+Vinkel $\vec{v},\vec{w} \neq 0$ og $\theta =\cos^{-1}{\frac{\vec{v}\cdot\vec{w}}{||\vec{v}||\cdot||\vec{w}||}}$
+Projektion $proj_{\vec{u}}(\vec{v})= \frac{\vec{u}\cdot\vec{v}}{\vec{u}\cdot \vec{u}}$ 
+Ortogonalitet $\vec{u}\cdot \vec{v}=0$
+Oversat tilet V indre produkt rum er de...
+?
+norm $||\vec{v}||=\sqrt{\langle \vec{v},\vec{v}\rangle }$
+Afstand $\vec{v} \text{ til }\vec{w}$ $||\vec{v}-\vec{w}||$
+Vinkel $\vec{u},\vec{v}\in V \backslash 0$ så er $\theta =\cos^{-1}{\frac{\langle \vec{u},\vec{v}\rangle}{||\vec{u}||||\vec{v}||}}$
+Projektion $proj_\vec{u}(\vec{v})= \frac{\langle\vec{v},\vec{u}\rangle}{\langle \vec{u},\vec{u}\rangle }\vec{u}$
+Ortogonalitet $\langle \vec{u},\vec{v}\rangle =0$
+
+## Sætning 4.11 Caudiy Schwarz ulighed
+Givet $\vec{u},\vec{v}\in V$ da kan vi vise en ulighed som... :: $|\langle \vec{u},\vec{v}\rangle \leq ||\vec{u}||$
 
 ## Kig på senere
 ### Eksempel 3.4.3 
