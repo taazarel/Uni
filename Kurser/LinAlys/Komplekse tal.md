@@ -20,7 +20,7 @@ Definitionen af division i $\mathbb{C}$, givet $\frac{1}{z}\neq \frac{1}{0}$, er
 <!--SR:!2022-12-01,16,290-->
 Definitionen af eksponentialfunktionen i $\mathbb{C}$ er... :: $e^{z}=e^{a}(\cos{b}+i \sin{b})\in \mathbb{C}$.[^4]
 <!--SR:!2022-11-29,14,290-->
-Modulus af w er... :: $\sqrt{w \cdot w}=|w|$
+Modulus af w er... :: $\sqrt{w \cdot w}=||w||$
 <!--SR:!2022-12-17,26,300-->
 Værdimængden af den komplekse eksponentialfunktion er... :: hele $\mathbb{C}\backslash 0$ altså alle komplekse tal på nær 0.
 <!--SR:!2022-12-16,25,300-->
@@ -67,7 +67,6 @@ $\ln(z)$
 $z^{w}$
 $\cos^{-1}{z}$
 <!--SR:!2022-12-06,15,250-->
-
 
 ### De fem vigtigste tal i matematik
 $$e^{i \pi }-1=0$$
