@@ -56,7 +56,24 @@ Projektion $proj_\vec{u}(\vec{v})= \frac{\langle\vec{v},\vec{u}\rangle}{\langle 
 Ortogonalitet $\langle \vec{u},\vec{v}\rangle =0$
 
 ## Sætning 4.11 Caudiy Schwarz ulighed
-Givet $\vec{u},\vec{v}\in V$ da kan vi vise en ulighed som... :: $|\langle \vec{u},\vec{v}\rangle \leq ||\vec{u}||$
+Givet $\vec{u},\vec{v}\in V$ da kan vi vise en ulighed som... :: $|\langle \vec{u},\vec{v}\rangle| \leq ||\vec{u}||\cdot ||\vec{v}||$ altså $-(||\vec{u}||\cdot ||\vec{v}||)\leq \langle \vec{u},\vec{v}\rangle \leq ||\vec{v}||\cdot ||\vec{u}||$
+### Korollar
+For $\frac{\langle \vec{u},\vec{v}\rangle }{||\vec{u}||\cdot ||\vec{v}||}\in [-1,1]$ så er $\theta =$... :: Veldefineret.
+
+## Sætning 4.12
+V er et indre produkt rum $\vec{v},\vec{u}\in V$ og $a \in \mathbb{R}$
+1. Hvis $||\vec{u}||\geq 0$ og $||\vec{u}||=0$ så er...
+2. $||a \vec{u}||=...$
+3. $||\vec{u}+\vec{v}||\leq ...$
+?
+1. $\vec{u}=\vec{0}$
+2. $|\vec{a}|\cdot ||\vec{u||}$
+3. $||\vec{u}||+||\vec{v}||$ Denne hedder også trekantsuligheden ![[Rødder og polynomier af komplekse tal 2022-11-24 08.33.27.excalidraw]]
+### Korollar
+For $f,g \in C_{[a,b]}$ så er $$\sqrt{\int_{a}^{b} (f(x)+g(x))^{2}dx}\leq ...$$ :: $$\sqrt{\int_{a}^{b} f(x)^{2}dx}+\sqrt{\int_{a}^{b} g(x)^{2}dx}$$
+## Definition 4.16
+Lad V være et indre produkt rum. Vektorfamilien $\vec{u_{1}},...,\vec{u_{n}}\in V$ er ortogonale hvis.... :: $\langle \vec{u_{i}},\vec{u_{j}}\rangle =0$ for $i \neq j$.[^3]
+
 
 ## Kig på senere
 ### Eksempel 3.4.3 
@@ -66,3 +83,4 @@ For at se hvordan man dividerer polynomier
 # Fodnoter
 [^1]: Der kan både være flere en en rod, eller ingen gyldige rødder. Altså er rødderne ikke entydige.
 [^2]: Diskriminanten er stadigvæk $d=b^{2}-4ac$
+[^3]: Messer $S \subseteq V$ er ortogonal.
