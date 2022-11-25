@@ -10,7 +10,8 @@ i & (1+i) &   & 1+3i \\
 
 # 8.2
 ## a
-For en matrix $X=[x_{ij}]\in \mathbb{M}_{2,2}$ definerer vi $\langle A,B \rangle=$
+For en matrix $X=[x_{ij}]\in \mathbb{M}_{2,2}$ definerer vi $\langle A,B \rangle=Tr(A^{t}B)$.
+
 $$\left[
 \begin{array}{cc}
 1 & 2 \\ 0 & 7
@@ -33,9 +34,53 @@ $$Tr(A^{t}B)=Tr\left[
 \right] =3+35=38$$
 
 ## b
-
-
+Vis at $\langle , \rangle$ opfylder aksiom 1 for indre produkt [Messer Definition 4.1]
+$$\langle \left[
+\begin{array}{cc}
+0 & 0  \\ 0 & 0
+\end{array}
+\right],\left[
+\begin{array}{cc}0 & 0 \\  0 & 0
+\end{array}
+\right]  \rangle=0+0=0$$
+$$\langle \left[
+\begin{array}{cc}
+-1 & 2 \\ 3 & -4
+\end{array}
+\right],\left[
+\begin{array}{cc}
+-1 & 2 \\ 3 & -4
+\end{array}
+\right] \rangle = Tr(\left[
+\begin{array}{cc}
+-1 & 3 \\ 2 & -4
+\end{array}
+\right]\left[
+\begin{array}{cc}
+-1 & 2 \\ 3 & -4
+\end{array}
+\right])$$
+$$= Tr(\left[
+\begin{array}{cc}10 & -14 \\ -14 & 20
+\end{array}
+\right])=30$$
+Dette vil altså altid blive positivt da $x_{11},x_{22}$ altid vil stå i anden, og derfor blive positive. Det indre produkt bliver altid $\langle A,A \rangle \geq 0$ og når $\langle A,A \rangle =0$ så er $$A=\left[
+\begin{array}{cc}0 & 0 \\ 0 & 0
+\end{array}
+\right] $$
+Derfor opfylder operationen aksiom 1.
 ## c
+$$||U_{1}||=\sqrt{Tr\left(\left[
+\begin{array}{cc}1 & 1 \\ 0 & 0
+\end{array}
+\right]\left[
+\begin{array}{cc}1 & 0  \\ 1 & 0
+\end{array}
+\right]\right)} =\sqrt{Tr\left[
+\begin{array}{cc}2 & 0 \\ 0 & 0
+\end{array}
+\right]}$$
+
 # 8.3
 ## a
 
