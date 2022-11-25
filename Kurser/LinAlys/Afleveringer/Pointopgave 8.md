@@ -41,10 +41,13 @@ i & 1+i & 0  & 1+3i \\
 \end{array}
 \right]$$
 $$
-\begin{array}{ccc=c}
-iz_{1} & (1+i)z_{2}  &   & 
+\begin{array}{cccc}
+iz_{1} +& (1+i)z_{2}  &   & =1+3i \\ 
+  & (3+i)z_{2} &   & =6 \\ 
+   &   & z_{3} & =-1
 \end{array}
  $$
+ 
 # 8.2
 ## a
 For en matrix $X=[x_{ij}]\in \mathbb{M}_{2,2}$ definerer vi $\langle A,B \rangle=Tr(A^{t}B)$.
