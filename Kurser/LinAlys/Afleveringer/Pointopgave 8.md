@@ -350,7 +350,21 @@ Udregn modulus og argument af det komplekse tal
 $$\frac{\left(\frac{1}{2}+ \frac{3}{4}i\right)\left(\frac{1}{4}- \frac{3}{2}i\right)}{\left(\frac{-1}{4}+ \frac{1}{2}i\right)}$$
 Beregn tallet med håndkraft, men tjek gerne resultatet med fx Python.
 
+$$\frac{\left(\frac{1}{2}+ \frac{3}{4}i\right)
+\left(\frac{1}{4}- \frac{3}{2}i\right)
+\left(\frac{-1}{4}- \frac{1}{2}i\right)}
+{\left(\frac{-1}{4}+ \frac{1}{2}i\right)
+\left(\frac{-1}{4}- \frac{1}{2}i\right)}$$
+$$\left(\frac{-1}{4}+ \frac{1}{2}i\right)
+\left(\frac{-1}{4}- \frac{1}{2}i\right)=
+\left(\frac{1}{16}+ \frac{1}{4}\right)=\frac{5}{16}$$
 
+$$\left(\frac{1}{2}+ \frac{3}{4}i\right)
+\left(\frac{1}{4}- \frac{3}{2}i\right)=
+\frac{1}{8}- \frac{3}{4}i+ \frac{3}{16}i+ \frac{9}{8}=
+\frac{10}{8}- \frac{9}{16}i$$
+$$\left(\frac{10}{8}- \frac{9}{16}i\right)\left(\frac{-1}{4}- \frac{1}{2}i\right)=
+-9/$$
 
 **Resultat fra WolframAlpha:**
 $$\frac{-19}{10}- \frac{31}{20}i=\frac{-1}{20}(38+31i)$$
