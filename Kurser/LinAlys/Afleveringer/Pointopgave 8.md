@@ -154,20 +154,22 @@ $$||V_{2}||=\sqrt{Tr\left(\left[
 \end{array}
 \right]\left[
 \begin{array}{cc}
-0 & 1 \\ -1 & 0
+\frac{1}{2} & 1 \\ \frac{-1}{2} & 0
 \end{array}
 \right]\right)}=\sqrt{Tr\left(\left[
 \begin{array}{cc}
-1 & 0 \\ 0 & 1
+\frac{1}{2} & \frac{1}{2} \\ \frac{1}{2} & 1
 \end{array}
-\right]\right)}=\sqrt{2} $$
-$$E_{2}= \frac{1}{\sqrt{2}}\left[
+\right]\right)}=\sqrt{\frac{3}{2}} $$
+$$E_{2}= \frac{1}{\sqrt{\frac{3}{2}}}\left[
 \begin{array}{cc}
-0 & 1 \\ -1 & 0
+\frac{1}{2} & 1 \\ \frac{-1}{2} & 0
 \end{array}
 \right] =\left[
 \begin{array}{cc}
-0 & \frac{1}{\sqrt{2}} \\ \frac{-1}{\sqrt{2}} & 0
+\frac{1}{2\sqrt{\frac{3}{2}}} &  
+\frac{1}{\sqrt{\frac{3}{2}}} \\ 
+\frac{-1}{2\sqrt{\frac{3}{2}}} & 0
 \end{array}
 \right]$$
 $$V_{3}=U_{3}-\langle U_{3},E_{1}\rangle E_{1}-\langle U_{3},E_{2}\rangle E_{2}$$
@@ -179,10 +181,27 @@ $$\langle U_{3},E_{1}\rangle =Tr\left(\left[
 \right]
 \left[
 \begin{array}{cc}
+\frac{1}{2\sqrt{\frac{3}{2}}} &  
+\frac{1}{\sqrt{\frac{3}{2}}} \\ 
+\frac{-1}{2\sqrt{\frac{3}{2}}} & 0
+\end{array}
+\right] \right)=Tr\left(\left[
+\begin{array}{cc}
+0 & 0 \\ 
+0 & \frac{1}{\sqrt{\frac{3}{2}}}
+\end{array}
+\right] \right)= \frac{1}{\sqrt{\frac{3}{2}}}$$
+$$\frac{1}{\sqrt{\frac{3}{2}}}\left[
+\begin{array}{cc}
 \frac{1}{\sqrt{2}} & 0 \\ 
 \frac{1}{\sqrt{2}} & 0 
 \end{array}
-\right] \right)$$
+\right] = \left[
+\begin{array}{cc}
+\frac{1}{\sqrt{2}\sqrt{\frac{3}{2}}} & 0 \\ 
+\frac{1}{\sqrt{2}\sqrt{\frac{3}{2}}} & 0
+\end{array}
+\right] $$
 
 # 8.3
 ## a
