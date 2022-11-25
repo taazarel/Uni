@@ -351,6 +351,10 @@ $$\frac{\left(\frac{1}{2}+ \frac{3}{4}i\right)\left(\frac{1}{4}- \frac{3}{2}i\ri
 Beregn tallet med håndkraft, men tjek gerne resultatet med fx Python.
 
 
+
+**Resultat fra WolframAlpha:**
+$$\frac{-19}{10}- \frac{31}{20}i=\frac{-1}{20}(38+31i)$$
+
 ## b
 Lad $z=\frac{1}{2}+ \frac{3}{4}i$. Indtegn tallene $$z^-8,z^-7,...,z^0,...,z^7,z^{8}$$
 i den komplekse plan og forklar hvilket mønster punkterne danner.
