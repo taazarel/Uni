@@ -181,6 +181,29 @@ $$\langle U_{3},E_{1}\rangle =Tr\left(\left[
 \right]
 \left[
 \begin{array}{cc}
+\frac{1}{\sqrt{2}} & 0 \\ 
+\frac{1}{\sqrt{2}} & 0
+\end{array}
+\right] \right)=Tr\left(\left[
+\begin{array}{cc}
+0 & 0 \\ 
+\frac{2}{\sqrt{2}} & 0
+\end{array}
+\right] \right)= 0$$
+$$E_{1}\langle U_{3},E_{1}\rangle= \left[
+\begin{array}{cc}
+0 & 0  \\ 
+0 & 0
+\end{array}
+\right] $$
+$$\langle U_{3},E_{2}\rangle =Tr\left(\left[
+\begin{array}{cc}
+0 & 0 \\ 
+1 & 1
+\end{array}
+\right] 
+\left[
+\begin{array}{cc}
 \frac{1}{2\sqrt{\frac{3}{2}}} &  
 \frac{1}{\sqrt{\frac{3}{2}}} \\ 
 \frac{-1}{2\sqrt{\frac{3}{2}}} & 0
@@ -191,17 +214,40 @@ $$\langle U_{3},E_{1}\rangle =Tr\left(\left[
 0 & \frac{1}{\sqrt{\frac{3}{2}}}
 \end{array}
 \right] \right)= \frac{1}{\sqrt{\frac{3}{2}}}$$
-$$\frac{1}{\sqrt{\frac{3}{2}}}\left[
+$$\langle U_{3},E_{2}\rangle E_{2}= \frac{1}{\sqrt{\frac{3}{2}}}\left[
 \begin{array}{cc}
-\frac{1}{\sqrt{2}} & 0 \\ 
-\frac{1}{\sqrt{2}} & 0 
+\frac{1}{2\sqrt{\frac{3}{2}}} &  
+\frac{1}{\sqrt{\frac{3}{2}}} \\ 
+\frac{-1}{2\sqrt{\frac{3}{2}}} & 0
 \end{array}
-\right] = \left[
+\right] =\left[
 \begin{array}{cc}
-\frac{1}{\sqrt{2}\sqrt{\frac{3}{2}}} & 0 \\ 
-\frac{1}{\sqrt{2}\sqrt{\frac{3}{2}}} & 0
+\frac{1}{3} & \frac{2}{3} \\ 
+\frac{-1}{3} & 0
 \end{array}
-\right] $$
+\right]$$
+$$V_{3}=\left[
+\begin{array}{cc}
+0 & 1 \\ 
+0 & 1
+\end{array}
+\right] -\left[
+\begin{array}{cc}
+0 & 0  \\ 0 & 0
+\end{array}
+\right] 
+-\left[
+\begin{array}{cc}
+\frac{1}{3} & \frac{2}{3} \\ 
+\frac{-1}{3} & 0
+\end{array}
+\right]=\left[
+\begin{array}{cc}
+\frac{-1}{3} & \frac{1}{3} \\ 
+\frac{1}{3} & 1
+\end{array}
+\right]  $$
+$$||V_{3}||=\sqrt{Tr\left(\right)}$$
 
 # 8.3
 ## a
