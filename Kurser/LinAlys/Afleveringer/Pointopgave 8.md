@@ -70,6 +70,26 @@ Dette vil altså altid blive positivt da $x_{11},x_{22}$ altid vil stå i anden,
 \right] $$
 Derfor opfylder operationen aksiom 1.
 ## c
+$$||U_{2}||=\left[
+\begin{array}{cc}1 & 0 \\ 1 & 0
+\end{array}
+\right] \left[
+\begin{array}{cc}1 & 1  \\ 0 & 0
+\end{array}
+\right] =\left[
+\begin{array}{cc} 1 & 1 \\ 1 & 1
+\end{array}
+\right] =\sqrt{2}$$
+$$||U_{3}||=\left[
+\begin{array}{cc}0 & 0 \\ 1 & 1
+\end{array}
+\right] \left[
+\begin{array}{cc}0 & 1 \\ 0 & 1
+\end{array}
+\right] =\left[
+\begin{array}{cc}0 & 0 \\ 0 & 2
+\end{array}
+\right] = \sqrt{2}$$
 $$||U_{1}||=\sqrt{Tr\left(\left[
 \begin{array}{cc}1 & 1 \\ 0 & 0
 \end{array}
@@ -79,7 +99,90 @@ $$||U_{1}||=\sqrt{Tr\left(\left[
 \right]\right)} =\sqrt{Tr\left[
 \begin{array}{cc}2 & 0 \\ 0 & 0
 \end{array}
-\right]}$$
+\right]}=\sqrt{2}$$
+$$E_{1}=\frac{1}{\sqrt{2}}\left[
+\begin{array}{cc}1 & 0 \\ 1 & 0
+\end{array}
+\right] =\left[
+\begin{array}{cc} \frac{1}{\sqrt{2}} & 0 \\ 
+\frac{1}{\sqrt{2}} & 0 
+\end{array}
+\right] $$
+$$V_{2}=U_{2}-\langle U_{2},E_{1}\rangle E_{1}$$
+$$\langle U_{2},E_{1}\rangle=Tr\left(\left[
+\begin{array}{cc}
+1 & 0 \\ 
+1 & 0
+\end{array}
+\right]\left[
+\begin{array}{cc} 
+\frac{1}{\sqrt{2}} & 0 \\ 
+\frac{1}{\sqrt{2}} & 0
+\end{array}
+\right] \right)=Tr\left(\left[
+\begin{array}{cc}
+\frac{1}{\sqrt{2}} & 0 \\ 
+\frac{1}{\sqrt{2}} & 0
+\end{array}
+\right]\right)= \frac{1}{\sqrt{2}}$$
+$$\frac{1}{\sqrt{2}}\left[
+\begin{array}{cc}
+\frac{1}{\sqrt{2}} & 0 \\ 
+\frac{1}{\sqrt{2}} & 0
+\end{array}
+\right] =\left[
+\begin{array}{cc}
+\frac{1}{2} & 0 \\ \frac{1}{2} & 0
+\end{array}
+\right] $$
+$$V_{2}=\left[
+\begin{array}{cc}
+1 & 1  \\  0 & 0
+\end{array}
+\right]-\left[
+\begin{array}{cc}
+\frac{1}{2} & 0  \\ \frac{1}{2} & 0
+\end{array}
+\right]  =\left[
+\begin{array}{cc}
+\frac{1}{2} & 1 \\ \frac{-1}{2} & 0
+\end{array}
+\right] $$
+$$||V_{2}||=\sqrt{Tr\left(\left[
+\begin{array}{cc}
+\frac{1}{2} & \frac{-1}{2} \\ 1 & 0
+\end{array}
+\right]\left[
+\begin{array}{cc}
+0 & 1 \\ -1 & 0
+\end{array}
+\right]\right)}=\sqrt{Tr\left(\left[
+\begin{array}{cc}
+1 & 0 \\ 0 & 1
+\end{array}
+\right]\right)}=\sqrt{2} $$
+$$E_{2}= \frac{1}{\sqrt{2}}\left[
+\begin{array}{cc}
+0 & 1 \\ -1 & 0
+\end{array}
+\right] =\left[
+\begin{array}{cc}
+0 & \frac{1}{\sqrt{2}} \\ \frac{-1}{\sqrt{2}} & 0
+\end{array}
+\right]$$
+$$V_{3}=U_{3}-\langle U_{3},E_{1}\rangle E_{1}-\langle U_{3},E_{2}\rangle E_{2}$$
+$$\langle U_{3},E_{1}\rangle =Tr\left(\left[
+\begin{array}{cc}
+0 & 0 \\ 
+1 & 1
+\end{array}
+\right]
+\left[
+\begin{array}{cc}
+\frac{1}{\sqrt{2}} & 0 \\ 
+\frac{1}{\sqrt{2}} & 0 
+\end{array}
+\right] \right)$$
 
 # 8.3
 ## a
