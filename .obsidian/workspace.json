@@ -11,11 +11,9 @@
             "id": "b7c4b64ad55d6835",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Kurser/LinAlys/Komplekse tal.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Komplekse tal.md",
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Komplekse tal.md"
+                "file": "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md"
               }
             }
           },
@@ -153,13 +151,13 @@
   },
   "active": "b7c4b64ad55d6835",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Regnepapir.md",
+    "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Kurser/MekRel/Notesbog/cpt123456.pdf",
-    "Kurser/LinAlys/Regnepapir.md",
     "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md",
     "Assets/Excalidraw/Regnepapir 2022-11-24 09.35.47.excalidraw.md",
     "Assets/Excalidraw/Rødder og polynomier af komplekse tal 2022-11-24 08.33.27.excalidraw.md",
-    "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md"
