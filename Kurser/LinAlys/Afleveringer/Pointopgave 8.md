@@ -370,7 +370,8 @@ $$\frac{16\left(\frac{-19}{32}- \frac{31}{64}i\right)}{5}=
 \frac{16}{5}\left(\frac{-38}{64}- \frac{31}{64}i\right)=\frac{-1}{20}(38+31i)$$
 Dette er vores komplekse tal simplificeret, og sat i en form som vi godt kan regne på.
 
-Modulus er $$$$
+Modulus er 
+$$|z|=\sqrt{\left(\frac{-19}{10}\right)^{2}+ \left(\frac{-31}{20}\right)^{2}}=\sqrt{\frac{2405}{400}}\approx 2.45204$$hvor $z=\frac{-1}{20}(38+31i)$.
 
 **Resultat fra Wolfram Alpha:**
 $$\frac{-19}{10}- \frac{31}{20}i=\frac{-1}{20}(38+31i)$$
