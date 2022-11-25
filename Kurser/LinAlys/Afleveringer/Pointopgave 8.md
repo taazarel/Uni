@@ -1,13 +1,50 @@
 # 8.1
+Find alle $z_{1},z_{2},z_{3}\in \mathbb{C}$ som opfylder:
 $$\left[
 \begin{array}{ccc|c}
-i & (1+i) &   & 1+3i \\ 
-1 & (1-i) & 1 & 2-i \\ 
-  & (3+i) & 1 & 5
+i & 1+i & 0  & 1+3i \\ 
+1 & 1-i & 1 & 2-i \\ 
+0  & 3+i & 1 & 5
 \end{array}
 \right] $$
-
-
+$$\left[
+\begin{array}{ccc|c}
+i & 1+i & 0  & 1+3i \\ 
+1 & 1-i & 1 & 2-i \\ 
+ 0 & 3+i & 1 & 5
+\end{array}
+\right] iR_{1}+R_{2}\to R_{2}=\left[
+\begin{array}{ccc|c}
+i & 1+i & 0  & 1+3i \\ 
+0 & 0 & 1 & -1 \\ 
+0 & 3+i & 1 & 5
+\end{array}
+\right] $$
+$$R_{2}\leftrightarrow R_3=\left[
+\begin{array}{ccc|c}
+i & 1+i & 0  & 1+3i \\ 
+0 & 3+i & 1 & 5  \\ 
+0 & 0 & 1 & -1
+\end{array}
+\right] -1R_{3}+R_{2}\to R_{2}=\left[
+\begin{array}{ccc|c}
+i & 1+i & 0  & 1+3i \\ 
+0 & 3+i & 0 & 6  \\ 
+0 & 0 & 1 & -1
+\end{array}
+\right] $$
+$$\left[
+\begin{array}{ccc|c}
+i & 1+i & 0  & 1+3i \\ 
+0 & 3+i & 0 & 6  \\ 
+0 & 0 & 1 & -1
+\end{array}
+\right]$$
+$$
+\begin{array}{ccc=c}
+iz_{1} & (1+i)z_{2}  &   & 
+\end{array}
+ $$
 # 8.2
 ## a
 For en matrix $X=[x_{ij}]\in \mathbb{M}_{2,2}$ definerer vi $\langle A,B \rangle=Tr(A^{t}B)$.
@@ -70,6 +107,7 @@ Dette vil altså altid blive positivt da $x_{11},x_{22}$ altid vil stå i anden,
 \right] $$
 Derfor opfylder operationen aksiom 1.
 ## c
+Find en ortonormalbase for underrummet af $\mathbb{M}_{2,2}$ udspændt af matricerne.
 $$||U_{2}||=\left[
 \begin{array}{cc}1 & 0 \\ 1 & 0
 \end{array}
@@ -305,5 +343,13 @@ E_{1} & E_{2} & E_{3}
 
 # 8.3
 ## a
+Udregn modulus og argument af det komplekse tal
+$$\frac{\left(\frac{1}{2}+ \frac{3}{4}i\right)\left(\frac{1}{4}- \frac{3}{2}i\right)}{\left(\frac{-1}{4}+ \frac{1}{2}i\right)}$$
+Beregn tallet med håndkraft, men tjek gerne resultatet med fx Python.
+
 
 ## b
+Lad $z=\frac{1}{2}+ \frac{3}{4}i$. Indtegn tallene $$z^-8,z^-7,...,z^0,...,z^7,z^{8}$$
+i den komplekse plan og forklar hvilket mønster punkterne danner.
+![[potensgrader z.png]]
+Mønsteret danner en spiral, hvilket giver mening da punktet roterer når vi ganger med i.
