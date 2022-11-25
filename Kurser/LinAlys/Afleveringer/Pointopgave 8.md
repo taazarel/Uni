@@ -247,7 +247,61 @@ $$V_{3}=\left[
 \frac{1}{3} & 1
 \end{array}
 \right]  $$
-$$||V_{3}||=\sqrt{Tr\left(\right)}$$
+$$||V_{3}||=\sqrt{Tr\left(\left[
+\begin{array}{cc}
+\frac{-1}{3} & \frac{1}{3} \\ 
+\frac{1}{3} & 1
+\end{array}
+\right] \left[
+\begin{array}{cc}
+\frac{-1}{3} & \frac{1}{3} \\ 
+\frac{1}{3} & 1
+\end{array}
+\right] \right)}=\sqrt{Tr\left(\left[
+\begin{array}{cc}
+\frac{2}{9} & \frac{8}{9} \\ 
+\frac{2}{9} & \frac{10}{9}
+\end{array}
+\right] \right)}=\frac{11}{9}$$
+$$E_{3}=\frac{9}{11}\left[
+\begin{array}{cc}
+\frac{-1}{3} & \frac{1}{3} \\ 
+\frac{1}{3} & 1
+\end{array}
+\right] =\left[
+\begin{array}{cc}
+\frac{-3}{11} & \frac{3}{11} \\ 
+\frac{3}{11} & \frac{9}{11}
+\end{array}
+\right] $$
+Ortonormalbasen bliver altså
+$$B=\left[
+\begin{array}{ccc}
+E_{1} & E_{2} & E_{3}
+\end{array}
+\right]=\left[
+\begin{array}{ccc}
+\left[
+\begin{array}{cc} \frac{1}{\sqrt{2}} & 0 \\ 
+\frac{1}{\sqrt{2}} & 0 
+\end{array}
+\right] & 
+\left[
+\begin{array}{cc}
+\frac{1}{2\sqrt{\frac{3}{2}}} &  
+\frac{1}{\sqrt{\frac{3}{2}}} \\ 
+\frac{-1}{2\sqrt{\frac{3}{2}}} & 0
+\end{array}
+\right] & 
+\left[
+\begin{array}{cc}
+\frac{-3}{11} & \frac{3}{11} \\ 
+\frac{3}{11} & \frac{9}{11}
+\end{array}
+\right]
+\end{array}
+\right] $$
+
 
 # 8.3
 ## a
