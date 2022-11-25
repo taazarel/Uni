@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db63917688a7ed52",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/LinAlys/Dokumenter/opg8.pdf"
+              }
+            }
           }
         ],
         "currentTab": 1,
@@ -166,10 +176,10 @@
   },
   "active": "12500a6c9e51037e",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Dokumenter/opg8.pdf",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
     "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/MekRel/Rotationsmekanik.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
-    "Kurser/LinAlys/Dokumenter/opg8.pdf",
     "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Kurser/LinAlys/Indre Produkt.md",
     "Kurser/MekRel/Arbejde.md",

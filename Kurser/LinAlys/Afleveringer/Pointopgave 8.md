@@ -364,11 +364,17 @@ $$\left(\frac{1}{2}+ \frac{3}{4}i\right)
 \frac{1}{8}- \frac{3}{4}i+ \frac{3}{16}i+ \frac{9}{8}=
 \frac{10}{8}- \frac{9}{16}i$$
 $$\left(\frac{10}{8}- \frac{9}{16}i\right)\left(\frac{-1}{4}- \frac{1}{2}i\right)=
--9/$$
+- \frac{9}{32}- \frac{10}{32}+ \frac{9}{64}i- \frac{10}{16}i=
+- \frac{19}{32}- \frac{31}{64}i$$
+$$\frac{16\left(\frac{-19}{32}- \frac{31}{64}i\right)}{5}=
+\frac{16}{5}\left(\frac{-38}{64}- \frac{31}{64}i\right)=\frac{-1}{20}(38+31i)$$
+Dette er vores komplekse tal simplificeret, og sat i en form som vi godt kan regne på.
 
-**Resultat fra WolframAlpha:**
+Modulus er $$$$
+
+**Resultat fra Wolfram Alpha:**
 $$\frac{-19}{10}- \frac{31}{20}i=\frac{-1}{20}(38+31i)$$
-
+Wolfram Alpha er en hjemmeside fyldt med hjælpemidler til matematik. Jeg indsatte min $\LaTeX$ og brugte bare dens "Simplify" kommando. 
 ## b
 Lad $z=\frac{1}{2}+ \frac{3}{4}i$. Indtegn tallene $$z^-8,z^-7,...,z^0,...,z^7,z^{8}$$
 i den komplekse plan og forklar hvilket mønster punkterne danner.
