@@ -62,8 +62,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +143,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75969ad25c27d966",
+  "active": "477e1a55f44a8a4f",
   "lastOpenFiles": [
     "Kurser/LinAlys/Afleveringer/Pointopgave 7.md",
     "Kurser/LinAlys/Tangetplaner.md",
