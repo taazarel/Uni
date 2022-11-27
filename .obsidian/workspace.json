@@ -11,8 +11,22 @@
             "id": "f6cf8dbfd735070b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b329ed2c999fe273",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/LinAlys/Dokumenter/opg8.pdf"
+              }
             }
           }
         ],
@@ -66,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "f67102a27132052b",
@@ -98,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md"
+              }
             }
           },
           {
@@ -145,15 +163,15 @@
   },
   "active": "f6cf8dbfd735070b",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Indre Produkt.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
+    "Kurser/LinAlys/Dokumenter/opg8.pdf",
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 7.md",
     "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "7-up.md",
     "Rollespilsgruppe.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
-    "Kurser/LinAlys/Indre Produkt.md",
-    "Kurser/LinAlys/Komplekse tal.md",
-    "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md"
+    "Kurser/LinAlys/Abstrakte vektorrum.md"
   ]
 }

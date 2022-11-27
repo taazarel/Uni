@@ -51,7 +51,13 @@ iz_{1} +& (1+i)z_{2}  &   & =1+3i \\
 # 8.2
 ## a
 For en matrix $X=[x_{ij}]\in \mathbb{M}_{2,2}$ definerer vi $\langle A,B \rangle=Tr(A^{t}B)$.
-
+$$\langle \left[
+\begin{array}{cc}1 & 0 \\  2 & 7
+\end{array}
+\right] ,\left[
+\begin{array}{cc}3 & 4 \\ 0 & 5
+\end{array}
+\right] \rangle$$
 $$\left[
 \begin{array}{cc}
 1 & 2 \\ 0 & 7
@@ -75,14 +81,14 @@ $$Tr(A^{t}B)=Tr\left[
 
 ## b
 Vis at $\langle , \rangle$ opfylder aksiom 1 for indre produkt [Messer Definition 4.1]
-$$\langle \left[
+$$Tr\left(\langle \left[
 \begin{array}{cc}
 0 & 0  \\ 0 & 0
 \end{array}
 \right],\left[
 \begin{array}{cc}0 & 0 \\  0 & 0
 \end{array}
-\right]  \rangle=0+0=0$$
+\right]  \rangle\right)=0+0=0$$
 $$\langle \left[
 \begin{array}{cc}
 -1 & 2 \\ 3 & -4
