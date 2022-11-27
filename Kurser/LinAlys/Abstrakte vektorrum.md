@@ -2,7 +2,7 @@
 Begyndelsesdato: 08:03   27-10-2022   Uge-43
 # Flashcards
 Disse antagelser skal være til stede for at man kan benytte sig af ekstremalværdisætningen... :: funktionen er lukket og begrænset under mængden, og funktionen er kontinuer på mængden. Så vil funktionen have ekstremum på mængden.
-<!--SR:!2022-11-21,19,290-->
+<!--SR:!2023-02-06,77,310-->
 
 Man kan finde lineær uafhængighed ved at gausseliminere til reduceret echelon form, men hvordan er det sandt... :: Det er sandt fordi lineær uafhængighed er defineret som at spannet af vektorene kun har én måde at finde nulvektoren på. nemlig $r_{1}(1,1,0)+r_{2}(1,0,1)+r_{3}(0,1,1)=(0,0,0)$ medfører at $r_{1}=r_{2}=r_{3}=0$.
 <!--SR:!2022-12-05,24,290-->
@@ -133,7 +133,7 @@ Vi har en basis af vektorer $\vec{v_{1}},...,\vec{v_{n}}$ i V når... :: Den bå
 Givet $\vec{v_{1}},...,\vec{v_{m}}\text{ og }\vec{w_{1}},...,\vec{w_{n}}$ er baser da er deres dimensioner... :: $n=m$ kvadratiske.
 <!--SR:!2022-12-13,32,303-->
 Theorem 3.16 kan bevises med... :: Sammenligningssætningen.
-<!--SR:!2022-11-16,9,280-->
+<!--SR:!2022-12-22,31,280-->
 
 ## Definition 3.13(Dimension)
 Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimensioner og vi kan skrive $dimV=n$
@@ -160,7 +160,6 @@ Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde f
 <!--SR:!2022-12-10,29,304-->
 ### Bevis
 Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers kan vi bruge... :: Udtyndingslemmaet da $dim V<n$ og derfor er $\vec{v_{1}},...,\vec{v_{n}}$ ikke lineært uafhængig. Så bruger vi bare 3.17. indtil $dim V=n$
-
 <!--SR:!2022-12-15,30,280-->
 
 ## 3.19 (Udvidelseslemmaet)
@@ -175,11 +174,11 @@ Udvidelsesalgoritmen
 
 ## Sætning 3.22
 Vi har $dim V=n$ og $\vec{v_{1}},...,\vec{v_{n}}$ er det en base hvis... :: den enten udspænder V eller er [[#Definition 3.8 (Lineær uafhængighed)|lineært uafhængig]].[^5]
-<!--SR:!2022-11-16,9,274-->
+<!--SR:!2023-01-14,54,294-->
 
 ## Definition 3.24 (Koordinater)
 Givet er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, som en ordnet basis for vektorrummet V kan vi definere $\vec{v}\in V$ som... :: $\vec{v}=r_{1}\vec{u_{1}}+...+r_{n}\vec{u_{n}}$, som en linearkombination. Dette kan omformuleres til... :: $[\vec{v}]_{B}=\left[\begin{array}{c}r_{1} \\:\\r_{n}\end{array}\right] \in \mathbb{R}^{n}$
-<!--SR:!2022-11-16,9,283-->
+<!--SR:!2023-01-15,55,303-->
 
 
 

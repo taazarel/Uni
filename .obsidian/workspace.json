@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75969ad25c27d966",
+            "id": "f6cf8dbfd735070b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -143,8 +143,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "477e1a55f44a8a4f",
+  "active": "f6cf8dbfd735070b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 7.md",
     "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/MekRel/Rotationsmekanik.md",
@@ -153,7 +154,6 @@
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Indre Produkt.md",
     "Kurser/LinAlys/Komplekse tal.md",
-    "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md"
+    "Assets/Excalidraw/Regnepapir 2022-11-10 09.36.58.excalidraw.md"
   ]
 }

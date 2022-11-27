@@ -7,7 +7,7 @@ Er der ikke også en fortegnsfejl i opgaven, specifikt (6.28)
 ## [[Kraft]] og [[energi]] [6.1]
 
 Arbejde(Eller energiligningen) beskrives som... :: energiændringen af systemet når det bliver påvirket af en ydre kraft: $W=\triangle E=\triangle K+\triangle U$.
-<!--SR:!2022-12-24,39,270-->
+<!--SR:!2022-12-24,39,270-->
 I et lukket system... ::: $W=0$
 <!--SR:!2022-11-20,16,290!2022-11-19,15,297-->
 
@@ -21,16 +21,14 @@ $W=0$ er energikonstanthed i systemet
 Arbejdet er afhængig af denne størrelse... :: $(\triangle x_{F})$. Hvor $\triangle x_{F}$ er forskydningen af systemets massemidtpunkt.[^1]
 <!--SR:!2022-11-17,13,297-->
 
-Kraftens arbejde er positivt når... :: kraften peger samme vej som forskydningen af kontaktpunktet ![[Arbejde 2022-10-30 17.03.20.excalidraw]]
-<!--SR:!2022-11-18,14,290-->
-Kraftens arbejde er negativt når... :: kraften peger modsatte vej af forskydningen af kontaktpunktet ![[Arbejde 2022-10-30 17.00.05.excalidraw]]
-<!--SR:!2022-11-20,16,290-->
+Kraftens arbejde er positivt når... :: kraften peger samme vej som forskydningen af kontaktpunktet ![[Arbejde 2022-10-30 17.03.20.excalidraw]]<!--SR:!2022-11-18,14,290-->
+Kraftens arbejde er negativt når... :: kraften peger modsatte vej af forskydningen af kontaktpunktet ![[Arbejde 2022-10-30 17.00.05.excalidraw]]<!--SR:!2022-11-20,16,290-->
 ## Matematisk beskrivelse af arbejde [6.2]
 
 Man kan beskrive $\Delta K$ som en kraft gennem dette udtryk... :: $\Delta K=ma_{CM,x}(v_{x,i}+ \frac{1}{2}a_{CM,x}(\Delta t)^{2})=ma_{CM,x}\Delta x_{F}=F_{x}\Delta x_{F}$.
 <!--SR:!2022-11-21,17,297-->
 Når ens system består af en punkt-partikel bliver... :: $W=\Delta E=\Delta K$ og derfor også $W=F_{x}\Delta x_{F}$ [^2]
-<!--SR:!2022-11-20,16,290-->
+<!--SR:!2023-01-29,69,310-->
 
 [[Impuls]] bestemmes af kraften gennem... 
 Energi bestemmes af kraften gennem... 
@@ -40,7 +38,7 @@ Forskydningen af længden da $\Delta E=F_{x}\Delta x_{F}$
 <!--SR:!2022-11-18,14,297-->
 
 Den generelle definition af kraftens arbejde er... :: $W=\int_{\vec{r_{i}}}^{\vec{r_{f}}} \vec{F_{ydre}}(\vec{r})\cdot d \vec{r}$ hvor $\vec{r}$ er positionen.[^3]
-<!--SR:!2022-11-19,15,297-->
+<!--SR:!2022-11-29,8,277-->
 
 Den generelle definition af arbejdet skrives som dette i en dimension med en variabel, ikke dissipativ kraft...
 Hvis kun en kraft virker på en enkelt partikel i en dimension så bliver arbejdet...
@@ -77,7 +75,7 @@ Vi kan udlede potentielgravitationsenergi gennem arbejdet ved at se på et falde
 ## Konservativ Kraft [6.5]
 
 (Sandt eller falskt) Når vi kigger på arbejdet af en kraft skal vi se på hele distance rejst... :: Trick spørgsmål. Det kommer an på om vi har en konservativ kraft eller ej.[^6]
-<!--SR:!2022-11-17,13,297-->
+<!--SR:!2023-01-30,70,317-->
 
 Disse kræfter er konservative...
 Disse kræfter er ikke konservative...
@@ -109,7 +107,7 @@ $\Delta K_{CM}=\frac{1}{2}m_{tot}(v_{CM,f}^{2}-v_{CM,i}^{2})$
 Man kan skrive $\Delta K_{CM}$ som dette for konstante kræfter som virker i én dimension... :: $\Delta K_{CM}=\sum \vec{F}_{ydre,x}\Delta x_{CM}$[^7]
 <!--SR:!2022-11-24,17,286-->
 Generelt gælder det at $\Delta K=\Delta K_{CM}+\Delta K_{konvert}$ men for et flerpartikelsystem kan vi sige... :: $\Delta K_{konvert}\neq 0$ modsat end i et punkt-partikel-system $\Delta K_{konvert}=0$.
-<!--SR:!2022-11-18,11,266-->
+<!--SR:!2022-12-26,35,266-->
 
 ## Arbejde udført af variable og fordelte kræfter [6.7]
 
@@ -122,9 +120,9 @@ Ved variable kræfter kan man ikke bruge $W=F \Delta x$, så vi benytter os af..
 Integralet for variable kræfter kan reduceres til dette når vi har en kraft som virker på en fjeder... :: $W=\frac{1}{2}k(x-x_{i})^{2}$[^8]
 <!--SR:!2022-12-07,26,317-->
 Vi kan beskrive hastigheden af en punkt-partikel som bremses af en fjeder således... :: $v_{f}=\sqrt{v_{i}^{2}- \frac{k(x_{f}-x_{i})^{2}}{m}}$ 
-<!--SR:!2022-11-20,9,257-->
+<!--SR:!2022-11-26,5,237-->
 Friktionskraften burde altid skrives som... :: En termisk energiændring, da den aldrig vil forskyde kontaktpunktet.
-<!--SR:!2022-11-19,12,297-->
+<!--SR:!2023-01-18,58,317-->
 Hvis arbejdet fra tyngdekraften er nul og partiklen ikke deformeres så bliver  varmeenergien af friktion i et lukket system til...  ::  $\Delta E_{TH}=- \Delta K$.
 <!--SR:!2022-12-12,31,317-->
 Friktionskraften kan beskrives ved... :: $\Delta E_{TH}=F_{x}^{f}d$

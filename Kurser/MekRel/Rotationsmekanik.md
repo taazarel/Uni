@@ -26,7 +26,7 @@ Accelerationen på et legeme i cirkelbevægelse bliver påvirket af... :: centri
 Centripetal-accelerationen $\vec{a}_{c}$ er givet ved... :: $\vec{a_{c}}=- \frac{\vec{v_{t}}^{2}}{r}\hat{r}$ [^4]
 <!--SR:!2022-11-22,11,250-->
 Fordi centripetal-accelerationen er parallel med $\hat r=\vec{r}$ så kan vi skrive værdien af $\vec{a_{c}}$ som... :: $a_{c}=|\vec{a_{c}}|= \frac{\vec{v_{t}}^{2}}{r}$.[^5]
-<!--SR:!2022-11-16,5,230-->
+<!--SR:!2022-12-25,34,250-->
 Ikke jævne cirkelbaner har også en anden acceleration som hedder... :: tangentiel-accelerationen $a_t$.
 <!--SR:!2022-11-27,16,292-->
 Ujævne cirkelbevægelser er defineret som... :: cirkelbevægelser som ikke har konstant hastighed.
@@ -67,7 +67,6 @@ En punktpartikel som bevæger sig i en cirkel vil altid have den samme buelængd
 Vinkelhastigheden bliver ændret af snorlængden således... :: vinkelhast skrives $\omega = \frac{v_{t}}{r}$ Så hvis vi har en mindre længde, bliver vinkelhastigheden større.
 <!--SR:!2022-11-26,15,295-->
 Vinkelhastigheden bliver ændret af vinkel og tid således... :: $\omega = \frac{\Delta \theta}{\Delta t}$.
-
 <!--SR:!2022-12-01,16,310-->
 Vi kan omskrive den kinetiske energi til et udtryk af vinkelhastigheden... :: $K= \frac{1}{2}mv^{2}= \frac{1}{2}m (r \omega )^{2}$ Som vi også kan skrive som $\frac{1}{2}(mr^{2})\omega ^{2}$ (7.17)[^12]
 <!--SR:!2022-11-22,11,250-->
@@ -89,7 +88,7 @@ I tre dimensioner...
 $I_{Q}=\lambda \int_{}^{} x^{2}dx$ hvor $\lambda = \frac{dm}{dx}$ hvilket beskriver massefordelingen per længdeenhed dx. $\lambda$ er konstant. (7.24)
 $I_{Q}=\sigma \int_{}^{} r^{2}dA$ hvor $\sigma= \frac{dm}{dA}$, sigma er massefordelingen over et areal. A er arealet. (7.25)
 $I_{Q}=\rho \int_{}^{} r^{2}dV$ hvor $\rho = \frac{dm}{dV}$, rho er massefordelingen over en volumen, V er volumen. (7.26)
-<!--SR:!2022-11-15,4,290-->
+<!--SR:!2022-12-31,40,310-->
 
 Parallelakseteoremet beskriver sammenhængen mellem aksen for massemidtpunktet $I_{CM}$ og en vilkårlig parallel akse $I_{Q}$ således... :: $I_{Q}=I_{CM}+md^{2}$ (7.43)[^15]
 <!--SR:!2022-11-22,11,255-->

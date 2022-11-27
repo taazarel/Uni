@@ -12,7 +12,7 @@ Hvis det gælder at både A og B er kvadratiske og invertible af lige store dime
 ?
 det gælder at AB er invertibel
 det gælder at $(AB)^{-1}=B^{-1}A^{-1}$
-<!--SR:!2022-11-12,18,250-->
+<!--SR:!2023-02-24,95,270-->
 
 Hvis det gælder at både A og B er nxn matricer og hinandens inverse så gælder det at deres produkt er... :: både $AB=I$ og $BA=I$.
 <!--SR:!2022-11-23,23,299-->
