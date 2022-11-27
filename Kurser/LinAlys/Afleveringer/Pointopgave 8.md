@@ -117,26 +117,16 @@ Dette vil altså altid blive positivt da $x_{11},x_{22}$ altid vil stå i anden,
 Derfor opfylder operationen aksiom 1.
 ## c
 Find en ortonormalbase for underrummet af $\mathbb{M}_{2,2}$ udspændt af matricerne.
-$$||U_{2}||=\left[
+$$U_{1}=\left[
 \begin{array}{cc}1 & 0 \\ 1 & 0
 \end{array}
-\right] \left[
-\begin{array}{cc}1 & 1  \\ 0 & 0
+\right],\text{ }U_{2}=\left[
+\begin{array}{cc}1 & 1 \\ 0 & 0
 \end{array}
-\right] =\left[
-\begin{array}{cc} 1 & 1 \\ 1 & 1
+\right], \text{ }\left[
+\begin{array}{cc} 0 & 1 \\ 0 & 1
 \end{array}
-\right] =\sqrt{2}$$
-$$||U_{3}||=\left[
-\begin{array}{cc}0 & 0 \\ 1 & 1
-\end{array}
-\right] \left[
-\begin{array}{cc}0 & 1 \\ 0 & 1
-\end{array}
-\right] =\left[
-\begin{array}{cc}0 & 0 \\ 0 & 2
-\end{array}
-\right] = \sqrt{2}$$
+\right] $$
 $$||U_{1}||=\sqrt{Tr\left(\left[
 \begin{array}{cc}1 & 1 \\ 0 & 0
 \end{array}
@@ -382,6 +372,8 @@ $$|z|=\sqrt{\left(\frac{-19}{10}\right)^{2}+ \left(\frac{-31}{20}\right)^{2}}=\s
 **Resultat fra Wolfram Alpha:**
 $$\frac{-19}{10}- \frac{31}{20}i=\frac{-1}{20}(38+31i)$$
 Wolfram Alpha er en hjemmeside fyldt med hjælpemidler til matematik. Jeg indsatte min $\LaTeX$ og brugte bare dens "Simplify" kommando. 
+
+Argumentet finder vi til
 ## b
 Lad $z=\frac{1}{2}+ \frac{3}{4}i$. Indtegn tallene $$z^-8,z^-7,...,z^0,...,z^7,z^{8}$$
 i den komplekse plan og forklar hvilket mønster punkterne danner.
