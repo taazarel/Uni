@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a10d70e0d75a9fcf",
+        "id": "f4ea227e2657c2f9",
         "type": "tabs",
         "children": [
           {
-            "id": "f40d9fd9404d92e1",
+            "id": "75969ad25c27d966",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -71,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 7.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,10 +144,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f40d9fd9404d92e1",
+  "active": "75969ad25c27d966",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 7.md",
+    "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "7-up.md",
     "Rollespilsgruppe.md",

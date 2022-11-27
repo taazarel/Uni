@@ -88,7 +88,7 @@ $$\Rightarrow  \left[
 ## b
 **Udvid den basis du fandt i a, med passende elementer fra standardbasen for $\mathbb{R}^{5}$, så det samlet udgør en basis for $\mathbb{R}^{5}$.**
 
-Vi kan udvide denne basis med [[Abstrakte vektorrum#3.20 (Udvidelsessætningen)|Udvidelsesalgoritmen]] så vi gør dette:
+Vi kan udvide denne basis med [[Abstrakte vektorrum#3.20 (Udvidelsessætningen)|udvidelsesalgoritmen]]
 $$\left[
 \begin{array}{ccc}
 1 & 2 & -3  \\ 
@@ -152,4 +152,11 @@ Ved $(\vec{a})=(n \pi ,0)$ så bliver $\nabla E(\vec{a})=\vec{0}$ da $\cos{(n\pi
 Find $E_{0}$ ved at eksperimentere. 
 Giver den fundne værdi mening?**
 
-Værdien er et sted mellem 9 og 10. og fra 10 til 11 er der et til skift
+Der er to kvalitativt forskellige niveaukurver da en af dem er en række af ellipser, og den anden er symmetriske cosinus kurver som løber parallelt ![[energiligning.png]]
+*Her er den blå $E=9J$ orange er $E=10J$ og den grønne $E=11J$. Disse er alle hele tal da testkoden ikke kan håndtere "floating variables".*
+
+Jeg finder værdien til at blive $E_{0}= 10J$. 
+Hvilket giver meget god mening da det eneste tidspunkt hvor $E=-mgl\cos{(n \pi )} \text{ givet }n \in \mathbb{Z}$, er når $v=0$. 
+
+I vores tilfælde har vi sat vores størrelser til $m=1kg,l=1m,g=10 \frac{m}{s^{2}}$.  
+Hvilket giver $\Rightarrow E(\theta ,v)=\frac{1}{2}1kg\cdot (0 \frac{m}{s})^{2}+1kg\cdot 1m\cdot 10 \frac{m}{s^{2}}\cdot 1= 10J$.
