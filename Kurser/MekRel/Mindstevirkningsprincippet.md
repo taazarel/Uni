@@ -14,7 +14,8 @@ Mindstevirkningsprincippet skrives som... :: $\left[L=K-U\right]$.
 
 $L=K-U$ kaldes også mindstevirkningsprincippet, og den kan bruges til at beskrive bevægelsen af et objekt.
 Objekter bevæger sig over... :: Den korteste længde/mindste virkning/the path of least resistance.
-<!--SR:!2022-11-24,30,270-->
+<!--SR:!2022-12-02,4,295-->
+<!--SR:!2023-02-25,89,270-->
 Derfor bliver objekters baner altid den af "least resistance".
 
 Man kan differentiere denne formel for at finde en bedre en.

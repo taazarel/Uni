@@ -6,19 +6,24 @@ Begyndelsesdato: Kl. 08:12  Den 22-11-2022   Uge-47
 
 ## Definition 3.5.1
 lad $z \in \mathbb{C},n \in \mathbb{N}$ Da er en n-te rod af z skrevet som... :: $w^{n}=z \text{ hvor }w \in \mathbb{C}$.[^1]
+<!--SR:!2022-12-01,3,266-->
 
 ## Sætning 3.5.2
 lad $z \in \mathbb{C}\backslash \{ 0\},n \in \mathbb{N}$ da vil z have disse rødder... :: n forskellige n-te rødder skrevet $w_{0},...,w_{n-1}\in \mathbb{C}$.
+<!--SR:!2022-11-30,2,246-->
 Givet $z,w \in \mathbb{C}$ og $w^{n}=z,z=re^{i \theta }$ så bliver den bestemte rod $w_{k}=$... :: $r^{\frac{1}{n}}e^{i \frac{\theta+2\pi k}{n}}$.
+<!--SR:!2022-12-01,3,266-->
 
 Nogle smutveje til at finde rødder af et kompleks tal er
 ?
 At udregne $w_{k}=r^{\frac{1}{n}}e^{i \frac{\theta+2\pi k}{n}},k=0,n-1$
 Omregne $w_{k}$ til en reel og imaginær del. $w_{k}=r^{\frac{1}{n}}e^{\frac{i \theta }{n}}(e^{i \frac{2\pi}{n}})^{k}$ 
 At bruge $w_{k}=w_{0}\cdot (e^{i \frac{2\pi}{n}})^{k}$ 
+<!--SR:!2022-12-01,3,266-->
 
 ## Sætning 3.4.5 (Polynomiers løsning i det komplekse rum)
 At finde løsningen til et andengradspolynomie i det komplekse talrum er lidt anderledes. Givet $az^{2}+bz+c=0, z \neq 0$ så er løsningerne... :: $z= \frac{-b\pm\sqrt{d}}{2a}$ 
+<!--SR:!2022-12-01,3,266-->
 
 Disse ting er anderledes ved $az^{2}+bz+c=0 \in \mathbb{C}$...
 ?
@@ -28,6 +33,7 @@ $d<0$ har vi to ikke reelle rødder.
 <!--SR:!2022-11-29,1,226-->
 
 Givet $az^{2}+bz+c=0,d=0$ så bliver $z=$... :: $\frac{-b}{2a}$.
+<!--SR:!2022-12-01,3,266-->
 
 ## Definition 1.5 (Polynomier)
 Et komplekst polynomie $p:\mathbb{C}\to \mathbb{C}$ bliver skrevet på formen... :: $$p(z)=a_{n}z^{n}+a_{n-1}z^{n-1}+...+a_{0}z^{0},n \in \mathbb{N} \Rightarrow \sum_{k=0}^{n}a_{k}z^{k}$$
@@ -37,6 +43,7 @@ Et reelt polynomie $f:\mathbb{R}\to \mathbb{R}$ skrives som... :: $$f(x)=a_{n}x^
 <!--SR:!2022-12-01,3,266-->
 ### Definition (Grad af polynomier)
 Graden af et polynomie p skrives som... :: $grad(p)$ er den største $n \in \{ 0,1,...\} \text{ så }a_{n} \neq 0$.
+<!--SR:!2022-12-01,3,266-->
 
 ## Regneregler med polynomier
 Produktet af to polynomier $p,q:\mathbb{C}\to \mathbb{C}$ med graderne $grad(p)=n,grad(q)=m$ skrives som ... :: $p(z)q(z)=(a_{n}b_{m})z^{n+m}+(a_{n}b_{m-1}+a_{n-1}b_{m})z^{n+m-1}$ Et polynomie til graden $grad(p \cdot q)=grad(p)+grad(q)$.
@@ -44,6 +51,7 @@ Produktet af to polynomier $p,q:\mathbb{C}\to \mathbb{C}$ med graderne $grad(p)=
 
 ### Sætning 1.5.2 (Division af polynomier med rest)
 Givet $p,q \in \mathbb{C}\text{ og }q \neq 0\text{ og } k=\frac{p}{q}$ så findes polynomiet $k(z)\text{ og }r(z)$ så $p(z)=$... :: $k(z)q(z)+r(z)$ med $grad(r)<grad(q)$.
+<!--SR:!2022-12-01,3,266-->
 
 Vektorer i $\mathbb{R}^{n}$ kan skrives som:
 afstand til $\vec{0},||\vec{v}||=\sqrt{\vec{v}\cdot \vec{v}}$.
@@ -58,9 +66,11 @@ Afstand $\vec{v} \text{ til }\vec{w}$ $||\vec{v}-\vec{w}||$
 Vinkel $\vec{u},\vec{v}\in V \backslash 0$ så er $\theta =\cos^{-1}{\frac{\langle \vec{u},\vec{v}\rangle}{||\vec{u}||||\vec{v}||}}$
 Projektion $proj_\vec{u}(\vec{v})= \frac{\langle\vec{v},\vec{u}\rangle}{\langle \vec{u},\vec{u}\rangle }\vec{u}$
 Ortogonalitet $\langle \vec{u},\vec{v}\rangle =0$
+<!--SR:!2022-12-01,3,266-->
 
 ## Sætning 4.11 Caudiy Schwarz ulighed
 Givet $\vec{u},\vec{v}\in V$ da kan vi vise en ulighed som... :: $|\langle \vec{u},\vec{v}\rangle| \leq ||\vec{u}||\cdot ||\vec{v}||$ altså $-(||\vec{u}||\cdot ||\vec{v}||)\leq \langle \vec{u},\vec{v}\rangle \leq ||\vec{v}||\cdot ||\vec{u}||$
+<!--SR:!2022-11-30,2,246-->
 ### Korollar
 For $\frac{\langle \vec{u},\vec{v}\rangle }{||\vec{u}||\cdot ||\vec{v}||}\in [-1,1]$ så er $\theta =$... :: Veldefineret.
 <!--SR:!2022-11-29,1,230-->
@@ -79,23 +89,29 @@ For $f,g \in C_{[a,b]}$ så er $$\sqrt{\int_{a}^{b} (f(x)+g(x))^{2}dx}\leq ...$$
 <!--SR:!2022-12-01,3,266-->
 ## Definition 4.16
 Lad V være et indre produkt rum. Vektorfamilien $\vec{u_{1}},...,\vec{u_{n}}\in V$ er ortogonale hvis.... :: $\langle \vec{u_{i}},\vec{u_{j}}\rangle =0$ for $i \neq j$ og $\langle \vec{u_{i}},\vec{u_{j}}\rangle =1$ for $i=j$.[^3]
+<!--SR:!2022-12-01,3,266-->
 Vi kan skrive skalaren $r_{i}=$$\frac{\langle \vec{u_{i}},\vec{v}\rangle}{\langle \vec{u_{i}},\vec{u_{i}}\rangle }= \text{ hvis ortonormal } =$... :: $\langle \vec{u_{i}},\vec{v}\rangle$.
+<!--SR:!2022-11-29,1,226-->
 
 ## Sætning 4.17
 Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale medfører det at familien er.... :: Lineært uafhængige. Men ortogonalitet er lettere at tjekke.
 <!--SR:!2022-11-29,1,226-->
 ### Korollar "Ortonormal basis" (ONB)
 $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en endelig $dim \{ V\}$ så vil ... :: vi finde en basis $\vec{u_{1}},...,\vec{u_{n}}\in V$ gennem en Gram Schmidt Proces.
+<!--SR:!2022-11-29,1,226-->
 
 ## Sætning 4.20 (Konstruktion af ONB)[^4]
 Givet $\vec{u_{1}},...,\vec{u_{n}}\in V$ er en basis, konstruerer vi ONB $\vec{e_{1}},...,\vec{e_{n}}\in V$ og kan definere... :: $\vec{e_{1}}= \frac{1}{||\vec{u_{1}}||}\vec{u_{1}}$ og $v_{2}=\vec{u_{2}}-\langle \vec{u_{2}},\vec{e_{1}}\rangle \vec{e_{1}}$ så kan vi definere $\vec{e_{2}}= \frac{1}{||\vec{v}||}\vec{v_{2}}$.
 <!--SR:!2022-12-01,3,266-->
 De generelle $\vec{v_{k}},\vec{e_{k}}$ kan skrives som... :: $\vec{v_{k}}=\vec{u_{k}}-\langle \vec{u_{k}},\vec{e_{1}}\rangle \vec{e_{1}}-...-\langle \vec{u_{k}},\vec{e_{k-1}}\rangle \vec{e_{k-1}}$. og $e_{k}= \frac{1}{||\vec{v_{k}}||}\vec{v_{k}}$. $v_{k}$ kan omdefineres til $$\vec{v_{k}}=\vec{u_{k}}-\sum_{j=1}^{k-1}\langle \vec{u_{k}},\vec{e_{j}}\rangle \vec{e_{j}}$$
+<!--SR:!2022-12-01,3,266-->
 ## Sætning 1.5.5 
 et komplekst tal $a \in \mathbb{C}$ er rod i $P(z)=a_{n}z^{n}+...+a_{0},a_{i}\in \mathbb{C},a_{n}\neq 0$ hvis... :: $P(z)=k(z)(z-a)$, vi kan skrive $P(z)=K(z)(z-a)+r,\text{ a rod}\Rightarrow 0=P(a)=K(a)(a-a)+r=r$.
+<!--SR:!2022-12-01,3,266-->
 
 ## Sætning 3.5.1 (Algebraens fundamentalsætning)
 Lad $P(z)=c_{n}z^{n}+...+c_{0},c_{i}\in \mathbb{C}$ da findes $r_{1},...,r_{n} \in \mathbb{C}$ så... :: $P(z)=c_{n}(z-r_{1})\cdot ...\cdot (z-r_{n})$[^5]
+<!--SR:!2022-12-01,3,266-->
 
 ## Sætning 5.5.2[^6]
 Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$
@@ -103,6 +119,7 @@ Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$
 
 ## Lemma 3.5.3
 $P(z)=c_{n}z^{n}+...+c_{0}$ hvis $r \in \mathbb{C}$ er rod er... ::  $\vec{r}\in \mathbb{C}$ også en rod.
+<!--SR:!2022-11-29,1,226-->
 
 
 

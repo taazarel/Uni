@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md"
+                "file": "Kurser/MekRel/Rotationsmekanik.md"
               }
             }
           },
@@ -169,15 +169,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00478f9f1a3c3ce6",
+  "active": "a92fb44891217fcb",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/MekRel/Arbejde.md",
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
     "Kurser/LinAlys/Dokumenter/opg8.pdf",
     "Kurser/LinAlys/Komplekse tal.md",
-    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Kurser/LinAlys/Indre Produkt.md",
     "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md"
