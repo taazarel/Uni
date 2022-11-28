@@ -4,31 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb4f5ed384e3faa",
+        "id": "cf9e8dabd661f56f",
         "type": "tabs",
         "children": [
           {
-            "id": "12500a6c9e51037e",
+            "id": "a92fb44891217fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d670c11d35e5e268",
+            "id": "f3e9b953b4eea9fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Arbejde.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -112,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md"
+              }
             }
           },
           {
@@ -157,16 +163,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d670c11d35e5e268",
+  "active": "a92fb44891217fcb",
   "lastOpenFiles": [
+    "Kurser/MekRel/Arbejde.md",
+    "Kurser/MekRel/Rotationsmekanik.md",
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
     "Kurser/LinAlys/Dokumenter/opg8.pdf",
     "Kurser/LinAlys/Komplekse tal.md",
-    "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Kurser/LinAlys/Indre Produkt.md",
-    "Kurser/MekRel/Arbejde.md",
     "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md"
   ]
