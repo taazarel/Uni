@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d670c11d35e5e268",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12500a6c9e51037e",
+  "active": "d670c11d35e5e268",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Dokumenter/opg8.pdf",
+    "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
+    "Kurser/LinAlys/Dokumenter/opg8.pdf",
     "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Kurser/LinAlys/Indre Produkt.md",
     "Kurser/MekRel/Arbejde.md",
     "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Kurser/MekRel/Notesbog/cpt123456.pdf"
+    "Kurser/LinAlys/Regnepapir.md"
   ]
 }
