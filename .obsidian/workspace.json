@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00ddc5ac39308f55",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/MekRel/Dokumenter/Python3.pdf"
+              }
+            }
           }
         ],
         "stacked": true
@@ -153,15 +163,15 @@
   },
   "active": "2f67b647bc40fbce",
   "lastOpenFiles": [
+    "Kurser/MekRel/Dokumenter/Python3.pdf",
+    "Kurser/LinAlys/Lineære Afbildninger.md",
+    "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Kurser/MekRel/Arbejde.md",
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
     "Kurser/LinAlys/Dokumenter/opg8.pdf",
-    "Kurser/LinAlys/Komplekse tal.md",
-    "Kurser/LinAlys/Indre Produkt.md",
-    "Assets/Excalidraw/Regnepapir 2022-11-24 11.54.06.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md"
+    "Kurser/LinAlys/Komplekse tal.md"
   ]
 }
