@@ -20,21 +20,24 @@ I dette tilfælde er $|\theta_{1}|=|\theta_{2}|=|\theta_{3}|=\theta=\frac{\pi}{2
 $0=\vec{r_{sv}}\vec{F_{sv}}-\vec{r_{Lv}}\vec{F_{Lv}}-\vec{r_{Ev}}\vec{F_{Ev}}$ 
 $\vec{d}=\frac{\vec{r_{sv}}\vec{F_{sv}}-\vec{r_{Ev}}\vec{F_{Ev}}}{\vec{F_{Lv}}}$ Enhederne passer også her.
 ## e
-Hvis vi antager at massefordelingen i planken er regulær så er tyngdepunktet $\frac{L}{3}$ væk fra punktet P.
-$\vec{d}=\frac{\vec{\frac{L}{12}}\vec{F_{sv}}-\vec{\frac{L}{3}}\vec{F_{Ev}}}{\vec{F_{Lv}}}$ .
+Hvis vi antager at massefordelingen i planken er regulær så er tyngdepunktet $\frac{L}{6}$ væk fra punktet P.
+$\vec{d}=\frac{\vec{\frac{L}{4}}\vec{F_{sv}}-\vec{\frac{L}{6}}\vec{F_{Ev}}}{\vec{F_{Lv}}}$ .
 Alt acceleration er tyngdeaccelerationen g.
 $\vec{F_{sv}}=2\text{ kg }\cdot \vec{g}$
 $\vec{F_{Ev}}=2\text{ kg }\cdot \vec{g}$
 $\vec{F_{Lv}}=0,5\text{ kg }\cdot \vec{g}$ 
 Så bliver d til 
-$$\vec{d}=\frac{\vec{\frac{L}{12}}2kg-\vec{\frac{L}{3}}2kg}{0,5kg}=4\left(\vec{\frac{L}{12}}-\vec{\frac{L}{3}}\right)=\vec{L}\left(\frac{1}{3}- \frac{4}{3}\right)=...$$
-smth wrong
+$$\vec{d}=\frac{\vec{\frac{L}{4}}2kg-\vec{\frac{L}{6}}2kg}{0,5kg}=4\left(\vec{\frac{L}{4}}-\vec{\frac{L}{6}}\right)=\vec{L}\left(1- \frac{2}{3}\right)=\frac{\vec{L}}{3}$$
 ## f
 Vippens højre ende vil falde mod jorden.
-
+![[Regneøvelse 4 2022-11-29 15.57.35.excalidraw]]
 ## g
+$\sum \tau =\vec{r_{sv}}\times \vec{F_{sv}}+\vec{0}\times \vec{F_{nv}}+\vec{r_{Lv}}\times \vec{F_{Lv}}+\vec{r_{Ev}}\times \vec{F_{Ev}}+\vec{r_{fv}}\times \vec{F_{fv}}=\alpha$
+$\sum \tau =\tau_{sv}-\tau_{Lv}-\tau_{Ev}-\tau_{fv}=\alpha$ 
+$\sum \tau =\vec{r_{sv}}\vec{F_{sv}}\sin{\theta_{1}}-\vec{r_{Lv}}\vec{F_{Lv}}\sin{\theta_{2}}-\vec{r_{Ev}}\vec{F_{Ev}}\sin{\theta_{3}}-\vec{r_{fv}}\vec{F_{fv}}=\alpha$
 
 ## h
+
 
 ## i
 
