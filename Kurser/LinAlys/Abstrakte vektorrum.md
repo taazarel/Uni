@@ -164,7 +164,7 @@ Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers
 
 ## 3.19 (Udvidelseslemmaet)
 Hvis vi har et span som $\vec{v_{n+1}}\notin span \{\vec{v_{1}},...,\vec{v_{n}} \}$ hvor spannet er lineært uafhængigt så vil spannet inkluderende $\vec{v_{n+1}}$... :: $\vec{v_{1}},...,\vec{v_{n}},\vec{v_{n+1}}$ være lineært uafhængigt.
-<!--SR:!2022-11-29,18,284-->
+<!--SR:!2023-02-11,74,304-->
 
 ## 3.20 (Udvidelsessætningen)
 Hvis vi har en vektorfamilie $\vec{v_{1}},...,\vec{v_{n}}$ i et endeligt vektorrum med m, dimensioner, kan vi... :: udvide familien til en basis på m dimensioner.

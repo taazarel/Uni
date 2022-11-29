@@ -13,13 +13,13 @@ Det algebraiske udtryk for $\mathbb{C}$ baseret på reelle tal er... :: givet ve
 Definitionen af addition i $\mathbb{C}$ er... :: $(a+ib)+(c+id)=(a+c)+i(b+d)$
 <!--SR:!2022-11-30,15,290-->
 Definitionen af multiplikation i $\mathbb{C}$ er... :: $zw=(a+ib)(c+id)=(ac-bd)+i(ad+bc)$
-<!--SR:!2022-11-29,14,290-->
+<!--SR:!2023-01-23,55,310-->
 Definitionen af multiplikation i polarform er... :: $zw=(r_{1}e^{i \theta_{1}})(r_{2}e^{\theta_{2} i})=(r_{1}r_{2})e^{i(\theta_{1}\theta_{2})}$.
 <!--SR:!2022-12-09,18,230-->
 Definitionen af division i $\mathbb{C}$, givet $\frac{1}{z}\neq \frac{1}{0}$, er... :: $\frac{1}{z}= \frac{1}{a+ib}= \frac{a-ib}{(a+ib)(a-ib)}= \frac{a-ib}{a^{2}+b^{2}}= (\frac{a}{a^{2}+b^{2}})+i(\frac{-b}{a^{2}+b^{2}})$ Man skal huske at forlænge med $a-ib$.[^1]
 <!--SR:!2022-12-01,16,290-->
 Definitionen af eksponentialfunktionen i $\mathbb{C}$ er... :: $e^{z}=e^{a}(\cos{b}+i \sin{b})\in \mathbb{C}$.[^4]
-<!--SR:!2022-11-29,14,290-->
+<!--SR:!2023-01-20,52,310-->
 Modulus af w er... :: $\sqrt{w \cdot w}=||w||$
 <!--SR:!2022-12-17,26,300-->
 Værdimængden af den komplekse eksponentialfunktion er... :: hele $\mathbb{C}\backslash 0$ altså alle komplekse tal på nær 0.
@@ -43,7 +43,7 @@ Givet $z=a+ib,\vec{z}=a-ib.a,b \in \mathbb{R}$ så bliver produktet af de komple
 <!--SR:!2022-12-05,14,234-->
 ### Sætning 3.1.5
 For alle $z,w \in \mathbb{C}$ er vores regneregler for vektorer... :: $\vec{z}+\vec{w}=\vec{z+w}$, $\vec{z}-\vec{w}=\vec{z-w}$, $\vec{z}\cdot \vec{w}=\overrightarrow{zw}$, $\frac{\vec{z}}{\vec{w}}= \vec{\frac{z}{w}}$ givet $w \neq 0$.
-<!--SR:!2022-11-29,14,274-->
+<!--SR:!2023-01-21,53,294-->
 Definitionen af $|z|$ er... $\sqrt{z \vec{z}}\in \mathbb{R}\Rightarrow \sqrt{a^{2}+b^{2}}\geq 0$ så vi kan kun få $|z|=0$ hvis $z=0$.
 En god huskeregel er den udvidede form af $0\leq a^{2}+b^{2}\in \mathbb{R}=(a+ib)(a-ib)$[^2]
 ### Polarform

@@ -55,7 +55,7 @@ Under konstant potientiale bliver lagrange ligningen... :: $\frac{d}{dt}\left(\f
 
 Lagrangen er altså dannet af en del som er afhængig af hastighed(K) og en som er afhængig af rummet(U). OG hvis vores Lagrange er uafhængig af rummet har vi impulsbevarelse og rumlig homogenitet.
 Når Lagrange funktionen er uafhængig af rummet har vi... :: Rumlig homogenitet/rumlig forskydningssymmetri og impulsbevarelse.
-<!--SR:!2022-11-29,35,276-->
+<!--SR:!2023-04-13,135,296-->
 
 Vi får også at vores impuls er additiv da Lagrangen også er det $p=\frac{\delta L}{\delta v}$.
 Impuls er additiv da... :: $p=\frac{\delta L}{\delta v}$.

@@ -38,7 +38,7 @@ Forskydningen af længden da $\Delta E=F_{x}\Delta x_{F}$
 <!--SR:!2023-03-06,98,317-->
 
 Den generelle definition af kraftens arbejde er... :: $W=\int_{\vec{r_{i}}}^{\vec{r_{f}}} \vec{F_{ydre}}(\vec{r})\cdot d \vec{r}$ hvor $\vec{r}$ er positionen.[^3]
-<!--SR:!2022-11-29,8,277-->
+<!--SR:!2022-12-30,31,297-->
 
 Den generelle definition af arbejdet skrives som dette i en dimension med en variabel, ikke dissipativ kraft...
 Hvis kun en kraft virker på en enkelt partikel i en dimension så bliver arbejdet...
@@ -126,7 +126,7 @@ Friktionskraften burde altid skrives som... :: En termisk energiændring, da den
 Hvis arbejdet fra tyngdekraften er nul og partiklen ikke deformeres så bliver  varmeenergien af friktion i et lukket system til...  ::  $\Delta E_{TH}=- \Delta K$.
 <!--SR:!2022-12-12,31,317-->
 Friktionskraften kan beskrives ved... :: $\Delta E_{TH}=F_{x}^{f}d$
-<!--SR:!2022-11-29,18,297-->
+<!--SR:!2023-02-11,74,317-->
 
 ## Effekt - luminositet [6.8]
 

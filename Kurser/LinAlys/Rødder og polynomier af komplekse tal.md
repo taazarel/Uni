@@ -30,14 +30,14 @@ Disse ting er anderledes ved $az^{2}+bz+c=0 \in \mathbb{C}$...
 $d>0$ har vi to forskellige reelle rødder[^2]
 $d=0$ har vi en reel rod
 $d<0$ har vi to ikke reelle rødder.
-<!--SR:!2022-11-29,1,226-->
+<!--SR:!2022-12-02,3,246-->
 
 Givet $az^{2}+bz+c=0,d=0$ så bliver $z=$... :: $\frac{-b}{2a}$.
 <!--SR:!2022-12-01,3,266-->
 
 ## Definition 1.5 (Polynomier)
 Et komplekst polynomie $p:\mathbb{C}\to \mathbb{C}$ bliver skrevet på formen... :: $$p(z)=a_{n}z^{n}+a_{n-1}z^{n-1}+...+a_{0}z^{0},n \in \mathbb{N} \Rightarrow \sum_{k=0}^{n}a_{k}z^{k}$$
-<!--SR:!2022-11-29,1,226-->
+<!--SR:!2022-12-02,3,246-->
 ## Definition RM (Reelle polynomier)
 Et reelt polynomie $f:\mathbb{R}\to \mathbb{R}$ skrives som... :: $$f(x)=a_{n}x^{n}+...+a_{0}x^{0},n \in \mathbb{N},a_{n}\in \mathbb{R}$$
 <!--SR:!2022-12-01,3,266-->
@@ -73,7 +73,7 @@ Givet $\vec{u},\vec{v}\in V$ da kan vi vise en ulighed som... :: $|\langle \vec{
 <!--SR:!2022-11-30,2,246-->
 ### Korollar
 For $\frac{\langle \vec{u},\vec{v}\rangle }{||\vec{u}||\cdot ||\vec{v}||}\in [-1,1]$ så er $\theta =$... :: Veldefineret.
-<!--SR:!2022-11-29,1,230-->
+<!--SR:!2022-12-02,3,250-->
 
 ## Sætning 4.12
 V er et indre produkt rum $\vec{v},\vec{u}\in V$ og $a \in \mathbb{R}$
@@ -91,14 +91,14 @@ For $f,g \in C_{[a,b]}$ så er $$\sqrt{\int_{a}^{b} (f(x)+g(x))^{2}dx}\leq ...$$
 Lad V være et indre produkt rum. Vektorfamilien $\vec{u_{1}},...,\vec{u_{n}}\in V$ er ortogonale hvis.... :: $\langle \vec{u_{i}},\vec{u_{j}}\rangle =0$ for $i \neq j$ og $\langle \vec{u_{i}},\vec{u_{j}}\rangle =1$ for $i=j$.[^3]
 <!--SR:!2022-12-01,3,266-->
 Vi kan skrive skalaren $r_{i}=$$\frac{\langle \vec{u_{i}},\vec{v}\rangle}{\langle \vec{u_{i}},\vec{u_{i}}\rangle }= \text{ hvis ortonormal } =$... :: $\langle \vec{u_{i}},\vec{v}\rangle$.
-<!--SR:!2022-11-29,1,226-->
+<!--SR:!2022-12-02,3,246-->
 
 ## Sætning 4.17
 Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale medfører det at familien er.... :: Lineært uafhængige. Men ortogonalitet er lettere at tjekke.
-<!--SR:!2022-11-29,1,226-->
+<!--SR:!2022-11-30,1,206-->
 ### Korollar "Ortonormal basis" (ONB)
 $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en endelig $dim \{ V\}$ så vil ... :: vi finde en basis $\vec{u_{1}},...,\vec{u_{n}}\in V$ gennem en Gram Schmidt Proces.
-<!--SR:!2022-11-29,1,226-->
+<!--SR:!2022-12-02,3,246-->
 
 ## Sætning 4.20 (Konstruktion af ONB)[^4]
 Givet $\vec{u_{1}},...,\vec{u_{n}}\in V$ er en basis, konstruerer vi ONB $\vec{e_{1}},...,\vec{e_{n}}\in V$ og kan definere... :: $\vec{e_{1}}= \frac{1}{||\vec{u_{1}}||}\vec{u_{1}}$ og $v_{2}=\vec{u_{2}}-\langle \vec{u_{2}},\vec{e_{1}}\rangle \vec{e_{1}}$ så kan vi definere $\vec{e_{2}}= \frac{1}{||\vec{v}||}\vec{v_{2}}$.
@@ -115,11 +115,11 @@ Lad $P(z)=c_{n}z^{n}+...+c_{0},c_{i}\in \mathbb{C}$ da findes $r_{1},...,r_{n} \
 
 ## Sætning 5.5.2[^6]
 Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$
-<!--SR:!2022-11-29,1,230-->
+<!--SR:!2022-12-02,3,250-->
 
 ## Lemma 3.5.3
 $P(z)=c_{n}z^{n}+...+c_{0}$ hvis $r \in \mathbb{C}$ er rod er... ::  $\vec{r}\in \mathbb{C}$ også en rod.
-<!--SR:!2022-11-29,1,226-->
+<!--SR:!2022-12-02,3,246-->
 
 
 
