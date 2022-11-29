@@ -46,6 +46,14 @@ som er $T(\vec{e_{j}})\in \mathbb{R}^{m}$ hvor $j=1,...,n$
 Lad $T:V \to V'$ være lineær. Da findes entydig $A \in \mathbb{M}_{n,m}$ for alle $\vec{v}\in V$ Denne skrives som... :: $[T(\vec{v})]_{B}=A[\vec{v}]_{B}$ [^1]
 En given søjle i $[T(\vec{v})]_{B}=A[\vec{v}]_{B}$ skrives som ... :: $[T(\vec{v}_{j})]_{B}$ 
 
+# Messer §6.2 (Mængdelære)
+$X,Y$ er mængder, vi har $f:X \to Y$ funktion. Disse mængder kaldes for ... :: $X=$ domæne/definitionsmængden. $Y=$ codomæne
+## Definition
+$f:X \to Y$ er injektiv[^2] hvis for alle $x_{1},x_{2}\in X,$ der findes... :: $f(x_{1})=f(x_{2})\Rightarrow x_{1}=x_{2}$ eller $x_{1}\neq x_{2}\Rightarrow f(x_{1})\neq f(x_{2})$.
+Værdimængden for $f:X \to Y$ defineres som... :: $f(Y)=\{f(x)|x \in X \}\subseteq Y$.[^3]
+
 
 # Fodnoter
 [^1]: Hvor den venstre del er $\mathbb{R}^{m}$ og den højre er $\mathbb{R}^{n}$.
+[^2]: Injektiv betyder one to one, og skrives injective på engelsk. Surjektiv betyder onto og skrives surjective på engelsk.
+[^3]: Dette er billedet. Defineres også som værdimængden.
