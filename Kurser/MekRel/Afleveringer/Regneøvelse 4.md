@@ -37,9 +37,9 @@ $\sum \tau =\tau_{sv}-\tau_{Lv}-\tau_{Ev}-\tau_{fv}=\alpha$
 $\sum \tau =\vec{r_{sv}}\vec{F_{sv}}\sin{\theta_{1}}-\vec{r_{Lv}}\vec{F_{Lv}}\sin{\theta_{2}}-\vec{r_{Ev}}\vec{F_{Ev}}\sin{\theta_{3}}-\vec{r_{fv}}\vec{F_{fv}}=\alpha$
 
 ## h
-(i) $I_{v}=\frac{1}{12}m_{v}L^{2}+m_{v} \frac{L}{6}^{2}$  
+(i) $$I_{v}=\frac{1}{12}m_{v}L^{2}+m_{v} \frac{L}{6}^{2}= \frac{1}{4}m_{v}L$$  
 (ii) 
-Vi ser på (7.24)$$I_{cm}=\frac{m}{L}\int_{\frac{-L}{2}}^{\frac{L}{2}}x^{2}dx=\frac{m_{v}}{L}\left[\frac{x^{3}}{3}\right]^{\frac{L}{2}}_\frac{-L}{2}=\frac{1}{12}m_{v}L^{2}$$ $$I_{v}=\frac{1}{12}L^{2}$$
+Vi ser på (7.24)$$I_{cm}=\frac{m}{L}\int_{\frac{-L}{2}}^{\frac{L}{2}}x^{2}dx=\frac{m_{v}}{L}\left[\frac{x^{3}}{3}\right]^{\frac{L}{2}}_\frac{-L}{2}=\frac{1}{12}m_{v}L^{2}$$ $$I_{v}=\frac{m_{v}}{L}\int_{\frac{-1}{3}L}^{\frac{2}{3}L} x^{2}\space dx= \frac{m_{v}}{L}\left[\frac{x^{3}}{3}\right]^{\frac{2}{3}L}_{\frac{-1}{3}L}= \frac{m_{v}}{L}\left(\left(\frac{2}{3}L\right)^{3}+\left(\frac{1}{3}L\right)^{3}\right)=$$
 
 ## i
 
