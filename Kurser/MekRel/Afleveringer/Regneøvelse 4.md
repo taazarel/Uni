@@ -36,9 +36,10 @@ $\sum \tau =\vec{r_{sv}}\times \vec{F_{sv}}+\vec{0}\times \vec{F_{nv}}+\vec{r_{L
 $\sum \tau =\vec{r_{sv}}\vec{F_{sv}}\sin{\theta_{1}}-\vec{r_{Lv}}\vec{F_{Lv}}\sin{\theta_{2}}-\vec{r_{Ev}}\vec{F_{Ev}}\sin{\theta_{3}}-\vec{r_{fv}}\vec{F_{fv}}=\alpha I$
 
 ## h
-(i) $$I_{v}=\frac{1}{12}m_{v}L^{2}+m_{v} \frac{L}{6}^{2}= \frac{1}{4}m_{v}L$$  
-(ii) 
-Vi ser på (7.24)
+(i) $$I_{v}=\frac{1}{12}m_{v}L^2 +m_v\left(\frac{1}{6}L\right)^2 = \frac{1}{9}m_v L$$  
+(ii) $I_{v}=\frac{m_{v}}{L}\int_{\frac{-1}{3}L}^{\frac{2}{3}L}x^{2}\space dx=\frac{1}{9}m_{v}L$
+Vi ser på (7.24) som guide.
+$I_{sys}=\frac{1}{9}m_{v}L^{2}+ \frac{1}{16}m_{s}L^{2}+ \frac{1}{9}m_{v}L^{2}+ \frac{4}{9}m_{f}$
 ## i
 Vi antager at der menes at vi skal finde accelerationen i det øjeblik hvor vippen begynder at vælte. Denne acceleration er nemlig ikke konstant, da vinklen mellem kraftvektorerne og stedvektoren ændrer sig i forhold til tiden.
 I dette tilfælde vil alle graderne være $\frac{\pi}{2}$ så $\sin{\theta }$ vil blive 1.
