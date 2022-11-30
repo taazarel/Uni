@@ -37,8 +37,9 @@ $\sum \tau =\tau_{sv}-\tau_{Lv}-\tau_{Ev}-\tau_{fv}=\alpha$
 $\sum \tau =\vec{r_{sv}}\vec{F_{sv}}\sin{\theta_{1}}-\vec{r_{Lv}}\vec{F_{Lv}}\sin{\theta_{2}}-\vec{r_{Ev}}\vec{F_{Ev}}\sin{\theta_{3}}-\vec{r_{fv}}\vec{F_{fv}}=\alpha$
 
 ## h
-(i) $I_{v}=\frac{1}{12}m_{v}L^{2}+ m_{s}\frac{L}{4}^{2}+m_{l} \frac{L}{3}^{2}+m_{f}\frac{2L}{3}^{2}$  
-(ii) $I_{v}=$
+(i) $I_{v}=\frac{1}{12}m_{v}L^{2}+m_{v} \frac{L}{6}^{2}$  
+(ii) 
+Vi ser på (7.24)$$I_{cm}=\frac{m}{L}\int_{\frac{-L}{2}}^{\frac{L}{2}}x^{2}dx=\frac{m_{v}}{L}\left[\frac{x^{3}}{3}\right]^{\frac{L}{2}}_\frac{-L}{2}=\frac{1}{12}m_{v}L^{2}$$ $$I_{v}=\frac{1}{12}L^{2}$$
 
 ## i
 

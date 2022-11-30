@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "3801660db3e22fe3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/MekRel/Dokumenter/RotMek-delAB_v17nov2022.pdf"
+              }
+            }
+          },
+          {
             "id": "0dc4dfcb718874f4",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -126,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Rotationsmekanik.md",
+                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Rotationsmekanik.md"
+                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md"
               }
             }
           },
@@ -174,15 +184,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0dc4dfcb718874f4",
+  "active": "8c6abbba7d576844",
   "lastOpenFiles": [
+    "Kurser/MekRel/Dokumenter/RotMek-delAB_v17nov2022.pdf",
     "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
+    "Kurser/MekRel/Rotationsmekanik.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 15.57.35.excalidraw.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.55.11.excalidraw.md",
-    "Kurser/MekRel/Dokumenter/RotMek-delAB_v17nov2022.pdf",
     "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.43.03.excalidraw.md",
-    "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Dokumenter/Python3.pdf",
     "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md"
