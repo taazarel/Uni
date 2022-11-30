@@ -30,26 +30,6 @@
             }
           },
           {
-            "id": "7f1ac3c01d296758",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/Python3.pdf"
-              }
-            }
-          },
-          {
-            "id": "d11625fd7d77a0e8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/RotMek-delAB_v17nov2022.pdf"
-              }
-            }
-          },
-          {
             "id": "0dc4dfcb718874f4",
             "type": "leaf",
             "state": {
@@ -62,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -146,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Dokumenter/Python3.pdf",
+                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Dokumenter/Python3.pdf"
+                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md"
               }
             }
           },
@@ -194,8 +174,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f1ac3c01d296758",
+  "active": "8c6abbba7d576844",
   "lastOpenFiles": [
+    "Kurser/MekRel/Dokumenter/Python3.pdf",
     "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
     "Kurser/MekRel/Dokumenter/RotMek-delAB_v17nov2022.pdf",
     "Kurser/MekRel/Rotationsmekanik.md",
@@ -204,7 +185,6 @@
     "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.43.03.excalidraw.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
-    "Kurser/MekRel/Dokumenter/Python3.pdf",
     "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md"
   ]
 }

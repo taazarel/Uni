@@ -1,9 +1,9 @@
 # Opgave 1
-Ring = $\frac{1}{2}MR^{2}$
-cylinder $=m_{c}R_{h}^{2}$
-Pind $=m_{p}(R_{k}+R_{h})^{2}$
-Kugle $=m_{k}(R_{k}+R_{h}+L)^{2}$
-Systemets inertimoment $I_{syst}=\frac{1}{2}m_{h}R_{h}^{2}+m_{c}R_{h}^{2}+m_{p}(R_{k}+R_{h})^{2}+m_{k}(R_{k}+R_{h}+L)^{2}$
+Ring = $\frac{1}{2}m_{h}R_{h}^{2}$
+cylinder $=\frac{1}{2}m_{c}R_{c}+m_{c}R_{h}^{2}$
+Pind $=\frac{1}{12}m_{p}L+m_{p}(R_{k}+R_{h})^{2}$
+Kugle $=\frac{2}{5}m_{k}R_{k}^{2}+m_{k}(R_{k}+R_{h}+L)^{2}$
+Systemets inertimoment $I_{syst}=\frac{1}{2}m_{h}R_{h}^{2}+\frac{1}{2}m_{c}R_{c}+m_{c}R_{h}^{2}+\frac{1}{12}m_{p}L+m_{p}(R_{k}+R_{h})^{2}+\frac{2}{5}m_{k}R_{k}^{2}+m_{k}(R_{k}+R_{h}+L)^{2}$
 
 
 # Opgave 2
@@ -39,13 +39,14 @@ $\sum \tau =\vec{r_{sv}}\vec{F_{sv}}\sin{\theta_{1}}-\vec{r_{Lv}}\vec{F_{Lv}}\si
 (i) $$I_{v}=\frac{1}{12}m_{v}L^2 +m_v\left(\frac{1}{6}L\right)^2 = \frac{1}{9}m_v L$$  
 (ii) $I_{v}=\frac{m_{v}}{L}\int_{\frac{-1}{3}L}^{\frac{2}{3}L}x^{2}\space dx=\frac{1}{9}m_{v}L$
 Vi ser på (7.24) som guide.
-$I_{sys}=\frac{1}{9}m_{v}L^{2}+ \frac{1}{16}m_{s}L^{2}+ \frac{1}{9}m_{v}L^{2}+ \frac{4}{9}m_{f}L$
+$I_{sys}=\frac{1}{9}m_{v}L^{2}+ \frac{1}{16}m_{s}L^{2}+ \frac{1}{9}m_{L}L^{2}+ \frac{4}{9}m_{f}L$
 
 ## i
 Vi antager at der menes at vi skal finde accelerationen i det øjeblik hvor vippen begynder at vælte. Denne acceleration er nemlig ikke konstant, da vinklen mellem kraftvektorerne og stedvektoren ændrer sig i forhold til tiden.
 I dette tilfælde vil alle graderne være $\frac{\pi}{2}$ så $\sin{\theta }$ vil blive 1.
-$\frac{d \omega }{dt}=\alpha = g\frac{\frac{1}{4}\vec{L}m_{sv}- \frac{1}{6}\vec{L}m_{Lv}- \frac{2}{3}\vec{L}m_{fv}}{I_{sys}}$
-$\alpha =10 \frac{m}{s^{2}} \frac{1m2kg- \frac{2}{3}m0.5kg- \frac{8}{3}m0.004kg}{9.14 kg m^{2}}=1.8 \frac{\circ}{s^{2}}$  
+$\frac{d \omega }{dt}=\alpha = g\frac{\frac{1}{4}\vec{L}m_{sv}- \frac{1}{6}\vec{L}m_{Ev}- \frac{1}{3}\vec{L}m_{Lv}- \frac{2}{3}\vec{L}m_{fv}}{I_{sys}}$
+$L_{sys}=$
+$\alpha=$  
 ## j
 
 
