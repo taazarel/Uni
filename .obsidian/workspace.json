@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-12-01 09.34.30.excalidraw.md",
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-12-01 09.34.30.excalidraw.md"
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md"
               }
             }
           },
@@ -186,10 +186,10 @@
       }
     ]
   },
-  "active": "986de42a3e87f719",
+  "active": "5fcf2a8196d64193",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Assets/Excalidraw/Regnepapir 2022-12-01 09.34.30.excalidraw.md",
+    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Assets/Excalidraw/Template.md",
     "Kurser/MekRel/Rotationsmekanik.md",
