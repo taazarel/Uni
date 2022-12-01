@@ -49,7 +49,7 @@ som er $T(\vec{e_{j}})\in \mathbb{R}^{m}$ hvor $j=1,...,n$
 ### Sætning 6.12
 Lad $T:V \to V'$ være lineær, Givet er to baser $B,B'$. Da findes entydig $A \in \mathbb{M}_{n,m}$ for alle $\vec{v}\in V$ Denne skrives som... :: $[T(\vec{v})]_{B'}=A[\vec{v}]_{B}$ [^1]
 En given søjle i matricen $A$ skrives som... :: $[T(\vec{u}_{j})]_{B'}$ 
-
+ 
 # Messer §6.2 (Mængdelære)
 $X,Y$ er mængder, vi har $f:X \to Y$ funktion. Disse mængder kaldes for ... :: $X=$ domæne/definitionsmængden. $Y=$ codomæne
 ## Definition
