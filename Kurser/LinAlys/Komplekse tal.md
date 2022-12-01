@@ -50,9 +50,9 @@ En god huskeregel er den udvidede form af $0\leq a^{2}+b^{2}\in \mathbb{R}=(a+ib
 Vi kan bruge polære koordinater til at vise $|z|$ bedre... :: ![[Komplekse tal 2022-11-08 09.06.42.excalidraw]] $|z|=r$ hvor $a=r \cos{\theta },b=r \sin{\theta }$.[^3]
 <!--SR:!2022-12-02,17,294-->
 Definitionen af z i polarform er... :: $z=r \cos{\theta }+ir \sin{\theta }=re^{i \theta }$ 
-<!--SR:!2022-12-01,16,270-->
+<!--SR:!2023-01-30,60,290-->
 Vi kan definere r som... :: $r=\sqrt{a^{2}+b^{2}}$ 
-<!--SR:!2022-12-01,16,294-->
+<!--SR:!2023-02-03,64,314-->
 ### Sætning
 For alle $z,w \in \mathbb{C}$ så får vi $e^{z+w}=$... :: $e^{z}e^{w}=e^{(a+c)+i(b+d)}$
 <!--SR:!2022-11-30,15,294-->

@@ -86,7 +86,7 @@ V er et indre produkt rum $\vec{v},\vec{u}\in V$ og $a \in \mathbb{R}$
 3. $||\vec{u}||+||\vec{v}||$ Denne hedder også trekantsuligheden ![[Rødder og polynomier af komplekse tal 2022-11-24 08.33.27.excalidraw]]
 ### Korollar
 For $f,g \in C_{[a,b]}$ så er $$\sqrt{\int_{a}^{b} (f(x)+g(x))^{2}dx}\leq ...$$ :: $$\sqrt{\int_{a}^{b} f(x)^{2}dx}+\sqrt{\int_{a}^{b} g(x)^{2}dx}$$
-<!--SR:!2022-12-01,3,266-->
+<!--SR:!2022-12-11,10,286-->
 ## Definition 4.16
 Lad V være et indre produkt rum. Vektorfamilien $\vec{u_{1}},...,\vec{u_{n}}\in V$ er ortogonale hvis.... :: $\langle \vec{u_{i}},\vec{u_{j}}\rangle =0$ for $i \neq j$ og $\langle \vec{u_{i}},\vec{u_{j}}\rangle =1$ for $i=j$.[^3]
 <!--SR:!2022-12-01,3,266-->
@@ -111,7 +111,7 @@ et komplekst tal $a \in \mathbb{C}$ er rod i $P(z)=a_{n}z^{n}+...+a_{0},a_{i}\in
 
 ## Sætning 3.5.1 (Algebraens fundamentalsætning)
 Lad $P(z)=c_{n}z^{n}+...+c_{0},c_{i}\in \mathbb{C}$ da findes $r_{1},...,r_{n} \in \mathbb{C}$ så... :: $P(z)=c_{n}(z-r_{1})\cdot ...\cdot (z-r_{n})$[^5]
-<!--SR:!2022-12-01,3,266-->
+<!--SR:!2022-12-07,6,266-->
 
 ## Sætning 5.5.2[^6]
 Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$
