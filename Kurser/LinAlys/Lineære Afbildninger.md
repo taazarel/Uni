@@ -89,7 +89,10 @@ Hvis W er endelig-dimensionalt så er $T:V \to W$ surjektiv og $im(T)=$... :: $W
 ### Sætning 6.30
 Lad T være en operator. T er injektiv hvis... :: $ker(T)=\{\vec{0} \} \Leftrightarrow dim(ker(T))=0$ 
 ### Sætning 6.28 (Dimensionsformlen)
-Lad T være en operator[^6] og V er end. dim. Da er $im(T)$... :: endelig dimension. Da $dim(V)=rang(T)+dim(ker(T))$
+Lad T være en operator[^6] og V har end. dim. Da har $im(T)$... :: endelig dimension. Da $dim(V)=rang(T)+dim(ker(T))$
+#### Korollar
+Givet $dim(V)=rang(T)+dim(ker(T))$ så er $rang(T)\leq ...$:: $dim(V),dim(W)$
+
 
 # Fodnoter
 [^1]: Hvor den venstre del er $\mathbb{R}^{m}$ og den højre er $\mathbb{R}^{n}$. Basen er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, altså basen for V. Ser således ud for V': $B'=[\vec{u_{1}}',...,\vec{u_{m}}']$.
