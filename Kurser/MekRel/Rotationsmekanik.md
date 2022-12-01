@@ -67,7 +67,7 @@ En punktpartikel som bevæger sig i en cirkel vil altid have den samme buelængd
 Vinkelhastigheden bliver ændret af snorlængden således... :: vinkelhast skrives $\omega = \frac{v_{t}}{r}$ Så hvis vi har en mindre længde, bliver vinkelhastigheden større.
 <!--SR:!2023-02-09,73,315-->
 Vinkelhastigheden bliver ændret af vinkel og tid således... :: $\omega = \frac{\Delta \theta}{\Delta t}$.
-<!--SR:!2022-12-01,16,310-->
+<!--SR:!2023-02-12,73,330-->
 Vi kan omskrive den kinetiske energi til et udtryk af vinkelhastigheden... :: $K= \frac{1}{2}mv^{2}= \frac{1}{2}m (r \omega )^{2}$ Som vi også kan skrive som $\frac{1}{2}(mr^{2})\omega ^{2}$ (7.17)[^12]
 <!--SR:!2023-01-27,60,270-->
 Den rotationskinetiske energi skrives som... :: $K_{ro}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.18)
@@ -115,7 +115,7 @@ Den totale impulsmoment for en partikel som roterer og drejer skrives som.. :: $
 
 ## Kraftmoment (7.7)
 Den tidsligt afledte af impulsmomentet skrives som $\frac{d \vec{L}}{dt}=$... :: $d\frac{\vec{r}\times \vec{p}}{dt}= \frac{d \vec{r}}{dt}\times \vec{p}+\vec{r}\times \frac{d \vec{p}}{dt}$ (7.54)
-<!--SR:!2022-12-01,3,293-->
+<!--SR:!2022-12-10,9,293-->
 Kraftmomentet, eller torque, er det samme som $\frac{d \vec{L}}{dt}=\frac{d \vec{r}}{dt}\times \vec{p}+\vec{r}\times \frac{d \vec{p}}{dt}$, hvor $\vec{F}= \frac{d \vec{p}}{dt}$ og $\vec{v}\times \vec{p}$ er vinkelrette på hinanden da $\vec{p}=m \vec{v}$, så bliver kraftmomentet... :: $\tau =\frac{d \vec{L}}{dt}= \vec{r}\times \vec{F}$ (7.58)[^19]
 <!--SR:!2022-12-02,4,309-->
 

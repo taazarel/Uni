@@ -11,7 +11,7 @@ Torsdag
 # Messer §6.1
 ## Definition 6.1
 
-Givet er V og W vektorrum og funktionen $T:V \to W$ er lineær. 
+Givet er V og W [[Abstrakte vektorrum|vektorrum]] og funktionen $T:V \to W$ er lineær. 
 Hvis for alle $\vec{v},\vec{w},\in V,r \in \mathbb{R}$ Så kan vi definere disse:
 $T(\vec{v}+\vec{w})=$...
 $T(r \vec{v})=$...
@@ -20,7 +20,7 @@ $T(\vec{v})+T(\vec{w})$ Additiv lov
 $rT(\vec{v})$ Homogen lov
 
 #### Eksempel
-$A \in \mathbb{M}_{m,n}$ og $\mu _{A}:\mathbb{R}^{n}\to \mathbb{R}^{m}$ $\mu_{A}(\vec{v})=A \vec{v}$. Givet at $A(\vec{v}+\vec{w})=A\vec{v}+A\vec{w}$ og $A(r \vec{v})=r A\vec{v}$ så må $\mu_{A}$ være... :: $\mu_{A}$ er lineær.
+$A \in \mathbb{M}_{m,n}$[^7] og $\mu _{A}:\mathbb{R}^{n}\to \mathbb{R}^{m}$ $\mu_{A}(\vec{v})=A \vec{v}$. Givet at $A(\vec{v}+\vec{w})=A\vec{v}+A\vec{w}$ og $A(r \vec{v})=r A\vec{v}$ så må $\mu_{A}$ være... :: $\mu_{A}$ er lineær.
 
 ### Sætning 6.2
 
@@ -93,6 +93,17 @@ Lad T være en operator[^6] og V har end. dim. Da har $im(T)$... :: endelig dime
 #### Korollar
 Givet $dim(V)=rang(T)+dim(ker(T))$ så er $rang(T)\leq ...$:: $dim(V),dim(W)$
 
+#### Konsekvens af dimensionsformlen
+Givet $T:V \to W$ er lineær, $V,W$ har endelig dimension.
+Da er T injektiv $\Leftrightarrow$...
+Da er T surjektiv $\Leftrightarrow$...
+?
+$rank(T)=dim(V)$
+$rank(T)dim(W)$
+
+# Messer §6.4
+### Sætning 6.14
+lad $T:V \to V'$ $T:V'\to V''$ altså $V \to V'\to V''$ linæere. 
 
 # Fodnoter
 [^1]: Hvor den venstre del er $\mathbb{R}^{m}$ og den højre er $\mathbb{R}^{n}$. Basen er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, altså basen for V. Ser således ud for V': $B'=[\vec{u_{1}}',...,\vec{u_{m}}']$.
@@ -101,3 +112,4 @@ Givet $dim(V)=rang(T)+dim(ker(T))$ så er $rang(T)\leq ...$:: $dim(V),dim(W)$
 [^4]: Kaldes også en operator
 [^5]: Både kernen og billede er altså underrum.
 [^6]: T er defineret på V til W.
+[^7]: Er altså en [[Matrix Multiplikation|matrice]] , se også [[Matricer uden markovkæder]]
