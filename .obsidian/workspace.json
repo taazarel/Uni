@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "998306a50b17f382",
+        "id": "df603af3cbaeb0a6",
         "type": "tabs",
         "children": [
           {
-            "id": "027b980295c27ebf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf"
-              }
-            }
-          },
-          {
-            "id": "8c6abbba7d576844",
+            "id": "5fcf2a8196d64193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dc4dfcb718874f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/MekRel/Rotationsmekanik.md",
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -126,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md"
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md"
               }
             }
           },
@@ -174,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c6abbba7d576844",
+  "active": "5fcf2a8196d64193",
   "lastOpenFiles": [
-    "Kurser/MekRel/Dokumenter/Python3.pdf",
-    "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
-    "Kurser/MekRel/Dokumenter/RotMek-delAB_v17nov2022.pdf",
+    "Assets/Excalidraw/Template.md",
+    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Rotationsmekanik.md",
+    "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
+    "Kurser/MekRel/Dokumenter/Python3.pdf",
+    "Kurser/MekRel/Dokumenter/RotMek-delAB_v17nov2022.pdf",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 15.57.35.excalidraw.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.55.11.excalidraw.md",
     "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
-    "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.43.03.excalidraw.md",
-    "Kurser/LinAlys/Lineære Afbildninger.md",
-    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md"
+    "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.43.03.excalidraw.md"
   ]
 }

@@ -1,9 +1,13 @@
 # Dagsplan
 
+Tirsdag
 1. 6.1 RM
 2. 6.3 RM (Sammenhæng til matricer)
 3. 6.2 RM
-
+Torsdag
+1. 6.5 RM
+2. 6.6 RM
+3. 6.7 RM
 # Messer §6.1
 ## Definition 6.1
 
@@ -33,7 +37,7 @@ $T(r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}})=r_{1}T(\vec{v_{1}})+...+r_{n}T(\vec{v_
 Lad $T,T':V \to W$ være lineær, og lad $S=\{\vec{v_{1}},...,\vec{v_{n}} \}\in V$ være udspændende. Hvis $T(\vec{v_{i}})=T'(\vec{v_{i}})$ for alle i, så er $T=$... :: $T'$ Altså har entydighed for disse funktioner.
 
 # Messer §6.3 (Sammenhæng af lineære afbildninger og matricer)
-### Sætning 6.11
+### Sætning 6.11 (Specialtilfælde af 6.12)
 
 Lad $T:\mathbb{R}^{n}\to \mathbb{R}^{m}$ være lineær, da findes 
 $A \in \mathbb{M}_{m,n}$ så $T=$...
@@ -43,17 +47,22 @@ $\mu_{A}\Rightarrow T(\vec{v})=A\vec{v}$ for alle $\vec{v}\in \mathbb{R}^{n}$
 som er $T(\vec{e_{j}})\in \mathbb{R}^{m}$ hvor $j=1,...,n$ 
 
 ### Sætning 6.12
-Lad $T:V \to V'$ være lineær. Da findes entydig $A \in \mathbb{M}_{n,m}$ for alle $\vec{v}\in V$ Denne skrives som... :: $[T(\vec{v})]_{B}=A[\vec{v}]_{B}$ [^1]
-En given søjle i $[T(\vec{v})]_{B}=A[\vec{v}]_{B}$ skrives som ... :: $[T(\vec{v}_{j})]_{B}$ 
+Lad $T:V \to V'$ være lineær. Da findes entydig $A \in \mathbb{M}_{n,m}$ for alle $\vec{v}\in V$ Denne skrives som... :: $[T(\vec{v})]_{B'}=A[\vec{v}]_{B}$ [^1]
+En given søjle i $[T(\vec{v})]_{B'}=A[\vec{v}]_{B}$ skrives som ... :: $[T(\vec{u}_{j})]_{B}$ 
 
 # Messer §6.2 (Mængdelære)
 $X,Y$ er mængder, vi har $f:X \to Y$ funktion. Disse mængder kaldes for ... :: $X=$ domæne/definitionsmængden. $Y=$ codomæne
 ## Definition
 $f:X \to Y$ er injektiv[^2] hvis for alle $x_{1},x_{2}\in X,$ der findes... :: $f(x_{1})=f(x_{2})\Rightarrow x_{1}=x_{2}$ eller $x_{1}\neq x_{2}\Rightarrow f(x_{1})\neq f(x_{2})$.
 Værdimængden for $f:X \to Y$ defineres som... :: $f(Y)=\{f(x)|x \in X \}\subseteq Y$.[^3]
+# Messer §6.5 (Basis-skift)
+#### Specialtilfælde af 6.12
+Givet $V=V',T=id_{V}:V \to V$ givet to baser B og B', så er $T(\vec{v})=...$ :: $\vec{v}$
 
+### Sætning 6.16 
+Givet er to baser $B,B'$ for $V$. Da findes præcis én $P \in \mathbb{M}_{n,n}$ så for alle $\vec{v}\in V$ er $[\vec{v}]_{B}=...$::$P \cdot [\vec{v}]_{B'}$ og den bestemte søjle er 
 
 # Fodnoter
-[^1]: Hvor den venstre del er $\mathbb{R}^{m}$ og den højre er $\mathbb{R}^{n}$.
+[^1]: Hvor den venstre del er $\mathbb{R}^{m}$ og den højre er $\mathbb{R}^{n}$. Basen er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, altså basen for V. Ser således ud for V': $B'=[\vec{u_{1}}',...,\vec{u_{m}}']$.
 [^2]: Injektiv betyder one to one, og skrives injective på engelsk. Surjektiv betyder onto og skrives surjective på engelsk.
 [^3]: Dette er billedet. Defineres også som værdimængden.

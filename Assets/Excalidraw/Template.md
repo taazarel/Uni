@@ -17,7 +17,7 @@ tags: [excalidraw]
 	"source": "https://excalidraw.com",
 	"elements": [],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "#ced4da",
