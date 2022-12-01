@@ -83,7 +83,7 @@ $\{\vec{w}\in W|\vec{w}=T(\vec{v}) \text{ for et }\vec{v}\in V \}\subseteq W$[^5
 
 ## Definition 6.27
 Lad $T:V \to W$ være lineær og $im(T)$ er endelig-dimensionalt, så er $rank(T)=...$::$dim(im(T))$.
-Lad $T:V \to W$ være lineær og $ker(T)$ er endelig-dimensionalt, så er $mullity(T)=...$::$dim(ker(T))$
+Lad $T:V \to W$ være lineær og $ker(T)$ er endelig-dimensionalt, så er $nullity(T)=...$::$dim(ker(T))$
 #### Sammenhæng med surjektivitet 
 Hvis W er endelig-dimensionalt så er $T:V \to W$ surjektiv og $im(T)=$... :: $W$ Da der vil være en værdi på alle W
 ### Sætning 6.30
