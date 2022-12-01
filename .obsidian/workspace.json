@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed7012e1d3e3b462",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurser/LinAlys/Dokumenter/opg9.pdf"
-              }
-            }
-          },
-          {
             "id": "52c01a430cff0163",
             "type": "leaf",
             "state": {
@@ -28,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecd960718990b309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -164,15 +165,15 @@
   },
   "active": "52c01a430cff0163",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Dokumenter/opg9.pdf",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
+    "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
+    "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
+    "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
+    "Kurser/LinAlys/Dokumenter/opg9.pdf",
     "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/LinAlys/Partiel integration.md",
     "Kurser/LinAlys/Funktioner af flere variable.md",
-    "Kurser/LinAlys/Retningsafledte.md",
-    "Kurser/MekRel/Rotationsmekanik.md",
-    "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Hjælpemidler/Periodic Notes/Daily/01-12-2022 Uge 48.md"
+    "Kurser/LinAlys/Retningsafledte.md"
   ]
 }

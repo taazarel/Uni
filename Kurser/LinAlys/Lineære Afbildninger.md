@@ -9,10 +9,10 @@ Torsdag
 2. 6.6 RM
 3. 6.7 RM
 # Messer §6.1
-## Definition 6.1
 
+## Definition 6.1
 Givet er V og W [[Abstrakte vektorrum|vektorrum]] og funktionen $T:V \to W$ er lineær. 
-Hvis for alle $\vec{v},\vec{w},\in V,r \in \mathbb{R}$ Så kan vi definere disse:
+Hvis for alle $\vec{v},\vec{w},\in V,r \in \mathbb{R}$ at vi kan definere disse:
 $T(\vec{v}+\vec{w})=$...
 $T(r \vec{v})=$...
 ?

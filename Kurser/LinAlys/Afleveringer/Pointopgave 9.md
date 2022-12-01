@@ -3,11 +3,18 @@ Lad $T_{1}:\mathbb{P}_{3}\to \mathbb{P}_{3}$ være givet ved $T_{1}(p)=p(1)$.
 ## (a) 
 Vis at $T_{1}$ er lineær
 
+Givet at $p,q \in \mathbb{P}_{3}$ og $r \in \mathbb{R}$.
+$T_{1}(p+q)=p(1)+q(1)=T_{1}(p)+T_{1}(q)$.
+$T_{1}(rp)=rp(1)=rT_{1}(p)$.
+
 ## (b)
 Hvad er matricen for $T_{1}$ relativ til den ordnede basis $B=[1,x,x^{2},x^{3}]$ for $\mathbb{P}_{3}$ og basen $B'=[1]$ for $\mathbb{R}$.
 
+
+
 ## (c)
 Lad nu a være et vilkårligt reelt tal og definer $T_{a}(p)=p(a)$. Find matricen for $T_{a}$ relativ til de samme baser som i (b)
+
 
 # 9.2
 Lad $B=[1,x,x^{2},x^{3}]$. Det må bruges uden bevis at B er en basis for $\mathbb{P}_{3}$.

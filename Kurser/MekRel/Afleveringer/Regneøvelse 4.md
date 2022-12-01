@@ -44,7 +44,8 @@ $I_{sys}=\frac{1}{9}m_{v}L^{2}+ \frac{1}{16}m_{s}L^{2}+ \frac{1}{9}m_{L}L^{2}+ \
 ## i
 Vi antager at der menes at vi skal finde accelerationen i det øjeblik hvor vippen begynder at vælte. Denne acceleration er nemlig ikke konstant, da vinklen mellem kraftvektorerne og stedvektoren ændrer sig i forhold til tiden.
 I dette tilfælde vil alle graderne være $\frac{\pi}{2}$ så $\sin{\theta }$ vil blive 1.
-$\frac{d \omega }{dt}=\alpha = g\frac{\frac{1}{4}\vec{L}m_{sv}- \frac{1}{6}\vec{L}m_{Ev}- \frac{1}{3}\vec{L}m_{Lv}- \frac{2}{3}\vec{L}m_{fv}}{I_{sys}}\cdot 360^{\circ}$ 
+$\frac{d \omega }{dt}=\alpha = g\frac{\frac{1}{4}\vec{L}m_{sv}- \frac{1}{6}\vec{L}m_{Ev}- \frac{1}{3}\vec{L}m_{Lv}- \frac{2}{3}\vec{L}m_{fv}}{I_{sys}}\cdot 360^{\circ}$
+Vi ved at der er ligvægt før fuglen lander på vippen, så vi kan skrive $$\alpha =g\vec{L} \frac{2m_{fv}}{3I_{sys}}\cdot 360^{\circ}$$
 $I_{sys}\approx 6.47 kg m^{2}$
 $\alpha= \frac{\frac{2}{3}\vec{L}m_{fv}}{I_{sys}}=-5,94 \frac{\circ}{s^{2}}$   
 ## j
