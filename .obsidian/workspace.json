@@ -163,17 +163,52 @@
     "width": 300,
     "collapsed": true
   },
+  "floating": {
+    "id": "31ca55d3e5724fc0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f9ccda29bddb9d25",
+        "type": "window",
+        "children": [
+          {
+            "id": "e369fad16f5f0ff2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a207b912bcecd277",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Pointopgave 9 2022-12-01 16.36.14.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "52c01a430cff0163",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Lineære Afbildninger.md",
+    "Assets/Excalidraw/Pointopgave 9 2022-12-01 16.36.14.excalidraw.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
+    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
     "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
     "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
     "Kurser/LinAlys/Dokumenter/opg9.pdf",
     "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/LinAlys/Partiel integration.md",
-    "Kurser/LinAlys/Funktioner af flere variable.md",
-    "Kurser/LinAlys/Retningsafledte.md"
+    "Kurser/LinAlys/Funktioner af flere variable.md"
   ]
 }

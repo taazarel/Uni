@@ -4,18 +4,19 @@ Lad $T_{1}:\mathbb{P}_{3}\to \mathbb{P}_{3}$ være givet ved $T_{1}(p)=p(1)$.
 Vis at $T_{1}$ er lineær
 
 Givet at $p,q \in \mathbb{P}_{3}$ og $r \in \mathbb{R}$.
-$T_{1}(p+q)=p(1)+q(1)=T_{1}(p)+T_{1}(q)$.
-$T_{1}(rp)=rp(1)=rT_{1}(p)$.
+$T_{1}(p+q)=(p+q)(1)=p(1)+q(1)=T_{1}(p)+T_{1}(q)$.
+$T_{1}(rp)=(rp)(1)=r(p(1))=rT_{1}(p)$.
 
 ## (b)
 Hvad er matricen for $T_{1}$ relativ til den ordnede basis $B=[1,x,x^{2},x^{3}]$ for $\mathbb{P}_{3}$ og basen $B'=[1]$ for $\mathbb{R}$.
+![[Pointopgave 9 2022-12-01 16.36.14.excalidraw]]
 
 $$A=[T_{1}(\vec{u_{j}})]_{B'}=\left[
 \begin{array}{}1  & 0 & 0 & 0 \\ 0 &  x  & 0 & 0  \\ 0 & 0 &  x^{2} & 0 \\ 0 & 0 & 0 &  x^{3}
 \end{array}
 \right] $$
-$$A'=[T_{1}(\vec{u_{j}}')]_{B}=\left[
-\begin{array}{}1 \\ 0 \\ 0 \\ 0
+$$A'=\left[[T_{1}(\vec{u_{1}}')]_{B}\space[T_{1}(\vec{u_{2}}')]_{B}\space [T_{1}(\vec{u_{3}}')]_{B}\space [T_{1}(\vec{u_{4}}')]_{B}\right]=\left[
+\begin{array}{}1  & 1 & 1 & 1
 \end{array}
 \right] $$
 
