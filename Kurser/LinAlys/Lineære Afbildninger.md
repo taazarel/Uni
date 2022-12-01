@@ -55,6 +55,8 @@ $X,Y$ er mængder, vi har $f:X \to Y$ funktion. Disse mængder kaldes for ... ::
 ## Definition
 $f:X \to Y$ er injektiv[^2] hvis for alle $x_{1},x_{2}\in X,$ der findes... :: $f(x_{1})=f(x_{2})\Rightarrow x_{1}=x_{2}$ eller $x_{1}\neq x_{2}\Rightarrow f(x_{1})\neq f(x_{2})$.
 Værdimængden for $f:X \to Y$ defineres som... :: $f(Y)=\{f(x)|x \in X \}\subseteq Y$.[^3]
+### Sætning 6.7
+$T:V \to V'$ $T':V'\to V''$ altså $V \to V'\to V''$ linæere. Da er... :: $T'\circ T:V \to V'$ lineær.[^8]
 # Messer §6.5 (Basis-skift)
 #### Specialtilfælde af 6.12
 Givet $V=V',T=id_{V}:V \to V$ givet to baser B og B', så er $T(\vec{v})=...$ :: $\vec{v}$
@@ -103,7 +105,9 @@ $rank(T)dim(W)$
 
 # Messer §6.4
 ### Sætning 6.14
-lad $T:V \to V'$ $T:V'\to V''$ altså $V \to V'\to V''$ linæere. 
+lad $T:V \to V'$ $T':V'\to V''$ altså $V \to V'\to V''$ linæere. 
+A matricen for T refererer til B&B', A' for T' til B'&B''
+A'A er matrixproduktet for $T \circ T'$ refererer til B&B''
 
 # Fodnoter
 [^1]: Hvor den venstre del er $\mathbb{R}^{m}$ og den højre er $\mathbb{R}^{n}$. Basen er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, altså basen for V. Ser således ud for V': $B'=[\vec{u_{1}}',...,\vec{u_{m}}']$.
@@ -113,3 +117,4 @@ lad $T:V \to V'$ $T:V'\to V''$ altså $V \to V'\to V''$ linæere.
 [^5]: Både kernen og billede er altså underrum.
 [^6]: T er defineret på V til W.
 [^7]: Er altså en [[Matrix Multiplikation|matrice]] , se også [[Matricer uden markovkæder]]
+[^8]: Operationen for $T'\circ T$ er bare en sammensat funktion $T'(T(\vec{v}))$.
