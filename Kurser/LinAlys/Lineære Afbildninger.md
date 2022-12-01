@@ -60,7 +60,7 @@ Værdimængden for $f:X \to Y$ defineres som... :: $f(Y)=\{f(x)|x \in X \}\subse
 Givet $V=V',T=id_{V}:V \to V$ givet to baser B og B', så er $T(\vec{v})=...$ :: $\vec{v}$
 
 ### Sætning 6.16 
-Givet er to baser $B,B'$ for $V$. Da findes præcis én $P \in \mathbb{M}_{n,n}$ så for alle $\vec{v}\in V$ hvad er den j'te søjle og $[\vec{v}]_{B}=...$::$P \cdot [\vec{v}]_{B'}$ og den bestemte søjle er $[\vec{u_{j}}']_{B}$
+Givet er to baser $B,B'$ for $V$. Da findes præcis én $P \in \mathbb{M}_{n,n}$ så for alle $\vec{v}\in V$ hvad er den j'te søjle og $[\vec{v}]_{B}=...$::$P \cdot [\vec{v}]_{B'}$ og den bestemte søjle for P er $[\vec{u_{j}}']_{B}$
 
 ## Basisskift for lin. afbildning.
 Lad $T:V \to V$ være en lineær afbildning[^4] Nu kan vi vælge $B=B':A \in \mathbb{M}_{n,n}$ matricen for T i forhold til B bliver så $[T(\vec{v})]_{B}=A[\vec{v}]_{B}$ for alle $\vec{v}\in V$. 
@@ -69,7 +69,7 @@ Basisskift-matricen fra $B'$ til $B$ givet $P \in \mathbb{M}_{n,n}:[\vec{v}]_{B}
 ### Sætning 6.19
 Da kan A' findes ved...
 ?
-$A'=D^{-1}AP$
+$A'=P^{-1}AP$
 
 # Messer §6.6 (Kerne og Billede)
 

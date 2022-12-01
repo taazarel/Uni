@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
+                "file": "Assets/Excalidraw/Regnepapir 2022-12-01 09.34.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Lineære Afbildninger.md"
+                "file": "Assets/Excalidraw/Regnepapir 2022-12-01 09.34.30.excalidraw.md"
               }
             }
           },
@@ -151,17 +151,52 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5fcf2a8196d64193",
+  "floating": {
+    "id": "9a2535877b1cd392",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5cbd0e599e57bc3e",
+        "type": "window",
+        "children": [
+          {
+            "id": "21b6be5e5d7de533",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "986de42a3e87f719",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Regnepapir 2022-12-01 09.34.30.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "986de42a3e87f719",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Template.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
+    "Assets/Excalidraw/Regnepapir 2022-12-01 09.34.30.excalidraw.md",
+    "Kurser/LinAlys/Regnepapir.md",
+    "Assets/Excalidraw/Template.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
     "Kurser/MekRel/Dokumenter/Python3.pdf",
     "Kurser/MekRel/Dokumenter/RotMek-delAB_v17nov2022.pdf",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 15.57.35.excalidraw.md",
-    "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.55.11.excalidraw.md",
-    "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
-    "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.43.03.excalidraw.md"
+    "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.55.11.excalidraw.md"
   ]
 }
