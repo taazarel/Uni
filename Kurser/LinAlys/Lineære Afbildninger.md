@@ -81,7 +81,15 @@ Definer $im(T)=...$
 $\{\vec{v}\in V|T(\vec{v})=\vec{0} \}\subseteq V$
 $\{\vec{w}\in W|\vec{w}=T(\vec{v}) \text{ for et }\vec{v}\in V \}\subseteq W$[^5]
 
-
+## Definition 6.27
+Lad $T:V \to W$ være lineær og $im(T)$ er endelig-dimensionalt, så er $rank(T)=...$::$dim(im(T))$.
+Lad $T:V \to W$ være lineær og $ker(T)$ er endelig-dimensionalt, så er $mullity(T)=...$::$dim(ker(T))$
+#### Sammenhæng med surjektivitet 
+Hvis W er endelig-dimensionalt så er $T:V \to W$ surjektiv og $im(T)=$... :: $W$ Da der vil være en værdi på alle W
+### Sætning 6.30
+Lad T være en operator. T er injektiv hvis... :: $ker(T)=\{\vec{0} \} \Leftrightarrow dim(ker(T))=0$ 
+### Sætning 6.28 (Dimensionsformlen)
+Lad T være en operator[^6] og V er end. dim. Da er $im(T)$... :: endelig dimension. Da $dim(V)=rang(T)+dim(ker(T))$
 
 # Fodnoter
 [^1]: Hvor den venstre del er $\mathbb{R}^{m}$ og den højre er $\mathbb{R}^{n}$. Basen er $B=[\vec{u_{1}},...,\vec{u_{n}}]$, altså basen for V. Ser således ud for V': $B'=[\vec{u_{1}}',...,\vec{u_{m}}']$.
@@ -89,3 +97,4 @@ $\{\vec{w}\in W|\vec{w}=T(\vec{v}) \text{ for et }\vec{v}\in V \}\subseteq W$[^5
 [^3]: Dette er billedet. Defineres også som værdimængden.
 [^4]: Kaldes også en operator
 [^5]: Både kernen og billede er altså underrum.
+[^6]: T er defineret på V til W.
