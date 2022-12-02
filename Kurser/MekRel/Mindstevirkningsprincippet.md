@@ -14,7 +14,7 @@ Mindstevirkningsprincippet skrives som... :: $\left[L=K-U\right]$.
 
 $L=K-U$ kaldes også mindstevirkningsprincippet, og den kan bruges til at beskrive bevægelsen af et objekt.
 Objekter bevæger sig over... :: Den korteste længde/mindste virkning/the path of least resistance.
-<!--SR:!2022-12-02,4,295-->
+<!--SR:!2022-12-18,16,315-->
 
 <!--SR:!2023-02-25,89,270-->
 Derfor bliver objekters baner altid den af "least resistance".
@@ -66,7 +66,7 @@ Impuls er additiv da... :: $p=\frac{\delta L}{\delta v}$.
 Når Lagrange funktionen er uafhængig af tiden får vi... :: Energibevarelse.
 <!--SR:!2022-12-10,46,296-->
 Den generelle ligning for den tidsligt afledte L er... :: $\frac{dL}{dt}=\frac{\delta L}{\delta x}v+ \frac{\delta L}{\delta v}a+ \frac{\delta L}{\delta t}$.
-<!--SR:!2022-12-02,4,296-->
+<!--SR:!2022-12-13,11,296-->
 
 
 Og hvis vi har tidslig symmetri så bliver $\frac{\delta L}{\delta t}=0$.

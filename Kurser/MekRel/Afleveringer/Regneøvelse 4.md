@@ -50,6 +50,7 @@ $I_{sys}\approx 6.47 kg m^{2}$
 $\alpha= \frac{\frac{2}{3}\vec{L}m_{fv}}{I_{sys}}=-5,94 \frac{\circ}{s^{2}}$   
 ## j
 Vi kan finde vinklen gennem $\tan{\theta }=\mu_{s}$ Så for at finde vinklen isolerer vi theta $\theta =\tan^{-1}{\mu_{s}}=\tan^{-1}{0.35}=19,29^{\circ}$  
+$$
 ## k
 
 ## m

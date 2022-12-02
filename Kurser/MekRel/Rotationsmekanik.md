@@ -103,21 +103,21 @@ Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså b�
 
 ## Impulsmoment (7.6)
 Impulsmomentet er det samme som impuls for rotationer og skrives som... :: $L_{Q}=I_{Q}\omega$  Husk at skrive L og $\omega$ som vektorer hvis de ikke er størrelser.(7.49)[^16]
-<!--SR:!2022-12-02,4,313-->
+<!--SR:!2022-12-20,18,333-->
 Impulsmomentet fra translatorisk bevægelse bliver skrevet som... :: $\vec{L_{Q}}=\vec{r_{Q}}\times \vec{p}$ som også kan skrives $\vec{L_{Q}}=\vec{r}\vec{p}\sin{\theta }$  (7.51)[^17]
-<!--SR:!2022-12-02,4,313-->
+<!--SR:!2022-12-19,17,333-->
 Denne regel bruges til at finde retningen af impulsmomentet af en cirkelbevægelse... :: højrehåndsreglen. Man peger sine fingre i retningen af stedvektoren, og derefter folder man dem mod impulsvektoren, så vil tommelfingeren pege i samme retning som impulsmomentet.
-<!--SR:!2022-12-02,4,313-->
+<!--SR:!2022-12-19,17,333-->
 Hvis en partikel er i cirkelbevægelse om en akse vil impulsmomentet fra en ydre akse beskrives som... :: $L_{Q}=L(t)$ at være afhængig af tiden. Den kan pege op eller ned[^18]
-<!--SR:!2022-12-02,4,313-->
+<!--SR:!2022-12-16,14,313-->
 Den totale impulsmoment for en partikel som roterer og drejer skrives som.. :: $\vec{L_{tot}}=\vec{L_{bane}}+\vec{L_{spin}}$  
-<!--SR:!2022-12-02,4,313-->
+<!--SR:!2022-12-17,15,313-->
 
 ## Kraftmoment (7.7)
 Den tidsligt afledte af impulsmomentet skrives som $\frac{d \vec{L}}{dt}=$... :: $d\frac{\vec{r}\times \vec{p}}{dt}= \frac{d \vec{r}}{dt}\times \vec{p}+\vec{r}\times \frac{d \vec{p}}{dt}$ (7.54)
 <!--SR:!2022-12-10,9,293-->
 Kraftmomentet, eller torque, er det samme som $\frac{d \vec{L}}{dt}=\frac{d \vec{r}}{dt}\times \vec{p}+\vec{r}\times \frac{d \vec{p}}{dt}$, hvor $\vec{F}= \frac{d \vec{p}}{dt}$ og $\vec{v}\times \vec{p}$ er vinkelrette på hinanden da $\vec{p}=m \vec{v}$, så bliver kraftmomentet... :: $\tau =\frac{d \vec{L}}{dt}= \vec{r}\times \vec{F}$ (7.58)[^19]
-<!--SR:!2022-12-02,4,309-->
+<!--SR:!2022-12-18,16,329-->
 
 
 ## Fodnoter
