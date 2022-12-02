@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "2f75f8af37fdcdb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ecd960718990b309",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Kurser/LinAlys/Lineære Afbildninger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f75f8af37fdcdb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md"
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md"
               }
             }
           },
@@ -176,12 +176,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f75f8af37fdcdb5",
+  "active": "ecd960718990b309",
   "lastOpenFiles": [
+    "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Assets/Excalidraw/Pointopgave 9 2022-12-01 16.36.14.excalidraw.md",
-    "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
     "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
     "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
     "Kurser/LinAlys/Dokumenter/opg9.pdf",

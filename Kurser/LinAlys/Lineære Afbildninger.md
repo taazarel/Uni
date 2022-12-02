@@ -1,13 +1,3 @@
-# Dagsplan
-
-Tirsdag
-1. 6.1 RM
-2. 6.3 RM (Sammenhæng til matricer)
-3. 6.2 RM
-Torsdag
-1. 6.5 RM
-2. 6.6 RM
-3. 6.7 RM
 # Messer §6.1
 
 ## Definition 6.1
