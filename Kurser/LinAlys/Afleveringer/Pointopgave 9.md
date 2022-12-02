@@ -38,19 +38,28 @@ Find en formel for basisskiftmatricen for at skrifte fra $B_{a}$ til $B$.
 For $A,B \in \mathbb{M}_{2,2}$ defineres kommutatoren $$[A,B]=AB-BA \in \mathbb{M}_{2,2}$$ I denne opgave vil vi også skrive $K_{B}(A)=[A,B]$ når vi tænker på B som fastholdt og $A\rightarrow K_{B}(A)$ som afbildning $\mathbb{M}_{2,2}\to \mathbb{M}_{2,2}$. 
 ## (a)
 Vis at $K_{B}:\mathbb{M}_{2,2}\to \mathbb{M}_{2,2}$ er lineær for ethvert $B \in \mathbb{M}_{2,2}$.
+
+Lad $A,B \in \mathbb{M}_{2,2}$ og $r \in \mathbb{R}$.
 $K_{B}(A+C)=[A+C,B]=(A+C)B-B(A+C)=AB-BA+CB-BC$$=(AB-BA)+(CB-BC)=[A,B]+[C,B]=K_{B}(A)+K_{B}(C)$
 Den additive lov er altså god nok.
 Nu kan vi tjekke den homogene lov.$K_{B}(rA)=[rA,B]=rAB-BrA=r(AB)-r(BA)$
 $=r(AB-BA)=r[A,B]=r(K_{B}(A))$
 
+Siden vi valgte en arbitrer matrice og skalarkoefficient så må dette gælde for ethvert $B \in \mathbb{M}_{2,2}$.
 ## (b)
 Beskriv $ker(K_{B})$ når $B=\left[ \begin{array}{cc}a & 0 \\ 0 & b\end{array}\right]$ for $a,b \in \mathbb{R}$. (Vink: svaret afhænger af om $a=b$ eller $a \neq b$.)
 
+$ker(K_{B})=\{A \in \mathbb{M}_{2,2}|K_{B}(A)=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right] \}$
+Hvor $A=\left[\begin{array}{}c_{11} & c_{12} \\ c_{21} & c_{22}\end{array}\right]$
+
 ### Hvis $a=b$
+$AB-BA=\left[\begin{array}{}ac_{11} & bc_{12} \\ ac_{21} & bc_{22}\end{array}\right]=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$ hvis $a=b=0$
 
-### Hvis $a $
+### Hvis $a \neq b$
+$AB-BA=\left[\begin{array}{}ac_{11} & bc_{12} \\ ac_{21} & bc_{22}\end{array}\right] \neq \left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$ da $a \neq b = 0$ 
 
-$ker(K_{B})=\{A \in \mathbb{M}_{2,2}|K_{B}(A)=0 \}$
+Vi kan herfra konkludere at $a=b$ da vores kerne kun kan defineres derved.
 
 ## (c)
 Vis at $B \in ker(K_{B})$ for ethvert $B \in \mathbb{M}_{2,2}$, og brug dimensionsformlen til at konkludere at $K_{B}$ ikke er surjektiv.
+
