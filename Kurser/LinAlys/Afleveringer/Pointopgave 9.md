@@ -26,6 +26,10 @@ $$A=\left[[T_{1}(\vec{u_{1}})]_{B'}\space[T_{1}(\vec{u_{2}})]_{B'}\space [T_{1}(
 Lad $B=[1,x,x^{2},x^{3}]$. Det må bruges uden bevis at B er en basis for $\mathbb{P}_{3}$.
 ## (a)
 Vis at $B_{a}=[1,x-a,(x-a)^{2},(x-a)^{3}]$ er en basis for $\mathbb{P}_{3}$ for ethvert $a \in \mathbb{R}$.
+### Mulig løsning
+$(x-a)^{2}=(x-a)(x-a)=x^{2}+a^{2}-2ax$$(x-a)^{3}=(x^{2}+a^{2}-2ax)(x-a)=x^{3}+a^{2}x-2ax^{2}-a^{3}-ax^{2}+2a^{2}x$$(x-a)^{3}=x^{3}-a^{3}+3(-ax^{2}+a^{2}x)$
+$B_{a}$ har altså både anden og tredje grads led. Dette gør det muligt at danne en given vektor genne lineærkombination.
+### Anden løsning
 
 
 ## (b)
