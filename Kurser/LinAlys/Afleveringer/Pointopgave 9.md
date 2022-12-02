@@ -56,16 +56,17 @@ Hvor $A=\left[\begin{array}{}c_{11} & c_{12} \\ c_{21} & c_{22}\end{array}\right
 $AB-BA=\left[\begin{array}{}ac_{11} & bc_{12} \\ ac_{21} & bc_{22}\end{array}\right]=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$ hvis $a=b=0$
 
 ### Hvis $a \neq b$
-$AB-BA=\left[\begin{array}{}ac_{11} & bc_{12} \\ ac_{21} & bc_{22}\end{array}\right] \neq \left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$ da $a \neq b = 0$ 
+$AB-BA=\left[\begin{array}{}ac_{11} & bc_{12} \\ ac_{21} & bc_{22}\end{array}\right] \neq \left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$ da $a \neq b = 0$ medmindre $A=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$
 
 Vi kan herfra konkludere at $a=b$ da vores kerne kun kan defineres derved.
 
 ## (c)
 Vis at $B \in ker(K_{B})$ for ethvert $B \in \mathbb{M}_{2,2}$, og brug dimensionsformlen til at konkludere at $K_{B}$ ikke er surjektiv.
 
-
+$K_{B}(B)=[B,B]=BB-BB=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$
+Dette opfylder definitionen for $ker(K_{B})$.
 
 $dim(\mathbb{M}_{2,2})=2 \times 2$
 $rang(K_{B})\leq 2$
 
-Da rang af operatoren og dimensionen af codomænet ikke er det samme kan vi konkludere at $K_{B}$ ikke er surjektiv. Den er heller ikke injektiv da vores domæne og codomæne er ens.
+Da rang af operatoren og dimensionen af codomænet ikke er det samme kan vi konkludere at $K_{B}$ ikke er surjektiv gennem dimensionsformlen. Den er heller ikke injektiv da vores domæne og codomæne er ens.
