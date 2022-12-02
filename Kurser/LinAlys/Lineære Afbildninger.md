@@ -87,11 +87,11 @@ Givet $dim(V)=rang(T)+dim(ker(T))$ så er $rang(T)\leq ...$:: $dim(V),dim(W)$
 
 #### Konsekvens af dimensionsformlen
 Givet $T:V \to W$ er lineær, $V,W$ har endelig dimension.
-Da er T injektiv $\Leftrightarrow$...
-Da er T surjektiv $\Leftrightarrow$...
+T er injektiv $\Leftrightarrow$...
+T er surjektiv $\Leftrightarrow$...
 ?
-$rank(T)=dim(V)$
-$rank(T)dim(W)$
+$rang(T)=dim(V)$
+$rang(T)=dim(W)$
 
 # Messer §6.4
 ### Sætning 6.14

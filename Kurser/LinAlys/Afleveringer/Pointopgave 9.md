@@ -49,7 +49,7 @@ Siden vi valgte en arbitrer matrice og skalarkoefficient så må dette gælde fo
 ## (b)
 Beskriv $ker(K_{B})$ når $B=\left[ \begin{array}{cc}a & 0 \\ 0 & b\end{array}\right]$ for $a,b \in \mathbb{R}$. (Vink: svaret afhænger af om $a=b$ eller $a \neq b$.)
 
-$ker(K_{B})=\{A,B \in \mathbb{M}_{2,2}|K_{B}(A)=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right] \}$
+$ker(K_{B})=\{A,B \in \mathbb{M}_{2,2}|K_{B}(A)=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right] \}\subseteq \mathbb{M}_{2,2}$
 Hvor $A=\left[\begin{array}{}c_{11} & c_{12} \\ c_{21} & c_{22}\end{array}\right]$
 
 ### Hvis $a=b$
@@ -63,3 +63,9 @@ Vi kan herfra konkludere at $a=b$ da vores kerne kun kan defineres derved.
 ## (c)
 Vis at $B \in ker(K_{B})$ for ethvert $B \in \mathbb{M}_{2,2}$, og brug dimensionsformlen til at konkludere at $K_{B}$ ikke er surjektiv.
 
+
+
+$dim(\mathbb{M}_{2,2})=2 \times 2$
+$rang(K_{B})\leq 2$
+
+Da rang af operatoren og dimensionen af codomænet ikke er det samme kan vi konkludere at $K_{B}$ ikke er surjektiv. Den er heller ikke injektiv da vores domæne og codomæne er ens.
