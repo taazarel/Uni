@@ -20,6 +20,22 @@
             }
           },
           {
+            "id": "3b83ac628455517f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6b70c0e5ae66c73",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "bec750adc191e692",
             "type": "leaf",
             "state": {
@@ -42,6 +58,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,13 +187,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6cf8dbfd735070b",
+  "active": "b6b70c0e5ae66c73",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Komplekse tal.md",
+    "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
+    "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/LinAlys/Indre Produkt.md",
     "Kurser/LinAlys/Dokumenter/opg8.pdf",
-    "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 7.md",
     "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/MekRel/Rotationsmekanik.md",

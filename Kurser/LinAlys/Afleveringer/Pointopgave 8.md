@@ -339,7 +339,6 @@ E_{1} & E_{2} & E_{3}
 \end{array}
 \right] $$
 
-
 # 8.3
 ## a
 Udregn modulus og argument af det komplekse tal
@@ -376,7 +375,7 @@ Wolfram Alpha er en hjemmeside fyldt med hjælpemidler til matematik. Jeg indsat
 Argumentet finder vi gennem
 $$\tan^{-1}\left(\frac{b}{a}\right)=\tan^{-1}\left(\frac{31}{38}\right)\approx 39,20720$$
 ## b
-Lad $z=\frac{1}{2}+ \frac{3}{4}i$. Indtegn tallene $$z^-8,z^-7,...,z^0,...,z^7,z^{8}$$
+Lad $z=\frac{1}{2}+ \frac{3}{4}i$. Indtegn tallene $$z^{-8},z^{-7},...,z^0,...,z^7,z^{8}$$
 i den komplekse plan og forklar hvilket mønster punkterne danner.
 ![[potensgrader z.png]]
 Mønsteret danner en spiral, hvilket giver mening da punktet roterer når vi ganger med i.

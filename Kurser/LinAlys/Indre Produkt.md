@@ -2,7 +2,7 @@
 Begyndelsesdato: 07:54   10-11-2022   Uge-45
 # Forelæsning
 W er en operation $\langle ,\rangle$, som hedder det indre produkt, og givet er $\vec{v},\vec{w}\in V$, vi bruger W på vektorerne og får... :: $\langle \vec{v},\vec{w}\rangle\in \mathbb{R}$.
-<!--SR:!2022-11-25,4,270-->
+<!--SR:!2022-12-24,26,290-->
 Liste af aksiomer:
 For alle $\vec{v}\in V:\langle \vec{v},\vec{v}\rangle\geq 0$ og hvis $\langle \vec{v},\vec{v}\rangle=0$ så får vi... :: $\vec{v}=\vec{0}$ (i)
 <!--SR:!2022-12-15,24,301-->
@@ -11,7 +11,7 @@ For alle $\vec{v},\vec{w}\in V$ er $\langle \vec{v},\vec{w}\rangle=$.... :: $\la
 For alle $\vec{v},\vec{w}\in V$, $r \in \mathbb{R}$ er $\langle r \vec{v},\vec{w}\rangle=$... :: $r\langle \vec{v},\vec{w}\rangle$ (iii)
 <!--SR:!2022-12-01,16,297-->
 For alle $\vec{v},\vec{w},\vec{x}\in V$ er $\langle \vec{v}+\vec{w},\vec{x}\rangle=$.... :: $\langle \vec{v},\vec{x}\rangle+\langle \vec{w},\vec{x}\rangle$ (iv)
-<!--SR:!2022-11-30,15,290-->
+<!--SR:!2023-01-31,61,310-->
 Givet $\vec{v},\vec{w}\in V$ og at vi har $\langle \vec{v},\vec{w}\rangle$ får vi... :: $\vec{v_{1}}\vec{w_{1}}+...+\vec{v_{n}}\vec{w_{n}}\in \mathbb{R}$ (v)[^1]
 <!--SR:!2022-12-01,16,297-->
 
@@ -21,9 +21,9 @@ Hvis vi har $f,g [a,b]\to \mathbb{R}$ så kan vi tage deres indre produkt... :: 
 
 ## Sætning
 Lad $\langle , \rangle$ være et indre produkt på V Da er $\langle \vec{v},\vec{0} \rangle=$... :: $0$ for alle $\vec{v}$
-<!--SR:!2022-11-30,15,297-->
+<!--SR:!2023-02-02,63,317-->
 Indre produkt rum betyder... :: et vektorrum V og et indre produkt.
-<!--SR:!2022-11-25,10,277-->
+<!--SR:!2023-01-17,50,297-->
 Vi kan vise afstanden til $\vec{0}\in \mathbb{R}^{2}$ som... :: $\sqrt{\vec{v_{1}}^{2}+\vec{v_{2}}^{2}}=\sqrt{v \cdot v}$
 <!--SR:!2022-12-16,25,301-->
 Vi kan vise afstanden til $\vec{0}\in \mathbb{R}^{n}$ som... :: $\sqrt{\vec{v_{1}}^{2}+...+\vec{v_{n}}^{2}}=\sqrt{\vec{v}\cdot \vec{v}}$.
@@ -33,7 +33,7 @@ Vi definerer afstanden til $\vec{0}\in \mathbb{R}^{n}$ som $||\vec{v}||=$... :: 
 Vi definerer vinklen mellem $\vec{v},\vec{w}\in \mathbb{R}^{n}$ som... :: $\vec{v}\cdot \vec{w}=||\vec{v}||\cdot ||\vec{w}||\cos{\theta }\Rightarrow$ $\frac{\vec{v}\cdot \vec{w}}{||\vec{v}||\cdot ||\vec{w}||}=\cos{\theta }\Rightarrow \theta =\cos^{-1}{\left(\frac{\langle\vec{v},\vec{w}\rangle}{||\vec{v}||\cdot ||\vec{w}||}\right)}$.[^4]
 <!--SR:!2022-12-06,15,281-->
 Hvis $\langle \vec{v},\vec{w}\rangle=0$ så kaldes vektorerne... :: ortogonale på hinanden.[^5]
-<!--SR:!2022-11-25,4,270-->
+<!--SR:!2022-12-21,23,290-->
 Pythagoras i vektorrumet som har indre produkter er... :: $||\vec{v}-\vec{w}||=||\vec{v}||^{2}+||\vec{w}||^{2}-2\langle \vec{v},\vec{w}\rangle$ hvor $\langle \vec{v},\vec{w}\rangle =||\vec{v}||\cdot ||\vec{w}||cos(\theta )$[^6]
 <!--SR:!2022-12-14,23,257-->
 
