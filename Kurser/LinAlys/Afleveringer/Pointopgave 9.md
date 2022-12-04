@@ -34,8 +34,14 @@ $B_{a}$ har altså både anden og tredje grads led. Dette gør det muligt at dan
 ## (b)
 Find en formel for basisskiftmatricen for at skrifte fra $B_{a}$ til $B$.
 
-$P=\left[[\vec{u}_{1}']_{B},[\vec{u}_{2}']_{B},[\vec{u_{3}}']_{B},[\vec{u_{4}}']_{B}\right]=\left[\begin{array}{}1 & -a & a^2  & -a^3 \\ 0 & 1 & -2a & 3a^2 \\ 0 & 0 & 1 & -3a \\ 0 & 0 & 0 & 1\end{array}\right]$
-
+$P=\left[[\vec{u}_{1}']_{B},[\vec{u}_{2}']_{B},[\vec{u_{3}}']_{B},[\vec{u_{4}}']_{B}\right]=\left[\begin{array}{cccc}1 & -a & a^2  & -a^3 \\ 0 & 1 & -2a & 3a^2 \\ 0 & 0 & 1 & -3a \\ 0 & 0 & 0 & 1\end{array}\right]$
+$$\left[
+\begin{array}{cccc}1 & x & x^{2} & x^{3}
+\end{array}
+\right] =\left[\begin{array}{cccc}1 & -a & a^2  & -a^3 \\ 0 & 1 & -2a & 3a^2 \\ 0 & 0 & 1 & -3a \\ 0 & 0 & 0 & 1\end{array}\right]\left[
+\begin{array}{cccc}1 & x-a & (x-a)^{2} & (x-a)^{3}
+\end{array}
+\right] $$
 # 9.3
 For $A,B \in \mathbb{M}_{2,2}$ defineres kommutatoren $$[A,B]=AB-BA \in \mathbb{M}_{2,2}$$ I denne opgave vil vi også skrive $K_{B}(A)=[A,B]$ når vi tænker på B som fastholdt og $A\rightarrow K_{B}(A)$ som afbildning $\mathbb{M}_{2,2}\to \mathbb{M}_{2,2}$. 
 ## (a)
@@ -65,10 +71,10 @@ Vi kan herfra konkludere at $a=b$ da vores kerne kun kan defineres derved.
 ## (c)
 Vis at $B \in ker(K_{B})$ for ethvert $B \in \mathbb{M}_{2,2}$, og brug dimensionsformlen til at konkludere at $K_{B}$ ikke er surjektiv.
 
-$K_{B}(B)=[B,B]=BB-BB=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$
+$$K_{B}(B)=[B,B]=BB-BB=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$$
 Dette opfylder definitionen for $ker(K_{B})$.
 
-$dim(\mathbb{M}_{2,2})=2 \times 2$
-$rang(K_{B})\leq 2$
+$$dim(\mathbb{M}_{2,2})=2 \times 2$$
+$$rang(K_{B})\leq 2$$
 
 Da rang af operatoren og dimensionen af codomænet ikke er det samme kan vi konkludere at $K_{B}$ ikke er surjektiv gennem dimensionsformlen. Den er heller ikke injektiv da vores domæne og codomæne er ens.
