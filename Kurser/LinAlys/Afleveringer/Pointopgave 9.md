@@ -9,6 +9,7 @@ $T_{1}(rp)=(rp)(1)=r(p(1))=rT_{1}(p)$.
 
 ## (b)
 Hvad er matricen for $T_{1}$ relativ til den ordnede basis $B=[1,x,x^{2},x^{3}]$ for $\mathbb{P}_{3}$ og basen $B'=[1]$ for $\mathbb{R}$.
+
 $$A=\left[[T_{1}(\vec{u_{1}})]_{B'}\space[T_{1}(\vec{u_{2}})]_{B'}\space [T_{1}(\vec{u_{3}})]_{B'}\space [T_{1}(\vec{u_{4}})]_{B'}\right]=\left[
 \begin{array}{}1  & 1 & 1 & 1
 \end{array}
