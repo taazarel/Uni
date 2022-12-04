@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "aa479493ad2ecbd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2e15325dc4260b18",
             "type": "leaf",
             "state": {
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md"
+                "file": "Kurser/MekRel/Rotationsmekanik.md"
               }
             }
           },
@@ -162,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9cf54097467bdd1",
+  "active": "aa479493ad2ecbd0",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Regneøvelse 4 2022-11-29 15.57.35.excalidraw.md",
     "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
+    "Assets/Excalidraw/Regneøvelse 4 2022-12-04 21.26.05.excalidraw.md",
+    "Regneøvelse 4 2022-11-29 14.55.11.excalidraw.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.55.11.excalidraw.md",
+    "Assets/Excalidraw/Regneøvelse 4 2022-11-29 15.57.35.excalidraw.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.43.03.excalidraw.md",
     "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
     "Kurser/LinAlys/Dokumenter/opg9.pdf",
     "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
-    "Kurser/LinAlys/Lineære Afbildninger.md",
-    "Kurser/LinAlys/Komplekse tal.md",
-    "opg.md"
+    "Kurser/LinAlys/Lineære Afbildninger.md"
   ]
 }
