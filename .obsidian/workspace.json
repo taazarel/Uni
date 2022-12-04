@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "bec750adc191e692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Komplekse tal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b329ed2c999fe273",
             "type": "leaf",
             "state": {
@@ -163,15 +175,15 @@
   },
   "active": "f6cf8dbfd735070b",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Indre Produkt.md",
+    "Kurser/LinAlys/Komplekse tal.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
+    "Kurser/LinAlys/Indre Produkt.md",
     "Kurser/LinAlys/Dokumenter/opg8.pdf",
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 7.md",
     "Kurser/LinAlys/Tangetplaner.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "7-up.md",
-    "Rollespilsgruppe.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md"
+    "Rollespilsgruppe.md"
   ]
 }

@@ -373,7 +373,8 @@ $$|z|=\sqrt{\left(\frac{-19}{10}\right)^{2}+ \left(\frac{-31}{20}\right)^{2}}=\s
 $$\frac{-19}{10}- \frac{31}{20}i=\frac{-1}{20}(38+31i)$$
 Wolfram Alpha er en hjemmeside fyldt med hjælpemidler til matematik. Jeg indsatte min $\LaTeX$ og brugte bare dens "Simplify" kommando. 
 
-Argumentet finder vi til
+Argumentet finder vi gennem
+$$\tan^{-1}\left(\frac{b}{a}\right)=\tan^{-1}\left(\frac{31}{38}\right)\approx 39,20720$$
 ## b
 Lad $z=\frac{1}{2}+ \frac{3}{4}i$. Indtegn tallene $$z^-8,z^-7,...,z^0,...,z^7,z^{8}$$
 i den komplekse plan og forklar hvilket mønster punkterne danner.
