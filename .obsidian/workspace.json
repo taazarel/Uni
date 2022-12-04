@@ -20,22 +20,6 @@
             }
           },
           {
-            "id": "3b83ac628455517f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6b70c0e5ae66c73",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "bec750adc191e692",
             "type": "leaf",
             "state": {
@@ -58,7 +42,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -142,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 8.md"
+              }
             }
           },
           {
@@ -187,7 +173,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6b70c0e5ae66c73",
+  "active": "f6cf8dbfd735070b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 8.md",
