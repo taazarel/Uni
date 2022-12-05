@@ -24,19 +24,19 @@ Den invertible af $A$ er $A^{-1}$, og den invertible af $A^{-1}$ er... :: $(A^{-
 <!--SR:!2022-12-07,43,290-->
 
 Man finder en matrix's invers gennem gauss elimination gennem... :: $[A|I]=[I|A^{-1}]$ 
-<!--SR:!2022-12-05,41,290-->
+<!--SR:!2023-05-20,166,310-->
 
 Der findes tre forskellige slags af inverse matricer
 ?
 Venstre invers givet ved $A_{mn}B_{nm}=I_{m}$
 Højre invers givet ved $B_{nm}A_{mn}=I_{n}$
 Den invertibles invers givet ved $AB=I_{m}$ og $AB=I_{n}$ givet $n=m$.
-<!--SR:!2022-12-04,40,290-->
+<!--SR:!2023-05-18,164,310-->
 
 Rang af matricer er defineret som... :: $rang(A)=$ nummeret af ledende 1-tal.
 <!--SR:!2022-12-06,42,290-->
 Hvis en matrix har n ud af n ledende 1-tal siger man at dens rang er ... ::: en fuld rang.
-<!--SR:!2022-12-02,38,290!2023-05-19,165,310-->
+<!--SR:!2023-05-17,163,310!2023-05-19,165,310-->
 
 
 # Matrix Invers
