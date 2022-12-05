@@ -10,7 +10,7 @@ lad $z \in \mathbb{C},n \in \mathbb{N}$ Da er en n-te rod af z skrevet som... ::
 
 ## Sætning 3.5.2
 lad $z \in \mathbb{C}\backslash \{ 0\},n \in \mathbb{N}$ da vil z have disse rødder... :: n forskellige n-te rødder skrevet $w_{0},...,w_{n-1}\in \mathbb{C}$.
-<!--SR:!2022-11-30,2,246-->
+<!--SR:!2022-12-28,23,266-->
 Givet $z,w \in \mathbb{C}$ og $w^{n}=z,z=re^{i \theta }$ så bliver den bestemte rod $w_{k}=$... :: $r^{\frac{1}{n}}e^{i \frac{\theta+2\pi k}{n}}$.
 <!--SR:!2022-12-30,25,286-->
 
@@ -89,7 +89,7 @@ For $f,g \in C_{[a,b]}$ så er $$\sqrt{\int_{a}^{b} (f(x)+g(x))^{2}dx}\leq ...$$
 <!--SR:!2022-12-11,10,286-->
 ## Definition 4.16
 Lad V være et indre produkt rum. Vektorfamilien $\vec{u_{1}},...,\vec{u_{n}}\in V$ er ortogonale hvis.... :: $\langle \vec{u_{i}},\vec{u_{j}}\rangle =0$ for $i \neq j$ og $\langle \vec{u_{i}},\vec{u_{j}}\rangle =1$ for $i=j$.[^3]
-<!--SR:!2022-12-01,3,266-->
+<!--SR:!2022-12-29,24,286-->
 Vi kan skrive skalaren $r_{i}=$$\frac{\langle \vec{u_{i}},\vec{v}\rangle}{\langle \vec{u_{i}},\vec{u_{i}}\rangle }= \text{ hvis ortonormal } =$... :: $\langle \vec{u_{i}},\vec{v}\rangle$.
 <!--SR:!2022-12-26,21,266-->
 
@@ -102,12 +102,12 @@ $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en
 
 ## Sætning 4.20 (Konstruktion af ONB)[^4]
 Givet $\vec{u_{1}},...,\vec{u_{n}}\in V$ er en basis, konstruerer vi ONB $\vec{e_{1}},...,\vec{e_{n}}\in V$ og kan definere... :: $\vec{e_{1}}= \frac{1}{||\vec{u_{1}}||}\vec{u_{1}}$ og $v_{2}=\vec{u_{2}}-\langle \vec{u_{2}},\vec{e_{1}}\rangle \vec{e_{1}}$ så kan vi definere $\vec{e_{2}}= \frac{1}{||\vec{v}||}\vec{v_{2}}$.
-<!--SR:!2022-12-01,3,266-->
+<!--SR:!2023-01-01,27,286-->
 De generelle $\vec{v_{k}},\vec{e_{k}}$ kan skrives som... :: $\vec{v_{k}}=\vec{u_{k}}-\langle \vec{u_{k}},\vec{e_{1}}\rangle \vec{e_{1}}-...-\langle \vec{u_{k}},\vec{e_{k-1}}\rangle \vec{e_{k-1}}$. og $e_{k}= \frac{1}{||\vec{v_{k}}||}\vec{v_{k}}$. $v_{k}$ kan omdefineres til $$\vec{v_{k}}=\vec{u_{k}}-\sum_{j=1}^{k-1}\langle \vec{u_{k}},\vec{e_{j}}\rangle \vec{e_{j}}$$
 <!--SR:!2023-01-03,29,286-->
 ## Sætning 1.5.5 
 et komplekst tal $a \in \mathbb{C}$ er rod i $P(z)=a_{n}z^{n}+...+a_{0},a_{i}\in \mathbb{C},a_{n}\neq 0$ hvis... :: $P(z)=k(z)(z-a)$, vi kan skrive $P(z)=K(z)(z-a)+r,\text{ a rod}\Rightarrow 0=P(a)=K(a)(a-a)+r=r$.
-<!--SR:!2022-12-01,3,266-->
+<!--SR:!2023-01-02,28,286-->
 
 ## Sætning 3.5.1 (Algebraens fundamentalsætning)
 Lad $P(z)=c_{n}z^{n}+...+c_{0},c_{i}\in \mathbb{C}$ da findes $r_{1},...,r_{n} \in \mathbb{C}$ så... :: $P(z)=c_{n}(z-r_{1})\cdot ...\cdot (z-r_{n})$[^5]

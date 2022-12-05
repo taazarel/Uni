@@ -29,7 +29,7 @@ Vi kan vise afstanden til $\vec{0}\in \mathbb{R}^{2}$ som... :: $\sqrt{\vec{v_{1
 Vi kan vise afstanden til $\vec{0}\in \mathbb{R}^{n}$ som... :: $\sqrt{\vec{v_{1}}^{2}+...+\vec{v_{n}}^{2}}=\sqrt{\vec{v}\cdot \vec{v}}$.
 <!--SR:!2023-02-28,85,325-->
 Vi definerer afstanden til $\vec{0}\in \mathbb{R}^{n}$ som $||\vec{v}||=$... :: $\sqrt{\vec{v}\cdot \vec{v}}$ Hvis dette er et indre produkt i V, så bliver det til$\sqrt{\langle \vec{v},\vec{v} \rangle}\geq 0$.[^3]
-<!--SR:!2022-11-30,15,290-->
+<!--SR:!2023-02-22,79,310-->
 Vi definerer vinklen mellem $\vec{v},\vec{w}\in \mathbb{R}^{n}$ som... :: $\vec{v}\cdot \vec{w}=||\vec{v}||\cdot ||\vec{w}||\cos{\theta }\Rightarrow$ $\frac{\vec{v}\cdot \vec{w}}{||\vec{v}||\cdot ||\vec{w}||}=\cos{\theta }\Rightarrow \theta =\cos^{-1}{\left(\frac{\langle\vec{v},\vec{w}\rangle}{||\vec{v}||\cdot ||\vec{w}||}\right)}$.[^4]
 <!--SR:!2022-12-06,15,281-->
 Hvis $\langle \vec{v},\vec{w}\rangle=0$ så kaldes vektorerne... :: ortogonale på hinanden.[^5]

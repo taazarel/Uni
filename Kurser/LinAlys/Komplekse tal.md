@@ -31,7 +31,7 @@ Huskereglen for at regne med komplekse tal er... :: at bruge de sædvanlige regn
 Mest for sjov: Hvad er kvadratroden af i? :: $\left(\frac{1}{\sqrt{2}}+ \frac{1}{\sqrt{2}}i\right)$ 
 <!--SR:!2023-02-13,70,270-->
 Alle komplekse tal har både... :: en reel og kompleks del. ergo $a+ib=c \in \mathbb{C}$.
-<!--SR:!2022-12-02,17,294-->
+<!--SR:!2023-02-25,82,314-->
 
 ## Geometriske synspunkt
 ![[Komplekse tal 2022-11-08 08.21.05.excalidraw]]
@@ -57,7 +57,7 @@ Vi kan definere r som... :: $r=\sqrt{a^{2}+b^{2}}$
 For alle $z,w \in \mathbb{C}$ så får vi $e^{z+w}=$... :: $e^{z}e^{w}=e^{(a+c)+i(b+d)}$
 <!--SR:!2023-02-27,84,314-->
 For eksponenter i eksponenter kan vi skrive... :: $(e^{z})^{n}=e^{z}_{1}\cdot ...\cdot e_{n}^{z}=e^{nz}$.
-<!--SR:!2022-12-02,17,290-->
+<!--SR:!2023-02-23,80,310-->
 Hvis vi har $z=i \theta$ så kan vi udvide til dette i polarform... :: $(\cos{\theta }+i \sin{\theta })^{n}=e^{i n \theta }=\cos{}(n \theta )+i \sin{(n \theta )}=e^{i \theta }$.
 <!--SR:!2022-12-14,23,300-->
 
