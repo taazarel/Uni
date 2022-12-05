@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "93fe131133b25f64",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -123,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md"
+              }
             }
           },
           {
@@ -168,7 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93fe131133b25f64",
+  "active": "c6215be050b6780c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Kurser/MekRel/Rotationsmekanik.md",
