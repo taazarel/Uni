@@ -11,8 +11,12 @@
             "id": "c6215be050b6780c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md"
+              }
             }
           },
           {
