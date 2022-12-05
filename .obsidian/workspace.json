@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93fe131133b25f64",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/MekRel/Rotationsmekanik.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,8 +168,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6215be050b6780c",
+  "active": "93fe131133b25f64",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Dokumenter/opg9.pdf",
     "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
@@ -171,8 +179,6 @@
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
     "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
-    "Assets/Excalidraw/Pointopgave 9 2022-12-01 16.36.14.excalidraw.md",
-    "Kurser/MekRel/Afleveringer/Rø Aflevering 3.md",
-    "Kurser/LinAlys/Tangetplaner.md"
+    "Assets/Excalidraw/Pointopgave 9 2022-12-01 16.36.14.excalidraw.md"
   ]
 }
