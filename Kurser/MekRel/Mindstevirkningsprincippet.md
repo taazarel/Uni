@@ -76,12 +76,12 @@ og hermed ser vi at hvis vores EL ligning er uafhængig af tiden bliver $H=K+U$ 
 Lagrange funktionens tidsafledte funktion er... ::: $H=v \frac{\delta L}{\delta v}-L$.
 <!--SR:!2023-03-04,93,256!2022-12-14,50,296-->
 $H=v \frac{\delta L}{\delta v}-L$ under tidslig symmetri er... ::: $H=K+U$.
-<!--SR:!2022-12-12,48,296!2022-12-04,40,278-->
+<!--SR:!2022-12-12,48,296!2023-05-13,159,298-->
 
 Hvis der er flere variabler som L er afhængig af i rummet bliver Hamilton liningen: $$H=\sum_{i}q'_{i} \frac{\delta L}{\delta q'_{1}}-L$$
 Hvilket bare viser at alle variablerne skal summes.
 Tidslig symmetri, eller at tiden ikke indgår symmetrisk betyder blot... :: at reaktionen ikke vil blive ændret uanset om vi gør det i morgen eller om 5 måneder.
-<!--SR:!2022-12-03,39,276-->
+<!--SR:!2023-05-12,158,296-->
 Når vi har tidslig symmetri kan vi også se at energi er additiv.
 
 ## Andre bevarede størrelser

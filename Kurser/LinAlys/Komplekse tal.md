@@ -29,18 +29,18 @@ Givet $z=a+ib,w=\frac{1}{a+ib}$ så bliver deres produkt... :: $zw=1=1+i0$.
 Huskereglen for at regne med komplekse tal er... :: at bruge de sædvanlige regneregler og huske at $i^{2}=-1$.
 <!--SR:!2022-12-15,24,300-->
 Mest for sjov: Hvad er kvadratroden af i? :: $\left(\frac{1}{\sqrt{2}}+ \frac{1}{\sqrt{2}}i\right)$ 
-<!--SR:!2022-11-30,15,250-->
+<!--SR:!2023-02-13,70,270-->
 Alle komplekse tal har både... :: en reel og kompleks del. ergo $a+ib=c \in \mathbb{C}$.
 <!--SR:!2022-12-02,17,294-->
 
 ## Geometriske synspunkt
 ![[Komplekse tal 2022-11-08 08.21.05.excalidraw]]
 Hvis vi regner gennem det geometriske synspunkt får vi $ib=$... :: $(0,1)\cdot (b,0)=(0b-10,1b-00)=(0,b)$ og derved $a+ib=(a,0)+(0,b)=(a,b)$
-<!--SR:!2022-12-02,17,294-->
+<!--SR:!2023-02-25,82,314-->
 
 ## Kompleks konjugering
 Givet $z=a+ib,\vec{z}=a-ib.a,b \in \mathbb{R}$ så bliver produktet af de komplekse tal... :: $\vec{z}z \in \mathbb{R}|\vec{z}z \geq 0$ og hvis $z=0\Rightarrow z \vec{z}=0$
-<!--SR:!2022-12-05,14,234-->
+<!--SR:!2023-01-07,33,234-->
 ### Sætning 3.1.5
 For alle $z,w \in \mathbb{C}$ er vores regneregler for vektorer... :: $\vec{z}+\vec{w}=\vec{z+w}$, $\vec{z}-\vec{w}=\vec{z-w}$, $\vec{z}\cdot \vec{w}=\overrightarrow{zw}$, $\frac{\vec{z}}{\vec{w}}= \vec{\frac{z}{w}}$ givet $w \neq 0$.
 <!--SR:!2023-01-21,53,294-->

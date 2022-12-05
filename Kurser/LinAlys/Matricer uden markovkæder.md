@@ -36,7 +36,7 @@ Den invertibles invers givet ved $AB=I_{m}$ og $AB=I_{n}$ givet $n=m$.
 Rang af matricer er defineret som... :: $rang(A)=$ nummeret af ledende 1-tal.
 <!--SR:!2022-12-06,42,290-->
 Hvis en matrix har n ud af n ledende 1-tal siger man at dens rang er ... ::: en fuld rang.
-<!--SR:!2022-12-02,38,290!2022-12-03,39,290-->
+<!--SR:!2022-12-02,38,290!2023-05-19,165,310-->
 
 
 # Matrix Invers

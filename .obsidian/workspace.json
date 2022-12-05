@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Kurser/MekRel/Rotationsmekanik.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -76,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,15 +163,15 @@
   },
   "active": "c6215be050b6780c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Untitled.md",
     "Kurser/MekRel/Rotationsmekanik.md",
-    "Kurser/LinAlys/Dokumenter/opg9.pdf",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
-    "Kurser/LinAlys/Lineære Afbildninger.md",
-    "Kurser/LinAlys/Matricer uden markovkæder.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
-    "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
-    "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
-    "Assets/Excalidraw/Pointopgave 9 2022-12-01 16.36.14.excalidraw.md"
+    "Hjælpemidler/Periodic Notes/Daily/05-12-2022 Uge 49.md",
+    "Hjælpemidler/Periodic Notes/Daily/01-12-2022 Uge 48.md",
+    "Kurser/MekRel/Mindstevirkningsprincippet.md",
+    "Kurser/MekRel/Friktion 2.md",
+    "7-up.md",
+    "Regneøvelse 4 2022-11-29 14.55.11.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Kurser/LinAlys/Dokumenter/opg9.pdf"
   ]
 }
