@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Højere ordens afledte.md",
+                "file": "Kurser/LinAlys/Højere ordens afledte.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Højere ordens afledte.md",
+                "file": "Kurser/LinAlys/Højere ordens afledte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Højere ordens afledte.md"
+                "file": "Kurser/LinAlys/Højere ordens afledte.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "ced2f4efa59e06a7",
   "lastOpenFiles": [
+    "Hjælpemidler/Periodic Notes/Daily/06-12-2022 Uge 49.md",
+    "Kurser/LinAlys/Højere ordens afledte.md",
     "Kurser/LinAlys/Retningsafledte.md",
-    "Højere ordens afledte.md",
     "Kurser/LinAlys/Funktioner af flere variable.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Hjælpemidler/Periodic Notes/Daily/05-12-2022 Uge 49.md",
     "Hjælpemidler/Periodic Notes/Daily/01-12-2022 Uge 48.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Kurser/MekRel/Friktion 2.md",
-    "7-up.md"
+    "Kurser/MekRel/Friktion 2.md"
   ]
 }

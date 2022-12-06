@@ -38,6 +38,14 @@ Lad $A \subseteq \mathbb{R}^{n}$ være åben og $r \in \mathbb{N}$ og $f:A \to \
 ### Udvidelse af 2.82
 Hvis vi har $f \text{ er }C^{3}$ kan vi anvende... :: $$\frac{\delta^{3}f}{\delta x_{i}\delta x_{j}\delta x_{k}}= \frac{\delta^{3}f}{\delta x_{j}\delta x_{k}\delta x_{i}}$$[^1]
 # TK § 3.1
+## Definition af ekstremum
+Størsteværdipunkt er det samme som... ::: Globalt maksimumspunkt: $$f(\vec{x})\leq f(\vec{a})\text{ for alle }\vec{x}\in A$$
+Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\geq f(\vec{a})\text{ for alle }\vec{x}\in A$$
 
+## Definition 3.1
+Lad $f:A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ f har lokalt maksimum i $\vec{a}\in A$ hvis der findes... :: $r>0$ så $f(\vec{x})\leq f(\vec{a})$ for alle $\vec{x}\in A$ med $||\vec{x}-\vec{a}||<r$.[^2]
+
+# Fodnoter
 
 [^1]: Vi kan altså bytte om på dem, så længde at de står i samme rækkefølge.
+[^2]: ved uligheden om og så har vi et lokalt minimum
