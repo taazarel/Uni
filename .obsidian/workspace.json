@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-12-06 09.34.30.excalidraw.md",
+                "file": "Kurser/LinAlys/Højere ordens afledte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-12-06 09.34.30.excalidraw.md"
+                "file": "Kurser/LinAlys/Højere ordens afledte.md"
               }
             }
           },
@@ -162,45 +162,10 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "a57e4a4115b8da39",
-    "type": "floating",
-    "children": [
-      {
-        "id": "521bd293f5f2a20e",
-        "type": "window",
-        "children": [
-          {
-            "id": "ba5836d00ebcfc9b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "25001f68a69d5ded",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Regnepapir 2022-12-06 09.34.30.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "25001f68a69d5ded",
+  "active": "ced2f4efa59e06a7",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Højere ordens afledte.md",
     "Assets/Excalidraw/Regnepapir 2022-12-06 09.34.30.excalidraw.md",
+    "Kurser/LinAlys/Højere ordens afledte.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Hjælpemidler/Periodic Notes/Daily/06-12-2022 Uge 49.md",
     "Kurser/LinAlys/Retningsafledte.md",
