@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ed6d3ad610dd02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Regnepapir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Højere ordens afledte.md",
+                "file": "Assets/Excalidraw/Regnepapir 2022-12-06 09.34.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Højere ordens afledte.md"
+                "file": "Assets/Excalidraw/Regnepapir 2022-12-06 09.34.30.excalidraw.md"
               }
             }
           },
@@ -162,17 +175,52 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ced2f4efa59e06a7",
+  "floating": {
+    "id": "a57e4a4115b8da39",
+    "type": "floating",
+    "children": [
+      {
+        "id": "521bd293f5f2a20e",
+        "type": "window",
+        "children": [
+          {
+            "id": "ba5836d00ebcfc9b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "25001f68a69d5ded",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Regnepapir 2022-12-06 09.34.30.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "25001f68a69d5ded",
   "lastOpenFiles": [
-    "Hjælpemidler/Periodic Notes/Daily/06-12-2022 Uge 49.md",
+    "Kurser/LinAlys/Regnepapir.md",
+    "Assets/Excalidraw/Regnepapir 2022-12-06 09.34.30.excalidraw.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
+    "Hjælpemidler/Periodic Notes/Daily/06-12-2022 Uge 49.md",
     "Kurser/LinAlys/Retningsafledte.md",
     "Kurser/LinAlys/Funktioner af flere variable.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Hjælpemidler/Periodic Notes/Daily/05-12-2022 Uge 49.md",
-    "Hjælpemidler/Periodic Notes/Daily/01-12-2022 Uge 48.md",
-    "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Kurser/MekRel/Friktion 2.md"
+    "Hjælpemidler/Periodic Notes/Daily/01-12-2022 Uge 48.md"
   ]
 }

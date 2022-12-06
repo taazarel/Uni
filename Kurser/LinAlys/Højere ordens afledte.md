@@ -46,15 +46,31 @@ Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\g
 Lad $f:A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ f har lokalt maksimum i $\vec{a}\in A$ hvis der findes... :: $r>0$ så $f(\vec{x})\leq f(\vec{a})$ for alle $\vec{x}\in A$ med $||\vec{x}-\vec{a}||<r$.[^2]
 
 ## Sætning 3.2
-Hvis $f:A \to \mathbb{R}$, $A \subseteq \mathbb{R}^{n}$, hvis $\vec{a}\in A$ er lokalt ekstremumsværdi så er en af disse sandt... :: (i) $\vec{a}\in \delta A$ "Randpunkt", (ii) $\nabla f(\vec{a})$ eksisterer ikke "", (iii) $\nabla f(\vec{a})=\vec{0}$ "Stationært punk"
+Hvis $f:A \to \mathbb{R}$, $A \subseteq \mathbb{R}^{n}$, hvis $\vec{a}\in A$ er lokalt ekstremumsværdi så er en af disse sandt... :: (i) $\vec{a}\in \delta A$ "Randpunkt", (ii) $\nabla f(\vec{a})$ eksisterer ikke "Singulære punkter", (iii) $\nabla f(\vec{a})=\vec{0}$ "Stationært punk"
 
 ### Eksempel 3.3
-$f:\mathbb{R}^{2}\to \mathbb{R}$ $f(x,y)=3xy-3x+9y$.
+Givet er $f:\mathbb{R}^{2}\to \mathbb{R}$ og $f(x,y)=3xy-3x+9y$.
 Lad os finde alle lokale maks. og min. 
 En af de tre muligheder for 3.2 skal gælde. 
 Mulighed 1 er umulig da vores domæne er større end codomænet. Den anden mulighed findes ikke da vi har en gradient.
 Det betyder at vi skal finde gradienten.
-$$\nabla f(x,y)=a$$
+$$\nabla f(x,y)=\left[
+\begin{array}{c}3y-3 \\ 3x+9
+\end{array}
+\right] $$
+Da vi ingen rand- og singulære punkter så må alle lokale maksimum og minimum være stationære.
+Det skal altså være alle punkter for gradienten som giver $\nabla f(x,y)=\vec{0}$.
+For dette eksempel er det $(x,y)=(-3,1)$.
+Men vi skal lige tjekke at dette giver mening så lad os bruge
+#### Konturmetode
+$f(x,1)=3x-3x+9=9$
+og $f(-3,y)=-9y+9+9y=9$
+vi finder så punktet $(x,y)=(-3,1)+(t,t)$ og $(x,y)=(-3,1)+(t-t)$
+Nu kan vi indsætte disse punkter i vores funktion 
+$f(-3+t,1+t)=3t^{2}+9$ Er ikke et lokalt maksimum
+$f(-3+t,1-t)=-3t^{2}+9$ Er ikke et lokalt minimum
+
+
 # Fodnoter
 
 [^1]: Vi kan altså bytte om på dem, så længde at de står i samme rækkefølge.
