@@ -45,6 +45,16 @@ Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\g
 ## Definition 3.1
 Lad $f:A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ f har lokalt maksimum i $\vec{a}\in A$ hvis der findes... :: $r>0$ så $f(\vec{x})\leq f(\vec{a})$ for alle $\vec{x}\in A$ med $||\vec{x}-\vec{a}||<r$.[^2]
 
+## Sætning 3.2
+Hvis $f:A \to \mathbb{R}$, $A \subseteq \mathbb{R}^{n}$, hvis $\vec{a}\in A$ er lokalt ekstremumsværdi så er en af disse sandt... :: (i) $\vec{a}\in \delta A$ "Randpunkt", (ii) $\nabla f(\vec{a})$ eksisterer ikke "", (iii) $\nabla f(\vec{a})=\vec{0}$ "Stationært punk"
+
+### Eksempel 3.3
+$f:\mathbb{R}^{2}\to \mathbb{R}$ $f(x,y)=3xy-3x+9y$.
+Lad os finde alle lokale maks. og min. 
+En af de tre muligheder for 3.2 skal gælde. 
+Mulighed 1 er umulig da vores domæne er større end codomænet. Den anden mulighed findes ikke da vi har en gradient.
+Det betyder at vi skal finde gradienten.
+$$\nabla f(x,y)=a$$
 # Fodnoter
 
 [^1]: Vi kan altså bytte om på dem, så længde at de står i samme rækkefølge.
