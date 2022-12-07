@@ -1,3 +1,4 @@
+#### mws572, Luci Fenger, Hold 2
 # Opgave 1
 Først definerer vi inertimomentet for alle formerne defineret i forhold til aksen Q gennem punktet C.
 
@@ -5,7 +6,8 @@ Ring = $\frac{1}{2}m_{h}R_{h}^{2}$
 cylinder $=\frac{1}{2}m_{c}R_{c}+m_{c}R_{h}^{2}$
 Pind $=\frac{1}{12}m_{p}L+m_{p}(R_{k}+R_{h})^{2}$
 Kugle $=\frac{2}{5}m_{k}R_{k}^{2}+m_{k}(R_{k}+R_{h}+L)^{2}$
-Og til sidst finder vi summen af alle disse led:$I_{syst}=\frac{1}{2}m_{h}R_{h}^{2}+\frac{1}{2}m_{c}R_{c}+m_{c}R_{h}^{2}+\frac{1}{12}m_{p}L+m_{p}(R_{k}+R_{h})^{2}+\frac{2}{5}m_{k}R_{k}^{2}+m_{k}(R_{k}+R_{h}+L)^{2}$
+Og til sidst finder vi summen af alle disse led:$I_{syst}=\frac{1}{2}m_{h}R_{h}^{2}+\frac{1}{2}m_{c}R_{c}+m_{c}R_{h}^{2}$
+$+\frac{1}{12}m_{p}L+m_{p}(R_{k}+R_{h})^{2}+\frac{2}{5}m_{k}R_{k}^{2}+m_{k}(R_{k}+R_{h}+L)^{2}$
 
 # Opgave 2
 ## a
@@ -53,9 +55,11 @@ $\sum \tau =- \vec{r_{fv}}\vec{F_{fv}}=\alpha I$
 Gennem rotationsaksen gennem P kan vi finde inertimomentet som en stang. Vi får også at vide i opgaven at vi kan definere alle legemerne som punktmasser, derfor får vi:
 $$I_{v}=\frac{1}{12}m_{v}L^2 +m_v\left(\frac{1}{6}L\right)^2 = \frac{1}{9}m_v L$$ Gennem parallelakseteoremet.
 (ii) 
-
+Vi kan finde massefordelingen per længdeenhed gennem 7.24. Vores integral skal gå fra $\frac{-1}{3}L$ og $\frac{2}{3}L$ da vi går fra punktet P.
+Hvilket giver os:
 $$I_{v}=\frac{m_{v}}{L}\int_{\frac{-1}{3}L}^{\frac{2}{3}L}x^{2}\space dx=\frac{1}{9}m_{v}L$$
-Vi ser på (7.24) som guide.
+Vi kan konkludere at dette må være korrekt da begge er i overensstemmelse.
+Vi kan skrive inertimomentet af hele systemet som:
 $I_{sys}=\frac{1}{9}m_{v}L^{2}+ \frac{1}{16}m_{s}L^{2}+ \frac{1}{9}m_{L}L^{2}+ \frac{4}{9}m_{f}L$
 
 ## i
@@ -65,12 +69,15 @@ $\frac{d \omega }{dt}=\alpha = g\frac{\frac{1}{4}\vec{L}m_{sv}- \frac{1}{6}\vec{
 Vi ved at der er ligevægt før fuglen lander på vippen, så vi kan skrive $$\alpha =g\vec{L} \frac{-2m_{fv}}{3I_{sys}}\cdot 360^{\circ}$$
 Vi ganger her med 360 grader da vinkelaccelerationen giver os en andel af cirklen.
 Med de givne værdier så er: $I_{sys}\approx 6.47 kg m^{2}$
-$$\alpha= gL\frac{-2m_{fv}}{3I_{sys}}\approx-5,94 \frac{\circ}{s^{2}}\cdot 360^\circ$$ 
+$$\alpha= gL\frac{-2m_{fv}}{3I_{sys}}\cdot 360^\circ\approx-5,94 \frac{\circ}{s^{2}}$$
+Vi får en negativ værdi, men dette giver mening da rotationen er imod rotationsaksens positive retning.
 ## j
-Vi kan finde vinklen gennem $\tan{\phi  }=\mu_{s}$ Så for at finde vinklen isolerer vi phi $\phi  =\tan^{-1}{\mu_{s}}=\tan^{-1}{0.35}=19,29^{\circ}$. Hvor phi er vinklen for vippen mod vandret.
+Vi kan finde vinklen gennem $\tan{\phi  }=\mu_{s}$ Så for at finde vinklen isolerer vi phi:
+$$\phi  =\tan^{-1}{\mu_{s}}=\tan^{-1}{0.35}=19,29^{\circ}$$Hvor phi er vinklen for vippen mod vandret.
 
 ## k
-$\phi  = \frac{1}{2}\alpha t^{2}+ \omega t+ \phi_{0}$ 
+Da vi har konstant acceleration kan vi bruge bevægelsesligningen:
+$$\phi  = \frac{1}{2}\alpha t^{2}+ \omega t+ \phi_{0}$$
 I vores tilfælde har vi hverken en starthast og da vores startvinkel er $\phi_{0}=0^{\circ}$ så bliver udtrykket $$\phi=\frac{1}{2}\alpha t^{2}$$
 Vi kan isolere tiden $$t=\pm\sqrt{\frac{2\phi}{\alpha}}$$
 Nu kan vi indsætte vores tidligere værdier og finde tiden. Vi ser kun på den positive værdi
