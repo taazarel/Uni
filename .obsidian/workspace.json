@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Determinanter.md",
+                "file": "Kurser/LinAlys/Regnepapir.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Determinanter.md",
+                "file": "Kurser/LinAlys/Regnepapir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Determinanter.md"
+                "file": "Kurser/LinAlys/Regnepapir.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "d1ef36fb2f3f08dd",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Determinanter 2022-12-08 08.11.04.excalidraw.md",
     "Kurser/LinAlys/Determinanter.md",
+    "Assets/Excalidraw/Determinanter 2022-12-08 08.11.04.excalidraw.md",
     "Kurser/MekRel/Arbejde.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
     "Kurser/MekRel/Rotationsmekanik.md",
