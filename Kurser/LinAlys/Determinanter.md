@@ -44,19 +44,35 @@ Hvor matricen $$A=\left[
 ## Sætning 7.6 (Rækkeoperationer i matricer)
 Lad $A \in \mathbb{M}_{n,n}$. Givet er følgende regler givet for sammenhængen mellem diskriminanten og rækkeoperationer.
 (I) Hvis A har en nulrække er... 
-(II) Hvis $A \to A'$ er... 
-(III) hvis $A \to A',c \in \mathbb{R}$ er... 
+(II) Hvis $A \to A'$ og $R_{i}\leftrightarrow R_{j}$  er... 
+(III) hvis $A \to A',c \in \mathbb{R}$ og $cR_{i} \to R_{i}$ er... 
 (IV) Hvis A har to ens rækker er... 
 (V) Hvis $A \to A'$ og $cR_{i} +R_{j} \to R_{j}$ er... 
 (VI) Determinanten af I er...  
 ?
 $det(A)=0$ 
-$det(A')=-det(A)$ givet $R_{i}\leftrightarrow R_{j}$ 
-$det(A')=c\cdot det(A)$  givet $cR_{i} \to R_{i}$
+$det(A')=-det(A)$ 
+$det(A')=c\cdot det(A)$ 
 $det(A)=0$
 $det(A')=det(A)$
-$det(I)=1$
+$det(I)=1$[^2]
 
+## Sætning 7.7
+Definition af den generelle formel for determinanten af en matrice.
+Givet $A \in \mathbb{M}_{n,n}$ og $r,k \in \{1,...,n \}$ så er det(A)=...
+?
+$$\sum_{k=1}^{n}(-1)^{r+k}a_{rk}\cdot det(A_{rk})$$[^3]
+
+## Sætning 7.9
+Hvis $A,B \in \mathbb{M}_{n,n}$ så er $det(AB)=...$::$det(A)det(B)$
+
+## Definition for transponering
+For $A \in \mathbb{M}_{n,n}$, sæt $A^{t}=...$:: matricen hvis (i,j)-te indgang er $a_{ji}$. Altså en spejlbildning i diagonalen.
+
+## Sætning 7.12
+$det(A^{t})=...$::$det(A)$.
 
 # Fodnoter
 [^1]: Dette bliver til en sum af n! led. Så for en 3x3 matrice er det 6 led. Denne formel er meget upraktisk for en datalogisk synspunkt, men kan godt bruges til at give en definition på determinanten.
+[^2]: I er identitetsmatricen. Dette kan altså fortælle os hvad determinanten bliver når man reducerer. Enten får man en nulrække eller to ens rækker, og så er det nul, eller også finder man I.
+[^3]: r=1 er definitionen af determinanten.
