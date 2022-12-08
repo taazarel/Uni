@@ -1,7 +1,31 @@
 # 10.1
 Lad $f:\mathbb{R}^{2}\to \mathbb{R}$ være givet ved $f(x,y)=sin(x)sin(y)$
 ## (a)
-Vis at (0,0) og $(0,\pi )$ 
+Vis at (0,0) og $(0,\pi )$ er stationære punkter og udregn Hessematricen $Hf(0,0)$.
+
+$$\nabla f(x,y)=\left[
+\begin{array}{c}
+\cos{(x)}\sin{(y)} \\ 
+\sin{(x)}\cos{(y)}
+\end{array}
+\right] $$
+$$\nabla f(0,0)=\left[
+\begin{array}{c}\cos{(0)}\sin{(0)} \\ \sin{(0)}\cos{(0)}
+\end{array}
+\right] =\vec{0}$$
+$$\nabla f(n \pi ,n \pi )=\vec{0}$$
+$$Hf(x,y)=\left[
+\begin{array}{cc}
+(-\sin{x})\sin{y}  & \cos{x}\cos{y} \\ 
+\cos{x}\cos{y} & \sin{x}(-\sin{y})
+\end{array}
+\right] $$
+$$Hf(0,0)=\left[
+\begin{array}{cc}0 & 1 \\ 1 & 0
+\end{array}
+\right] $$
+## (b)
+
 # 10.2
 Lad $A \in \mathbb{M}_{3,3}$ være matricen $$A=\left[
 \begin{array}{cc}4 & 3 & 7  \\ 1 & 1 & 2 \\ 3 & 2 & 6
