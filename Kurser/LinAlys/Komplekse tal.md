@@ -5,7 +5,7 @@ Begyndelsesdato: 07:52   08-11-2022   Uge-45
 I rækkefølge af størrelse skrives talmængderne således... :: $\mathbb{N}\subseteq \mathbb{Z}\subseteq \mathbb{Q}\subseteq \mathbb{R}\subseteq \mathbb{C}$ hvor $\mathbb{C}$ er de komplekse tal.
 <!--SR:!2023-02-25,82,314-->
 Vi har de samme regneregler i $\mathbb{C}$ som vi har i $\mathbb{R}$ udover... :: at vi ikke kan bruge uligheder.$<,>,\geq,\leq$ Vi kan ikke fortælle hvilke tal er større end andre.
-<!--SR:!2022-12-08,17,230-->
+<!--SR:!2023-01-29,52,250-->
 Det vigtigste tal i $\mathbb{C}$ er... :: de komplekse tal, helt specifikt $i=\sqrt{-1}$.
 <!--SR:!2023-02-26,83,314-->
 Det algebraiske udtryk for $\mathbb{C}$ baseret på reelle tal er... :: givet ved $\mathbb{C}=\{a+ib|a,b \in \mathbb{R} \}$.
@@ -66,7 +66,7 @@ Vi definerer ikke disse operationer
 $\ln(z)$
 $z^{w}$
 $\cos^{-1}{z}$
-<!--SR:!2022-12-06,15,250-->
+<!--SR:!2023-02-08,62,270-->
 
 ### De fem vigtigste tal i matematik
 $$e^{i \pi }-1=0$$
