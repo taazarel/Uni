@@ -72,6 +72,16 @@ For $A \in \mathbb{M}_{n,n}$, sæt $A^{t}=...$:: matricen hvis (i,j)-te indgang 
 ## Sætning 7.12
 $det(A^{t})=...$::$det(A)$.
 
+# Messer §7.1 Induktionsbevis
+Induktionsbeviser er en metode til at bevise påstande for alle $n \in \mathbb{N}$. Den går således: Påstand $S_{n}$ er sand og $S_{n}\Rightarrow S_{n+1}$ er sandt, så er... :: $S_{n}$ sandt for alle $n \in \mathbb{N}$.
+### Eksempel for induktiontionsbevis
+$$\sum_{j=1}^{n}(2j-1)=n^{2}$$ Summen for alle ulige tal er antallet af tallene i anden. Dette er vores $S_{n}$. Vi kan vise at dette passer for $S_{1}$: $$\sum_{j=1}^{n}(2(1)-1)=1^{2}$$ er altså sandt.
+Vi kan nu vise at det gælder for vores n+1.
+$$\sum_{j=1}^{n+1}(2j-1)=\left(\sum_{j=1}^{n}(2j-1)\right)+2(n+1)-1=n^{2}+(2n+1)=(n+1)^{2}$$
+Vi har nu bevise at $S_{n+1}$ er sandt, og derfor må dette gælde for alle ulige naturlige tal.
+
+
+
 # Fodnoter
 [^1]: Dette bliver til en sum af n! led. Så for en 3x3 matrice er det 6 led. Denne formel er meget upraktisk for en datalogisk synspunkt, men kan godt bruges til at give en definition på determinanten.
 [^2]: I er identitetsmatricen. Dette kan altså fortælle os hvad determinanten bliver når man reducerer. Enten får man en nulrække eller to ens rækker, og så er det nul, eller også finder man I.
