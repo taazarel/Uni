@@ -63,7 +63,7 @@ Givet $A \in \mathbb{M}_{n,n}$ og $r,k \in \{1,...,n \}$ så er det(A)=...
 ?
 $$\sum_{k=1}^{n}(-1)^{r+k}a_{rk}\cdot det(A_{rk})$$[^3]
 
-## Sætning 7.9
+## Sætning 7.9[[Lineære Afbildninger]]
 Hvis $A,B \in \mathbb{M}_{n,n}$ så er $det(AB)=...$::$det(A)det(B)$
 
 ## Definition for transponering

@@ -132,4 +132,4 @@ A'A er matrixproduktet for $T \circ T'$ refererer til B&B''
 [^5]: Både kernen og billede er altså underrum.
 [^6]: T er defineret på V til W.
 [^7]: Er altså en [[Matrix Multiplikation|matrice]] , se også [[Matricer uden markovkæder]]
-[^8]: Operationen for $T'\circ T$ er bare en sammensat funktion $T'(T(\vec{v}))$.
+[^8]: Operationen for $T'\circ T$ er bare en sammensat funktion $T'(T(\vec{v}))$.
