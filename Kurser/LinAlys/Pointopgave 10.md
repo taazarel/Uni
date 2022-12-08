@@ -25,7 +25,12 @@ $$Hf(0,0)=\left[
 \end{array}
 \right] $$
 ## (b)
-
+![[pointopgave 10 1.b.png]]
+Ved visuel inspektion kan vi konkludere at det stationære punkt $(0,0)$ må være et sadelpunkt.
+## (c)
+Brug konturer til at vise at $(0,\pi )$ er et sadelpunkt.
+![[pointopgave 10 1.c.png]]
+Her kan vi finde at alle punkter med pi og/eller nul er sadelpunkter.
 # 10.2
 Lad $A \in \mathbb{M}_{3,3}$ være matricen $$A=\left[
 \begin{array}{cc}4 & 3 & 7  \\ 1 & 1 & 2 \\ 3 & 2 & 6
