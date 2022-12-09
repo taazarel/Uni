@@ -58,6 +58,8 @@ $$[A|I]=\left[
 $$det(A^{-1})=2(3+1)+4(0-1)-1(0+3)=8-4-3=1$$
 ## (c)
 $$det(I)=det(AA^{-1})=det(A)det(A^{-1})=1$$
+Hvad vi har opskrevet betyder at determinanten til begge matricer skal enten være +1 eller -1. 
+Determinanten til Identitetsmatricen er altid 1, siden at begge matricer skal kun heltal som indgange vil determinanten altid være et helt tal, for både $A$ og $A^{-1}$. Dette betyder at vi kun kan få 1 som resultat hvis begge tal er 1, med samme fortegn.
 
 # 10.3
 Lad $A \in \mathbb{M}_{2,2}$ være invertibel og opfylde $A^{t}=A$ hvor $A^{t}$ betegner den transponderede som i pointopgave 8, og lad $f:\mathbb{R}^{2}\to \mathbb{R}$ være funktionen givet ved prikproduktet
@@ -75,7 +77,6 @@ v forsvinder da vi differentier i forhold til den to gange, og den er blot 1 væ
 $$Hf(\vec{0})=[2A]$$
 ## (b)
 $$p(x)=f(x,1)=(x,1)\cdot(A (x,1))$$
-$$det(p(x))=det(x,1)+\left[
-\begin{array}{c}(x+1)(a_{11}+a_{12}) \\ (x+1)(a_{21}+a_{22})
-\end{array}
-\right] $$
+
+
+## (c)
