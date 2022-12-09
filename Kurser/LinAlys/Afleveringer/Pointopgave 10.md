@@ -63,3 +63,15 @@ $$det(A^{-1})=2(3+1)+4(0-1)-1(0+3)=8-4-3=1$$
 Lad $A \in \mathbb{M}_{2,2}$ være invertibel og opfylde $A^{t}=A$ hvor $A^{t}$ betegner den transponderede som i pointopgave 8, og lad $f:\mathbb{R}^{2}\to \mathbb{R}$ være funktionen givet ved prikproduktet
 $$f(\vec{v})=\vec{v}(A \vec{v})$$
 ## (a)
+$$f(\vec{v})=\vec{v}\cdot (A \vec{v})=A \vec{v}^{2}$$
+$$\nabla f(\vec{v})= \frac{\delta f}{\delta \vec{v}}=2A \vec{v}$$
+For at dette skal give $\vec{0}$ så må $2A \vec{v}=\vec{0}\Rightarrow \vec{v}=\vec{0}$.
+Hessematricen er:
+$$Hf(\vec{v})=\left[
+\begin{array}{c}2A
+\end{array}
+\right] $$
+v forsvinder da vi differentier i forhold til den to gange, og den er blot 1 værdi da vi har 1 variabel.
+$$Hf(\vec{0})=[2A]$$
+## (b)
+$$p(x)=f(x,1)=A \cdot (x,1)^{2}$$
