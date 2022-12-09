@@ -74,4 +74,8 @@ $$Hf(\vec{v})=\left[
 v forsvinder da vi differentier i forhold til den to gange, og den er blot 1 værdi da vi har 1 variabel.
 $$Hf(\vec{0})=[2A]$$
 ## (b)
-$$p(x)=f(x,1)=A \cdot (x,1)^{2}$$
+$$p(x)=f(x,1)=(x,1)\cdot(A (x,1))$$
+$$det(p(x))=det(x,1)+\left[
+\begin{array}{c}(x+1)(a_{11}+a_{12}) \\ (x+1)(a_{21}+a_{22})
+\end{array}
+\right] $$
