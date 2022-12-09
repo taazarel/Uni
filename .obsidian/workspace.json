@@ -11,6 +11,18 @@
             "id": "d1ef36fb2f3f08dd",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "925bc81da17fa72c",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Kurser/LinAlys/Dokumenter/opg10.pdf"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Dokumenter/opg10.pdf",
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Dokumenter/opg10.pdf"
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 10.md"
               }
             }
           },
@@ -162,9 +174,9 @@
   },
   "active": "d1ef36fb2f3f08dd",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Determinanter.md",
     "Kurser/LinAlys/Dokumenter/opg10.pdf",
-    "Kurser/LinAlys/Pointopgave 10.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
+    "Kurser/LinAlys/Determinanter.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
     "Assets/Excalidraw/Regnepapir 2022-12-08 09.32.07.excalidraw.md",
