@@ -57,7 +57,7 @@ $$[A|I]=\left[
 \right] $$
 $$det(A^{-1})=2(3+1)+4(0-1)-1(0+3)=8-4-3=1$$
 ## (c)
-
+$$det(I)=det(AA^{-1})=det(A)det(A^{-1})=1$$
 
 # 10.3
 Lad $A \in \mathbb{M}_{2,2}$ være invertibel og opfylde $A^{t}=A$ hvor $A^{t}$ betegner den transponderede som i pointopgave 8, og lad $f:\mathbb{R}^{2}\to \mathbb{R}$ være funktionen givet ved prikproduktet
