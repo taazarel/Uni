@@ -77,6 +77,10 @@ v forsvinder da vi differentier i forhold til den to gange, og den er blot 1 væ
 $$Hf(\vec{0})=[2A]$$
 ## (b)
 $$p(x)=f(x,1)=(x,1)\cdot(A (x,1))$$
-
+$$p(x)=(x^{2}+1) \cdot det(A)$$
+$$d=0^{2}-4(1)(det(A))=-4det(A)$$
 
 ## (c)
+$$x= \frac{-b\pm\sqrt{d}}{2a}= \pm \frac{\sqrt{-(det(A))}}{2}$$
+Da determinanten til A er negativ bliver kvadratroden positiv, derfor reel og så har vi to reelle rødder.
+Vi finder $\pm$ derfor at $f(\vec{v})>0$ og $f(\vec{w})<0$ disse to punkter eksisterer.

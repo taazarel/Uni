@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "dc4ab23644a33d04",
+        "id": "44d00744494b8378",
         "type": "tabs",
         "children": [
           {
-            "id": "d1ef36fb2f3f08dd",
+            "id": "bb46656b96c638aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
+                "file": "Speciel Relativitetsteori.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "925bc81da17fa72c",
+            "id": "d841b34d7d450864",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Kurser/LinAlys/Dokumenter/opg10.pdf"
+                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
+                "file": "Speciel Relativitetsteori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 10.md"
+                "file": "Speciel Relativitetsteori.md"
               }
             }
           },
@@ -172,17 +172,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d1ef36fb2f3f08dd",
+  "active": "bb46656b96c638aa",
   "lastOpenFiles": [
+    "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Speciel Relativitetsteori.md",
+    "Kurser/LinAlys/Dokumenter/opg10.pdf",
     "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
     "Kurser/MekRel/Rotationsmekanik.md",
-    "Kurser/LinAlys/Dokumenter/opg10.pdf",
     "Kurser/LinAlys/Determinanter.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
     "Assets/Excalidraw/Regnepapir 2022-12-08 09.32.07.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Assets/Excalidraw/Determinanter 2022-12-08 08.11.04.excalidraw.md"
+    "Kurser/LinAlys/Regnepapir.md"
   ]
 }
