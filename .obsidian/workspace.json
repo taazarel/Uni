@@ -31,24 +31,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "0426dd269f0f1c49",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "233f98ac155c92a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Speciel Relativitetsteori.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speciel Relativitetsteori.md",
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speciel Relativitetsteori.md"
+                "file": "Kurser/LinAlys/Afleveringer/Pointopgave 10.md"
               }
             }
           },
@@ -190,8 +172,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "233f98ac155c92a9",
+  "active": "d1ef36fb2f3f08dd",
   "lastOpenFiles": [
+    "Speciel Relativitetsteori.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Dokumenter/opg10.pdf",
@@ -200,7 +183,6 @@
     "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
     "Assets/Excalidraw/Regnepapir 2022-12-08 09.32.07.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
-    "Assets/Excalidraw/Determinanter 2022-12-08 08.11.04.excalidraw.md",
-    "Kurser/MekRel/Arbejde.md"
+    "Assets/Excalidraw/Determinanter 2022-12-08 08.11.04.excalidraw.md"
   ]
 }
