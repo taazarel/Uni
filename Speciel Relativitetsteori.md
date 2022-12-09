@@ -17,3 +17,8 @@ Rumtid kan plottes i to dimensioner således... :: som en kegleform, hvor randen
 
 # 9.3 Koordinat Transformationer
 
+For at finde en transformation mellem to observanters synspunkter skal vi... :: Opskrive en transformation mellem deres koordinatsystemer som er relative til dem.
+For at vise problemet med Transformationen mellem to inertial koordinatsystemer set som Newtons tid og rum kan vi opskrive: $x'=x-vt$ eller $x=x'+vt'$ og $t'=t$. Hvis vi nu havde en til partikel kunne vi beskrive hastigheden således $x=v_{2}t$ og $x'=(v_{2}-v)t'$. Og hvis dette er sandt får vi et problem når... :: Vi bruger denne transformation for et foton. Så vil lysets hastighed ændre sig baseret på hvem der observerer det, og derfor vil vi have modstrid med Maxwells ligninger.![[Pasted image 20221209161024.png]]
+
+# 9.4 Samtidighed
+
