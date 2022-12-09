@@ -11,11 +11,9 @@
             "id": "d1ef36fb2f3f08dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Kurser/LinAlys/Determinanter.md",
-                "mode": "source",
-                "source": false
+                "file": "Kurser/LinAlys/Dokumenter/opg10.pdf"
               }
             }
           }
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Determinanter.md",
+                "file": "Kurser/LinAlys/Dokumenter/opg10.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Determinanter.md"
+                "file": "Kurser/LinAlys/Dokumenter/opg10.pdf"
               }
             }
           },
@@ -164,8 +162,8 @@
   },
   "active": "d1ef36fb2f3f08dd",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Dokumenter/opg10.pdf",
     "Kurser/LinAlys/Determinanter.md",
+    "Kurser/LinAlys/Dokumenter/opg10.pdf",
     "Kurser/LinAlys/Pointopgave 10.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
