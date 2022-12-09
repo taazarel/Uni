@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "355c3f3e10bcc903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "925bc81da17fa72c",
             "type": "leaf",
             "state": {
@@ -174,15 +186,15 @@
   },
   "active": "d1ef36fb2f3f08dd",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Dokumenter/opg10.pdf",
+    "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
+    "Kurser/LinAlys/Dokumenter/opg10.pdf",
     "Kurser/LinAlys/Determinanter.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 9.md",
     "Assets/Excalidraw/Regnepapir 2022-12-08 09.32.07.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Assets/Excalidraw/Determinanter 2022-12-08 08.11.04.excalidraw.md",
-    "Kurser/MekRel/Arbejde.md",
-    "Kurser/LinAlys/Højere ordens afledte.md"
+    "Kurser/MekRel/Arbejde.md"
   ]
 }
