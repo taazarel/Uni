@@ -37,7 +37,16 @@ Lad $A \in \mathbb{M}_{3,3}$ være matricen $$A=\left[
 \right] $$
 ## (a)
 Vis at det(A)=1.
-
+$$det(A)=4 \cdot  det \left[
+\begin{array}{cc}1  & 2 \\ 2 & 6
+\end{array}
+\right] -3 \cdot det \left[
+\begin{array}{cc}1 & 2 \\ 3 & 6
+\end{array}
+\right] +7 \cdot det \left[
+\begin{array}{cc} 1 & 1 \\ 3 & 2
+\end{array}
+\right] $$
 $$det(A)=4(6-4)-3(6-6)+7(2-3)=8-0-7=1$$
 ## (b)
 Beregn $A^{-1}$ og bevis at $det(A^{-1})=1$.
@@ -56,14 +65,15 @@ $$[A|I]=\left[
 \right] $$
 $$det(A^{-1})=2(3+1)+4(0-1)-1(0+3)=8-4-3=1$$
 ## (c)
-$$det(I)=det(AA^{-1})=det(A)det(A^{-1})=1$$
+$$det(I)=det(BB^{-1})=det(B)det(B^{-1})=1$$
 Hvad vi har opskrevet betyder at determinanten til begge matricer skal enten være +1 eller -1. 
-Determinanten til Identitetsmatricen er altid 1, siden at begge matricer skal kun heltal som indgange vil determinanten altid være et helt tal, for både $A$ og $A^{-1}$. Dette betyder at vi kun kan få 1 som resultat hvis begge tal er 1, med samme fortegn.
+Determinanten til Identitetsmatricen er altid 1, siden at begge matricer skal kun heltal som indgange vil determinanten altid være et helt tal, for både $B$ og $B^{-1}$. Dette betyder at vi kun kan få 1 som resultat hvis begge tal er 1, med samme fortegn.
 
 # 10.3
 Lad $A \in \mathbb{M}_{2,2}$ være invertibel og opfylde $A^{t}=A$ hvor $A^{t}$ betegner den transponderede som i pointopgave 8, og lad $f:\mathbb{R}^{2}\to \mathbb{R}$ være funktionen givet ved prikproduktet
 $$f(\vec{v})=\vec{v}(A \vec{v})$$
 ## (a)
+Vi at $\nabla f(\vec{v})=2A \vec{v}$ og konkludér at $\vec{v}=(0,0)$ er det eneste stationære punkt for f. Vis også at Hessematricen $Hf(0,0)$ er 2A.
 $$f(\vec{v})=\vec{v}\cdot (A \vec{v})=A \vec{v}^{2}$$
 $$\nabla f(\vec{v})= \frac{\delta f}{\delta \vec{v}}=2A \vec{v}$$
 For at dette skal give $\vec{0}$ så må $2A \vec{v}=\vec{0}\Rightarrow \vec{v}=\vec{0}$.
@@ -75,6 +85,7 @@ $$Hf(\vec{v})=\left[
 v forsvinder da vi differentier i forhold til den to gange, og den er blot 1 værdi da vi har 1 variabel.
 $$Hf(\vec{0})=[2A]$$
 ## (b)
+Beregn diskriminanten af $p(x)=f(x,1)\in \mathbb{P}_2$ og relater den til determinanten af A.
 $$p(x)=f(x,1)=(x,1)\cdot(A (x,1))$$
 $$p(x)=(x^{2}+1) \cdot det(A)$$
 $$d=0^{2}-4(1)(det(A))=-4det(A)$$
