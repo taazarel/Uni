@@ -4,6 +4,13 @@ Kig på nogle videoer om hvordan (7.1) udledes.
 Hvad mener i egentligt med "Analogt"?
 burde der ikke være to prikker over theta under (7.6)?
 
+# Metode til rotationsopgaver
+1. Tegn opstilling
+2. Løg koordinatsystem, positive akser, reference punkt og omdrejningsakse.
+3. Opstil kraftdiagram og kraftligninger
+4. Opstil Udvidet kraftdiagram og kraftmomentsligninger
+5. Opskriv antallet af ubekendte og antallet af ligninger og geometriske bånd.
+6. Løs bevægelsesligningen.
 # Kapitel 7, rotationsmekanik.
 ## Definitioner (7.1)
 At dreje beskrives som... :: Bevægelse af et legeme omkring en ydre akse med en given afstand
@@ -32,7 +39,7 @@ Ikke jævne cirkelbaner har også en anden acceleration som hedder... :: tangent
 Ujævne cirkelbevægelser er defineret som... :: cirkelbevægelser som ikke har konstant hastighed.
 <!--SR:!2023-02-06,70,315-->
 Tangentiel-accelerationen $a_{t}$ er givet ved... :: $a_{t}= \frac{d \vec{v_{t}}}{dt}$[^6]
-<!--SR:!2022-12-04,6,250-->
+<!--SR:!2022-12-28,23,270-->
 Centrifugalkraften bliver defineret som en fiktiv kraft, som er... :: en kraft man føler da man er i et accelereret koordinatsystem.
 <!--SR:!2023-02-04,68,315-->
 

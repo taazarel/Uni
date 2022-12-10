@@ -5,7 +5,7 @@ Disse antagelser skal være til stede for at man kan benytte sig af ekstremalvæ
 <!--SR:!2023-02-06,77,310-->
 
 Man kan finde lineær uafhængighed ved at gausseliminere til reduceret echelon form, men hvordan er det sandt... :: Det er sandt fordi lineær uafhængighed er defineret som at spannet af vektorene kun har én måde at finde nulvektoren på. nemlig $r_{1}(1,1,0)+r_{2}(1,0,1)+r_{3}(0,1,1)=(0,0,0)$ medfører at $r_{1}=r_{2}=r_{3}=0$.
-<!--SR:!2022-12-05,24,290-->
+<!--SR:!2023-03-12,97,310-->
 
 
 # Dagsplan

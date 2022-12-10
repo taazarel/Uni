@@ -20,6 +20,34 @@
             }
           },
           {
+            "id": "0af089b26d707050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hjælpemidler/Templates/fore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a572fae63a2de0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2df8226ad790b816",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "2e15325dc4260b18",
             "type": "leaf",
             "state": {
@@ -30,6 +58,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -80,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -113,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/MekRel/Afleveringer/Regneøvelse 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,17 +186,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9cf54097467bdd1",
+  "active": "d8a572fae63a2de0",
   "lastOpenFiles": [
-    "Kurser/MekRel/Rotationsmekanik.md",
+    "conflict-files-obsidian-git.md",
+    "Hjælpemidler/Templates/fore.md",
     "Kurser/MekRel/Afleveringer/Regneøvelse 4.md",
+    "Kurser/MekRel/Rotationsmekanik.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-12-04 21.26.05.excalidraw.md",
     "Regneøvelse 4 2022-11-29 14.55.11.excalidraw.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.55.11.excalidraw.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 15.57.35.excalidraw.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 14.43.03.excalidraw.md",
-    "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf",
-    "Kurser/LinAlys/Dokumenter/opg9.pdf",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 9.md"
+    "Kurser/MekRel/Dokumenter/2022_Aflev4.pdf"
   ]
 }
