@@ -74,7 +74,7 @@ Vis at $B \in ker(K_{B})$ for ethvert $B \in \mathbb{M}_{2,2}$, og brug dimensio
 $$K_{B}(B)=[B,B]=BB-BB=\left[\begin{array}{}0 & 0 \\ 0 & 0\end{array}\right]$$
 Dette opfylder definitionen for $ker(K_{B})$.
 
-$$dim(\mathbb{M}_{2,2})=2 \times 2$$
-$$rang(K_{B})\leq 2$$
+$$dim(\mathbb{M}_{2,2})=2 \times 2=4$$
+$$rang(K_{B})\leq 4$$
 
 Da rang af operatoren og dimensionen af codomænet ikke er det samme kan vi konkludere at $K_{B}$ ikke er surjektiv gennem dimensionsformlen. Den er heller ikke injektiv da vores domæne og codomæne er ens.

@@ -127,7 +127,7 @@ Derefter viser man en modstrid med at $\vec{w_{1}},...,\vec{w_{n}}$ ikke er line
 ## Definition 3.12(Basis)
 
 Vi har en basis af vektorer $\vec{v_{1}},...,\vec{v_{n}}$ i V når... :: Den både udspænder og er lineært uafhængig.
-<!--SR:!2022-12-08,27,294-->
+<!--SR:!2023-03-29,111,314-->
 
 ## Theorem 3.16
 Givet $\vec{v_{1}},...,\vec{v_{m}}\text{ og }\vec{w_{1}},...,\vec{w_{n}}$ er baser da er deres dimensioner... :: $n=m$ kvadratiske.
@@ -137,7 +137,7 @@ Theorem 3.16 kan bevises med... :: Sammenligningssætningen.
 
 ## Definition 3.13(Dimension)
 Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimensioner og vi kan skrive $dimV=n$
-<!--SR:!2022-12-07,26,294-->
+<!--SR:!2023-03-28,110,314-->
 ### Eksempel
 dimensionen af $\mathbb{R}^{n}$ kan skrives som... :: $dim \mathbb{R}^{n}=n$ da vi kan skrive en identitetsmatrix som er nxn.[^4]
 <!--SR:!2022-12-11,30,300-->
@@ -149,11 +149,11 @@ Et uendeligt vektorrum defineres som...
 ?
 Et vektorrum med en endelig base.
 Alt som ikke er et endeligt vektorrum
-<!--SR:!2022-12-06,25,294-->
+<!--SR:!2023-03-27,109,314-->
 
 ## 3.17 (Udtyndningslemmaet)
 Vektorrummet V udspændes af familien $\vec{v_{1}},...,\vec{v_{n}}$ givet $\vec{v_{j}}$ kan skrives som en linearkombination af de andre kan vi omdefinere til... :: $V=span \{\vec{v_{1}},...,\vec{v_{n}}  \}\cap \vec{v_{j}}$. Hvis $\vec{v_{1}}=\vec{v_{j}}$ kunne vi skrive; $V=span \{\vec{v_{2}},...,\vec{v_{n}} \}$
-<!--SR:!2022-12-08,27,300-->
+<!--SR:!2023-03-30,112,320-->
 
 ## 3.18 (Udtydningssætningen)
 Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde familien til en basis.

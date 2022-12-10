@@ -88,7 +88,7 @@ Når vi har tidslig symmetri kan vi også se at energi er additiv.
 I tredimensionelt rum er vektorer bevaret dvs $\vec{J}=\vec{r}x \vec{p}$ og derved kan vi se bevareslse gennem $\frac{d\vec{J}}{dt}=0$, hvilket er impulsmomentets vektor.
 
 Der er 7 bevarede størrelser i alt, de er... :: Impuls i 3 forskellige dimensioner, impulsmomentet J i tre forskellige dimensioner og energi.
-<!--SR:!2022-12-09,45,296-->
+<!--SR:!2023-06-12,185,316-->
 
 ## [[Funktioner af flere variable#Polære koordinater:|Polære Koordinater]]
 Spørgsmål om hvad fanden der sker i (5.35) da jeg ingen ide har !?

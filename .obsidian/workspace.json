@@ -40,6 +40,14 @@
             }
           },
           {
+            "id": "572697e4e77b326d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "2df8226ad790b816",
             "type": "leaf",
             "state": {
@@ -58,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -186,7 +194,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8a572fae63a2de0",
+  "active": "572697e4e77b326d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Hjælpemidler/Templates/fore.md",
