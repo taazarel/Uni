@@ -2,7 +2,6 @@
 Lad $f:\mathbb{R}^{2}\to \mathbb{R}$ være givet ved $f(x,y)=sin(x)sin(y)$
 ## (a)
 Vis at (0,0) og $(0,\pi )$ er stationære punkter og udregn Hessematricen $Hf(0,0)$.
-
 $$\nabla f(x,y)=\left[
 \begin{array}{c}
 \cos{(x)}\sin{(y)} \\ 
