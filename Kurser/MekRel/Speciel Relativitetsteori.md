@@ -1,3 +1,5 @@
+# Se også
+[[Forelæsning den 12 december]] for hvad vi vil opstille i kurset.
 # 9.1 Lysets hastighed
 Lysets hastighed er altid konstant, dette kan lade sig gøre fordi... :: uanset hvilken fart du har kan rumtiden bøjes, derfor kan lys altid have c som sin fart (i vakuum).
 Lysets hastighed er... :: Den hurtigste information i universet. Skrives med c. og har størrelsen: $10 \cdot 10^{8} \frac{m}{s}$.

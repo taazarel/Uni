@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/MekRel/Papir til opgaver.md",
+                "file": "Forelæsning den 12 december.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eaf57abd4515b714",
+            "id": "709cccd2b8ecbac4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Kurser/MekRel/Dokumenter/cpt123456.pdf"
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Papir til opgaver.md",
+                "file": "Forelæsning den 12 december.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Papir til opgaver.md"
+                "file": "Forelæsning den 12 december.md"
               }
             }
           },
@@ -173,15 +175,15 @@
   },
   "active": "6782803e2dd9641c",
   "lastOpenFiles": [
+    "Assets/Excalidraw/Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw.md",
+    "Forelæsning den 12 december.md",
+    "Kurser/MekRel/Speciel Relativitetsteori.md",
+    "Kurser/MekRel/Papir til opgaver.md",
+    "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/MekRel/Dokumenter/cpt123456.pdf",
     "Assets/Excalidraw/Papir til opgaver 2022-12-12 08.04.39.excalidraw.md",
-    "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Assets/Excalidraw/Speciel Relativitetsteori 2022-12-09 16.10.19.excalidraw.md",
-    "Kurser/LinAlys/Dokumenter/opg10.pdf",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 10.md",
-    "Kurser/MekRel/Rotationsmekanik.md",
-    "Kurser/LinAlys/Determinanter.md"
+    "Kurser/LinAlys/Dokumenter/opg10.pdf"
   ]
 }
