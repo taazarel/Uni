@@ -86,11 +86,12 @@ v forsvinder da vi differentier i forhold til den to gange, og den er blot 1 væ
 $$Hf(\vec{0})=[2A]$$
 ## (b)
 Beregn diskriminanten af $p(x)=f(x,1)\in \mathbb{P}_2$ og relater den til determinanten af A.
-$$p(x)=f(x,1)=(x,1)\cdot(A (x,1))$$
+$$p(x)=f(x,1)=(x,1)^{2}\cdot(A)$$
 $$p(x)=(x^{2}+1) \cdot det(A)$$
 $$d=0^{2}-4(1)(det(A))=-4det(A)$$
 
 ## (c)
+Antag nu at $det(A)<0$, og brug (b) til at vise at der både findes et punkt $\vec{v}\in \mathbb{R}^{2}$ med $f(\vec{v})>0$ og et punkt $\vec{w}$ med $f(\vec{w})<0$.
 $$x= \frac{-b\pm\sqrt{d}}{2a}= \pm \frac{\sqrt{-(det(A))}}{2}$$
 Da determinanten til A er negativ bliver kvadratroden positiv, derfor reel og så har vi to reelle rødder.
 Vi finder $\pm$ derfor at $f(\vec{v})>0$ og $f(\vec{w})<0$ disse to punkter eksisterer.
