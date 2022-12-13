@@ -83,7 +83,7 @@ Parametriseringsmetoden er god at benytte når... :: Man har to variable, og kan
 ## Sætning 4.2 (Langranges multiplikatormetode)
 Lad f og g være $C^{1}$ funktioner $A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ (er åben).
 Givet er $S=\{\vec{x}\in A|g(\vec{x})=c \},c \in \mathbb{R}$.
-Hvis $\vec{a}\in S$ er et lokalt ekstrema for f på S, så er enten...
+Hvis $\vec{a}\in S$ er et lokalt ekstrema for $f:S \to A$ (betyder f på S), så er enten...
 ?
 (i) $\nabla g(\vec{a})=0$
 (ii) $\nabla f(\vec{a})=\lambda \nabla g(\vec{a})$ for et $\lambda \in \mathbb{R}$[^4]
