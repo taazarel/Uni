@@ -114,7 +114,7 @@ Generelt gælder det at $\Delta K=\Delta K_{CM}+\Delta K_{konvert}$ men for et f
 En variabel kraft er... :: en kraft som ændrer sin værdi over en størrelse, fx fjederkraften.
 <!--SR:!2022-12-13,32,317-->
 En fordelt kraft er... :: En kraft som ikke er fokuseret på et punkt, men er fordelt, fx friktion.
-<!--SR:!2022-12-11,30,317-->
+<!--SR:!2023-04-27,136,337-->
 Ved variable kræfter kan man ikke bruge $W=F \Delta x$, så vi benytter os af... :: integraler i form af $\int_{x_{i}}^{x_{f}}F_{kf,x}(x)dx$
 <!--SR:!2023-04-11,123,337-->
 Integralet for variable kræfter kan reduceres til dette når vi har en kraft som virker på en fjeder... :: $W=\frac{1}{2}k(x-x_{i})^{2}$[^8]
