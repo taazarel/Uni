@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc7d612832b582ea",
+        "id": "61e3fef0865e5d75",
         "type": "tabs",
         "children": [
           {
-            "id": "6782803e2dd9641c",
+            "id": "3ed4ac4c199de8a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forelæsning den 12 december.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "709cccd2b8ecbac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
+                "file": "Kurser/LinAlys/Højere ordens afledte.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dimensions",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +76,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forelæsning den 12 december.md",
+                "file": "Kurser/LinAlys/Højere ordens afledte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forelæsning den 12 december.md"
+                "file": "Kurser/LinAlys/Højere ordens afledte.md"
               }
             }
           },
@@ -173,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6782803e2dd9641c",
+  "active": "3ed4ac4c199de8a9",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw.md",
-    "Forelæsning den 12 december.md",
+    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
+    "Forelæsning den 12 december.md",
+    "Assets/Excalidraw/Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw.md",
     "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/MekRel/Rotationsmekanik.md",
     "Kurser/MekRel/Dokumenter/cpt123456.pdf",
     "Assets/Excalidraw/Papir til opgaver 2022-12-12 08.04.39.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
-    "Assets/Excalidraw/Speciel Relativitetsteori 2022-12-09 16.10.19.excalidraw.md",
-    "Kurser/LinAlys/Dokumenter/opg10.pdf"
+    "Assets/Excalidraw/Speciel Relativitetsteori 2022-12-09 16.10.19.excalidraw.md"
   ]
 }

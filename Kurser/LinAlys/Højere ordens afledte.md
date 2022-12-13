@@ -75,8 +75,24 @@ Nu kan vi indsætte disse punkter i vores funktion
 $f(-3+t,1+t)=3t^{2}+9$ Er ikke et lokalt maksimum
 $f(-3+t,1-t)=-3t^{2}+9$ Er ikke et lokalt minimum
 
+## Parametriseringsmetoden
+Vi ved hvordan vi finder et lokalt min, maks og sadelpunkter for stationære punkter, men vil også gerne vide det for randpunkter.
+Givet er $A=D_{1}\subseteq \mathbb{R}^{2}$ hvor $D_{1}=[0,1]\times [0,1]=\{(x,y)\in \mathbb{R}^{2}|\begin{array}{c}0\leq x \leq 1 \\ 0 \leq y \leq 1\end{array} \}$. og funktionen $g:D_{1}\to \mathbb{R}$, $g(x,y)=3x^{2}-x-y+y^{2}$. $\delta D_{1}$ er fire linjestykker, for at finde randpunkterne som kunne være lokale ekstremum... :: parametriserer vi således $g(1,t)=3-1-t+t^{2}=t^{2}-t+2=f(t)$ Vi differentierer $\frac{df(t)}{dt}=2t-1$ og finder hvor $f'(t)=0$ hvilket er $\frac{1}{2}$. Så har vi kandidat til et ekstremum som hedder $(1,\frac{1}{2})$.[^3]
+Parametriseringsmetoden er god at benytte når... :: Man har to variable, og kan gætte en parametrisering.
+
+## Sætning 4.2 (Langranges multiplikatormetode)
+Lad f og g være $C^{1}$ funktioner $A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ (er åben).
+Givet er $S=\{\vec{x}\in A|g(\vec{x})=c \},c \in \mathbb{R}$.
+Hvis $\vec{a}\in S$ er et lokalt ekstrema for f på S, så er enten...
+?
+(i) $\nabla g(\vec{a})=0$
+(ii) $\nabla f(\vec{a})=\lambda \nabla g(\vec{a})$ for et $\lambda \in \mathbb{R}$[^4]
+
+Langranges multiplikatormetode giver... :: kandidater til ekstrema, ikke ekstrema i sig selv.
 
 # Fodnoter
 
 [^1]: Vi kan altså bytte om på dem, så længde at de står i samme rækkefølge.
 [^2]: ved uligheden om og så har vi et lokalt minimum
+[^3]: Her valgte vi (1,t) da dette er den højre kant af firkanten, hvor vi ikke ved hvad y skal være. (Funktionen tegnes inden i en firkant da den er defineret i D_1)
+[^4]: Har n ligninger i n+1 variable hvilket er $(a_{1},...,a_{n},\lambda )\in \mathbb{R}$.
