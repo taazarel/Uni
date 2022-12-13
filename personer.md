@@ -1,0 +1,1 @@
+jørgen beck: head_of_studies_bsc@nbi.ku.dk

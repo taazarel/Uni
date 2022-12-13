@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df340b66e37f6cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -211,15 +224,15 @@
   },
   "active": "5cd3e7c94d330460",
   "lastOpenFiles": [
+    "personer.md",
+    "Kurser/LinAlys/Regnepapir.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
     "Assets/Excalidraw/Regnepapir 2022-12-13 09.32.21.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Forelæsning den 12 december.md",
     "Assets/Excalidraw/Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw.md",
     "Kurser/MekRel/Papir til opgaver.md",
-    "Kurser/MekRel/Rotationsmekanik.md",
-    "Kurser/MekRel/Dokumenter/cpt123456.pdf"
+    "Kurser/MekRel/Rotationsmekanik.md"
   ]
 }
