@@ -57,18 +57,18 @@ $X,Y$ er mængder, vi har $f:X \to Y$ funktion. Disse mængder kaldes for ... ::
 $f:X \to Y$ er injektiv[^2] hvis for alle $x_{1},x_{2}\in X,$ der findes... :: $f(x_{1})=f(x_{2})\Rightarrow x_{1}=x_{2}$ eller $x_{1}\neq x_{2}\Rightarrow f(x_{1})\neq f(x_{2})$.
 <!--SR:!2022-12-09,4,274-->
 Værdimængden for $f:X \to Y$ defineres som... :: $f(Y)=\{f(x)|x \in X \}\subseteq Y$.[^3]
-<!--SR:!2022-12-09,4,274-->
+<!--SR:!2022-12-31,17,274-->
 ### Sætning 6.7
 $T:V \to V'$ $T':V'\to V''$ altså $V \to V'\to V''$ linæere. Da er... :: $T'\circ T:V \to V'$ lineær.[^8]
 <!--SR:!2022-12-20,12,270-->
 # Messer §6.5 (Basis-skift)
 #### Specialtilfælde af 6.12
 Givet $V=V',T=id_{V}:V \to V$ givet to baser B og B', så er $T(\vec{v})=...$ :: $\vec{v}$
-<!--SR:!2022-12-09,4,274-->
+<!--SR:!2023-01-16,33,294-->
 
 ### Sætning 6.16 
 Givet er to baser $B,B'$ for $V$. Da findes præcis én $P \in \mathbb{M}_{n,n}$ så for alle $\vec{v}\in V$ hvad er den j'te søjle og $[\vec{v}]_{B}=...$::$P \cdot [\vec{v}]_{B'}$ og den bestemte søjle for P er $[\vec{u_{j}}']_{B}$
-<!--SR:!2022-12-09,4,274-->
+<!--SR:!2023-01-13,30,294-->
 
 ## Basisskift for lin. afbildning.
 Lad $T:V \to V$ være en lineær afbildning[^4] Nu kan vi vælge $B=B':A \in \mathbb{M}_{n,n}$ matricen for T i forhold til B bliver så $[T(\vec{v})]_{B}=A[\vec{v}]_{B}$ for alle $\vec{v}\in V$. 

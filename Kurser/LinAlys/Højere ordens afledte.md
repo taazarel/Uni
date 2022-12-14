@@ -24,7 +24,7 @@ $$6x^{2}y+2$$
 
 ## Hessematrix
 Vi kan skrive alle muligheder for partielt afledte af en bestemt orden gennem en hessematrice. Vi bruger funktionen i eksempel 278: Det skrives således $$Hf(x,y)=...$$::$$\left[\begin{array}{cc}2y^{3} & 6xy^{2} \\ 6xy^{2} & 6x^{2}y+2\end{array}\right] $$
-<!--SR:!2022-12-12,4,274-->
+<!--SR:!2023-01-05,22,294-->
 ### Hessematrix fortsat
 Vi kan indsætte værdier i vores hessematrix. Lad os tage funktionen fra 278 som eksempel. Vi finder $Hf(0,0)=...$::$$\left[\begin{array}{cc}0 & 0 \\ 0 & 2\end{array}\right] $$
 <!--SR:!2022-12-12,4,281-->
@@ -37,13 +37,13 @@ Lad $A \subseteq \mathbb{R}^{n}$ være åben og $r \in \mathbb{N}$ og $f:A \to \
 <!--SR:!2022-12-11,3,250-->
 ### Udvidelse af 2.82
 Hvis vi har $f \text{ er }C^{3}$ kan vi anvende... :: $$\frac{\delta^{3}f}{\delta x_{i}\delta x_{j}\delta x_{k}}= \frac{\delta^{3}f}{\delta x_{j}\delta x_{k}\delta x_{i}}$$[^1]
-<!--SR:!2022-12-12,4,270-->
+<!--SR:!2023-01-04,21,290-->
 # TK § 3.1
 ## Definition af ekstremum
 Størsteværdipunkt er det samme som... ::: Globalt maksimumspunkt: $$f(\vec{x})\leq f(\vec{a})\text{ for alle }\vec{x}\in A$$
-<!--SR:!2022-12-12,4,274!2022-12-12,4,274-->
+<!--SR:!2023-01-06,23,294!2022-12-12,4,274-->
 Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\geq f(\vec{a})\text{ for alle }\vec{x}\in A$$
-<!--SR:!2022-12-12,4,270!2022-12-12,4,274-->
+<!--SR:!2023-01-08,25,290!2023-01-07,24,294-->
 
 ## Definition 3.1
 Lad $f:A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ f har lokalt maksimum i $\vec{a}\in A$ hvis der findes... :: $r>0$ så $f(\vec{x})\leq f(\vec{a})$ for alle $\vec{x}\in A$ med $||\vec{x}-\vec{a}||<r$.[^2]
@@ -51,7 +51,7 @@ Lad $f:A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ f har lokalt maksimum i $\ve
 
 ## Sætning 3.2
 Hvis $f:A \to \mathbb{R}$, $A \subseteq \mathbb{R}^{n}$, hvis $\vec{a}\in A$ er lokalt ekstremumsværdi så er en af disse sandt... :: (i) $\vec{a}\in \delta A$ "Randpunkt", (ii) $\nabla f(\vec{a})$ eksisterer ikke "Singulære punkter", (iii) $\nabla f(\vec{a})=\vec{0}$ "Stationært punk"
-<!--SR:!2022-12-09,1,234-->
+<!--SR:!2022-12-22,8,234-->
 
 ### Eksempel 3.3
 Givet er $f:\mathbb{R}^{2}\to \mathbb{R}$ og $f(x,y)=3xy-3x+9y$.

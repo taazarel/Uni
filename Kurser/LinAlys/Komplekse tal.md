@@ -59,7 +59,7 @@ For alle $z,w \in \mathbb{C}$ så får vi $e^{z+w}=$... :: $e^{z}e^{w}=e^{(a+c)+
 For eksponenter i eksponenter kan vi skrive... :: $(e^{z})^{n}=e^{z}_{1}\cdot ...\cdot e_{n}^{z}=e^{nz}$.
 <!--SR:!2023-02-23,80,310-->
 Hvis vi har $z=i \theta$ så kan vi udvide til dette i polarform... :: $(\cos{\theta }+i \sin{\theta })^{n}=e^{i n \theta }=\cos{}(n \theta )+i \sin{(n \theta )}=e^{i \theta }$.
-<!--SR:!2022-12-14,23,300-->
+<!--SR:!2023-03-20,96,320-->
 
 Vi definerer ikke disse operationer
 ?

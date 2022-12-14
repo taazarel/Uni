@@ -32,7 +32,7 @@ $h(x)=3x+2$ Dette er stadigvæk ikke en lineær funktion da $d \neq 0$
 Vi har en tangering af to funktioner $f,g$ af n variabler og $\vec{a}\in D_{f}\cap D_{g}$ når... :: $$f(\vec{a})-g(\vec{a})$$ og $$\lim_{\vec{x}\to\vec{a}} \frac{f(\vec{x})-g(\vec{x})}{||\vec{x}-\vec{a}||}=0$$
 <!--SR:!2023-02-14,78,290-->
 Hvad kalder man det hvis funktionen f tangerer en affin funktion h i a... :: at grafen for f har en tangenthyperplan givet ved grafen af h.
-<!--SR:!2022-12-14,29,250-->
+<!--SR:!2023-03-26,102,270-->
 
 ## Sætning 2.62(Entydighed af tangentplan)
 Entydighed af en tangenthyperplan betyder blot at... :: Der kan højst være **en** tangenthyperplan af 2 funktioner.

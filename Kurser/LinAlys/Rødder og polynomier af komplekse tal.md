@@ -86,7 +86,7 @@ V er et indre produkt rum $\vec{v},\vec{u}\in V$ og $a \in \mathbb{R}$
 3. $||\vec{u}||+||\vec{v}||$ Denne hedder også trekantsuligheden ![[Rødder og polynomier af komplekse tal 2022-11-24 08.33.27.excalidraw]]
 ### Korollar
 For $f,g \in C_{[a,b]}$ så er $$\sqrt{\int_{a}^{b} (f(x)+g(x))^{2}dx}\leq ...$$ :: $$\sqrt{\int_{a}^{b} f(x)^{2}dx}+\sqrt{\int_{a}^{b} g(x)^{2}dx}$$
-<!--SR:!2022-12-11,10,286-->
+<!--SR:!2023-02-02,50,306-->
 ## Definition 4.16
 Lad V være et indre produkt rum. Vektorfamilien $\vec{u_{1}},...,\vec{u_{n}}\in V$ er ortogonale hvis.... :: $\langle \vec{u_{i}},\vec{u_{j}}\rangle =0$ for $i \neq j$ og $\langle \vec{u_{i}},\vec{u_{j}}\rangle =1$ for $i=j$.[^3]
 <!--SR:!2022-12-29,24,286-->
@@ -95,7 +95,7 @@ Vi kan skrive skalaren $r_{i}=$$\frac{\langle \vec{u_{i}},\vec{v}\rangle}{\langl
 
 ## Sætning 4.17
 Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale medfører det at familien er.... :: Lineært uafhængige. Men ortogonalitet er lettere at tjekke.
-<!--SR:!2022-12-12,7,206-->
+<!--SR:!2023-01-09,26,226-->
 ### Korollar "Ortonormal basis" (ONB)
 $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en endelig $dim \{ V\}$ så vil ... :: vi finde en basis $\vec{u_{1}},...,\vec{u_{n}}\in V$ gennem en Gram Schmidt Proces.
 <!--SR:!2022-12-18,13,246-->
