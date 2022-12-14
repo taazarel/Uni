@@ -6,7 +6,8 @@ Begyndelsesdato: Kl. 08:09  Den 06-12-2022   Uge-49
 # TK § 2.5
 ## [[Retningsafledte#Partielt afledte funktioner|Partielt Afledte]] af f af *anden* orden
 Vi kan finde partielt afledte af en højere orden således $$\frac{\delta^{2}f}{\delta x_{j}\delta x_{i}}=...$$:: $$\frac{\delta}{\delta x_{j}}\left(\frac{\delta f}{\delta x_{i}}\right)$$ 
-<!--SR:!2022-12-12,4,274-->
+<!--SR:!2022-12-18,4,270-->
+<!--SR:!2023-01-09,26,294-->
 
 ### Eksempel 278
 Et eksempel på partielt afledte af anden orden
@@ -24,33 +25,42 @@ $$6x^{2}y+2$$
 
 ## Hessematrix
 Vi kan skrive alle muligheder for partielt afledte af en bestemt orden gennem en hessematrice. Vi bruger funktionen i eksempel 278: Det skrives således $$Hf(x,y)=...$$::$$\left[\begin{array}{cc}2y^{3} & 6xy^{2} \\ 6xy^{2} & 6x^{2}y+2\end{array}\right] $$
+<!--SR:!2022-12-18,4,274-->
 <!--SR:!2023-01-05,22,294-->
 ### Hessematrix fortsat
 Vi kan indsætte værdier i vores hessematrix. Lad os tage funktionen fra 278 som eksempel. Vi finder $Hf(0,0)=...$::$$\left[\begin{array}{cc}0 & 0 \\ 0 & 2\end{array}\right] $$
-<!--SR:!2022-12-12,4,281-->
+<!--SR:!2022-12-18,4,283-->
+<!--SR:!2023-01-06,23,301-->
 ## Definition 2.79
 Lad $A \subseteq \mathbb{R}^{n}$ være åben, $r \in \mathbb{N}$. Så vil $f:A \to \mathbb{R}$ være $C^{r}$ funktion hvis... :: alle partielt afledte af orden $\leq r$ eksisterer og er kontinuerte.
-<!--SR:!2022-12-12,4,274-->
+<!--SR:!2022-12-18,4,274-->
+<!--SR:!2022-12-28,14,274-->
 
 ## Sætning 2.82
 Lad $A \subseteq \mathbb{R}^{n}$ være åben og $r \in \mathbb{N}$ og $f:A \to \mathbb{R}\text{ er }C^{2}$. For $i,j \in \{1,...,n \}$ har vi... :: En associations lov for alle $\vec{a} \in A$: $$\frac{\delta^{2}f}{\delta x_{i}\delta x_{j}}(\vec{a})= \frac{\delta^{2}f}{\delta x_{j}\delta x_{i}}(\vec{a})$$
-<!--SR:!2022-12-11,3,250-->
+<!--SR:!2022-12-18,4,274-->
+<!--SR:!2022-12-25,11,250-->
 ### Udvidelse af 2.82
 Hvis vi har $f \text{ er }C^{3}$ kan vi anvende... :: $$\frac{\delta^{3}f}{\delta x_{i}\delta x_{j}\delta x_{k}}= \frac{\delta^{3}f}{\delta x_{j}\delta x_{k}\delta x_{i}}$$[^1]
+<!--SR:!2022-12-18,4,274-->
 <!--SR:!2023-01-04,21,290-->
 # TK § 3.1
 ## Definition af ekstremum
 Størsteværdipunkt er det samme som... ::: Globalt maksimumspunkt: $$f(\vec{x})\leq f(\vec{a})\text{ for alle }\vec{x}\in A$$
+<!--SR:!2022-12-18,4,283!2022-12-18,4,283-->
 <!--SR:!2023-01-06,23,294!2022-12-12,4,274-->
 Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\geq f(\vec{a})\text{ for alle }\vec{x}\in A$$
+<!--SR:!2022-12-18,4,274!2022-12-18,4,283-->
 <!--SR:!2023-01-08,25,290!2023-01-07,24,294-->
 
 ## Definition 3.1
 Lad $f:A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ f har lokalt maksimum i $\vec{a}\in A$ hvis der findes... :: $r>0$ så $f(\vec{x})\leq f(\vec{a})$ for alle $\vec{x}\in A$ med $||\vec{x}-\vec{a}||<r$.[^2]
-<!--SR:!2022-12-12,4,274-->
+<!--SR:!2022-12-18,4,283-->
+<!--SR:!2023-01-09,26,294-->
 
 ## Sætning 3.2
 Hvis $f:A \to \mathbb{R}$, $A \subseteq \mathbb{R}^{n}$, hvis $\vec{a}\in A$ er lokalt ekstremumsværdi så er en af disse sandt... :: (i) $\vec{a}\in \delta A$ "Randpunkt", (ii) $\nabla f(\vec{a})$ eksisterer ikke "Singulære punkter", (iii) $\nabla f(\vec{a})=\vec{0}$ "Stationært punk"
+<!--SR:!2022-12-18,4,274-->
 <!--SR:!2022-12-22,8,234-->
 
 ### Eksempel 3.3
@@ -78,7 +88,9 @@ $f(-3+t,1-t)=-3t^{2}+9$ Er ikke et lokalt minimum
 ## Parametriseringsmetoden
 Vi ved hvordan vi finder et lokalt min, maks og sadelpunkter for stationære punkter, men vil også gerne vide det for randpunkter.
 Givet er $A=D_{1}\subseteq \mathbb{R}^{2}$ hvor $D_{1}=[0,1]\times [0,1]=\{(x,y)\in \mathbb{R}^{2}|\begin{array}{c}0\leq x \leq 1 \\ 0 \leq y \leq 1\end{array} \}$. og funktionen $g:D_{1}\to \mathbb{R}$, $g(x,y)=3x^{2}-x-y+y^{2}$. $\delta D_{1}$ er fire linjestykker, for at finde randpunkterne som kunne være lokale ekstremum... :: parametriserer vi således $g(1,t)=3-1-t+t^{2}=t^{2}-t+2=f(t)$ Vi differentierer $\frac{df(t)}{dt}=2t-1$ og finder hvor $f'(t)=0$ hvilket er $\frac{1}{2}$. Så har vi kandidat til et ekstremum som hedder $(1,\frac{1}{2})$.[^3]
+<!--SR:!2022-12-18,4,283-->
 Parametriseringsmetoden er god at benytte når... :: Man har to variable, og kan gætte en parametrisering.
+<!--SR:!2022-12-18,4,270-->
 
 ## Sætning 4.2 (Langranges multiplikatormetode)
 Lad f og g være $C^{1}$ funktioner $A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ (er åben).
@@ -89,6 +101,7 @@ Hvis $\vec{a}\in S$ er et lokalt ekstrema for $f:S \to A$ (betyder f på S), så
 (ii) $\nabla f(\vec{a})=\lambda \nabla g(\vec{a})$ for et $\lambda \in \mathbb{R}$[^4]
 
 Langranges multiplikatormetode giver... :: kandidater til ekstrema, ikke ekstrema i sig selv.
+<!--SR:!2022-12-18,4,274-->
 
 # Fodnoter
 

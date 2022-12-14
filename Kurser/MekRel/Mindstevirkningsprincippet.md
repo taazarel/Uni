@@ -7,7 +7,7 @@ Begyndelsesdato: 10:54   10-10-2022   Uge-41
 $L=K-U$ , hvor $L=$ Mindstevirkningen, $K=$ den kinetiske [[energi]], og $U=$ den potentielle energi.
 Normalt skrives den totale energi i et system således: $E=K+U$. 
 Det gælder at L kan være en funktion som skrives... :: $L(x,v,t)$.
-<!--SR:!2023-07-05,203,316-->
+<!--SR:!2023-07-05,203,316-->
 
 Mindstevirkningsprincippet skrives som... :: $\left[L=K-U\right]$.
 <!--SR:!2023-01-08,69,314-->
@@ -60,13 +60,13 @@ Når Lagrange funktionen er uafhængig af rummet har vi... :: Rumlig homogenitet
 
 Vi får også at vores impuls er additiv da Lagrangen også er det $p=\frac{\delta L}{\delta v}$.
 Impuls er additiv da... :: $p=\frac{\delta L}{\delta v}$.
-<!--SR:!2023-07-07,205,316-->
+<!--SR:!2023-07-07,205,316-->
 
 ## Energibevarelse
 Når Lagrange funktionen er uafhængig af tiden får vi... :: Energibevarelse.
-<!--SR:!2023-07-06,204,316-->
+<!--SR:!2023-07-06,204,316-->
 Den generelle ligning for den tidsligt afledte L er... :: $\frac{dL}{dt}=\frac{\delta L}{\delta x}v+ \frac{\delta L}{\delta v}a+ \frac{\delta L}{\delta t}$.
-<!--SR:!2023-01-28,45,316-->
+<!--SR:!2023-01-28,45,316-->
 
 
 Og hvis vi har tidslig symmetri så bliver $\frac{\delta L}{\delta t}=0$.
@@ -74,9 +74,9 @@ Dette kombineret med EL ligningen på første led ovenover bliver til $$\frac{dL
 Hvilket kan omskrives til $$H=v \frac{\delta L}{\delta v}-L,$$
 og hermed ser vi at hvis vores EL ligning er uafhængig af tiden bliver $H=K+U$ og vi har derfor energibevarelse.
 Lagrange funktionens tidsafledte funktion er... ::: $H=v \frac{\delta L}{\delta v}-L$.
-<!--SR:!2023-03-04,93,256!2023-05-11,148,296-->
+<!--SR:!2023-03-04,93,256!2023-05-11,148,296-->
 $H=v \frac{\delta L}{\delta v}-L$ under tidslig symmetri er... ::: $H=K+U$.
-<!--SR:!2023-07-08,206,316!2023-05-13,159,298-->
+<!--SR:!2023-07-08,206,316!2023-05-13,159,298-->
 
 Hvis der er flere variabler som L er afhængig af i rummet bliver Hamilton liningen: $$H=\sum_{i}q'_{i} \frac{\delta L}{\delta q'_{1}}-L$$
 Hvilket bare viser at alle variablerne skal summes.

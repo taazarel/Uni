@@ -32,6 +32,7 @@ $h(x)=3x+2$ Dette er stadigvæk ikke en lineær funktion da $d \neq 0$
 Vi har en tangering af to funktioner $f,g$ af n variabler og $\vec{a}\in D_{f}\cap D_{g}$ når... :: $$f(\vec{a})-g(\vec{a})$$ og $$\lim_{\vec{x}\to\vec{a}} \frac{f(\vec{x})-g(\vec{x})}{||\vec{x}-\vec{a}||}=0$$
 <!--SR:!2023-02-14,78,290-->
 Hvad kalder man det hvis funktionen f tangerer en affin funktion h i a... :: at grafen for f har en tangenthyperplan givet ved grafen af h.
+<!--SR:!2022-12-18,4,294-->
 <!--SR:!2023-03-26,102,270-->
 
 ## Sætning 2.62(Entydighed af tangentplan)
@@ -45,7 +46,8 @@ $$\frac{h_{1}(\vec{x})-h_{2}(\vec{x})}{||\vec{x}-\vec{a}||}\to_{\vec{x}-\vec{a}}
 
 ## Sætning 2.63
 Vi kan med sikkerhed finde en affin funktion som tangerer f i $\vec{a}$ når... :: f er $C^{1}$ og $\vec{a}$ er et indre punkt i $D_{f}$.
-<!--SR:!2022-12-10,12,270-->
+<!--SR:!2022-12-18,4,293-->
+<!--SR:!2023-02-15,63,290-->
 Man definerer en tangenthyperplan h som en affin funktion matematisk således... :: $h(\vec{x})=f(\vec{a})+\nabla f(\vec{a})\cdot (\vec{x}-\vec{a})$[^2]
 <!--SR:!2023-02-21,85,310-->
 
