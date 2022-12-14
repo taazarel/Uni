@@ -29,4 +29,5 @@ For at vise problemet med Transformationen mellem to inertial koordinatsystemer 
 <!--SR:!2022-12-18,4,270-->
 
 # 9.4 Samtidighed
-
+Samtidighed for ens eget synspunkt vises som... :: en horisontal linje i rumtidsdiagrammet.
+Samtidighed for en anden persons inertialsystem vises som... :: en lige linje der danner en vinkel med referencepunktets samtidighed.
