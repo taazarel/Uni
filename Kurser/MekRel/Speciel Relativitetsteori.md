@@ -30,4 +30,7 @@ For at vise problemet med Transformationen mellem to inertial koordinatsystemer 
 
 # 9.4 Samtidighed
 Samtidighed for ens eget synspunkt vises som... :: en horisontal linje i rumtidsdiagrammet.
-Samtidighed for en anden persons inertialsystem vises som... :: en lige linje der danner en vinkel med referencepunktets samtidighed.
+Samtidighed for en anden persons inertialsystem vises som... :: en lige linje der danner en vinkel med referencepunktets samtidighed.[^1]
+
+
+[^1]: Dette sker da lysets hast altid danner rette vinkler fra begge sider. Så to linjer der skærer det samme punkt, for et system som bevæger sig(Har skæve tidslinjer) betyder at deres skæringspunkt ikke bliver den samme tid for samme distance. Vi kan herfra tegne en linje mellem disse punkter, og dette vil være samtidigheden af det andet referencesystem.
