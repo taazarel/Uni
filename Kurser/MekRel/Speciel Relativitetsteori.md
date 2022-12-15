@@ -35,6 +35,29 @@ Vi kan lave tre linjer i et rumtidsdiagram når vi har et andet synspunkt repræ
 Hvis vi indfører lysets hast i linjerne for rumtidsdiagrammet $x=vt,x=t \text{ og }x=\frac{t}{v}$ så får vi... :: $x=vt \text{ for et stille objekt},x=ct \text{ for et foton }, t=\frac{vx}{c^{2}} \text{ for samtidigheden}$
 Kausalitet siger at... :: når begivenhed A laver begivenhed B så sker A før B, og alle synspunkter kan sige dette.[^2]
 
+Vi kan aldrig blive enige om rækkefølge af A så B i... :: Spacelike begivenheder da vi kan finde forskellige synspunkter til dem.
+Vi kan blive enige om rækkefølge af A så B i... :: Timelike begivenheder da vi aldrig kan få en hældning med mere end 45 grader (Lysets graf)
+
+# 9.5 Lorentz Transformation
+Regulært koordinatsystem = det som står stille.
+Hvis x' bevæger sig mod højre fra x så finder vi:
+1. Vi kan finde placeringen i et regulært koordinatsystem (x',t') ved...
+2. Vi kan finde tiden i et regulært koordinatsystem ved...
+3. Hvis vi sammensætter $x'=(x-vt)h(v^{2})$ med $t'=(t-vx)k(v^{2})$ får vi...
+4. Vi kan også skrive 1. og 2. som set fra det bevægende system således...
+?
+ 1. $x'=(x-vt)h(v^{2})$ (9.24) hvor h er afhængig af v, altså både tid og rum. Og v er i anden da der ikke er nogen foretrukken retning i rummet.
+ 2. $t'=(t-vx)k(v^{2})$ (9.25)
+ 3. at h og k er den samme funktion da $x=t$ og $x'=t'$.[^3]
+ 4. $x=(x'+vt')h(v^{2}),t=(t'+vx')h(v^{2})$, da det blot vil være at ændre fortegnet.
+
+Lorentz-faktoren skrives som $\gamma (v)=...$::$$\frac{1}{\sqrt{1-v^{2}}}$$ (9.28)
+
+Koordinat transformationerne for lorentz transformationer er opsamlet nedenunder, på den anden side er med c. Her er det bare c=1. 
+1. $t'=\gamma (t-vx)$...
+2. $x'=\gamma (x-vt)$...
+3. $t=\gamma (t'+vx')$...
+4. $x=\gamma (x'+vt')$
 
 [^1]: Dette sker da lysets hast altid danner rette vinkler fra begge sider. Så to linjer der skærer det samme punkt, for et system som bevæger sig(Har skæve tidslinjer) betyder at deres skæringspunkt ikke bliver den samme tid for samme distance. Vi kan herfra tegne en linje mellem disse punkter, og dette vil være samtidigheden af det andet referencesystem.
 [^2]: Dette virker ikke for begivenheder som sker forskellige steder i rummet.
