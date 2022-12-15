@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,15 +174,15 @@
   },
   "active": "cb2c7977c3dee24b",
   "lastOpenFiles": [
+    "personer.md",
+    "Pointopgave 11.md",
     "Kurser/LinAlys/Dokumenter/opg11.pdf",
     "Kurser/LinAlys/Determinanter.md",
-    "Pointopgave 11.md",
     "Assets/Excalidraw/Regnepapir 2022-12-15 09.37.24.excalidraw.md",
     "Kurser/LinAlys/Indre Produkt.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Assets/pointopgave 10 1.b.png",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
-    "Kurser/MekRel/Dokumenter/Kap9.pdf",
-    "personer.md"
+    "Kurser/MekRel/Dokumenter/Kap9.pdf"
   ]
 }

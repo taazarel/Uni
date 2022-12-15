@@ -8,9 +8,16 @@ Givet er en matrice hvor alle indgange er hele. Dette giver os en invers matrix 
 
 # 3
 ## (a)
-
+$\vec{e}\cdot (\vec{x}-\vec{a})=0$
+$\vec{e}\cdot (\vec{x}-(2,1,3))=0$
+$(1,-2,1)-(2,1,3)=(-1,-3,-2)$
+$(0,1,5)-(2,1,3)=(-2,0,2)$
+$\vec{e}=(-1,-3,-2)\times (-2,0,2)=(-6,-2,-6)$
+Planens ligning er $(-6,-2,-6)\cdot (\vec{x}-(2,1,3))=0$
 ## (b)
-
+$(-3,2,2)-(5,1,7)=(-8,1,-5)$
+$(1,0,-4)-(5,1,7)=(-4,-1,-11)$
+$\vec{e}=(-8,1,-5)\times (-4,-1,-11)=$
 ## (c)
 $$T(\vec{v}\times \vec{w})=T\left(\left[
 \begin{array}{c}
