@@ -13,11 +13,12 @@ $\vec{e}\cdot (\vec{x}-(2,1,3))=0$
 $(1,-2,1)-(2,1,3)=(-1,-3,-2)$
 $(0,1,5)-(2,1,3)=(-2,0,2)$
 $\vec{e}=(-1,-3,-2)\times (-2,0,2)=(-6,-2,-6)$
-Planens ligning er $(-6,-2,-6)\cdot (\vec{x}-(2,1,3))=0$
+Planens ligning kan udtrykkes ved $(-6,-2,-6)\cdot (\vec{x}-(2,1,3))=0$
 ## (b)
-$(-3,2,2)-(5,1,7)=(-8,1,-5)$
-$(1,0,-4)-(5,1,7)=(-4,-1,-11)$
-$\vec{e}=(-8,1,-5)\times (-4,-1,-11)=$
+Vi er givet et punkt og to vektorer som kan ligge i planen. Så vi kan bruge vektorerne til at finde normalvektoren.
+$\vec{e}=(5,1,7)\times (-3,2,2)=(-12,-31,13)$
+Planens ligning kan udtrykkes ved $(-12,-31,13)\cdot (\vec{x}-(1,0,-4))=0$.
+
 ## (c)
 $$T(\vec{v}\times \vec{w})=T\left(\left[
 \begin{array}{c}
@@ -32,4 +33,5 @@ v_{1}w_{2}-v_{2}w_{1} \\
 v_{2}w_{3}-v_{3}w_{2} \\ 
 \end{array}
 \right] $$
-$$=v_{2},v_{3},v_{1}\times w_{2},w_{3},w_{1}=T(\vec{v})\times T(\vec{w})$$
+$$T(\vec{v})\times T(\vec{w})=$$
+Ja det samme ville gælde for definitionen af $T(x,y,z)=(y,x,z)$.
