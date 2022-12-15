@@ -12,7 +12,17 @@ Vi kan skrive isometri således på papir... :: $T: \mathbb{P}_{3}\to \mathbb{R}
 Lad V og W være end. dim. Da er V og W isomorfe hvis og kun hvis... :: $dim(V)=dim(W)$.
 <!--SR:!2022-12-18,4,270-->
 
-# §7 Determinanter
+
+# Messer §7.1 Induktionsbevis
+Induktionsbeviser er en metode til at bevise påstande for alle $n \in \mathbb{N}$. Den går således: Påstand $S_{n}$ er sand og $S_{n}\Rightarrow S_{n+1}$ er sandt, så er... :: $S_{n}$ sandt for alle $n \in \mathbb{N}$.
+<!--SR:!2022-12-18,4,270-->
+### Eksempel for induktiontionsbevis
+$$\sum_{j=1}^{n}(2j-1)=n^{2}$$ Summen for alle ulige tal er antallet af tallene i anden. Dette er vores $S_{n}$. Vi kan vise at dette passer for $S_{1}$: $$\sum_{j=1}^{n}(2(1)-1)=1^{2}$$ er altså sandt.
+Vi kan nu vise at det gælder for vores n+1.
+$$\sum_{j=1}^{n+1}(2j-1)=\left(\sum_{j=1}^{n}(2j-1)\right)+2(n+1)-1=n^{2}+(2n+1)=(n+1)^{2}$$
+Vi har nu bevise at $S_{n+1}$ er sandt, og derfor må dette gælde for alle ulige naturlige tal.
+
+## §7 Determinanter
 ## Definition
 Determinanten defineres som en transformation på en matrice $det:\mathbb{M}_{n,n}\to \mathbb{R}$. Determinanten skrives således på
 En 2x2 matrice...
@@ -79,18 +89,15 @@ For $A \in \mathbb{M}_{n,n}$, sæt $A^{t}=...$:: matricen hvis (i,j)-te indgang 
 $det(A^{t})=...$::$det(A)$.
 <!--SR:!2022-12-18,4,278-->
 
-# Messer §7.1 Induktionsbevis
-Induktionsbeviser er en metode til at bevise påstande for alle $n \in \mathbb{N}$. Den går således: Påstand $S_{n}$ er sand og $S_{n}\Rightarrow S_{n+1}$ er sandt, så er... :: $S_{n}$ sandt for alle $n \in \mathbb{N}$.
-<!--SR:!2022-12-18,4,270-->
-### Eksempel for induktiontionsbevis
-$$\sum_{j=1}^{n}(2j-1)=n^{2}$$ Summen for alle ulige tal er antallet af tallene i anden. Dette er vores $S_{n}$. Vi kan vise at dette passer for $S_{1}$: $$\sum_{j=1}^{n}(2(1)-1)=1^{2}$$ er altså sandt.
-Vi kan nu vise at det gælder for vores n+1.
-$$\sum_{j=1}^{n+1}(2j-1)=\left(\sum_{j=1}^{n}(2j-1)\right)+2(n+1)-1=n^{2}+(2n+1)=(n+1)^{2}$$
-Vi har nu bevise at $S_{n+1}$ er sandt, og derfor må dette gælde for alle ulige naturlige tal.
+## Sætning 7.13 (Konsekvens af 7.6)
+Hvis vi kan reducere en matrice $A \in \mathbb{M}_{n,n}$ så vil determinanten... :: Ikke være nul da $A \to ... \to I$ gennem rækkereduktion[^4], og $det(I)\neq 0$ så for at få dette må $det(A)\neq 0$.
 
-
+## Formel for $A^{-1}$ 7.4
+Givet $A_{ij}\in \mathbb{M}_{n-1,n-1}$. Definition: Lad $A \in \mathbb{M}_{n,n}$ og $adj(A)\in \mathbb{M}_{n,n}$ matricen hvis indgang $(i,j)$ er $(-1)^{i+j}det(A_{ji})$.[^5]
 
 # Fodnoter
 [^1]: Dette bliver til en sum af n! led. Så for en 3x3 matrice er det 6 led. Denne formel er meget upraktisk for en datalogisk synspunkt, men kan godt bruges til at give en definition på determinanten.
 [^2]: I er identitetsmatricen. Dette kan altså fortælle os hvad determinanten bliver når man reducerer. Enten får man en nulrække eller to ens rækker, og så er det nul, eller også finder man I.
 [^3]: r=1 er definitionen af determinanten.
+[^4]: her benytter vi 7.6 definitionen til at reducere lettere.
+[^5]: Hvor $adj(A)=\left[\begin{array}{ccc}det(A_{11} & ... & a_{1n} \\ \vdots &   & \vdots \\ a_{n1} & ... & a_{n}\end{array}\right]$
