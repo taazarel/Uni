@@ -145,6 +145,8 @@ $||\vec{v}||||\vec{w}||\sin{(\theta )}$
 ## Orientering af baser
 Ordnede baser, $B = [\vec{u_{1}},\vec{u_{2}},\vec{u_{3}}] \in \mathbb{R}^{3}$ inddeles i... :: højrehåndede $det(B)>0$ og venstrehåndede $det(B)<0$ baser.
 
+### Operation på base
+$T:\mathbb{R}^{3}\to \mathbb{R}^{3}$ lineær $T(\vec{x})=A \vec{x}$ hvor $A \in \mathbb{M}_{3,3}$. Givet at T er isomorf $\Leftrightarrow$ A har invers $\Leftrightarrow$ $det(A)\neq 0$ så er operationen på basen B... :: $T(B)=B'=[T(\vec{u_{1}}),T(\vec{u_{2}}),T(\vec{u_{3}})]$ også en basis og har samme orientering som B.
 
 # Fodnoter
 [^1]: Dette bliver til en sum af n! led. Så for en 3x3 matrice er det 6 led. Denne formel er meget upraktisk for en datalogisk synspunkt, men kan godt bruges til at give en definition på determinanten.
