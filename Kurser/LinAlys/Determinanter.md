@@ -112,7 +112,39 @@ Definitionen af et krydsprodukt er det samme som determinanten, med vektorerne s
 \begin{array}{cc}v_{1} & w_{1} \\ v_{2} & w_{2}
 \end{array}
 \right] \right)$$[^6]
-## Sætning 7.18 "Algebrariske ege"
+
+## Sætning 7.18 "Algebraiske egenskaber for Krydsprodukt"
+Vi har disse egenskaber for krydsprodukter
+1. $\vec{v}\times \vec{w}=...$
+2. $\vec{v}\times (\vec{w}+\vec{x})=...$
+3. $(\vec{v}+\vec{w})\times \vec{x}=...$
+4. $r(\vec{v}\times \vec{w})=...$
+5. $\vec{v}\times \vec{0}=...$
+6. $\vec{v}\times \vec{v}=...$
+7. $\vec{v}\cdot (\vec{w}\times \vec{x})$
+?
+$-\vec{w}\times \vec{v}$
+$\vec{v}\times \vec{w}+\vec{v}\times \vec{x}$
+$\vec{v}\times \vec{x}+\vec{w}\times \vec{x}$
+$(r \vec{v})\times \vec{w}=\vec{v}\times (r \vec{w})$
+$\vec{0}=\vec{0}\times \vec{v}$
+$\vec{0}$
+$det\left(\left[\begin{array}{ccc}- & \vec{u} & - \\ - & \vec{v} & - \\ - & \vec{w} & -\end{array}\right] \right)=(\vec{v}\times \vec{w})\cdot \vec{x}$
+
+## Sætning 7.19 "Geometriske egenskaber af krydsprodukt"
+1. $\vec{v}\cdot (\vec{v}\times \vec{w})=\vec{0}$
+2. $\vec{w}\cdot (\vec{v}\times \vec{w})=\vec{0}$
+3. $||\vec{v}\times \vec{w}||^{2}=...$
+4. $||\vec{v}\times \vec{w}||=...$
+?
+$\vec{0}$
+$\vec{0}$
+$||\vec{v}||^{2}||\vec{w}||^{2}-(\vec{v}\cdot \vec{w})^{2}$
+$||\vec{v}||||\vec{w}||\sin{(\theta )}$
+
+## Orientering af baser
+Ordnede baser, $B = [\vec{u_{1}},\vec{u_{2}},\vec{u_{3}}] \in \mathbb{R}^{3}$ inddeles i... :: højrehåndede $det(B)>0$ og venstrehåndede $det(B)<0$ baser.
+
 
 # Fodnoter
 [^1]: Dette bliver til en sum af n! led. Så for en 3x3 matrice er det 6 led. Denne formel er meget upraktisk for en datalogisk synspunkt, men kan godt bruges til at give en definition på determinanten.
