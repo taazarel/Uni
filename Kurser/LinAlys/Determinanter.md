@@ -155,7 +155,10 @@ givet $\vec{v},\vec{w} \in \mathbb{R}^{3}$ så bliver $$det\left[
 \vec{v_{1}} & \vec{v_{2}} & \vec{v_{3}} \\ 
 \vec{w_{1}} & \vec{w_{2}} & \vec{w_{3}}
 \end{array}
-\right]$$ Og dette giver kun mening hvis... :: $\vec{i}=\vec{e_{1}}=(1,0,0)$ $\vec{j}=\vec{e_{2}}$ og $\vec{k}=\vec{e_{3}}$
+\right]=\vec{v}\times \vec{w}$$ Og dette giver kun mening hvis... :: $\vec{i}=\vec{e_{1}}=(1,0,0)$ $\vec{j}=\vec{e_{2}}$ og $\vec{k}=\vec{e_{3}}$
+
+## Cramers formel
+For løsninger til $A \vec{x}=b$, når $t \in \mathbb{R}^{n}$ og $A \in \mathbb{M}_{n,n}$ så er $\vec{x}=...$ :: $A^{-1}b= \frac{1}{det(A)}adj(A)b \Rightarrow x_{j}= \frac{det(A_{j})}{det(A)}, A_{j}\in \mathbb{M}_{n,n}$.
 
 
 # Fodnoter
