@@ -93,11 +93,37 @@ $det(A^{t})=...$::$det(A)$.
 Hvis vi kan reducere en matrice $A \in \mathbb{M}_{n,n}$ så vil determinanten... :: Ikke være nul da $A \to ... \to I$ gennem rækkereduktion[^4], og $det(I)\neq 0$ så for at få dette må $det(A)\neq 0$.
 
 ## Formel for $A^{-1}$ 7.4
-Givet $A_{ij}\in \mathbb{M}_{n-1,n-1}$. Definition: Lad $A \in \mathbb{M}_{n,n}$ og $adj(A)\in \mathbb{M}_{n,n}$ matricen hvis indgang $(i,j)$ er $(-1)^{i+j}det(A_{ji})$.[^5]
+Givet $A_{ij}\in \mathbb{M}_{n-1,n-1}$. Definition: Lad $A \in \mathbb{M}_{n,n}$ så bliver  $adj(A)\in \mathbb{M}_{n,n}$ til matricen hvis indgang $(i,j)$... :: $(-1)^{i+j}det(A_{ji})$.[^5]
+
+## Sætning 7.15'
+For alle $A \in \mathbb{M}_{n,n}$ så er $adj(A)A=det(A)I \in \mathbb{M}_{n,n}$.
+
+## Sætning 7.15
+Givet $adj(A)A=det(A)I \in \mathbb{M}_{n,n}$, Hvis $A \in \mathbb{M}_{n,n}$ har invers er dens invers defineret ved... :: $$A^{-1}=adj(A)/det(A)$$ Hvilket vi også kan skrive som $(A^{-1})_{ij}= (-1)^{i+j}det\frac{A_{ji}}{det(A)}= \frac{\text{Sum af +/- produkter af indgange}}{\text{Sum af +/- produkter af indgange}}$
+
+## Krydsprodukt på flere end to dimensioner
+Definitionen af et krydsprodukt er det samme som determinanten, med vektorerne som søjler... :: uden dens skalarer. Så i tre dimensioner ville det være $$\vec{v}\times \vec{w}=det\left(\left[
+\begin{array}{cc}v_{2} & w_{2} \\ v_{3} & w_{3}
+\end{array}
+\right] \right),-det\left(\left[
+\begin{array}{cc}v_{1} & w_{1} \\ v_{3} & w_{3}
+\end{array}
+\right] \right),det\left(\left[
+\begin{array}{cc}v_{1} & w_{1} \\ v_{2} & w_{2}
+\end{array}
+\right] \right)$$[^6]
+## Sætning 7.18 "Algebrariske ege"
 
 # Fodnoter
 [^1]: Dette bliver til en sum af n! led. Så for en 3x3 matrice er det 6 led. Denne formel er meget upraktisk for en datalogisk synspunkt, men kan godt bruges til at give en definition på determinanten.
 [^2]: I er identitetsmatricen. Dette kan altså fortælle os hvad determinanten bliver når man reducerer. Enten får man en nulrække eller to ens rækker, og så er det nul, eller også finder man I.
 [^3]: r=1 er definitionen af determinanten.
 [^4]: her benytter vi 7.6 definitionen til at reducere lettere.
-[^5]: Hvor $adj(A)=\left[\begin{array}{ccc}det(A_{11} & ... & a_{1n} \\ \vdots &   & \vdots \\ a_{n1} & ... & a_{n}\end{array}\right]$
+[^5]: Hvor $A=\left[\begin{array}{ccc}a_{11} & ... & a_{1n} \\ \vdots  &   & \vdots \\ a_{n1} & ... & a_{nn}\end{array}\right]$  og $adj(A)=\left[\begin{array}{ccc}det(A_{11}) & ... & (-1)^{n+n}det(A_{n1}) \\ \vdots &   & \vdots \\ a_{n1} & ... & a_{nn}\end{array}\right]$
+[^6]: Husk at $$det\left[
+\begin{array}{ccc}- & \vec{u} & - \\ - & \vec{v} & - \\ - & \vec{w} & -
+\end{array}
+\right] =det \left[
+\begin{array}{ccc}| & | & | \\ \vec{u} & \vec{v} & \vec{w} \\ | & | & |
+\end{array}
+\right] $$
