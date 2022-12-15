@@ -36,7 +36,8 @@ Hvis $\langle \vec{v},\vec{w}\rangle=0$ så kaldes vektorerne... :: ortogonale p
 <!--SR:!2022-12-21,23,290-->
 Pythagoras i vektorrumet som har indre produkter er... :: $||\vec{v}-\vec{w}||=||\vec{v}||^{2}+||\vec{w}||^{2}-2\langle \vec{v},\vec{w}\rangle$ hvor $\langle \vec{v},\vec{w}\rangle =||\vec{v}||\cdot ||\vec{w}||cos(\theta )$[^6]
 <!--SR:!2022-12-18,4,306-->
-<!--SR:!2023-03-06,82,277-->
+
+<!--SR:!2023-03-06,82,277-->
 
 Ortogonalproduktet af $\vec{w}\text{ på }\vec{v}$ er... :: $\frac{\langle \vec{v},\vec{w}\rangle}{\langle \vec{v},\vec{v}\rangle}\vec{v}$
 <!--SR:!2022-12-17,26,301-->

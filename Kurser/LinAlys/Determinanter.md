@@ -148,6 +148,16 @@ Ordnede baser, $B = [\vec{u_{1}},\vec{u_{2}},\vec{u_{3}}] \in \mathbb{R}^{3}$ in
 ### Operation på base
 $T:\mathbb{R}^{3}\to \mathbb{R}^{3}$ lineær $T(\vec{x})=A \vec{x}$ hvor $A \in \mathbb{M}_{3,3}$. Givet at T er isomorf $\Leftrightarrow$ A har invers $\Leftrightarrow$ $det(A)\neq 0$ så er operationen på basen B... :: $T(B)=B'=[T(\vec{u_{1}}),T(\vec{u_{2}}),T(\vec{u_{3}})]$ også en basis og har samme orientering som B.
 
+## Kryds notation
+givet $\vec{v},\vec{w} \in \mathbb{R}^{3}$ så bliver $$det\left[
+\begin{array}{ccc}
+\vec{i} & \vec{j} & \vec{k} \\ 
+\vec{v_{1}} & \vec{v_{2}} & \vec{v_{3}} \\ 
+\vec{w_{1}} & \vec{w_{2}} & \vec{w_{3}}
+\end{array}
+\right]$$ Og dette giver kun mening hvis... :: $\vec{i}=\vec{e_{1}}=(1,0,0)$ $\vec{j}=\vec{e_{2}}$ og $\vec{k}=\vec{e_{3}}$
+
+
 # Fodnoter
 [^1]: Dette bliver til en sum af n! led. Så for en 3x3 matrice er det 6 led. Denne formel er meget upraktisk for en datalogisk synspunkt, men kan godt bruges til at give en definition på determinanten.
 [^2]: I er identitetsmatricen. Dette kan altså fortælle os hvad determinanten bliver når man reducerer. Enten får man en nulrække eller to ens rækker, og så er det nul, eller også finder man I.
