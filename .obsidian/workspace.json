@@ -42,6 +42,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Papir til opgaver.md",
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Papir til opgaver.md"
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md"
               }
             }
           },
@@ -183,8 +184,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d83e1401f3359eca",
+  "active": "709cccd2b8ecbac4",
   "lastOpenFiles": [
+    "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/LinAlys/Determinanter.md",
@@ -193,7 +195,6 @@
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
     "Forelæsning den 12 december.md",
     "Assets/Excalidraw/Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw.md",
-    "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/MekRel/Rotationsmekanik.md"
   ]
 }

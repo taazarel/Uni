@@ -31,6 +31,10 @@ For at vise problemet med Transformationen mellem to inertial koordinatsystemer 
 # 9.4 Samtidighed
 Samtidighed for ens eget synspunkt vises som... :: en horisontal linje i rumtidsdiagrammet.
 Samtidighed for en anden persons inertialsystem vises som... :: en lige linje der danner en vinkel med referencepunktets samtidighed.[^1]
+Vi kan lave tre linjer i et rumtidsdiagram når vi har et andet synspunkt repræsenteret i det... :: som er Et objekt der sidder stille $x=vt$, et foton $x=t$ og samtidighedslinjen $x=\frac{t}{v}$ 
+Hvis vi indfører lysets hast i linjerne for rumtidsdiagrammet $x=vt,x=t \text{ og }x=\frac{t}{v}$ så får vi... :: $x=vt \text{ for et stille objekt},x=ct \text{ for et foton }, t=\frac{vx}{c^{2}} \text{ for samtidigheden}$
+Kausalitet siger at... :: når begivenhed A laver begivenhed B så sker A før B, og alle synspunkter kan sige dette.[^2]
 
 
 [^1]: Dette sker da lysets hast altid danner rette vinkler fra begge sider. Så to linjer der skærer det samme punkt, for et system som bevæger sig(Har skæve tidslinjer) betyder at deres skæringspunkt ikke bliver den samme tid for samme distance. Vi kan herfra tegne en linje mellem disse punkter, og dette vil være samtidigheden af det andet referencesystem.
+[^2]: Dette virker ikke for begivenheder som sker forskellige steder i rummet.
