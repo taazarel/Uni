@@ -2,8 +2,11 @@
 [[Forelæsning den 12 december]] for hvad vi vil opstille i kurset.
 # 9.1 Lysets hastighed
 Lysets hastighed er altid konstant, dette kan lade sig gøre fordi... :: uanset hvilken fart du har kan rumtiden bøjes, derfor kan lys altid have c som sin fart (i vakuum).
+<!--SR:!2022-12-18,4,270-->
 Lysets hastighed er... :: Den hurtigste information i universet. Skrives med c. og har størrelsen: $10 \cdot 10^{8} \frac{m}{s}$.
+<!--SR:!2022-12-18,4,270-->
 Ofte bruger vi dette til at måle distance... :: distancen lyset tilbagelægges over et givent interval i tid. Set som fx lyssekund og lysår.
+<!--SR:!2022-12-18,4,270-->
 
 
 # 9.2 Speciel Relativitetsteori
@@ -16,11 +19,18 @@ Uafhængigt af observantes hast
 Tid og rum er begge ikke absolutte, men Rumtid, hvad de begge er en del af **er** absolut. Dette betyder blot at deres forhold skal ændres men både tid og rum kan strækkes og presses.
 
 Rumtid kan plottes i to dimensioner således... :: som en kegleform, hvor randen er lysets hast. ![[Pasted image 20221209150323.png]].
+<!--SR:!2022-12-18,4,270-->
 
 # 9.3 Koordinat Transformationer
 
 For at finde en transformation mellem to observanters synspunkter skal vi... :: Opskrive en transformation mellem deres koordinatsystemer som er relative til dem.
+<!--SR:!2022-12-18,4,270-->
 For at vise problemet med Transformationen mellem to inertial koordinatsystemer set som Newtons tid og rum kan vi opskrive: $x'=x-vt$ eller $x=x'+vt'$ og $t'=t$. Hvis vi nu havde en til partikel kunne vi beskrive hastigheden således $x=v_{2}t$ og $x'=(v_{2}-v)t'$. Og hvis dette er sandt får vi et problem når... :: Vi bruger denne transformation for et foton. Så vil lysets hastighed ændre sig baseret på hvem der observerer det, og derfor vil vi have modstrid med Maxwells ligninger.![[Pasted image 20221209161024.png]]
+<!--SR:!2022-12-18,4,270-->
 
 # 9.4 Samtidighed
+Samtidighed for ens eget synspunkt vises som... :: en horisontal linje i rumtidsdiagrammet.
+Samtidighed for en anden persons inertialsystem vises som... :: en lige linje der danner en vinkel med referencepunktets samtidighed.[^1]
 
+
+[^1]: Dette sker da lysets hast altid danner rette vinkler fra begge sider. Så to linjer der skærer det samme punkt, for et system som bevæger sig(Har skæve tidslinjer) betyder at deres skæringspunkt ikke bliver den samme tid for samme distance. Vi kan herfra tegne en linje mellem disse punkter, og dette vil være samtidigheden af det andet referencesystem.

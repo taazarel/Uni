@@ -40,9 +40,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7dc843696154cc0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -136,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Rotationsmekanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/MekRel/Rotationsmekanik.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,8 +189,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a59d7142f09834c9",
+  "active": "a7dc843696154cc0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Kurser/MekRel/Rotationsmekanik.md",
     "personer.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/LinAlys/Højere ordens afledte.md",
@@ -193,8 +200,6 @@
     "Kurser/LinAlys/Regnepapir.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
-    "Forelæsning den 12 december.md",
-    "Assets/Excalidraw/Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw.md",
-    "Kurser/MekRel/Papir til opgaver.md"
+    "Forelæsning den 12 december.md"
   ]
 }
