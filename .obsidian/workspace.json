@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dimensions",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -171,14 +170,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63accecf338080ee",
+  "active": "477e1a55f44a8a4f",
   "lastOpenFiles": [
-    "Kurser/MekRel/Dokumenter/Kap9.pdf",
+    "Kurser/LinAlys/Determinanter.md",
     "Pointopgave 11.md",
+    "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/LinAlys/Dokumenter/opg11.pdf",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Papir til opgaver.md",
-    "Kurser/LinAlys/Determinanter.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",

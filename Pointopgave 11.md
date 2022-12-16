@@ -1,4 +1,8 @@
 # 1
+Givet er $$A=\{(x,y)\in \mathbb{R}^{2}|x^{2}+2y^{2}\leq 1,x \geq 0\} \subseteq \mathbb{R}^{2}$$
+Og funktionen $f(x,y)=xy^{2}-x^{2}$.
+Da vi har to krav, selve underrummet og funktionen kan vi benytte Laranges formel.
+
 
 # 2
 ## (a)
