@@ -7,7 +7,8 @@ Begyndelsesdato: Kl. 08:09  Den 06-12-2022   Uge-49
 ## [[Retningsafledte#Partielt afledte funktioner|Partielt Afledte]] af f af *anden* orden
 Vi kan finde partielt afledte af en højere orden således $$\frac{\delta^{2}f}{\delta x_{j}\delta x_{i}}=...$$:: $$\frac{\delta}{\delta x_{j}}\left(\frac{\delta f}{\delta x_{i}}\right)$$ 
 <!--SR:!2022-12-18,4,270-->
-<!--SR:!2023-01-09,26,294-->
+
+<!--SR:!2023-01-09,26,294-->
 
 ### Eksempel 278
 Et eksempel på partielt afledte af anden orden
@@ -26,42 +27,51 @@ $$6x^{2}y+2$$
 ## Hessematrix
 Vi kan skrive alle muligheder for partielt afledte af en bestemt orden gennem en hessematrice. Vi bruger funktionen i eksempel 278: Det skrives således $$Hf(x,y)=...$$::$$\left[\begin{array}{cc}2y^{3} & 6xy^{2} \\ 6xy^{2} & 6x^{2}y+2\end{array}\right] $$
 <!--SR:!2022-12-18,4,274-->
-<!--SR:!2023-01-05,22,294-->
+
+<!--SR:!2023-01-05,22,294-->
 ### Hessematrix fortsat
 Vi kan indsætte værdier i vores hessematrix. Lad os tage funktionen fra 278 som eksempel. Vi finder $Hf(0,0)=...$::$$\left[\begin{array}{cc}0 & 0 \\ 0 & 2\end{array}\right] $$
 <!--SR:!2022-12-18,4,283-->
-<!--SR:!2023-01-06,23,301-->
+
+<!--SR:!2023-01-06,23,301-->
 ## Definition 2.79
 Lad $A \subseteq \mathbb{R}^{n}$ være åben, $r \in \mathbb{N}$. Så vil $f:A \to \mathbb{R}$ være $C^{r}$ funktion hvis... :: alle partielt afledte af orden $\leq r$ eksisterer og er kontinuerte.
 <!--SR:!2022-12-18,4,274-->
-<!--SR:!2022-12-28,14,274-->
+
+<!--SR:!2022-12-28,14,274-->
 
 ## Sætning 2.82
 Lad $A \subseteq \mathbb{R}^{n}$ være åben og $r \in \mathbb{N}$ og $f:A \to \mathbb{R}\text{ er }C^{2}$. For $i,j \in \{1,...,n \}$ har vi... :: En associations lov for alle $\vec{a} \in A$: $$\frac{\delta^{2}f}{\delta x_{i}\delta x_{j}}(\vec{a})= \frac{\delta^{2}f}{\delta x_{j}\delta x_{i}}(\vec{a})$$
 <!--SR:!2022-12-18,4,274-->
-<!--SR:!2022-12-25,11,250-->
+
+<!--SR:!2022-12-25,11,250-->
 ### Udvidelse af 2.82
 Hvis vi har $f \text{ er }C^{3}$ kan vi anvende... :: $$\frac{\delta^{3}f}{\delta x_{i}\delta x_{j}\delta x_{k}}= \frac{\delta^{3}f}{\delta x_{j}\delta x_{k}\delta x_{i}}$$[^1]
 <!--SR:!2022-12-18,4,274-->
-<!--SR:!2023-01-04,21,290-->
+
+<!--SR:!2023-01-04,21,290-->
 # TK § 3.1
 ## Definition af ekstremum
 Størsteværdipunkt er det samme som... ::: Globalt maksimumspunkt: $$f(\vec{x})\leq f(\vec{a})\text{ for alle }\vec{x}\in A$$
 <!--SR:!2022-12-18,4,283!2022-12-18,4,283-->
-<!--SR:!2023-01-06,23,294!2022-12-12,4,274-->
+
+<!--SR:!2023-01-06,23,294!2022-12-12,4,274-->
 Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\geq f(\vec{a})\text{ for alle }\vec{x}\in A$$
 <!--SR:!2022-12-18,4,274!2022-12-18,4,283-->
-<!--SR:!2023-01-08,25,290!2023-01-07,24,294-->
+
+<!--SR:!2023-01-08,25,290!2023-01-07,24,294-->
 
 ## Definition 3.1
 Lad $f:A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ f har lokalt maksimum i $\vec{a}\in A$ hvis der findes... :: $r>0$ så $f(\vec{x})\leq f(\vec{a})$ for alle $\vec{x}\in A$ med $||\vec{x}-\vec{a}||<r$.[^2]
 <!--SR:!2022-12-18,4,283-->
-<!--SR:!2023-01-09,26,294-->
+
+<!--SR:!2023-01-09,26,294-->
 
 ## Sætning 3.2
 Hvis $f:A \to \mathbb{R}$, $A \subseteq \mathbb{R}^{n}$, hvis $\vec{a}\in A$ er lokalt ekstremumsværdi så er en af disse sandt... :: (i) $\vec{a}\in \delta A$ "Randpunkt", (ii) $\nabla f(\vec{a})$ eksisterer ikke "Singulære punkter", (iii) $\nabla f(\vec{a})=\vec{0}$ "Stationært punk"
 <!--SR:!2022-12-18,4,274-->
-<!--SR:!2022-12-22,8,234-->
+
+<!--SR:!2022-12-22,8,234-->
 
 ### Eksempel 3.3
 Givet er $f:\mathbb{R}^{2}\to \mathbb{R}$ og $f(x,y)=3xy-3x+9y$.
