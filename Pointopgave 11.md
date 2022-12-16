@@ -2,6 +2,22 @@
 Givet er $$A=\{(x,y)\in \mathbb{R}^{2}|x^{2}+2y^{2}\leq 1,x \geq 0\} \subseteq \mathbb{R}^{2}$$
 Og funktionen $f(x,y)=xy^{2}-x^{2}$.
 Da vi har to krav, selve underrummet og funktionen kan vi benytte Laranges formel.
+$f(x,y)=x^{2}+2y^{2}-1$
+$g(x,y)=xy^{2}-x^{2}$
+
+$$\nabla f(x,y)=\left[
+\begin{array}{c}
+2x \\ 4y
+\end{array}
+\right] $$
+$$\nabla g(x,y)=\left[
+\begin{array}{cc}
+y^{2}-2x \\ 2xy
+\end{array}
+\right] $$
+For at disse kan blive nul skal vi sætte
+$\nabla f(0,0)=\vec{0}$ og $\nabla g(0,0)=\vec{0}$.
+$\nabla f = \lambda \nabla g$
 
 
 # 2
