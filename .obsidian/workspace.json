@@ -11,8 +11,22 @@
             "id": "63accecf338080ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pointopgave 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7f33d0db986c83d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/LinAlys/Dokumenter/opg11.pdf"
+              }
             }
           }
         ],
@@ -109,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pointopgave 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pointopgave 11.md"
+              }
             }
           },
           {
@@ -156,15 +173,15 @@
   },
   "active": "63accecf338080ee",
   "lastOpenFiles": [
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
+    "Pointopgave 11.md",
+    "Kurser/LinAlys/Dokumenter/opg11.pdf",
+    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/LinAlys/Determinanter.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Arbejde.md",
     "Kurser/MekRel/Mindstevirkningsprincippet.md",
-    "Forelæsning den 12 december.md",
-    "Assets/Excalidraw/Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw.md",
-    "Kurser/MekRel/Rotationsmekanik.md"
+    "Forelæsning den 12 december.md"
   ]
 }
