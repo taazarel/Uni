@@ -17,7 +17,7 @@ y^{2}-2x \\ 2xy
 \right] $$
 For at disse kan blive nul skal vi sætte
 $\nabla f(0,0)=\vec{0}$ og $\nabla g(0,0)=\vec{0}$.
-Her ser vi at ifølge langranges multiplikatormetode så vil $\nabla g(0,0)=\vec{0}$ være en kandidat. For at teste dette indsætter vi i $f(x,y)$. $f(0,0)=0^{2}+2(0)^{2}\leq 1, 0 \geq 0$. Da disse begge er sande finder vi et lokalt ekstrema ved $(0,0)$.
+Her ser vi at ifølge langranges multiplikatormetode så vil $\nabla g(0,0)=\vec{0}$ være en kandidat. For at teste dette indsætter vi i $f(x,y)$. $f(0,0)=0^{2}+2(0)^{2}\leq 1, 0 \geq 0$. Da disse begge er sande finder vi et lokalt ekstrema ved $(0,0)$. Og dette er et minimum da vi får $f(0,0)=0 \leq 1$.
 De andre værdier på randen kan vi finde ved dette: $\nabla f(\vec{a}) = \lambda \nabla g(\vec{a})$, hvor $\lambda \in \mathbb{R}$.
 Vi udvider:
 $$
@@ -52,7 +52,11 @@ Læg mærke til at $\pm$ forsvinder her da vi hæver i anden.
 Disse to punkter på kanten bliver
 $$\left(\frac{\sqrt{3}}{3},\frac{\sqrt{6}}{3}\right),\left(\frac{-\sqrt{3}}{3},\frac{\sqrt{6}}{3}\right)$$
 Lad os indtaste disse værdier i f, for at teste dem.
-$$f\left(\frac{\sqrt{3}}{3},\frac{\sqrt{6}}{3}\right)=$$
+$$f\left(\frac{\sqrt{3}}{3},\frac{\sqrt{6}}{3}\right)=\frac{1}{3}+2 \frac{6}{9}-1=\frac{1}{3}+ \frac{12}{9}- \frac{9}{9}=\frac{1}{3}+ \frac{1}{3}=\frac{2}{3}$$
+Det andet punkt er ikke gyldigt da vi ved at $x \geq 0$ og i det andet punkt er x negativt.
+
+Hvis $(1,0)$ så $f(1,0)=0$ max punkt. 
+Vi kan også finde $f(0,\pm \sqrt{\frac{1}{2}})=2(\frac{1}{2})=0$. Er også et max punkt. 
 # 2
 ## (a)
 Hvis $det(A)=1$ så er $det(A)det(B)=1$ derfor $det(AB)=1$ hvilket betyder at $AB \in SL_{n}(\mathbb{Z})$.
