@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dc7d612832b582ea",
+        "id": "f584ce8dfceff470",
         "type": "tabs",
         "children": [
           {
-            "id": "d83e1401f3359eca",
+            "id": "63accecf338080ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/MekRel/Papir til opgaver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6782803e2dd9641c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
-              }
-            }
-          },
-          {
-            "id": "709cccd2b8ecbac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -136,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/MekRel/Speciel Relativitetsteori.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,11 +154,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "709cccd2b8ecbac4",
+  "active": "63accecf338080ee",
   "lastOpenFiles": [
-    "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
+    "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/LinAlys/Determinanter.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Arbejde.md",
