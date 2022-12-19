@@ -16,8 +16,17 @@
                 "file": "Kurser/LinAlys/Dokumenter/opg11.pdf"
               }
             }
+          },
+          {
+            "id": "3f267ba33d184763",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Dokumenter/opg11.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/LinAlys/Dokumenter/opg11.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -159,17 +165,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3339921586efef8e",
+  "active": "3f267ba33d184763",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Kurser/LinAlys/Dokumenter/opg11.pdf",
     "Pointopgave 11.md",
     "personer.md",
-    "Kurser/LinAlys/Dokumenter/opg11.pdf",
     "Kurser/LinAlys/Determinanter.md",
     "Assets/Excalidraw/Regnepapir 2022-12-15 09.37.24.excalidraw.md",
     "Kurser/LinAlys/Indre Produkt.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Assets/pointopgave 10 1.b.png",
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
-    "Kurser/MekRel/Dokumenter/Kap9.pdf"
+    "Kurser/MekRel/Speciel Relativitetsteori.md"
   ]
 }
