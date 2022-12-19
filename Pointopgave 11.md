@@ -26,16 +26,21 @@ $$\nabla f\left(x,\sqrt{\frac{1-x^{2}}{2}}\right)=\left[
 \pm4\sqrt{\frac{1-x^{2}}{2}}
 \end{array}
 \right] $$
+Her finder vi enten $x=0$ eller $x=1$.
 $$\nabla f(\sqrt{1-2y^{2}},y)=\left[
 \begin{array}{c}
 2\sqrt{1-2y^{2}} \\ 
 4y
 \end{array}
 \right] $$
-$$\nabla f(x,y)=$$
-Herfra går vi til med den normal Langrange formel.
-$$2x=\lambda (y^{2}-2x) \Rightarrow 2x=\lambda y^{2}-\lambda 2x \Rightarrow $$
-$$2\sqrt{1-2y^{2}}=\lambda y^{2}-2x$$
+Og her enten $y=\pm 1/\sqrt{2}$ eller $y=0$.
+
+$$2x= \lambda (y^{2}-2x) \Rightarrow 2x = \frac{2}{x}(y^{2}-2x) \Rightarrow \frac{2y^{2}}{x}-4=2x$$
+$$\Rightarrow 2y^{2}=2x^{2}+4x \Rightarrow y^{2}=x^{2}+2x$$
+$$4y=\lambda (2xy) \Rightarrow \lambda =\frac{2}{x}$$
+$$f(x,y)=x^{2}+2y^{2}-1=0\Rightarrow 3x^{2}+4x-1$$
+$$d=4^{2}-(4*3*(-1))=28$$
+$$x= \frac{-4\pm\sqrt{28}}{6}= \frac{-4\pm2\sqrt{7}}{6}$$
 # 2
 ## (a)
 Hvis $det(A)=1$ så er $det(A)det(B)=1$ derfor $det(AB)=1$ hvilket betyder at $AB \in SL_{n}(\mathbb{Z})$.
