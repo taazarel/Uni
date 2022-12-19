@@ -33,14 +33,18 @@ $$\nabla f(\sqrt{1-2y^{2}},y)=\left[
 4y
 \end{array}
 \right] $$
-Og her enten $y=\pm 1/\sqrt{2}$ eller $y=0$.
+Og her enten $y=\pm \frac{1}{\sqrt{2}}$ eller $y=0$.
 
 $$2x= \lambda (y^{2}-2x) \Rightarrow 2x = \frac{2}{x}(y^{2}-2x) \Rightarrow \frac{2y^{2}}{x}-4=2x$$
 $$\Rightarrow 2y^{2}=2x^{2}+4x \Rightarrow y^{2}=x^{2}+2x$$
 $$4y=\lambda (2xy) \Rightarrow \lambda =\frac{2}{x}$$
 $$f(x,y)=x^{2}+2y^{2}-1=0\Rightarrow 3x^{2}+4x-1$$
 $$d=4^{2}-(4*3*(-1))=28$$
-$$x= \frac{-4\pm\sqrt{28}}{6}= \frac{-4\pm2\sqrt{7}}{6}$$
+$$x= \frac{-4\pm\sqrt{28}}{6}= \frac{-2\pm\sqrt{7}}{3}$$
+Her kan vi se bort fra den negative kvadratrod, da x skal være positiv.
+$$y=\pm\sqrt{x^{2}+2x}=\pm \sqrt{\frac{2}{3} (-2 + \sqrt{7}) + \frac{1}{9} (-2 + \sqrt{7}^2)}\approx \pm 0.7$$
+Så vi har fundet de kritiske punkter $$\left(\frac{-2+\sqrt{7}}{3},0.7\right)\text{ og }\left(\frac{-2+\sqrt{7}}{3},-0.7\right)$$
+De sidste to punkter finder vi ved randens 
 # 2
 ## (a)
 Hvis $det(A)=1$ så er $det(A)det(B)=1$ derfor $det(AB)=1$ hvilket betyder at $AB \in SL_{n}(\mathbb{Z})$.
