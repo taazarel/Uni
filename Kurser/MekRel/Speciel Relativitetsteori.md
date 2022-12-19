@@ -25,6 +25,7 @@ Rum...
 ?
 Uafhængigt af observantes hast
 Tid og rum er begge ikke absolutte, men Rumtid, hvad de begge er en del af **er** absolut. Dette betyder blot at deres forhold skal ændres men både tid og rum kan strækkes og presses.
+<!--SR:!2022-12-23,4,288-->
 
 Rumtid kan plottes i to dimensioner således... :: som en kegleform, hvor randen er lysets hast. ![[Pasted image 20221209150323.png]].
 <!--SR:!2023-01-09,21,290-->
@@ -40,13 +41,16 @@ For at vise problemet med Transformationen mellem to inertial koordinatsystemer 
 Samtidighed for ens eget synspunkt vises som... :: en horisontal linje i rumtidsdiagrammet.
 <!--SR:!2022-12-23,4,288-->
 Samtidighed for en anden persons inertialsystem vises som... :: en lige linje der danner en vinkel med referencepunktets samtidighed.[^1]
+<!--SR:!2022-12-23,4,288-->
 Vi kan lave tre linjer i et rumtidsdiagram når vi har et andet synspunkt repræsenteret i det... :: som er Et objekt der sidder stille $x=vt$, et foton $x=t$ og samtidighedslinjen $t=vx$ 
 <!--SR:!2022-12-23,4,288-->
 Hvis vi indfører lysets hast i linjerne for rumtidsdiagrammet $x=vt,x=t \text{ og }x=\frac{t}{v}$ så får vi... :: $x=vt \text{ for et stille objekt},x=ct \text{ for et foton }, t=\frac{vx}{c^{2}} \text{ for samtidigheden}$
 <!--SR:!2022-12-23,4,288-->
 Kausalitet siger at... :: når begivenhed A laver begivenhed B så sker A før B, og alle synspunkter kan sige dette.[^2]
+<!--SR:!2022-12-20,1,248-->
 
 Vi kan aldrig blive enige om rækkefølge af A så B i... :: Spacelike begivenheder da vi kan finde forskellige synspunkter til dem.
+<!--SR:!2022-12-23,4,288-->
 Vi kan blive enige om rækkefølge af A så B i... :: Timelike begivenheder da vi aldrig kan få en hældning med mere end 45 grader (Lysets graf)
 <!--SR:!2022-12-23,4,288-->
 
@@ -65,6 +69,7 @@ Hvis x' bevæger sig mod højre fra x så finder vi:
 <!--SR:!2022-12-23,4,288-->
 
 Lorentz-faktoren skrives som $\gamma (v)=...$::$$\frac{1}{\sqrt{1-v^{2}}}$$ (9.28)
+<!--SR:!2022-12-23,4,288-->
 
 Koordinat transformationerne for lorentz transformationer er opsamlet nedenunder, på den anden side er med c. Her er det bare c=1. 
 1. $t'=\gamma (t-vx)$...
@@ -78,6 +83,7 @@ Koordinat transformationerne for lorentz transformationer er opsamlet nedenunder
 3. $t=\gamma (t'+ \frac{vx'}{c^{2}})$
 4. $x=\gamma (x'+vt')$
 5. $\gamma = \frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
+<!--SR:!2022-12-23,4,288-->
 
 [^1]: Dette sker da lysets hast altid danner rette vinkler fra begge sider. Så to linjer der skærer det samme punkt, for et system som bevæger sig(Har skæve tidslinjer) betyder at deres skæringspunkt ikke bliver den samme tid for samme distance. Vi kan herfra tegne en linje mellem disse punkter, og dette vil være samtidigheden af det andet referencesystem.
 [^2]: Dette virker ikke for begivenheder som sker forskellige steder i rummet.
