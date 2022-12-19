@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forelæsning den 12 december.md",
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forelæsning den 12 december.md"
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md"
               }
             }
           },
@@ -184,8 +184,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4c1ce8c85e89056",
+  "active": "cea12fcc23bacd3d",
   "lastOpenFiles": [
+    "Forelæsning den 12 december.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Assets/Excalidraw/Papir til opgaver 2022-12-19 08.20.04.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
@@ -194,7 +195,6 @@
     "Kurser/LinAlys/Dokumenter/opg11.pdf",
     "Pointopgave 11.md",
     "personer.md",
-    "Kurser/LinAlys/Determinanter.md",
-    "Assets/Excalidraw/Regnepapir 2022-12-15 09.37.24.excalidraw.md"
+    "Kurser/LinAlys/Determinanter.md"
   ]
 }
