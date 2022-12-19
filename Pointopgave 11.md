@@ -15,48 +15,27 @@ $$\nabla g(x,y)=\left[
 y^{2}-2x \\ 2xy
 \end{array}
 \right] $$
-For at disse kan blive nul skal vi sætte
-$\nabla f(0,0)=\vec{0}$ og $\nabla g(0,0)=\vec{0}$.
-Her ser vi at ifølge langranges multiplikatormetode så vil $\nabla g(0,0)=\vec{0}$ være en kandidat. For at teste dette indsætter vi i $f(x,y)$. $f(0,0)=0^{2}+2(0)^{2}\leq 1, 0 \geq 0$. Da disse begge er sande finder vi et lokalt ekstrema ved $(0,0)$. Og dette er et minimum da vi får $f(0,0)=0 \leq 1$.
-De andre værdier på randen kan vi finde ved dette: $\nabla f(\vec{a}) = \lambda \nabla g(\vec{a})$, hvor $\lambda \in \mathbb{R}$.
-Vi udvider:
-$$
+Men her vil gradienten til f ikke fungere da den ikke tager forhold til mængden. Vi kan derfor definere:
+$$x=\sqrt{1-2y^{2}}$$
+Selvom vi får en kvadratrod her ser vi kun på den positive, da vi har kravet at x skal være større end 0.
+$$y=\pm\sqrt{\frac{1-x^{2}}{2}}$$
+Nu kan vi indsætte i gradienten til f for begge tilfælde:
+$$\nabla f\left(x,\sqrt{\frac{1-x^{2}}{2}}\right)=\left[
 \begin{array}{c}
-2x=\lambda y^{2}-2x \\ 
-4y=\lambda 2xy
+2x \\ 
+\pm4\sqrt{\frac{1-x^{2}}{2}}
 \end{array}
-$$
-Og isolerer lambda.
-$$
+\right] $$
+$$\nabla f(\sqrt{1-2y^{2}},y)=\left[
 \begin{array}{c}
-\lambda y^{2}=4x\\ 
-\lambda x=2
-\end{array}\Rightarrow 
-\begin{array}{c}
-\lambda =\frac{4x}{y^{2}} \\ 
-\lambda =\frac{2}{x}
-\end{array} 
-$$
-Her har vi reduceret til to ligninger med to ubekendte.
-$$\frac{4x}{y^{2}}=\frac{2}{x}\Rightarrow 4x^{2}=2y^{2}\Rightarrow \sqrt{2x^{2}}=\sqrt{y^{2}}\Rightarrow y=\sqrt{2x^{2}}$$
-Nu indsætter vi blot dette i $f(x,y)$ og finder x.
-$$f(x,y)=x^{2}+2y^{2}-1\leq 0\Rightarrow x^{2}+2(\sqrt{2x^{2}})-1\Rightarrow x^{2}+2x^{2}-1$$
-$$=3x^{2}-1$$
-Lad os finde determinanten.
-$$d=b^{2}-4ac=0^{2}-4(3)(-1)=12$$
-Siden vores determinant er positiv må vi have to reelle løsninger. Lad os finde dem:
-$$x=\pm \frac{\sqrt{d}}{2a}= \pm \frac{\sqrt{12}}{6}=\pm \frac{\sqrt{3}}{3}$$
-For at finde vores y-værdier kan vi indsætte i den formel som vi fandt for y.
-$$y=\sqrt{2\left(\pm\frac{\sqrt{3}}{3}\right)^{2}}=\sqrt{\frac{2}{3}}=\frac{\sqrt{6}}{3}$$
-Læg mærke til at $\pm$ forsvinder her da vi hæver i anden.
-Disse to punkter på kanten bliver
-$$\left(\frac{\sqrt{3}}{3},\frac{\sqrt{6}}{3}\right),\left(\frac{-\sqrt{3}}{3},\frac{\sqrt{6}}{3}\right)$$
-Lad os indtaste disse værdier i f, for at teste dem.
-$$f\left(\frac{\sqrt{3}}{3},\frac{\sqrt{6}}{3}\right)=\frac{1}{3}+2 \frac{6}{9}-1=\frac{1}{3}+ \frac{12}{9}- \frac{9}{9}=\frac{1}{3}+ \frac{1}{3}=\frac{2}{3}$$
-Det andet punkt er ikke gyldigt da vi ved at $x \geq 0$ og i det andet punkt er x negativt.
-
-Hvis $(1,0)$ så $f(1,0)=0$ max punkt. 
-Vi kan også finde $f(0,\pm \sqrt{\frac{1}{2}})=2(\frac{1}{2})=0$. Er også et max punkt. 
+2\sqrt{1-2y^{2}} \\ 
+4y
+\end{array}
+\right] $$
+$$\nabla f(x,y)=$$
+Herfra går vi til med den normal Langrange formel.
+$$2x=\lambda (y^{2}-2x) \Rightarrow 2x=\lambda y^{2}-\lambda 2x \Rightarrow $$
+$$2\sqrt{1-2y^{2}}=\lambda y^{2}-2x$$
 # 2
 ## (a)
 Hvis $det(A)=1$ så er $det(A)det(B)=1$ derfor $det(AB)=1$ hvilket betyder at $AB \in SL_{n}(\mathbb{Z})$.
