@@ -1,4 +1,6 @@
 # 1
+Skitsen kommer til at blive en halv cirkel med centrum i origo.
+![[Pointopgave 11 2022-12-19 17.38.01.excalidraw]]
 Givet er $$A=\{(x,y)\in \mathbb{R}^{2}|x^{2}+2y^{2}\leq 1,x \geq 0\} \subseteq \mathbb{R}^{2}$$
 Og funktionen $f(x,y)=xy^{2}-x^{2}$.
 Da vi har to krav, selve underrummet og funktionen kan vi benytte Laranges formel.
@@ -44,7 +46,16 @@ $$x= \frac{-4\pm\sqrt{28}}{6}= \frac{-2\pm\sqrt{7}}{3}$$
 Her kan vi se bort fra den negative kvadratrod, da x skal være positiv.
 $$y=\pm\sqrt{x^{2}+2x}=\pm \sqrt{\frac{2}{3} (-2 + \sqrt{7}) + \frac{1}{9} (-2 + \sqrt{7}^2)}\approx \pm 0.7$$
 Så vi har fundet de kritiske punkter $$\left(\frac{-2+\sqrt{7}}{3},0.7\right)\text{ og }\left(\frac{-2+\sqrt{7}}{3},-0.7\right)$$
-De sidste to punkter finder vi ved randens 
+De sidste to punkter finder vi der hvor randen knækker (ikke er kontinuert).
+Det må være når $x=0$ og derfor bliver $y=\pm \frac{1}{\sqrt{2}}$. 
+Herfra kan vi indsætte vores punkter i funktionen for at sammenligne dem.
+$\left(\frac{-2+\sqrt{7}}{3},0.7\right)\text{ og }\left(\frac{-2+\sqrt{7}}{3},-0.7\right)$ Vi har også $(0,\frac{1}{\sqrt{2}})\text{ og }(0,- \frac{1}{\sqrt{2}})$ og til sidst $(1,0)\text{ og }(0,0)$.
+Vi indsætter disse i $g(x,y)$
+$g(\frac{-2+\sqrt{7}}{3},\pm0.7)=0.059$ Maxpunkter
+$g(0,\pm \frac{1}{\sqrt{2}})=0$ Sadelpunkter
+$g(1,0)=-1$ Minimumspunkt
+$g(0,0)=0$ Sadelpunkt
+
 # 2
 ## (a)
 Hvis $det(A)=1$ så er $det(A)det(B)=1$ derfor $det(AB)=1$ hvilket betyder at $AB \in SL_{n}(\mathbb{Z})$.
@@ -65,6 +76,7 @@ $\vec{e}=(5,1,7)\times (-3,2,2)=(-12,-31,13)$
 Planens ligning kan udtrykkes ved $(-12,-31,13)\cdot (\vec{x}-(1,0,-4))=0$.
 Er dette et underrum af $\mathbb{R}^{3}$? 
 **Lav den her før vi slutter**
+
 ## (c)
 $$T(\vec{v}\times \vec{w})=T\left(\left[
 \begin{array}{c}
