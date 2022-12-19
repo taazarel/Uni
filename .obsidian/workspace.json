@@ -8,21 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3339921586efef8e",
+            "id": "c569ba01ac84b0e5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Kurser/LinAlys/Dokumenter/opg11.pdf"
+                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
               }
             }
           },
           {
-            "id": "3f267ba33d184763",
+            "id": "cea12fcc23bacd3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md"
+              }
             }
           },
           {
@@ -165,17 +172,52 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f267ba33d184763",
+  "floating": {
+    "id": "1430fe2cb12aac31",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7b29abb7615e5a71",
+        "type": "window",
+        "children": [
+          {
+            "id": "fb24c69dabea3082",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "86b26f4e57858990",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Papir til opgaver 2022-12-19 08.20.04.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cea12fcc23bacd3d",
   "lastOpenFiles": [
+    "Kurser/MekRel/Dokumenter/Kap9.pdf",
+    "Assets/Excalidraw/Papir til opgaver 2022-12-19 08.20.04.excalidraw.md",
+    "Kurser/MekRel/Papir til opgaver.md",
     "conflict-files-obsidian-git.md",
     "Kurser/LinAlys/Dokumenter/opg11.pdf",
     "Pointopgave 11.md",
     "personer.md",
     "Kurser/LinAlys/Determinanter.md",
     "Assets/Excalidraw/Regnepapir 2022-12-15 09.37.24.excalidraw.md",
-    "Kurser/LinAlys/Indre Produkt.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Assets/pointopgave 10 1.b.png",
-    "Kurser/MekRel/Speciel Relativitetsteori.md"
+    "Kurser/LinAlys/Indre Produkt.md"
   ]
 }
