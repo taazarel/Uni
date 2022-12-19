@@ -9,3 +9,6 @@ Når vi skriver Rumtidsdiagrammer skal vi huske... :: at gange tid med c og at d
 <!--SR:!2022-12-18,4,270-->
 Et rumtidsdiagram tegnes sådan... :: ![[Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw]]
 <!--SR:!2022-12-18,4,270-->
+
+Egentid er altid... :: den korteste.
+Egenrum er altid... :: den længste.
