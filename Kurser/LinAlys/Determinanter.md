@@ -10,7 +10,7 @@ Vi kan skrive isometri således på papir... :: $T: \mathbb{P}_{3}\to \mathbb{R}
 
 ## Sætning
 Lad V og W være end. dim. Da er V og W isomorfe hvis og kun hvis... :: $dim(V)=dim(W)$.
-<!--SR:!2022-12-18,4,270-->
+<!--SR:!2023-01-03,14,270-->
 
 
 # Messer §7.1 Induktionsbevis
