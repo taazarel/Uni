@@ -31,7 +31,7 @@ Vi kan skrive alle muligheder for partielt afledte af en bestemt orden gennem en
 <!--SR:!2023-01-05,22,294-->
 ### Hessematrix fortsat
 Vi kan indsætte værdier i vores hessematrix. Lad os tage funktionen fra 278 som eksempel. Vi finder $Hf(0,0)=...$::$$\left[\begin{array}{cc}0 & 0 \\ 0 & 2\end{array}\right] $$
-<!--SR:!2022-12-18,4,283-->
+<!--SR:!2023-01-12,23,303-->
 
 <!--SR:!2023-01-06,23,301-->
 ## Definition 2.79
@@ -42,7 +42,7 @@ Lad $A \subseteq \mathbb{R}^{n}$ være åben, $r \in \mathbb{N}$. Så vil $f:A \
 
 ## Sætning 2.82
 Lad $A \subseteq \mathbb{R}^{n}$ være åben og $r \in \mathbb{N}$ og $f:A \to \mathbb{R}\text{ er }C^{2}$. For $i,j \in \{1,...,n \}$ har vi... :: En associations lov for alle $\vec{a} \in A$: $$\frac{\delta^{2}f}{\delta x_{i}\delta x_{j}}(\vec{a})= \frac{\delta^{2}f}{\delta x_{j}\delta x_{i}}(\vec{a})$$
-<!--SR:!2022-12-18,4,274-->
+<!--SR:!2023-01-11,22,294-->
 
 <!--SR:!2022-12-25,11,250-->
 ### Udvidelse af 2.82
@@ -53,7 +53,7 @@ Hvis vi har $f \text{ er }C^{3}$ kan vi anvende... :: $$\frac{\delta^{3}f}{\delt
 # TK § 3.1
 ## Definition af ekstremum
 Størsteværdipunkt er det samme som... ::: Globalt maksimumspunkt: $$f(\vec{x})\leq f(\vec{a})\text{ for alle }\vec{x}\in A$$
-<!--SR:!2023-01-13,24,303!2022-12-18,4,283-->
+<!--SR:!2023-01-13,24,303!2023-01-02,13,283-->
 
 <!--SR:!2023-01-06,23,294!2022-12-12,4,274-->
 Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\geq f(\vec{a})\text{ for alle }\vec{x}\in A$$
@@ -123,6 +123,7 @@ Får vi en ustabil ligevægt[^5]
 
 ## Sætning 3.4 (ABC kriteriet)
 Lad $D=det(Hf(\vec{a}))$ altså determinanten til hessematricen af et punkt a.
+Og lad $A$ være egenværdien af hessematricen. $A \vec{x}=\lambda \vec{x}$.
 Så får vi tre sandheder
 1. Hvis D<0...
 2. Hvis D>0 og A>0...
@@ -132,9 +133,16 @@ Så er $\vec{a}$ et sadelpunkt
 Så er $\vec{a }$ et lokalt minimumspunkt
 Så er $\vec{a }$ et lokalt maximumspunkt
 
+### Udvidelse af ABC kriteriet
+1. Hvis alle [[Egenværdier]] for $Hf(\vec{a})$ er positive...
+2. Hvis alle egenværdier for $Hf(\vec{a})$ er negative...
+3. Hvis mindst en egenværdi er positiv og mindst en er negativ...
+?
+1. Så er $\vec{a}$ et lokalt min.
+2. Så er $\vec{a}$ et lokalt max.
+3. Så er $\vec{a}$ et sadelpunkt.
 
 # Fodnoter
-
 [^1]: Vi kan altså bytte om på dem, så længde at de står i samme rækkefølge.
 [^2]: ved uligheden om og så har vi et lokalt minimum
 [^3]: Her valgte vi (1,t) da dette er den højre kant af firkanten, hvor vi ikke ved hvad y skal være. (Funktionen tegnes inden i en firkant da den er defineret i D_1)

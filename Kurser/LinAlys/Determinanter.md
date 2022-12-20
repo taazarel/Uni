@@ -79,7 +79,7 @@ $$\sum_{k=1}^{n}(-1)^{r+k}a_{rk}\cdot det(A_{rk})$$[^3]
 
 ## Sætning 7.9[[Lineære Afbildninger]]
 Hvis $A,B \in \mathbb{M}_{n,n}$ så er $det(AB)=...$::$det(A)det(B)$
-<!--SR:!2022-12-18,4,278-->
+<!--SR:!2023-01-09,20,298-->
 
 ## Definition for transponering
 For $A \in \mathbb{M}_{n,n}$, sæt $A^{t}=...$:: matricen hvis (i,j)-te indgang er $a_{ji}$. Altså en spejlbildning i diagonalen.
@@ -144,6 +144,7 @@ $||\vec{v}||||\vec{w}||\sin{(\theta )}$
 
 ## Orientering af baser
 Ordnede baser, $B = [\vec{u_{1}},\vec{u_{2}},\vec{u_{3}}] \in \mathbb{R}^{3}$ inddeles i... :: højrehåndede $det(B)>0$ og venstrehåndede $det(B)<0$ baser.
+<!--SR:!2022-12-23,3,268-->
 
 ### Operation på base
 $T:\mathbb{R}^{3}\to \mathbb{R}^{3}$ lineær $T(\vec{x})=A \vec{x}$ hvor $A \in \mathbb{M}_{3,3}$. Givet at T er isomorf $\Leftrightarrow$ A har invers $\Leftrightarrow$ $det(A)\neq 0$ så er operationen på basen B... :: $T(B)=B'=[T(\vec{u_{1}}),T(\vec{u_{2}}),T(\vec{u_{3}})]$ også en basis og har samme orientering som B.

@@ -144,7 +144,7 @@ Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimension
 <!--SR:!2023-03-28,110,314-->
 ### Eksempel
 dimensionen af $\mathbb{R}^{n}$ kan skrives som... :: $dim \mathbb{R}^{n}=n$ da vi kan skrive en identitetsmatrix som er nxn.[^4]
-<!--SR:!2022-12-18,4,300-->
+<!--SR:!2023-01-14,25,320-->
 
 <!--SR:!2023-04-30,137,320-->
 
@@ -163,7 +163,7 @@ Vektorrummet V udspændes af familien $\vec{v_{1}},...,\vec{v_{n}}$ givet $\vec{
 
 ## 3.18 (Udtydningssætningen)
 Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde familien til en basis.
-<!--SR:!2022-12-18,4,300-->
+<!--SR:!2023-01-17,28,320-->
 
 <!--SR:!2023-05-02,139,324-->
 ### Bevis

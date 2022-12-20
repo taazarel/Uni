@@ -15,7 +15,7 @@ Definitionen af addition i $\mathbb{C}$ er... :: $(a+ib)+(c+id)=(a+c)+i(b+d)$
 Definitionen af multiplikation i $\mathbb{C}$ er... :: $zw=(a+ib)(c+id)=(ac-bd)+i(ad+bc)$
 <!--SR:!2023-01-23,55,310-->
 Definitionen af multiplikation i polarform er... :: $zw=(r_{1}e^{i \theta_{1}})(r_{2}e^{\theta_{2} i})=(r_{1}r_{2})e^{i(\theta_{1}\theta_{2})}$.
-<!--SR:!2022-12-18,4,308-->
+<!--SR:!2023-01-18,29,328-->
 <!--SR:!2023-03-02,78,250-->
 Definitionen af division i $\mathbb{C}$, givet $\frac{1}{z}\neq \frac{1}{0}$, er... :: $\frac{1}{z}= \frac{1}{a+ib}= \frac{a-ib}{(a+ib)(a-ib)}= \frac{a-ib}{a^{2}+b^{2}}= (\frac{a}{a^{2}+b^{2}})+i(\frac{-b}{a^{2}+b^{2}})$ Man skal huske at forlænge med $a-ib$.[^1]
 <!--SR:!2023-02-22,79,310-->
