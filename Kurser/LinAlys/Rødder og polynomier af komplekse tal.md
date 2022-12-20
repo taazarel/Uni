@@ -100,7 +100,7 @@ Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale me
 <!--SR:!2023-01-09,26,226-->
 ### Korollar "Ortonormal basis" (ONB)
 $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en endelig $dim \{ V\}$ så vil ... :: vi finde en basis $\vec{u_{1}},...,\vec{u_{n}}\in V$ gennem en Gram Schmidt Proces.
-<!--SR:!2022-12-18,13,246-->
+<!--SR:!2023-01-24,35,246-->
 
 ## Sætning 4.20 (Konstruktion af ONB)[^4]
 Givet $\vec{u_{1}},...,\vec{u_{n}}\in V$ er en basis, konstruerer vi ONB $\vec{e_{1}},...,\vec{e_{n}}\in V$ og kan definere... :: $\vec{e_{1}}= \frac{1}{||\vec{u_{1}}||}\vec{u_{1}}$ og $v_{2}=\vec{u_{2}}-\langle \vec{u_{2}},\vec{e_{1}}\rangle \vec{e_{1}}$ så kan vi definere $\vec{e_{2}}= \frac{1}{||\vec{v}||}\vec{v_{2}}$.
@@ -121,7 +121,7 @@ Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$
 
 ## Lemma 3.5.3
 $P(z)=c_{n}z^{n}+...+c_{0}$ hvis $r \in \mathbb{C}$ er rod er... ::  $\vec{r}\in \mathbb{C}$ også en rod.
-<!--SR:!2022-12-16,11,246-->
+<!--SR:!2023-02-13,55,266-->
 
 
 

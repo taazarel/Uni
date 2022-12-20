@@ -5,7 +5,7 @@ W er en operation $\langle ,\rangle$, som hedder det indre produkt, og givet er 
 <!--SR:!2022-12-24,26,290-->
 Liste af aksiomer:
 For alle $\vec{v}\in V:\langle \vec{v},\vec{v}\rangle\geq 0$ og hvis $\langle \vec{v},\vec{v}\rangle=0$ så får vi... :: $\vec{v}=\vec{0}$ (i)
-<!--SR:!2022-12-15,24,301-->
+<!--SR:!2023-04-20,121,321-->
 For alle $\vec{v},\vec{w}\in V$ er $\langle \vec{v},\vec{w}\rangle=$.... :: $\langle \vec{w},\vec{v}\rangle$.  (ii)
 <!--SR:!2023-02-24,81,310-->
 For alle $\vec{v},\vec{w}\in V$, $r \in \mathbb{R}$ er $\langle r \vec{v},\vec{w}\rangle=$... :: $r\langle \vec{v},\vec{w}\rangle$ (iii)
@@ -35,7 +35,7 @@ Vi definerer vinklen mellem $\vec{v},\vec{w}\in \mathbb{R}^{n}$ som... :: $\vec{
 Hvis $\langle \vec{v},\vec{w}\rangle=0$ så kaldes vektorerne... :: ortogonale på hinanden.[^5]
 <!--SR:!2022-12-21,23,290-->
 Pythagoras i vektorrumet som har indre produkter er... :: $||\vec{v}-\vec{w}||=||\vec{v}||^{2}+||\vec{w}||^{2}-2\langle \vec{v},\vec{w}\rangle$ hvor $\langle \vec{v},\vec{w}\rangle =||\vec{v}||\cdot ||\vec{w}||cos(\theta )$[^6]
-<!--SR:!2022-12-18,4,306-->
+<!--SR:!2023-01-12,23,326-->
 
 <!--SR:!2023-03-06,82,277-->
 

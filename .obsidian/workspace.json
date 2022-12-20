@@ -11,8 +11,12 @@
             "id": "2a394a8831ae1ca7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Højere ordens afledte.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -109,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/LinAlys/Højere ordens afledte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/LinAlys/Højere ordens afledte.md"
+              }
             }
           },
           {

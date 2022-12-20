@@ -31,7 +31,7 @@ $T(r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}})=r_{1}T(\vec{v_{1}})+...+r_{n}T(\vec{v_
 
 ### Sætning 6.3
 Lad $T,T':V \to W$ være lineær, og lad $S=\{\vec{v_{1}},...,\vec{v_{n}} \}\in V$ være udspændende. Hvis $T(\vec{v_{i}})=T'(\vec{v_{i}})$ for alle i, så er $T=$... :: $T'$ Altså har entydighed for disse funktioner.
-<!--SR:!2022-12-19,11,274-->
+<!--SR:!2023-01-23,34,274-->
 
 # Messer §6.3 (Sammenhæng af lineære afbildninger og matricer)
 ### Sætning 6.11 (Specialtilfælde af 6.12)

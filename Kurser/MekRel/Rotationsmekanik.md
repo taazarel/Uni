@@ -110,7 +110,7 @@ Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså b�
 
 ## Impulsmoment (7.6)
 Impulsmomentet er det samme som impuls for rotationer og skrives som... :: $L_{Q}=I_{Q}\omega$  Husk at skrive L og $\omega$ som vektorer hvis de ikke er størrelser.(7.49)[^16]
-<!--SR:!2022-12-20,18,333-->
+<!--SR:!2022-12-28,8,313-->
 Impulsmomentet fra translatorisk bevægelse bliver skrevet som... :: $\vec{L_{Q}}=\vec{r_{Q}}\times \vec{p}$ som også kan skrives $\vec{L_{Q}}=\vec{r}\vec{p}\sin{\theta }$  (7.51)[^17]
 <!--SR:!2023-03-07,78,353-->
 Denne regel bruges til at finde retningen af impulsmomentet af en cirkelbevægelse... :: højrehåndsreglen. Man peger sine fingre i retningen af stedvektoren, og derefter folder man dem mod impulsvektoren, så vil tommelfingeren pege i samme retning som impulsmomentet.

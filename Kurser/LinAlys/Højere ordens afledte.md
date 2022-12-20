@@ -6,7 +6,7 @@ Begyndelsesdato: Kl. 08:09  Den 06-12-2022   Uge-49
 # TK § 2.5
 ## [[Retningsafledte#Partielt afledte funktioner|Partielt Afledte]] af f af *anden* orden
 Vi kan finde partielt afledte af en højere orden således $$\frac{\delta^{2}f}{\delta x_{j}\delta x_{i}}=...$$:: $$\frac{\delta}{\delta x_{j}}\left(\frac{\delta f}{\delta x_{i}}\right)$$ 
-<!--SR:!2022-12-18,4,270-->
+<!--SR:!2022-12-22,2,250-->
 
 <!--SR:!2023-01-09,26,294-->
 
@@ -26,7 +26,7 @@ $$6x^{2}y+2$$
 
 ## Hessematrix
 Vi kan skrive alle muligheder for partielt afledte af en bestemt orden gennem en hessematrice. Vi bruger funktionen i eksempel 278: Det skrives således $$Hf(x,y)=...$$::$$\left[\begin{array}{cc}2y^{3} & 6xy^{2} \\ 6xy^{2} & 6x^{2}y+2\end{array}\right] $$
-<!--SR:!2022-12-18,4,274-->
+<!--SR:!2023-01-15,26,294-->
 
 <!--SR:!2023-01-05,22,294-->
 ### Hessematrix fortsat
@@ -47,13 +47,13 @@ Lad $A \subseteq \mathbb{R}^{n}$ være åben og $r \in \mathbb{N}$ og $f:A \to \
 <!--SR:!2022-12-25,11,250-->
 ### Udvidelse af 2.82
 Hvis vi har $f \text{ er }C^{3}$ kan vi anvende... :: $$\frac{\delta^{3}f}{\delta x_{i}\delta x_{j}\delta x_{k}}= \frac{\delta^{3}f}{\delta x_{j}\delta x_{k}\delta x_{i}}$$[^1]
-<!--SR:!2022-12-18,4,274-->
+<!--SR:!2023-01-12,23,294-->
 
 <!--SR:!2023-01-04,21,290-->
 # TK § 3.1
 ## Definition af ekstremum
 Størsteværdipunkt er det samme som... ::: Globalt maksimumspunkt: $$f(\vec{x})\leq f(\vec{a})\text{ for alle }\vec{x}\in A$$
-<!--SR:!2022-12-18,4,283!2022-12-18,4,283-->
+<!--SR:!2023-01-13,24,303!2022-12-18,4,283-->
 
 <!--SR:!2023-01-06,23,294!2022-12-12,4,274-->
 Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\geq f(\vec{a})\text{ for alle }\vec{x}\in A$$
@@ -98,7 +98,7 @@ $f(-3+t,1-t)=-3t^{2}+9$ Er ikke et lokalt minimum
 ## Parametriseringsmetoden
 Vi ved hvordan vi finder et lokalt min, maks og sadelpunkter for stationære punkter, men vil også gerne vide det for randpunkter.
 Givet er $A=D_{1}\subseteq \mathbb{R}^{2}$ hvor $D_{1}=[0,1]\times [0,1]=\{(x,y)\in \mathbb{R}^{2}|\begin{array}{c}0\leq x \leq 1 \\ 0 \leq y \leq 1\end{array} \}$. og funktionen $g:D_{1}\to \mathbb{R}$, $g(x,y)=3x^{2}-x-y+y^{2}$. $\delta D_{1}$ er fire linjestykker, for at finde randpunkterne som kunne være lokale ekstremum... :: parametriserer vi således $g(1,t)=3-1-t+t^{2}=t^{2}-t+2=f(t)$ Vi differentierer $\frac{df(t)}{dt}=2t-1$ og finder hvor $f'(t)=0$ hvilket er $\frac{1}{2}$. Så har vi kandidat til et ekstremum som hedder $(1,\frac{1}{2})$.[^3]
-<!--SR:!2022-12-18,4,283-->
+<!--SR:!2023-01-10,21,303-->
 Parametriseringsmetoden er god at benytte når... :: Man har to variable, og kan gætte en parametrisering.
 <!--SR:!2022-12-18,4,270-->
 
@@ -113,9 +113,19 @@ Hvis $\vec{a}\in S$ er et lokalt ekstrema for $f:S \to A$ (betyder f på S), så
 Langranges multiplikatormetode giver... :: kandidater til ekstrema, ikke ekstrema i sig selv.
 <!--SR:!2022-12-18,4,274-->
 
+## Ligevægtspunkter
+Antag at $\vec{x}(t)$ opfylder $\frac{d^{2}}{dt^{2}}\vec{x}(t)=-\nabla V(\vec{x}(t))$ hvor $V:\mathbb{R}^{n}\to \mathbb{R}$. Da vil $$V(\vec{x})=-G \sum \frac{m_{i}}{|\vec{x}-\vec{x}_{i}|}$$Får vi konstante løsninger $\vec{x}(t)=\vec{v} \leftrightarrow \nabla V(\vec{v})=\vec{0}$
+Hvis $\vec{v}$ er lokalt min...
+Hvis $\vec{v}$ er lokalt max...
+?
+Får vi en stabil ligevægt
+Får vi en ustabil ligevægt[^5]
+
+
 # Fodnoter
 
 [^1]: Vi kan altså bytte om på dem, så længde at de står i samme rækkefølge.
 [^2]: ved uligheden om og så har vi et lokalt minimum
 [^3]: Her valgte vi (1,t) da dette er den højre kant af firkanten, hvor vi ikke ved hvad y skal være. (Funktionen tegnes inden i en firkant da den er defineret i D_1)
 [^4]: Har n ligninger i n+1 variable hvilket er $(a_{1},...,a_{n},\lambda )\in \mathbb{R}$.
+[^5]: Disse to beskriver mange fænomen i fysik. Fx tyngdekraft og elektromagnetiske felter.

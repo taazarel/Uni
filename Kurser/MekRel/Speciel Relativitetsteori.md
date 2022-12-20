@@ -47,7 +47,7 @@ Vi kan lave tre linjer i et rumtidsdiagram når vi har et andet synspunkt repræ
 Hvis vi indfører lysets hast i linjerne for rumtidsdiagrammet $x=vt,x=t \text{ og }x=\frac{t}{v}$ så får vi... :: $x=vt \text{ for et stille objekt},x=ct \text{ for et foton }, t=\frac{vx}{c^{2}} \text{ for samtidigheden}$
 <!--SR:!2022-12-23,4,288-->
 Kausalitet siger at... :: når begivenhed A laver begivenhed B så sker A før B, og alle synspunkter kan sige dette.[^2]
-<!--SR:!2022-12-20,1,248-->
+<!--SR:!2022-12-23,3,268-->
 
 Vi kan aldrig blive enige om rækkefølge af A så B i... :: Spacelike begivenheder da vi kan finde forskellige synspunkter til dem.
 <!--SR:!2022-12-23,4,288-->
