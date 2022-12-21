@@ -74,8 +74,15 @@ Planens ligning kan udtrykkes ved $(-6,-2,-6)\cdot (\vec{x}-(2,1,3))=0$
 ## (b)
 Vi er givet et punkt og to vektorer som kan ligge i planen. Så vi kan bruge vektorerne til at finde normalvektoren.
 $\vec{e}=(5,1,7)\times (-3,2,2)=(-12,-31,13)$
+$(-3,2,2)\times (5,1,7)=(12,31,-13)=-\vec{e}$
 Planens ligning kan udtrykkes ved $(-12,-31,13)\cdot (\vec{x}-(1,0,-4))=0$.
-
+Vi finder at planens ligning ikke er tom, da vi kan finde
+$(-12,-31,13)\cdot ((1,0,-4)-(1,0,-4))=0$.
+Vi finder at der er lukket under addition $(-12,-31,13)\cdot (\vec{x}-(1,0,-4))+(-12,-31,13)\cdot (\vec{v}-(1,0,-4))=0+0=0$$(-12,-31,13)\cdot (\vec{x}-(1,0,-4)+\vec{v}-(1,0,-4))=0$
+$(-12,-31,13)\cdot (\vec{x}+\vec{v}-(2,0,-8))=0$
+Vi finder at der er lukket under multiplikation ved
+$(-12,-31,13)\cdot (\vec{x}-(1,0,-4))(-12,-31,13)\cdot (\vec{v}-(1,0,-4))=0$.
+$(-12,-31,13)\cdot (\vec{x}\vec{v}-(1,0,-4)^{2}-\vec{x})$
 ## (c)
 $$T(\vec{v}\times \vec{w})=T\left(\left[
 \begin{array}{c}
