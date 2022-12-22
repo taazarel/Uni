@@ -11,8 +11,12 @@
             "id": "ed208a295939cfe9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Egenværdier.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -72,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md"
+              }
             }
           },
           {
@@ -160,20 +166,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "ab044856bc48108a",
+        "id": "25c5e7d655a1e658",
         "type": "window",
         "children": [
           {
-            "id": "ed1a914e62ffb4f9",
+            "id": "c042ec353168586e",
             "type": "tabs",
             "children": [
               {
-                "id": "68b4d72072778836",
+                "id": "24ee2c621784fe06",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "Assets/Excalidraw/Papir til opgaver 2022-12-20 13.36.34.excalidraw.md"
+                    "file": "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md"
                   }
                 }
               }
@@ -190,17 +196,17 @@
       }
     ]
   },
-  "active": "ed208a295939cfe9",
+  "active": "24ee2c621784fe06",
   "lastOpenFiles": [
-    "Kurser/MekRel/Dokumenter/Kap9.pdf",
+    "Egenværdier.md",
+    "Kurser/LinAlys/Regnepapir.md",
+    "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
     "Assets/Excalidraw/Papir til opgaver 2022-12-20 13.36.34.excalidraw.md",
+    "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
     "Assets/Excalidraw/Regnepapir 2022-12-20 09.40.23.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Kurser/LinAlys/Dokumenter/opg11.pdf",
-    "Pointopgave 11.md",
-    "Assets/Excalidraw/Pointopgave 11 2022-12-19 17.38.01.excalidraw.md"
+    "Kurser/LinAlys/Dokumenter/opg11.pdf"
   ]
 }

@@ -137,7 +137,7 @@ Givet $\vec{v_{1}},...,\vec{v_{m}}\text{ og }\vec{w_{1}},...,\vec{w_{n}}$ er bas
 
 <!--SR:!2023-05-02,139,323-->
 Theorem 3.16 kan bevises med... :: Sammenligningssætningen.
-<!--SR:!2022-12-22,31,280-->
+<!--SR:!2023-04-23,122,300-->
 
 ## Definition 3.13(Dimension)
 Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimensioner og vi kan skrive $dimV=n$

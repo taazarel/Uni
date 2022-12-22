@@ -33,7 +33,7 @@ Vi definerer afstanden til $\vec{0}\in \mathbb{R}^{n}$ som $||\vec{v}||=$... :: 
 Vi definerer vinklen mellem $\vec{v},\vec{w}\in \mathbb{R}^{n}$ som... :: $\vec{v}\cdot \vec{w}=||\vec{v}||\cdot ||\vec{w}||\cos{\theta }\Rightarrow$ $\frac{\vec{v}\cdot \vec{w}}{||\vec{v}||\cdot ||\vec{w}||}=\cos{\theta }\Rightarrow \theta =\cos^{-1}{\left(\frac{\langle\vec{v},\vec{w}\rangle}{||\vec{v}||\cdot ||\vec{w}||}\right)}$.[^4]
 <!--SR:!2023-02-14,68,301-->
 Hvis $\langle \vec{v},\vec{w}\rangle=0$ så kaldes vektorerne... :: ortogonale på hinanden.[^5]
-<!--SR:!2022-12-21,23,290-->
+<!--SR:!2023-03-27,95,310-->
 Pythagoras i vektorrumet som har indre produkter er... :: $||\vec{v}-\vec{w}||=||\vec{v}||^{2}+||\vec{w}||^{2}-2\langle \vec{v},\vec{w}\rangle$ hvor $\langle \vec{v},\vec{w}\rangle =||\vec{v}||\cdot ||\vec{w}||cos(\theta )$[^6]
 <!--SR:!2023-01-12,23,326-->
 
