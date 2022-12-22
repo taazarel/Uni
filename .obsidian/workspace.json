@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
+                "file": "Egenværdier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md"
+                "file": "Egenværdier.md"
               }
             }
           },
@@ -161,45 +161,10 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "d2737dafb958a411",
-    "type": "floating",
-    "children": [
-      {
-        "id": "25c5e7d655a1e658",
-        "type": "window",
-        "children": [
-          {
-            "id": "c042ec353168586e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "24ee2c621784fe06",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "24ee2c621784fe06",
+  "active": "ed208a295939cfe9",
   "lastOpenFiles": [
-    "Egenværdier.md",
     "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
+    "Egenværdier.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Assets/Excalidraw/Papir til opgaver 2022-12-20 13.36.34.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
