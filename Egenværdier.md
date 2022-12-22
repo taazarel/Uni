@@ -19,8 +19,26 @@ For $A \in \mathbb{M}_{n,n}$ er $p:\mathbb{R}\to \mathbb{R}$, polynomiet $p(\lam
 ## §8.2 At finde egenværdier for en operator
 V har end. dim. Vælg så en ordnet basis $B=[\vec{v_{1}},...,\vec{v_{n}}]$ lad $A \in \mathbb{M}_{n,n}$ være matricen for T, referende til B. Vi kan herved skrive $[T(\vec{v})]_{B}=A [\vec{v}]_{B}$ for alle $\vec{v}\in V$. Vi finder egenværdierne ved... :: $p(\lambda )=det(\lambda I-A)=\lambda ^{n}+c_{n-1 }\lambda ^{n-1}+...+c_{0}$  Så er rødderne egenværdierne.
 
-## Påstand
-Givet $A'=P^{-1}AP$ så er $det(A'-\lambda I)=...$:: $det(A-\lambda I)$.
+## Definition 8.4
+$A,A' \in \mathbb{M}_{n,n}$ similære hvis $A'=P^{-1}AP$. Så er $det(A'-\lambda I)=...$:: $det(A-\lambda I)$.
+
+## Definition 8.9
+V har end. dim. $T:V \to V$ er lineær. Så er det karakteristiske polynomie for T... :: $=det(\lambda I-A)=(-1)^{n}det(A-\lambda I)$.
+
+## Sætning 8.8
+Similære matricer har samme... :: karakteristiske polynomier/Determinanter af $det(A-\lambda I)=det(A'-\lambda I)$.
+
+## Sætning 8.7 (Om sporet/track af matricer)
+For alle $A,B \in \mathbb{M}_{n,n}$
+1. $tr(A+B)=...$
+2. $tr(rA)=...$
+3. $tr(AB)=...$
+4. $tr(P^{-1}AP)=...$
+?
+1. $tr(A)+tr(B)$
+2. $r \cdot tr(A)$
+3. $tr(BA)$
+4. $tr(A)$
 
 
 
