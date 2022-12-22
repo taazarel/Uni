@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3994f85a55aab455",
+        "id": "a78ce2ee72cb97db",
         "type": "tabs",
         "children": [
           {
-            "id": "8a8074f5a599781a",
+            "id": "ed208a295939cfe9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -112,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -195,11 +190,11 @@
       }
     ]
   },
-  "active": "8a8074f5a599781a",
+  "active": "ed208a295939cfe9",
   "lastOpenFiles": [
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
-    "Assets/Excalidraw/Papir til opgaver 2022-12-20 13.36.34.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
+    "Assets/Excalidraw/Papir til opgaver 2022-12-20 13.36.34.excalidraw.md",
+    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
     "Assets/Excalidraw/Regnepapir 2022-12-20 09.40.23.excalidraw.md",
