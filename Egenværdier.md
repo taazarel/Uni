@@ -16,5 +16,13 @@ $\lambda \in \mathbb{R}$ er en egenværdi for $A \in \mathbb{M}_{n,n}\Leftrighta
 ## Sætning på side 335
 For $A \in \mathbb{M}_{n,n}$ er $p:\mathbb{R}\to \mathbb{R}$, polynomiet $p(\lambda )=det(A-\lambda I)$ et polynomium af grad n. Og er skrevet som... :: $p(\lambda )=\lambda ^{n}+c_{n-1}\lambda ^{n-1}+...+c_{0}$.
 
+## §8.2 At finde egenværdier for en operator
+V har end. dim. Vælg så en ordnet basis $B=[\vec{v_{1}},...,\vec{v_{n}}]$ lad $A \in \mathbb{M}_{n,n}$ være matricen for T, referende til B. Vi kan herved skrive $[T(\vec{v})]_{B}=A [\vec{v}]_{B}$ for alle $\vec{v}\in V$. Vi finder egenværdierne ved... :: $p(\lambda )=det(\lambda I-A)=\lambda ^{n}+c_{n-1 }\lambda ^{n-1}+...+c_{0}$  Så er rødderne egenværdierne.
+
+## Påstand
+Givet $A'=P^{-1}AP$ så er $det(A'-\lambda I)=...$:: $det(A-\lambda I)$.
+
+
+
 # Fodnoter
 [^1]: Kan også skrives som $A \vec{v}=\lambda \vec{v}\Rightarrow (A-\lambda I)\vec{v}=\vec{0}$ givet $V = \mathbb{R}^{n}$.
