@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
+                "file": "Egenværdier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md"
+                "file": "Egenværdier.md"
               }
             }
           },
@@ -191,16 +191,16 @@
         "y": 12,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "24ee2c621784fe06",
+  "active": "ed208a295939cfe9",
   "lastOpenFiles": [
+    "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
     "Egenværdier.md",
     "Kurser/LinAlys/Regnepapir.md",
-    "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
     "Assets/Excalidraw/Papir til opgaver 2022-12-20 13.36.34.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
