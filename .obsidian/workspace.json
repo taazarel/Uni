@@ -28,25 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3499692dd97d1644",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5026936ef2644b59",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md"
+              }
             }
           },
           {
@@ -201,7 +188,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5026936ef2644b59",
+  "active": "64fc5b4747b73169",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
