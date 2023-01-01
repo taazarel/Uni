@@ -16,8 +16,37 @@
                 "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
               }
             }
+          },
+          {
+            "id": "64fc5b4747b73169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3499692dd97d1644",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5026936ef2644b59",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -111,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -175,16 +201,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1dad9ff3091e43c8",
+  "active": "5026936ef2644b59",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Pointopgave 11.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
     "Kurser/LinAlys/Determinanter.md",
     "Kurser/LinAlys/Abstrakte vektorrum.md",
     "Kurser/LinAlys/Dokumenter/opg11.pdf",
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/LinAlys/Lineære Afbildninger.md"
   ]

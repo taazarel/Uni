@@ -15,7 +15,7 @@ $rT(\vec{v})$ Homogen lov
 
 #### Eksempel
 $A \in \mathbb{M}_{m,n}$[^7] og $\mu _{A}:\mathbb{R}^{n}\to \mathbb{R}^{m}$ $\mu_{A}(\vec{v})=A \vec{v}$. Givet at $A(\vec{v}+\vec{w})=A\vec{v}+A\vec{w}$ og $A(r \vec{v})=r A\vec{v}$ så må $\mu_{A}$ være... :: $\mu_{A}$ er lineær.
-<!--SR:!2022-12-21,13,274-->
+<!--SR:!2023-01-27,36,274-->
 
 ### Sætning 6.2
 
