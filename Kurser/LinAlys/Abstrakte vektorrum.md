@@ -119,7 +119,7 @@ $\vec{o}=r_{1}\vec{v_{1}}+...+r_{i-1}\vec{v_{i-1}}-\vec{v_{i}}+r_{i+1}\vec{v_{i+
 ## Sammenligningssætningen(3.15)
 
 Et vektorrum V $\vec{v_{1}},...,\vec{v_{m}}$ udspænder V og $\vec{w_{1}},...,\vec{w_{n}}$, der er lineært uafhængig i V, da kan vi sige dette om størrelserne n og m... :: $m \geq n$.[^3]
-<!--SR:!2022-12-18,4,303-->
+<!--SR:!2023-01-17,28,323-->
 
 <!--SR:!2023-04-29,136,320-->
 ### Bevis
@@ -133,7 +133,7 @@ Vi har en basis af vektorer $\vec{v_{1}},...,\vec{v_{n}}$ i V når... :: Den bå
 
 ## Theorem 3.16
 Givet $\vec{v_{1}},...,\vec{v_{m}}\text{ og }\vec{w_{1}},...,\vec{w_{n}}$ er baser da er deres dimensioner... :: $n=m$ kvadratiske.
-<!--SR:!2022-12-18,4,300-->
+<!--SR:!2023-01-14,25,320-->
 
 <!--SR:!2023-05-02,139,323-->
 Theorem 3.16 kan bevises med... :: Sammenligningssætningen.
@@ -144,7 +144,7 @@ Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimension
 <!--SR:!2023-03-28,110,314-->
 ### Eksempel
 dimensionen af $\mathbb{R}^{n}$ kan skrives som... :: $dim \mathbb{R}^{n}=n$ da vi kan skrive en identitetsmatrix som er nxn.[^4]
-<!--SR:!2022-12-18,4,300-->
+<!--SR:!2023-01-14,25,320-->
 
 <!--SR:!2023-04-30,137,320-->
 
@@ -163,12 +163,12 @@ Vektorrummet V udspændes af familien $\vec{v_{1}},...,\vec{v_{n}}$ givet $\vec{
 
 ## 3.18 (Udtydningssætningen)
 Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde familien til en basis.
-<!--SR:!2022-12-18,4,300-->
+<!--SR:!2023-01-17,28,320-->
 
 <!--SR:!2023-05-02,139,324-->
 ### Bevis
 Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers kan vi bruge... :: Udtyndingslemmaet da $dim V<n$ og derfor er $\vec{v_{1}},...,\vec{v_{n}}$ ikke lineært uafhængig. Så bruger vi bare 3.17. indtil $dim V=n$
-<!--SR:!2022-12-15,30,280-->
+<!--SR:!2023-05-06,137,300-->
 
 ## 3.19 (Udvidelseslemmaet)
 Hvis vi har et span som $\vec{v_{n+1}}\notin span \{\vec{v_{1}},...,\vec{v_{n}} \}$ hvor spannet er lineært uafhængigt så vil spannet inkluderende $\vec{v_{n+1}}$... :: $\vec{v_{1}},...,\vec{v_{n}},\vec{v_{n+1}}$ være lineært uafhængigt.
@@ -176,7 +176,7 @@ Hvis vi har et span som $\vec{v_{n+1}}\notin span \{\vec{v_{1}},...,\vec{v_{n}} 
 
 ## 3.20 (Udvidelsessætningen)
 Hvis vi har en vektorfamilie $\vec{v_{1}},...,\vec{v_{n}}$ i et endeligt vektorrum med m, dimensioner, kan vi... :: udvide familien til en basis på m dimensioner.
-<!--SR:!2022-12-18,4,303-->
+<!--SR:!2023-01-15,26,323-->
 
 <!--SR:!2023-05-01,138,320-->
 ### Bevis

@@ -2,20 +2,20 @@
 Begyndelsesdato: Kl. 08:08  Den 08-12-2022   Uge-49
 ## Definition 6.8 (Isometrier)
 En isometri fra V til W er en... :: lineær afbildning af $T:V \to W$ som er både injektiv og surjektiv.
-<!--SR:!2022-12-18,4,270-->
+<!--SR:!2023-01-10,21,290-->
 V og W er isomorfe hvis der eksisterer... :: en isometri mellem dem $V \to W$.
-<!--SR:!2022-12-18,4,270-->
+<!--SR:!2023-01-11,22,290-->
 Vi kan skrive isometri således på papir... :: $T: \mathbb{P}_{3}\to \mathbb{R}^{4}$. hvor $a_{3}x^{3}+...+a_{0}x^{0}\rightarrow (a_{0},...,a_{3})\text{ eller }(a_{3},...,a_{0})$.
-<!--SR:!2022-12-18,4,270-->
+<!--SR:!2023-01-04,15,270-->
 
 ## Sætning
 Lad V og W være end. dim. Da er V og W isomorfe hvis og kun hvis... :: $dim(V)=dim(W)$.
-<!--SR:!2022-12-18,4,270-->
+<!--SR:!2023-01-03,14,270-->
 
 
 # Messer §7.1 Induktionsbevis
 Induktionsbeviser er en metode til at bevise påstande for alle $n \in \mathbb{N}$. Den går således: Påstand $S_{n}$ er sand og $S_{n}\Rightarrow S_{n+1}$ er sandt, så er... :: $S_{n}$ sandt for alle $n \in \mathbb{N}$.
-<!--SR:!2022-12-18,4,270-->
+<!--SR:!2023-01-09,20,290-->
 ### Eksempel for induktiontionsbevis
 $$\sum_{j=1}^{n}(2j-1)=n^{2}$$ Summen for alle ulige tal er antallet af tallene i anden. Dette er vores $S_{n}$. Vi kan vise at dette passer for $S_{1}$: $$\sum_{j=1}^{n}(2(1)-1)=1^{2}$$ er altså sandt.
 Vi kan nu vise at det gælder for vores n+1.
@@ -79,15 +79,15 @@ $$\sum_{k=1}^{n}(-1)^{r+k}a_{rk}\cdot det(A_{rk})$$[^3]
 
 ## Sætning 7.9[[Lineære Afbildninger]]
 Hvis $A,B \in \mathbb{M}_{n,n}$ så er $det(AB)=...$::$det(A)det(B)$
-<!--SR:!2022-12-18,4,278-->
+<!--SR:!2023-01-09,20,298-->
 
 ## Definition for transponering
 For $A \in \mathbb{M}_{n,n}$, sæt $A^{t}=...$:: matricen hvis (i,j)-te indgang er $a_{ji}$. Altså en spejlbildning i diagonalen.
-<!--SR:!2022-12-18,4,278-->
+<!--SR:!2023-01-11,22,298-->
 
 ## Sætning 7.12
 $det(A^{t})=...$::$det(A)$.
-<!--SR:!2022-12-18,4,278-->
+<!--SR:!2023-01-10,21,298-->
 
 ## Sætning 7.13 (Konsekvens af 7.6)
 Hvis vi kan reducere en matrice $A \in \mathbb{M}_{n,n}$ så vil determinanten... :: Ikke være nul da $A \to ... \to I$ gennem rækkereduktion[^4], og $det(I)\neq 0$ så for at få dette må $det(A)\neq 0$.
@@ -144,6 +144,7 @@ $||\vec{v}||||\vec{w}||\sin{(\theta )}$
 
 ## Orientering af baser
 Ordnede baser, $B = [\vec{u_{1}},\vec{u_{2}},\vec{u_{3}}] \in \mathbb{R}^{3}$ inddeles i... :: højrehåndede $det(B)>0$ og venstrehåndede $det(B)<0$ baser.
+<!--SR:!2022-12-23,3,268-->
 
 ### Operation på base
 $T:\mathbb{R}^{3}\to \mathbb{R}^{3}$ lineær $T(\vec{x})=A \vec{x}$ hvor $A \in \mathbb{M}_{3,3}$. Givet at T er isomorf $\Leftrightarrow$ A har invers $\Leftrightarrow$ $det(A)\neq 0$ så er operationen på basen B... :: $T(B)=B'=[T(\vec{u_{1}}),T(\vec{u_{2}}),T(\vec{u_{3}})]$ også en basis og har samme orientering som B.

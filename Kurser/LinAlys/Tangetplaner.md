@@ -20,7 +20,7 @@ $n=3 \text{ , } h(x,y,z)=ax+by+cz+d$
 En affin funktion kan kaldes for en lineær funktion når $d=0$, men dette er grunden... :: $d=0$, da dette gør grafen af den lineære funktion til et underrum. Vi kan skrive $\vec{0}\in \{\vec{x}+r \vec{v}+s \vec{w}|r,s \in \mathbb{R} \}$.
 <!--SR:!2023-02-18,82,310-->
 Grafen for en affin funktion er... :: hyperplan.
-<!--SR:!2022-12-15,30,270-->
+<!--SR:!2023-05-01,132,290-->
 Man kan definere en hyperplan som... :: en graf som har n-1 dimensioner fra den n dimension vi arbejder i.
 <!--SR:!2023-02-22,86,310-->
 ### Eksempel:
@@ -32,7 +32,7 @@ $h(x)=3x+2$ Dette er stadigvæk ikke en lineær funktion da $d \neq 0$
 Vi har en tangering af to funktioner $f,g$ af n variabler og $\vec{a}\in D_{f}\cap D_{g}$ når... :: $$f(\vec{a})-g(\vec{a})$$ og $$\lim_{\vec{x}\to\vec{a}} \frac{f(\vec{x})-g(\vec{x})}{||\vec{x}-\vec{a}||}=0$$
 <!--SR:!2023-02-14,78,290-->
 Hvad kalder man det hvis funktionen f tangerer en affin funktion h i a... :: at grafen for f har en tangenthyperplan givet ved grafen af h.
-<!--SR:!2022-12-18,4,294-->
+<!--SR:!2023-01-12,23,314-->
 <!--SR:!2023-03-26,102,270-->
 
 ## Sætning 2.62(Entydighed af tangentplan)
@@ -46,7 +46,7 @@ $$\frac{h_{1}(\vec{x})-h_{2}(\vec{x})}{||\vec{x}-\vec{a}||}\to_{\vec{x}-\vec{a}}
 
 ## Sætning 2.63
 Vi kan med sikkerhed finde en affin funktion som tangerer f i $\vec{a}$ når... :: f er $C^{1}$ og $\vec{a}$ er et indre punkt i $D_{f}$.
-<!--SR:!2022-12-18,4,293-->
+<!--SR:!2023-01-11,22,313-->
 <!--SR:!2023-02-15,63,290-->
 Man definerer en tangenthyperplan h som en affin funktion matematisk således... :: $h(\vec{x})=f(\vec{a})+\nabla f(\vec{a})\cdot (\vec{x}-\vec{a})$[^2]
 <!--SR:!2023-02-21,85,310-->
