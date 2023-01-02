@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed208a295939cfe9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
-              }
-            }
-          },
-          {
             "id": "e926a01968a28b76",
             "type": "leaf",
             "state": {
@@ -28,9 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed208a295939cfe9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
+              }
+            }
+          },
+          {
+            "id": "63e2170078248460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regneøvelse 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md",
+                "file": "Regneøvelse 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md"
+                "file": "Regneøvelse 5.md"
               }
             }
           },
@@ -188,63 +200,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "136e4cba9686a873",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ac9106faaf749376",
-        "type": "window",
-        "children": [
-          {
-            "id": "3c91c6efc1b2e774",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c138e0c080221d71",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md"
-                  }
-                }
-              },
-              {
-                "id": "153083ace1e330da",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.1.9"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "153083ace1e330da",
+  "active": "63e2170078248460",
   "lastOpenFiles": [
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md",
+    "Regneøvelse 5.md",
+    "Kurser/MekRel/Speciel Relativitetsteori.md",
+    "Assets/Excalidraw/Regneøvelse 4 2022-11-29 15.57.35.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/LinAlys/Egenværdier.md",
     "conflict-files-obsidian-git.md",
     "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
-    "Assets/Excalidraw/Papir til opgaver 2022-12-20 13.36.34.excalidraw.md",
-    "Kurser/MekRel/Papir til opgaver.md",
-    "Kurser/LinAlys/Højere ordens afledte.md"
+    "Assets/Excalidraw/Papir til opgaver 2022-12-20 13.36.34.excalidraw.md"
   ]
 }
