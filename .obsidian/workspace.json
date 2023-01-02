@@ -124,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Egenværdier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Egenværdier.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,6 +187,7 @@
   },
   "active": "176ddc8d6a297e9d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
     "Egenværdier.md",
     "Kurser/LinAlys/Regnepapir.md",
@@ -198,7 +196,6 @@
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
-    "Assets/Excalidraw/Regnepapir 2022-12-20 09.40.23.excalidraw.md",
-    "Kurser/LinAlys/Dokumenter/opg11.pdf"
+    "Assets/Excalidraw/Regnepapir 2022-12-20 09.40.23.excalidraw.md"
   ]
 }
