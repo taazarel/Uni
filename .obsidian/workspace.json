@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
+                "file": "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Speciel Relativitetsteori.md"
+                "file": "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md"
               }
             }
           },
@@ -209,8 +209,19 @@
                     "file": "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md"
                   }
                 }
+              },
+              {
+                "id": "153083ace1e330da",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.1.9"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -223,10 +234,10 @@
       }
     ]
   },
-  "active": "e926a01968a28b76",
+  "active": "153083ace1e330da",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
+    "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/LinAlys/Egenværdier.md",
     "conflict-files-obsidian-git.md",
