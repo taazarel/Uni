@@ -8,5 +8,7 @@ $$\frac{4}{5}=\frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}=$$
 Nej de tror ikke at toget kan passe ind i tunnelen. De ville se at tunnelen er $$x=\gamma (x'+vt')=\gamma x'= \frac{x'}{\sqrt{1-v^{2}}}=40 m \cdot \frac{4}{5}=\frac{160}{5}m=32m$$
 
 ### A3
-
+De konkluderer at billederne ikke blev taget samtidigt. Altså må billedet ved ObsBf blive taget først, når togets forende er ved slutningen af tunnelen, og billedet ved ObsBb ved blive taget efter noget tid når togets bagende er ved starten af tunnelen.
+Tidsforskellen er 
+$$t=\gamma (t'+vx')$$
 ### A4
