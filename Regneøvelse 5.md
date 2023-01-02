@@ -12,3 +12,4 @@ De konkluderer at billederne ikke blev taget samtidigt. Altså må billedet ved 
 Tidsforskellen er 
 $$t=\gamma (t'+vx')$$
 ### A4
+x
