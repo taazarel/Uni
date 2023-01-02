@@ -11,9 +11,9 @@ Et rumtidsdiagram tegnes sådan... :: ![[Forelæsning den 12 december 2022-12-12
 <!--SR:!2023-01-08,20,290-->
 
 Egentid er altid... :: den korteste.
-<!--SR:!2022-12-23,4,277-->
+<!--SR:!2023-02-27,56,297-->
 Egenrum er altid... :: den længste.
-<!--SR:!2022-12-23,4,277-->
+<!--SR:!2023-02-26,55,297-->
 Forholdet mellem rum og tid, kalder vi sigma, og sigma er... :: en invariant i forhold til alle koordinatsystemer. $\Delta \tau ^{2}=-\Delta \sigma ^{2}$.[^1]
 
 
