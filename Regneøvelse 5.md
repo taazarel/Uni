@@ -15,7 +15,8 @@ Nej de tror ikke at toget kan passe ind i tunnelen. Da egenlængden altid er den
 ![[Regneøvelse 5 2023-01-03 14.26.40.excalidraw]]
 
 Her er både v og T negative, og T er længden af tunnelen set fra togets synspunkt.
-Vi finder $t=\frac{3}{5}c$
+$t=-\frac{v}{c^{2}}T= - \frac{\frac{3}{5}c}{c^{2}}T=- \frac{3T}{5c}= - \frac{96m}{5c}=-6.4\cdot 10^{-8}s$. 
+Dette er en meget lille tidsforskel, men det giver også god mening.
 
 ### A3
 De konkluderer at billederne ikke blev taget samtidigt. Altså må billedet ved ObsBf (forenden af toget, men bagenden af tunnelen) blive taget først, når togets forende er i slutningen af tunnelen, og billedet ved ObsBb (bagenden af toget, men forenden af tunnelen.) vil blive taget efter noget tid når togets bagende er i starten af tunnelen.
