@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md",
+                "file": "Kurser/LinAlys/Differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md"
+                "file": "Kurser/LinAlys/Differentialligninger.md"
               }
             }
           },
@@ -177,45 +177,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "d793d3b3762a3cd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f484d82698e4b98a",
-        "type": "window",
-        "children": [
-          {
-            "id": "efe3e37f1d866b59",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0472391e9b62d35a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 414,
-        "y": 20,
-        "width": 707,
-        "height": 784,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0472391e9b62d35a",
+  "active": "5ca0391b6a71ab95",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Differentialligninger.md",
     "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md",
+    "Kurser/LinAlys/Differentialligninger.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
