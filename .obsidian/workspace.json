@@ -11,11 +11,9 @@
             "id": "2036223342933c5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Kurser/MekRel/Papir til opgaver.md",
-                "mode": "source",
-                "source": false
+                "file": "Usikkerheder og statistik.pdf"
               }
             }
           }
@@ -113,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Papir til opgaver.md",
+                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-03 15.40.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Papir til opgaver.md"
+                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-03 15.40.18.excalidraw.md"
               }
             }
           },
@@ -212,17 +210,17 @@
       }
     ]
   },
-  "active": "2036223342933c5d",
+  "active": "0912d5d1f5b6b82e",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Papir til opgaver 2023-01-03 15.40.18.excalidraw.md",
+    "Usikkerheder og statistik.pdf",
     "Kurser/MekRel/Papir til opgaver.md",
+    "Assets/Excalidraw/Papir til opgaver 2023-01-03 15.40.18.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Regneøvelse 5.md",
     "Assets/Excalidraw/Regneøvelse 5 2023-01-03 14.26.40.excalidraw.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Assets/Excalidraw/Regneøvelse 5 2023-01-03 14.02.40.excalidraw.md",
     "Kurser/LinAlys/Differentialligninger.md",
-    "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md"
+    "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md"
   ]
 }
