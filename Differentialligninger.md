@@ -18,7 +18,10 @@ Vi finder $\dot v(t)+ \frac{k}{m}v(t)=g$.
 En første ordens lineær differentialligning er givet ved $f,g:I \to \mathbb{R}$ er kontinuerte, $g(x)=...$::$y'(x)+f(x)y(x)$. Ofte skriver man bare $g=y'+fy$.
 
 ## Sætning 10.1.3 (Generel Løsning)
-Givet $I \subseteq \mathbb{R}$ er et åbent interval, $f,g:I \to \mathbb{R}$ er kontinuerte. Da er løsningerne til $g=y'+fy$: $y(x)=...$:: $$e^{-F(x)}\cdot \left(\int_{}^{} e^{F(x)}g(x)dx+C\right)$$ hvor $C \in \mathbb{R}$ og $F:I \to \mathbb{R}$ er stamfunktionen til f.
+Givet $I \subseteq \mathbb{R}$ er et åbent interval, $f,g:I \to \mathbb{R}$ er kontinuerte. Da er løsningerne til $g=y'+fy$ givet ved... :: $$y(x)=e^{-F(x)}\cdot \left(\int_{}^{} e^{F(x)}g(x)dx+C\right)$$ hvor $C \in \mathbb{R}$ og $F:I \to \mathbb{R}$ er stamfunktionen til f.
+
+## 10.3.1 Med begyndelsesbetingelser
+Givet $I \subseteq \mathbb{R}$ er et åbent interval, $f,g:I \to \mathbb{R}$ er kontinuerte, og $y(c)=d$, hvor $c \in I,d \in \mathbb{R}$. Så har vi netop én løsning givet ved... :: $$y(x)=e^{-\int_{c}^{x}f(t)dt}\left(\int_{c}^{x}\left(g\left(t\right)e^{\int_{c}^{x}f(s)ds}\right)dt+d \right) $$
 
 
 [^1]: Differentialligninger er meget vigtige for fysikere.
