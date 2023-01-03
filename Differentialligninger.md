@@ -22,7 +22,8 @@ Givet $I \subseteq \mathbb{R}$ er et åbent interval, $f,g:I \to \mathbb{R}$ er 
 
 ## 10.3.1 Med begyndelsesbetingelser
 Givet $I \subseteq \mathbb{R}$ er et åbent interval, $f,g:I \to \mathbb{R}$ er kontinuerte, og $y(c)=d$, hvor $c \in I,d \in \mathbb{R}$. Så har vi netop én løsning givet ved... :: $$y(x)=e^{-\int_{c}^{x}f(t)dt}\left(\int_{c}^{x}\left(g\left(t\right)e^{\int_{c}^{x}f(s)ds}\right)dt+d \right) $$
-
+## 10.4 Seperation af variable
+Givet $p,q: I \to \mathbb{R}$ er kont. så kan vi skrive... :: $q(y(x))y'(x)=p(x)$. Der er et trick som hedder $\frac{d}{dx}q(y(x))=p(x)$.
 
 [^1]: Differentialligninger er meget vigtige for fysikere.
 [^2]: I dette kapitel brugte bogen y=y(x) som illustration af ukendte funktioner. I stedet for det normale f, g og h.
