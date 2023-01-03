@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differentialligninger.md",
+                "file": "Kurser/LinAlys/Differentialligninger.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differentialligninger.md",
+                "file": "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differentialligninger.md"
+                "file": "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md"
               }
             }
           },
@@ -177,17 +177,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ca0391b6a71ab95",
+  "floating": {
+    "id": "d793d3b3762a3cd4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3b205d84e11b0654",
+        "type": "window",
+        "children": [
+          {
+            "id": "c295753e916735ef",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5845811af217c6f5",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5845811af217c6f5",
   "lastOpenFiles": [
-    "Differentialligninger.md",
+    "Kurser/LinAlys/Differentialligninger.md",
+    "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md",
+    "Kurser/LinAlys/Regnepapir.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Regneøvelse 5.md",
     "Assets/Excalidraw/Drawing 2023-01-02 09.11.16.excalidraw.md",
     "Assets/Excalidraw/Regneøvelse 4 2022-11-29 15.57.35.excalidraw.md",
     "Kurser/LinAlys/Egenværdier.md",
-    "conflict-files-obsidian-git.md",
-    "Assets/Excalidraw/Regnepapir 2022-12-22 08.28.00.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
