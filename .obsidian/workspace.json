@@ -182,15 +182,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "3b205d84e11b0654",
+        "id": "f484d82698e4b98a",
         "type": "window",
         "children": [
           {
-            "id": "c295753e916735ef",
+            "id": "efe3e37f1d866b59",
             "type": "tabs",
             "children": [
               {
-                "id": "5845811af217c6f5",
+                "id": "0472391e9b62d35a",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -203,16 +203,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
+        "x": 414,
+        "y": 20,
+        "width": 707,
+        "height": 784,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "5845811af217c6f5",
+  "active": "0472391e9b62d35a",
   "lastOpenFiles": [
     "Kurser/LinAlys/Differentialligninger.md",
     "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md",
