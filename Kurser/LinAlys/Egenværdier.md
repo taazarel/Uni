@@ -63,6 +63,10 @@ Givet en ordnet basis $B=[u_{1},...,u_{n}]$ en lineær transformation $T:V \to V
 ### Multiplicitet
 Multiplicitet af rødder er blot hvor mange gange de opstår i det karakteristiske polynomie. Så givet $p(\lambda )=(\lambda -k)^{n}$ vil lambda have en rod som er k med en multiplicitet på... :: n da denne rod er gentaget n gange i dens potensgrad.
 
+### Egenrum
+Egenrummet som hører til egenværdien $\lambda$ er defineret som... :: $E_{T}(\lambda)=span \{\vec{u_{i}}|\lambda_{i}=\lambda  \}$
+Hvis $V=\mathbb{R}^{n}$ og $T(\vec{v})=A \vec{v}$ findes $E_{A}(\lambda_{j})=ker(\lambda_{j}I-A)$ ved at... :: Rækkereducere $(\lambda_{j}-A)$, og så tage dimensionen, eller antallet af nulrækker.
+
 ## Sætning 8.14
 Lad $T:V \to V$ have endelig dimension. $\lambda_{1},...,\lambda_{k} \in \mathbb{R}$. Forskellige egenværdier for $T,\vec{u_{1}},...,\vec{u_{k}}\in V$ tilhørende egenvektorerne $T(\vec{u_{i}})=\lambda_{i}\vec{u_{i}}$. Da vil basen bestående af $B=[\vec{u_{1}},...,\vec{u_{k}}]$ være... :: lineært uafhængig.
 
@@ -72,6 +76,13 @@ Hvis $dim(V)=n$ og $T:V \to V$ har n'te forskellig egenværdier så... :: er T d
 ## Sætning 8.15
 For at finde en basis for egenværdier skal vi først finde for egenrum. Givet $T:V \to V$ har egenværdierne $\lambda_{1},...,\lambda_{k}$ vil T være diagonaliserbar hvis og kun hvis $dim(V)=...$ :: $dim(E_{T}(\lambda_{1})+...+dim(E_{T}(\lambda_{k})))$.
 
+## Praksis Diagonalisering
+Der er en række trin til at lave en diagonaliseret basis.
+De er...
+?
+- Find alle forskellige egenværdier
+- For hver egenværdi $\lambda_{i}$ skal man beregne $dim(E_{T}(\lambda_{i}))$.
+- Hvis $dim(E_{T}\lambda_{i})=$ multiplicitet af $\lambda_{i}$ som rod i det karakteristiske polynomie. Og alle rødder er reelle er $dim(V)=grad(p(\lambda ))=\sum_{i=1}^{k} \text{ multiplicitet af }\lambda_{i}=\sum_{i=1}^{k}dim(E_{T}(\lambda_{i}))$.
 
 # Fodnoter
 [^1]: Kan også skrives som $A \vec{v}=\lambda \vec{v}\Rightarrow (A-\lambda I)\vec{v}=\vec{0}$ givet $V = \mathbb{R}^{n}$.
