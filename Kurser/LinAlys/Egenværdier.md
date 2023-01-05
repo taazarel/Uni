@@ -69,6 +69,8 @@ Lad $T:V \to V$ have endelig dimension. $\lambda_{1},...,\lambda_{k} \in \mathbb
 ## Sætning 8.16
 Hvis $dim(V)=n$ og $T:V \to V$ har n'te forskellig egenværdier så... :: er T diagonaliserbar.[^2]
 
+## Sætning 8.15
+For at finde en basis for egenværdier skal vi først finde for egenrum. Givet $T:V \to V$ har egenværdierne $\lambda_{1},...,\lambda_{k}$ vil T være diagonaliserbar hvis og kun hvis $dim(V)=...$ :: $dim(E_{T}(\lambda_{1})+...+dim(E_{T}(\lambda_{k})))$.
 
 
 # Fodnoter
