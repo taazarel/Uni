@@ -9,10 +9,11 @@ Den relativistiske impuls bliver beskrevet ved... :: $p= \gamma mv$[^1] (10.9) V
 
 ## 10.3
 Hvis vi benytter formlen for den totale energi (5.30) sammen med (10.6) finder vi den relativistiske energi er dette... :: $E=m \gamma$ og hvis vi indfører lysets hastighed igen får vi $E=\gamma mc^{2}$.
-Når v = 0, så bliver den relativistiske energi fundet gennem en taylorudvikling og ser sådan ud... :: $E=mc^{2}+ \frac{1}{2}mv^{2}$
+Når v = 0, så bliver den relativistiske energi fundet gennem en taylorudvikling og ser sådan ud... :: $E=mc^{2}+ \frac{1}{2}mv^{2}$[^2]
 
 ## 10.4
 
 # Fodnoter
 
 [^1]: Når vi har en gamma tæt på 1. Betyder det bare at v er så lille at relativitet ikke spiller en rolle.
+[^2]: Det giver god mening at energien for et objekt ikke er nul ved v=0 da ifølge relativiteten er hast jo relativ til andre ting. 
