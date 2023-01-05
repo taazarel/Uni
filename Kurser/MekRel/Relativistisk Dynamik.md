@@ -10,6 +10,9 @@ Den relativistiske impuls bliver beskrevet ved... :: $p= \gamma mv$[^1] (10.9) V
 ## 10.3
 Hvis vi benytter formlen for den totale energi (5.30) sammen med (10.6) finder vi den relativistiske energi er dette... :: $E=m \gamma$ og hvis vi indfører lysets hastighed igen får vi $E=\gamma mc^{2}$.
 Når v = 0, så bliver den relativistiske energi fundet gennem en taylorudvikling og ser sådan ud... :: $E=mc^{2}+ \frac{1}{2}mv^{2}$[^2]
+Massen er en invariant størrelse som kan findes ved... :: $m^{2}=E^{2}-p^{2}$.
+Egentiden er en invariant størrelse som kan findes ved... :: $\tau ^{2}=t^{2}-x^{2}$
+
 
 ## 10.4
 

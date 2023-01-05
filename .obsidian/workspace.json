@@ -11,8 +11,22 @@
             "id": "f3ee87120a19c3da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Relativistisk Dynamik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6065894d9e8dcb61",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/MekRel/Dokumenter/Kap10.pdf"
+              }
             }
           }
         ],
@@ -119,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/MekRel/Relativistisk Dynamik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/MekRel/Relativistisk Dynamik.md"
+              }
             }
           }
         ],
@@ -174,11 +191,11 @@
   },
   "active": "f3ee87120a19c3da",
   "lastOpenFiles": [
+    "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Pointopgave 12.md",
     "Kurser/MekRel/Relativistisk Dynamik.md",
     "Kurser/LinAlys/Egenværdier.md",
     "Kurser/LinAlys/Partiel integration.md",
-    "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Kurser/MekRel/Dokumenter/cpt123456.pdf",
     "Assets/Excalidraw/Regnepapir 2023-01-05 09.28.54.excalidraw.md",
     "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
