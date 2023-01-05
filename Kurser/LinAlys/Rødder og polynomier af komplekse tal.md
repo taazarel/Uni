@@ -43,7 +43,7 @@ Et reelt polynomie $f:\mathbb{R}\to \mathbb{R}$ skrives som... :: $$f(x)=a_{n}x^
 <!--SR:!2023-01-03,29,286-->
 ### Definition (Grad af polynomier)
 Graden af et polynomie p skrives som... :: $grad(p)$ er den største $n \in \{ 0,1,...\} \text{ så }a_{n} \neq 0$.
-<!--SR:!2023-01-02,28,286-->
+<!--SR:!2023-05-06,121,306-->
 
 ## Regneregler med polynomier
 Produktet af to polynomier $p,q:\mathbb{C}\to \mathbb{C}$ med graderne $grad(p)=n,grad(q)=m$ skrives som ... :: $p(z)q(z)=(a_{n}b_{m})z^{n+m}+(a_{n}b_{m-1}+a_{n-1}b_{m})z^{n+m-1}$ Et polynomie til graden $grad(p \cdot q)=grad(p)+grad(q)$.
@@ -106,14 +106,14 @@ $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en
 Givet $\vec{u_{1}},...,\vec{u_{n}}\in V$ er en basis, konstruerer vi ONB $\vec{e_{1}},...,\vec{e_{n}}\in V$ og kan definere... :: $\vec{e_{1}}= \frac{1}{||\vec{u_{1}}||}\vec{u_{1}}$ og $v_{2}=\vec{u_{2}}-\langle \vec{u_{2}},\vec{e_{1}}\rangle \vec{e_{1}}$ så kan vi definere $\vec{e_{2}}= \frac{1}{||\vec{v}||}\vec{v_{2}}$.
 <!--SR:!2023-01-01,27,286-->
 De generelle $\vec{v_{k}},\vec{e_{k}}$ kan skrives som... :: $\vec{v_{k}}=\vec{u_{k}}-\langle \vec{u_{k}},\vec{e_{1}}\rangle \vec{e_{1}}-...-\langle \vec{u_{k}},\vec{e_{k-1}}\rangle \vec{e_{k-1}}$. og $e_{k}= \frac{1}{||\vec{v_{k}}||}\vec{v_{k}}$. $v_{k}$ kan omdefineres til $$\vec{v_{k}}=\vec{u_{k}}-\sum_{j=1}^{k-1}\langle \vec{u_{k}},\vec{e_{j}}\rangle \vec{e_{j}}$$
-<!--SR:!2023-01-03,29,286-->
+<!--SR:!2023-01-20,15,266-->
 ## Sætning 1.5.5 
 et komplekst tal $a \in \mathbb{C}$ er rod i $P(z)=a_{n}z^{n}+...+a_{0},a_{i}\in \mathbb{C},a_{n}\neq 0$ hvis... :: $P(z)=k(z)(z-a)$, vi kan skrive $P(z)=K(z)(z-a)+r,\text{ a rod}\Rightarrow 0=P(a)=K(a)(a-a)+r=r$.
 <!--SR:!2023-01-02,28,286-->
 
 ## Sætning 3.5.1 (Algebraens fundamentalsætning)
 Lad $P(z)=c_{n}z^{n}+...+c_{0},c_{i}\in \mathbb{C}$ da findes $r_{1},...,r_{n} \in \mathbb{C}$ så... :: $P(z)=c_{n}(z-r_{1})\cdot ...\cdot (z-r_{n})$[^5]
-<!--SR:!2023-01-04,27,286-->
+<!--SR:!2023-04-26,111,306-->
 
 ## Sætning 5.5.2[^6]
 Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$

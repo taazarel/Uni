@@ -39,7 +39,7 @@ Ikke jævne cirkelbaner har også en anden acceleration som hedder... :: tangent
 Ujævne cirkelbevægelser er defineret som... :: cirkelbevægelser som ikke har konstant hastighed.
 <!--SR:!2023-02-06,70,315-->
 Tangentiel-accelerationen $a_{t}$ er givet ved... :: $a_{t}= \frac{d \vec{v_{t}}}{dt}$[^6]
-<!--SR:!2022-12-28,23,270-->
+<!--SR:!2023-03-19,73,270-->
 Centrifugalkraften bliver defineret som en fiktiv kraft, som er... :: en kraft man føler da man er i et accelereret koordinatsystem.
 <!--SR:!2023-02-04,68,315-->
 

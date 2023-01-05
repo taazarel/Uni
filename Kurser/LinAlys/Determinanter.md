@@ -6,7 +6,7 @@ En isometri fra V til W er en... :: lineær afbildning af $T:V \to W$ som er bå
 V og W er isomorfe hvis der eksisterer... :: en isometri mellem dem $V \to W$.
 <!--SR:!2023-01-11,22,290-->
 Vi kan skrive isometri således på papir... :: $T: \mathbb{P}_{3}\to \mathbb{R}^{4}$. hvor $a_{3}x^{3}+...+a_{0}x^{0}\rightarrow (a_{0},...,a_{3})\text{ eller }(a_{3},...,a_{0})$.
-<!--SR:!2023-01-04,15,270-->
+<!--SR:!2023-01-15,10,250-->
 
 ## Sætning
 Lad V og W være end. dim. Da er V og W isomorfe hvis og kun hvis... :: $dim(V)=dim(W)$.

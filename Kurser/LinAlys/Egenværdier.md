@@ -40,6 +40,17 @@ For alle $A,B \in \mathbb{M}_{n,n}$
 3. $tr(BA)$
 4. $tr(A)$
 
+# Messer §8.3+8.4 (Diagonalisering)
+## Sætning 8.13
+Givet $B=[\vec{u_{1}},...,\vec{u_{n}}]$, vil en ordnet basis baseret på egenvektorer findes hvis $T(\vec{u_{i}})=\lambda_{i}\vec{u_{i}}$ opgør en række i matricen bliver den diagonaliserede basis... :: $$A=\left[
+\begin{array}{cccc}
+\lambda_{1} & 0 & ... & 0 \\ 
+0 & \lambda_{2} & ... & 0 \\ 
+\vdots & \vdots & \vdots & \vdots \\ 
+0 & 0 & ... & \lambda_{n}
+\end{array}
+\right] $$ hvor $A \in \mathbb{M}_{n,n}$ er den diagonaliserede basis.
+
 
 
 # Fodnoter

@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7e96c6005a089bc4",
+        "id": "d1b67d86c046b699",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e4cf20cbdcde1f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
-              }
-            }
-          },
-          {
-            "id": "770baf919859509f",
+            "id": "0fb5b3fab072a746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Partiel integration.md",
+                "file": "Kurser/LinAlys/Egenværdier.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,8 +99,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "4a5765a8570810be",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ceba97dbe93cd497",
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Partiel integration.md",
+                "file": "Kurser/LinAlys/Egenværdier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,16 +150,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Partiel integration.md"
+                "file": "Kurser/LinAlys/Egenværdier.md"
               }
-            }
-          },
-          {
-            "id": "150480a7a48fcaf0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           }
         ],
@@ -178,7 +167,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
@@ -186,11 +174,14 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "770baf919859509f",
+  "active": "4a5765a8570810be",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Kurser/LinAlys/Partiel integration.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Usikkerheder og statistik.pdf",
     "Assets/Excalidraw/Papir til opgaver 2023-01-03 15.40.18.excalidraw.md",
@@ -198,8 +189,6 @@
     "Regneøvelse 5.md",
     "Assets/Excalidraw/Regneøvelse 5 2023-01-03 14.26.40.excalidraw.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
-    "Assets/Excalidraw/Regneøvelse 5 2023-01-03 14.02.40.excalidraw.md",
-    "Kurser/LinAlys/Differentialligninger.md",
-    "Assets/Excalidraw/Regnepapir 2023-01-03 09.31.55.excalidraw.md"
+    "Assets/Excalidraw/Regneøvelse 5 2023-01-03 14.02.40.excalidraw.md"
   ]
 }
