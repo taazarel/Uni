@@ -96,8 +96,7 @@ $(-12,-31,13)\cdot (\vec{x}+\vec{v}-(2,0,-8))=0$
 Vi finder at der er lukket under multiplikation ved
 $(-12,-31,13)\cdot (\vec{x}-(1,0,-4))(-12,-31,13)\cdot (\vec{v}-(1,0,-4))=0$.
 $(-12,-31,13)\cdot (\vec{x}\vec{v}-(1,0,-4)^{2}-\vec{x})$
-=======
->>>>>>> origin/main
+
 ## (c)
 Først udvider vi den venstre side.
 $$T(\vec{v}\times \vec{w})=T\left(\left[
@@ -128,4 +127,3 @@ Nej det ville ikke være det samme for det andet scenarie da vi kan modbevise me
 $\vec{v}=\vec{e_{1}}$ og $\vec{w}=\vec{e_{2}}$, så bliver $T(\vec{v})=\vec{e_{2}}$ og $T(\vec{w})=\vec{e_{1}}$.
 Nu kan vi vise at $T(\vec{v}\times \vec{w})=T(\vec{e_{3}})=\vec{e_{3}}$ da $\vec{e_{3}}=(0,0,1)$ 
 men derimod bliver $T(\vec{v})\times T(\vec{w})=\vec{e_{2}}\times \vec{e_{1}}=-\vec{e_{3}}$. 
-
