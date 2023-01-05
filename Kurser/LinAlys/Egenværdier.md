@@ -50,8 +50,24 @@ Givet $B=[\vec{u_{1}},...,\vec{u_{n}}]$, vil en ordnet basis baseret på egenvek
 0 & 0 & ... & \lambda_{n}
 \end{array}
 \right] $$ hvor $A \in \mathbb{M}_{n,n}$ er den diagonaliserede basis.
+### Konsekvens af diagonaliserbar base
+Givet en ordnet basis $B=[u_{1},...,u_{n}]$ en lineær transformation $T:V \to V$ og $T(\vec{u_{i}})=\lambda_{i}\vec{u_{i}}$. Bliver det karakteristikske polynomie $det(\lambda I-A)=...$:: $$\left[
+\begin{array}{cccc}
+\lambda -\lambda_{1} & 0 & ... & 0 \\ 
+0 & \lambda -\lambda_{2} & ... & 0 \\ 
+\vdots & \vdots & \vdots & \vdots \\ 
+0 & ... & 0 & \lambda - \lambda_{n}
+\end{array}
+\right] =(\lambda -\lambda_{1})...(\lambda -\lambda_{n})$$Her er alle rødder reelle og $dim(V)=n$.
 
+### Multiplicitet
+Multiplicitet af rødder er blot hvor mange gange de opstår i det karakteristiske polynomie. Så givet $p(\lambda )=(\lambda -k)^{n}$ vil lambda have en rod som er k med en multiplicitet på... :: n da denne rod er gentaget n gange i dens potensgrad.
 
+## Sætning 8.14
+Lad $T:V \to V$ have endelig dimension. $\lambda_{1},...,\lambda_{k} \in \mathbb{R}$. Forskellige egenværdier for $T,\vec{u_{1}},...,\vec{u_{k}}\in V$ tilhørende egenvektorerne $T(\vec{u_{i}})=\lambda_{i}\vec{u_{i}}$. Da vil basen bestående af $B=[\vec{u_{1}},...,\vec{u_{k}}]$ være... :: lineært uafhængig.
+
+## Sætning 8.16
+Hvis $dim(V)=n$ og $T:V \to V$ har n'te forskellig egenværdier så... :: er T diagonaliserbar.
 
 # Fodnoter
 [^1]: Kan også skrives som $A \vec{v}=\lambda \vec{v}\Rightarrow (A-\lambda I)\vec{v}=\vec{0}$ givet $V = \mathbb{R}^{n}$.
