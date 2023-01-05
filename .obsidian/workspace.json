@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a1716632bd904cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -136,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2023-01-05 09.28.54.excalidraw.md",
+                "file": "Kurser/LinAlys/Egenværdier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Regnepapir 2023-01-05 09.28.54.excalidraw.md"
+                "file": "Kurser/LinAlys/Egenværdier.md"
               }
             }
           }
@@ -192,46 +179,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "floating": {
-    "id": "6cb2f16a5cc87a66",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0d3cea19aa10dba8",
-        "type": "window",
-        "children": [
-          {
-            "id": "8ca652f1fe612593",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c111ccca288fc72c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Regnepapir 2023-01-05 09.28.54.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c111ccca288fc72c",
+  "active": "0fb5b3fab072a746",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
-    "Kurser/LinAlys/Egenværdier.md",
     "Assets/Excalidraw/Regnepapir 2023-01-05 09.28.54.excalidraw.md",
+    "Kurser/LinAlys/Egenværdier.md",
+    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
     "Untitled.md",

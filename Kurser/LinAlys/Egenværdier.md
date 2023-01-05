@@ -82,7 +82,9 @@ De er...
 ?
 - Find alle forskellige egenværdier
 - For hver egenværdi $\lambda_{i}$ skal man beregne $dim(E_{T}(\lambda_{i}))$.
-- Hvis $dim(E_{T}\lambda_{i})=$ multiplicitet af $\lambda_{i}$ som rod i det karakteristiske polynomie. Og alle rødder er reelle er $dim(V)=grad(p(\lambda ))=\sum_{i=1}^{k} \text{ multiplicitet af }\lambda_{i}=\sum_{i=1}^{k}dim(E_{T}(\lambda_{i}))$.
+- Hvis færre end n vektorer kan findes er matricen ikke diagonaliserbar. Hvis man finder n baser bruger man dem som søjler i P matrix. Som man så kan bruge sammen med A matricen(transformationen) til at finde A'.
+- A' vil blive en diagonal matrice som har dens diagonale indgange som egenværdierne
+Hvis $dim(E_{T}\lambda_{i})=$ multiplicitet af $\lambda_{i}$ som rod i det karakteristiske polynomie. Og alle rødder er reelle er $dim(V)=grad(p(\lambda ))=\sum_{i=1}^{k} \text{ multiplicitet af }\lambda_{i}=\sum_{i=1}^{k}dim(E_{T}(\lambda_{i}))$.
 
 # Fodnoter
 [^1]: Kan også skrives som $A \vec{v}=\lambda \vec{v}\Rightarrow (A-\lambda I)\vec{v}=\vec{0}$ givet $V = \mathbb{R}^{n}$.
