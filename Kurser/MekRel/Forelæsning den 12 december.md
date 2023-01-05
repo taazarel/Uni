@@ -6,7 +6,7 @@ Einstein opstillede to postulater til sin relativitetsteori, de er... :: 1. Lyse
 Ud fra Einsteins postulater finder vi... :: (i) Samtidighed, (ii) Længde forkortelse og (iii) tidsudvidelse.
 <!--SR:!2023-01-07,19,290-->
 Når vi skriver Rumtidsdiagrammer skal vi huske... :: at gange tid med c og at dividere v med c. Dermed også at c=1.
-<!--SR:!2023-01-05,17,290-->
+<!--SR:!2023-03-15,69,310-->
 Et rumtidsdiagram tegnes sådan... :: ![[Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw]]
 <!--SR:!2023-01-08,20,290-->
 

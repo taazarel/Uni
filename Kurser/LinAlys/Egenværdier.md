@@ -67,7 +67,10 @@ Multiplicitet af rødder er blot hvor mange gange de opstår i det karakteristis
 Lad $T:V \to V$ have endelig dimension. $\lambda_{1},...,\lambda_{k} \in \mathbb{R}$. Forskellige egenværdier for $T,\vec{u_{1}},...,\vec{u_{k}}\in V$ tilhørende egenvektorerne $T(\vec{u_{i}})=\lambda_{i}\vec{u_{i}}$. Da vil basen bestående af $B=[\vec{u_{1}},...,\vec{u_{k}}]$ være... :: lineært uafhængig.
 
 ## Sætning 8.16
-Hvis $dim(V)=n$ og $T:V \to V$ har n'te forskellig egenværdier så... :: er T diagonaliserbar.
+Hvis $dim(V)=n$ og $T:V \to V$ har n'te forskellig egenværdier så... :: er T diagonaliserbar.[^2]
+
+
 
 # Fodnoter
 [^1]: Kan også skrives som $A \vec{v}=\lambda \vec{v}\Rightarrow (A-\lambda I)\vec{v}=\vec{0}$ givet $V = \mathbb{R}^{n}$.
+[^2]: Vi antager her at egenværdierne er reelle og forskellige fra hinanden.

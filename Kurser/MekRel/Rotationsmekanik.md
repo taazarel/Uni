@@ -33,7 +33,7 @@ Accelerationen på et legeme i cirkelbevægelse bliver påvirket af... :: centri
 Centripetal-accelerationen $\vec{a}_{c}$ er givet ved... :: $\vec{a_{c}}=- \frac{\vec{v_{t}}^{2}}{r}\hat{r}$ [^4]
 <!--SR:!2023-01-25,58,270-->
 Fordi centripetal-accelerationen er parallel med $\hat r=\vec{r}$ så kan vi skrive værdien af $\vec{a_{c}}$ som... :: $a_{c}=|\vec{a_{c}}|= \frac{\vec{v_{t}}^{2}}{r}$.[^5]
-<!--SR:!2022-12-25,34,250-->
+<!--SR:!2023-06-11,157,270-->
 Ikke jævne cirkelbaner har også en anden acceleration som hedder... :: tangentiel-accelerationen $a_t$.
 <!--SR:!2023-02-09,73,312-->
 Ujævne cirkelbevægelser er defineret som... :: cirkelbevægelser som ikke har konstant hastighed.
@@ -110,13 +110,13 @@ Hvis vi gerne vil have hele den kinetiske energi af et legeme tager vi altså b�
 
 ## Impulsmoment (7.6)
 Impulsmomentet er det samme som impuls for rotationer og skrives som... :: $L_{Q}=I_{Q}\omega$  Husk at skrive L og $\omega$ som vektorer hvis de ikke er størrelser.(7.49)[^16]
-<!--SR:!2022-12-28,8,313-->
+<!--SR:!2023-01-10,5,293-->
 Impulsmomentet fra translatorisk bevægelse bliver skrevet som... :: $\vec{L_{Q}}=\vec{r_{Q}}\times \vec{p}$ som også kan skrives $\vec{L_{Q}}=\vec{r}\vec{p}\sin{\theta }$  (7.51)[^17]
 <!--SR:!2023-03-07,78,353-->
 Denne regel bruges til at finde retningen af impulsmomentet af en cirkelbevægelse... :: højrehåndsreglen. Man peger sine fingre i retningen af stedvektoren, og derefter folder man dem mod impulsvektoren, så vil tommelfingeren pege i samme retning som impulsmomentet.
 <!--SR:!2023-03-06,77,353-->
 Hvis en partikel er i cirkelbevægelse om en akse vil impulsmomentet fra en ydre akse beskrives som... :: $L_{Q}=L(t)$ at være afhængig af tiden. Den kan pege op eller ned[^18]
-<!--SR:!2022-12-26,7,293-->
+<!--SR:!2023-02-09,35,293-->
 Den totale impulsmoment for en partikel som roterer og drejer skrives som.. :: $\vec{L_{tot}}=\vec{L_{bane}}+\vec{L_{spin}}$  
 <!--SR:!2023-03-03,74,333-->
 
