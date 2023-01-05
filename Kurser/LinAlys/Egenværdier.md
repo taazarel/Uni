@@ -85,6 +85,12 @@ De er...
 - Hvis færre end n vektorer kan findes er matricen ikke diagonaliserbar. Hvis man finder n baser bruger man dem som søjler i P matrix. Som man så kan bruge sammen med A matricen(transformationen) til at finde A'.
 - A' vil blive en diagonal matrice som har dens diagonale indgange som egenværdierne
 Hvis $dim(E_{T}\lambda_{i})=$ multiplicitet af $\lambda_{i}$ som rod i det karakteristiske polynomie. Og alle rødder er reelle er $dim(V)=grad(p(\lambda ))=\sum_{i=1}^{k} \text{ multiplicitet af }\lambda_{i}=\sum_{i=1}^{k}dim(E_{T}(\lambda_{i}))$.
+# §8.4 Symmetriske matricer & Operatorer
+## Definition af symmetriske matricer
+En matrice givet ved $A \in \mathbb{M}_{n,n}$ er symmetrisk hvis $A=A^{t}$.
+## Definition af symmetriske operatorer
+Givet operatoren $T:V \to V$ lineær, og V er et indre produkt rum. Vil T være symmetrisk hvis... :: $\langle T(\vec{v}),\vec{w}\rangle =\langle \vec{v},T(\vec{w})\rangle$ for alle $\vec{v},\vec{w}\in V$
+
 
 # Fodnoter
 [^1]: Kan også skrives som $A \vec{v}=\lambda \vec{v}\Rightarrow (A-\lambda I)\vec{v}=\vec{0}$ givet $V = \mathbb{R}^{n}$.
