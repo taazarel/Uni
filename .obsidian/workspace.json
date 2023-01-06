@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a220a3c596d8eddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Papir til opgaver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6065894d9e8dcb61",
             "type": "leaf",
             "state": {
@@ -30,6 +42,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md",
+                "file": "Kurser/MekRel/Papir til opgaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md"
+                "file": "Kurser/MekRel/Papir til opgaver.md"
               }
             }
           }
@@ -194,20 +207,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "94711ed8f40c621f",
+        "id": "f96cce91f6b5dfb9",
         "type": "window",
         "children": [
           {
-            "id": "36dcca1fe0045dd0",
+            "id": "a7edb50bd225fc99",
             "type": "tabs",
             "children": [
               {
-                "id": "313e3f2408bf9f72",
+                "id": "2820348daaeed425",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md"
+                    "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md"
                   }
                 }
               }
@@ -224,17 +237,17 @@
       }
     ]
   },
-  "active": "313e3f2408bf9f72",
+  "active": "a220a3c596d8eddd",
   "lastOpenFiles": [
+    "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md",
+    "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/MekRel/Relativistisk Dynamik.md",
     "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md",
-    "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Pointopgave 12.md",
     "Kurser/LinAlys/Egenværdier.md",
     "Kurser/LinAlys/Partiel integration.md",
     "Kurser/MekRel/Dokumenter/cpt123456.pdf",
-    "Assets/Excalidraw/Regnepapir 2023-01-05 09.28.54.excalidraw.md",
-    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md"
+    "Assets/Excalidraw/Regnepapir 2023-01-05 09.28.54.excalidraw.md"
   ]
 }
