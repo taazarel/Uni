@@ -1,7 +1,7 @@
 # Kapitel 10
 ## 10.1
 Virkningen i relativitetsteori skrives som... :: $S=K \int_{}^{}d \tau$. Hvor tau er egentid.
-Vi finder ved at indsætte den ikke relativistiske virkning $L_{non-rel}=\frac{1}{2}mv^{2}$. Finder vi... :: $L=K \sqrt{1-v^{2}}$ og for at dette skal være sand skal K være -m. Så vi får $L=\frac{-m}{\gamma }$ (10.6)
+Ved at indsætte den ikke relativistiske virkning $L_{non-rel}=\frac{1}{2}mv^{2}$ i Virkningen for relativitet, Finder vi... :: $L=K \sqrt{1-v^{2}}$ og for at dette skal være sand skal K være -m. Så vi får $L=\frac{-mc^{2}}{\gamma }$ (10.6)
 Virkningen, med lysets hast genindført skrives som... :: $$S=-mc^{2} \int_{i}^{f} \frac{1}{\gamma }dt$$ (10.7)
 
 ## 10.2
