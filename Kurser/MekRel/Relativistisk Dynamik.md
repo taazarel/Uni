@@ -1,4 +1,10 @@
 # Kapitel 10
+### Kogebog til Partikelproblemer
+1. Vælg et inertialkoordinatsystem
+2. Undersøg om vi har energibevarelse $\Delta E = 0$ eller impulsbevarelse $\Delta p = 0$. Hvis én eksisterer gør de begge da de hænger sammen. Skriv deres løsninger ned.
+3. Brug formlen $E^{2}-p^{2}=m^{2}$
+4. Brug formlen $\vec{v}= \frac{\vec{p}c^{2}}{E^{2}}$
+
 ## 10.1
 Virkningen i relativitetsteori skrives som... :: $S=K \int_{}^{}d \tau$. Hvor tau er egentid.
 Ved at indsætte den ikke relativistiske virkning $L_{non-rel}=\frac{1}{2}mv^{2}$ i Virkningen for relativitet, Finder vi... :: $L=K \sqrt{1-v^{2}}$ og for at dette skal være sand skal K være -m. Så vi får $L=\frac{-mc^{2}}{\gamma }$ (10.6)
