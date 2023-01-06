@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Relativistisk Dynamik.md",
+                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Relativistisk Dynamik.md"
+                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md"
               }
             }
           }
@@ -189,17 +189,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f3ee87120a19c3da",
+  "floating": {
+    "id": "fc36dc7a77dd0168",
+    "type": "floating",
+    "children": [
+      {
+        "id": "94711ed8f40c621f",
+        "type": "window",
+        "children": [
+          {
+            "id": "36dcca1fe0045dd0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "313e3f2408bf9f72",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "313e3f2408bf9f72",
   "lastOpenFiles": [
+    "Kurser/MekRel/Relativistisk Dynamik.md",
+    "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md",
+    "Kurser/MekRel/Papir til opgaver.md",
     "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Pointopgave 12.md",
-    "Kurser/MekRel/Relativistisk Dynamik.md",
     "Kurser/LinAlys/Egenværdier.md",
     "Kurser/LinAlys/Partiel integration.md",
     "Kurser/MekRel/Dokumenter/cpt123456.pdf",
     "Assets/Excalidraw/Regnepapir 2023-01-05 09.28.54.excalidraw.md",
-    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 11.md"
+    "Kurser/LinAlys/Rødder og polynomier af komplekse tal.md"
   ]
 }
