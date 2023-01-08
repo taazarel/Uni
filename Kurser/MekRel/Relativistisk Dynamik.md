@@ -22,7 +22,12 @@ Egentiden er en invariant størrelse som kan findes ved... :: $\tau ^{2}=t^{2}-x
 ## 10.4
 Vi kan finde hastigheden af en partikel ved at bruge energi og impuls... :: $\vec{v}= \frac{\vec{p}}{E}$ (10.34)
 For en masseløs partikel, såsom fotoner er deres energi... :: $E_{foton}=p_{foton}c$ Og dette finder vi fra (10.33).
+Når vi har at der findes enten impuls eller energikonstanthed så er... :: det sandt for alle koordinatsystemer. Og det betyder også at den anden er sand.
+Energikonstanthed i relativitetsteori skrives som... :: $E_{i}=\gamma mc^{2}=m=E_{f}=E_{1}+E_{2}$
+Impulskonstanthed i relativitetsteori skrives som... :: $\vec{p_{i}}=\gamma mv=1m(0)=0=\vec{p_f}=\vec{p_{1}}+\vec{p_{2}}$[^2]
+
 
 # Fodnoter
 
 [^1]: Når vi har en gamma tæt på 1. Betyder det bare at v er så lille at relativitet ikke spiller en rolle.
+[^2]: Både energikonstanthed og impulskonstanthed gælder da v=0.
