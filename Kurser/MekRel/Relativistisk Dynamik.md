@@ -12,6 +12,7 @@ Virkningen, med lysets hast genindført skrives som... :: $$S=-mc^{2} \int_{i}^{
 
 ## 10.2
 Den relativistiske impuls bliver beskrevet ved... :: $p= \gamma mv$[^1] (10.9) Vi kan også omskrive dette til $p=m \frac{dx}{d \tau }$ da $\gamma v = \gamma \frac{dx}{dt}$.
+Invarianten tau, som betegner egentid findes gennem de to ikke invarianter... :: $\tau ^{2}=t^{2}-x^{2}$. (10.91)
 
 ## 10.3
 Hvis vi benytter formlen for den totale energi (5.30) sammen med (10.6) finder vi den relativistiske energi er dette... :: $E=m \gamma$ og hvis vi indfører lysets hastighed igen får vi $E=\gamma mc^{2}$.
@@ -39,9 +40,18 @@ $x'=\gamma (x-vt)$
 $y'=y$
 $z'=z$[^3]
 
-Vi kan manipulere 4-vektorer da de bliver transformeret lineært af LT(Lorentz Transformationer). Så hvis vi vil have hastighedsvektoren kan vi skrive... :: Tage forskellen mellem to vektorer, og dividere med invarianten $d \tau$ $$v=\left(\frac{dt}{d\tau}, \frac{dx}{d\tau}, \frac{dy}{d\tau}, \frac{dz}{d\tau}\right)$$ Dette kan omskrives til $$v=(\gamma ,\gamma \vec{v})$$
+Vi kan manipulere 4-vektorer da de bliver transformeret lineært af LT(Lorentz Transformationer). Så hvis vi vil have hastighedsvektoren kan vi skrive... :: Tage forskellen mellem to vektorer, og dividere med invarianten $d \tau$ $$v=\left(\frac{dt}{d\tau}, \frac{dx}{d\tau}, \frac{dy}{d\tau}, \frac{dz}{d\tau}\right)$$ Dette kan omskrives til $$v=(\gamma ,\gamma \vec{v})$$[^4]
+
+Vi finder energi-impulsvektoren, en 4-vektor som beskriver P ved at transformere hastighedsvektoren. Vi ganger den invariante masse på og finder... :: $P=(\gamma m, \gamma m \vec{v})=(E,\vec{p})$. (10.88)[^5]
+
+Helt generelt gælder det at et indre produkt af 4-vektorer er invariant. Vi skriver... :: $\langle a,b \rangle =a_{0}b_{0}- \langle \vec{a},\vec{b}\rangle$ (10.93)
+
+4-vektoren for acceleration findes ved at differentiere med $\tau$ på hast-vektoren... :: $$A=\left(\gamma ^{4}v \dot v, \gamma ^{4}v \dot v \vec{v}+ \gamma ^{2} \frac{d\vec{v}}{dt}\right)$$ (10.95)
+
 
 # Fodnoter
 [^1]: Når vi har en gamma tæt på 1. Betyder det bare at v er så lille at relativitet ikke spiller en rolle.
 [^2]: Både energikonstanthed og impulskonstanthed gælder da v=0. Her er m og v i forhold til hele systemet. Det er pi og pf, Ei og Ef også.
 [^3]: Disse to sidste antager at vi ikke bevæger os i disse dimensioner i forhold til et andet koordinatsystem.
+[^4]: Dette gælder da $dt=\gamma d \tau$. 
+[^5]: HUSK: MEGET VIGTIGT: da dette er en 4-vektor kan vi bruge LT på den.
