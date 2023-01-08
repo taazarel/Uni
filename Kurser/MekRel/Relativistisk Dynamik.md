@@ -26,8 +26,9 @@ Når vi har at der findes enten impuls eller energikonstanthed så er... :: det 
 Energikonstanthed i relativitetsteori skrives som... :: $E_{i}=\gamma mc^{2}=m=E_{f}=E_{1}+E_{2}$
 Impulskonstanthed i relativitetsteori skrives som... :: $\vec{p_{i}}=\gamma mv=1m(0)=0=\vec{p_f}=\vec{p_{1}}+\vec{p_{2}}$[^2]
 
+## 10.5
 
 # Fodnoter
 
 [^1]: Når vi har en gamma tæt på 1. Betyder det bare at v er så lille at relativitet ikke spiller en rolle.
-[^2]: Både energikonstanthed og impulskonstanthed gælder da v=0.
+[^2]: Både energikonstanthed og impulskonstanthed gælder da v=0. Her er m og v i forhold til hele systemet. Det er pi og pf, Ei og Ef også.
