@@ -29,9 +29,19 @@ Impulskonstanthed i relativitetsteori skrives som... :: $\vec{p_{i}}=\gamma mv=1
 ## 10.5
 Kig de her eksempler igennem når du har mere tid. Vi vil gerne bruge dem til at styrke forståelsen af arbejdsspørgsmål.
 
-## 10.6
+## 10.6 4-vektorer
+Hvis en 3-vektor er en vektor som transformeres gennem rotation i et 3-dimensionelt rum så er 4-vektorer... :: en vektor som kan transformeres i et 4-dimensionalt rum gennem lorentztransformationer. Og kan skrives $a=(a_{0},a_{1},a_{2},a_{3})=(t,x,y,z)$.
 
+Givet $a=(a_{0},a_{1},a_{2},a_{3})=(t,x,y,z)$ er en 4-vektor så skrives den transformeret gennem lorentztransformationerne...
+?
+$t'=\gamma (t-vx)$
+$x'=\gamma (x-vt)$
+$y'=y$
+$z'=z$[^3]
+
+Vi kan manipulere 4-vektorer da de bliver transformeret lineært af LT(Lorentz Transformationer). Så hvis vi vil have hastighedsvektoren kan vi skrive... :: Tage forskellen mellem to vektorer, og dividere med invarianten $d \tau$ $$v=\left(\frac{dt}{d\tau}, \frac{dx}{d\tau}, \frac{dy}{d\tau}, \frac{dz}{d\tau}\right)$$ Dette kan omskrives til $$v=(\gamma ,\gamma \vec{v})$$
 
 # Fodnoter
 [^1]: Når vi har en gamma tæt på 1. Betyder det bare at v er så lille at relativitet ikke spiller en rolle.
 [^2]: Både energikonstanthed og impulskonstanthed gælder da v=0. Her er m og v i forhold til hele systemet. Det er pi og pf, Ei og Ef også.
+[^3]: Disse to sidste antager at vi ikke bevæger os i disse dimensioner i forhold til et andet koordinatsystem.
