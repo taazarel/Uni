@@ -14,7 +14,7 @@ Lysets hastighed er altid konstant, dette kan lade sig gøre fordi... :: uanset 
 Lysets hastighed er... :: Den hurtigste information i universet. Skrives med c. og har størrelsen: $10 \cdot 10^{8} \frac{m}{s}$.
 <!--SR:!2023-01-06,18,290-->
 Ofte bruger vi dette til at måle distance... :: distancen lyset tilbagelægges over et givent interval i tid. Set som fx lyssekund og lysår.
-<!--SR:!2023-01-05,17,290-->
+<!--SR:!2023-03-16,70,310-->
 
 
 # 9.2 Speciel Relativitetsteori
@@ -25,7 +25,7 @@ Rum...
 ?
 Uafhængigt af observantes hast
 Tid og rum er begge ikke absolutte, men Rumtid, hvad de begge er en del af **er** absolut. Dette betyder blot at deres forhold skal ændres men både tid og rum kan strækkes og presses.
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-18,72,308-->
 
 Rumtid kan plottes i to dimensioner således... :: som en kegleform, hvor randen er lysets hast. ![[Pasted image 20221209150323.png]].
 <!--SR:!2023-01-09,21,290-->
@@ -39,20 +39,20 @@ For at vise problemet med Transformationen mellem to inertial koordinatsystemer 
 
 # 9.4 Samtidighed
 Samtidighed for ens eget synspunkt vises som... :: en horisontal linje i rumtidsdiagrammet.
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-14,68,308-->
 Samtidighed for en anden persons inertialsystem vises som... :: en lige linje der danner en vinkel med referencepunktets samtidighed.[^1]
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-16,70,308-->
 Vi kan lave tre linjer i et rumtidsdiagram når vi har et andet synspunkt repræsenteret i det... :: som er Et objekt der sidder stille $x=vt$, et foton $x=t$ og samtidighedslinjen $t=vx$ 
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-11,65,308-->
 Hvis vi indfører lysets hast i linjerne for rumtidsdiagrammet $x=vt,x=t \text{ og }x=\frac{t}{v}$ så får vi... :: $x=vt \text{ for et stille objekt},x=ct \text{ for et foton }, t=\frac{vx}{c^{2}} \text{ for samtidigheden}$
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-14,68,308-->
 Kausalitet siger at... :: når begivenhed A laver begivenhed B så sker A før B, og alle synspunkter kan sige dette.[^2]
-<!--SR:!2022-12-23,3,268-->
+<!--SR:!2023-03-02,56,288-->
 
 Vi kan aldrig blive enige om rækkefølge af A så B i... :: Spacelike begivenheder da vi kan finde forskellige synspunkter til dem.
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-13,67,308-->
 Vi kan blive enige om rækkefølge af A så B i... :: Timelike begivenheder da vi aldrig kan få en hældning med mere end 45 grader (Lysets graf)
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-17,71,308-->
 
 # 9.5 Lorentz Transformation
 Regulært koordinatsystem = det som står stille.
@@ -66,10 +66,10 @@ Hvis x' bevæger sig mod højre fra x så finder vi:
  2. $t'=(t-vx)k(v^{2})$ (9.25)
  3. at h og k er den samme funktion da $x=t$ og $x'=t'$.[^3]
  4. $x=(x'+vt')h(v^{2}),t=(t'+vx')h(v^{2})$, da det blot vil være at ændre fortegnet.
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-12,66,308-->
 
 Lorentz-faktoren skrives som $\gamma (v)=...$::$$\frac{1}{\sqrt{1-v^{2}}}$$ (9.28)
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-15,69,308-->
 
 Koordinat transformationerne for lorentz transformationer er opsamlet nedenunder, på den anden side er med c. Her er det bare c=1. 
 1. $t'=\gamma (t-vx)$...
@@ -83,7 +83,7 @@ Koordinat transformationerne for lorentz transformationer er opsamlet nedenunder
 3. $t=\gamma (t'+ \frac{vx'}{c^{2}})$
 4. $x=\gamma (x'+vt')$
 5. $\gamma = \frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}}$
-<!--SR:!2022-12-23,4,288-->
+<!--SR:!2023-03-13,67,308-->
 
 [^1]: Dette sker da lysets hast altid danner rette vinkler fra begge sider. Så to linjer der skærer det samme punkt, for et system som bevæger sig(Har skæve tidslinjer) betyder at deres skæringspunkt ikke bliver den samme tid for samme distance. Vi kan herfra tegne en linje mellem disse punkter, og dette vil være samtidigheden af det andet referencesystem.
 [^2]: Dette virker ikke for begivenheder som sker forskellige steder i rummet.

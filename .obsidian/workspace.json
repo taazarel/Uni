@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relativistisk Dynamik.md",
+                "file": "Kurser/MekRel/Relativistisk Dynamik.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b65ce9cee5fdaf5f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/MekRel/Dokumenter/Kap10.pdf"
               }
             }
           }
@@ -113,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relativistisk Dynamik.md",
+                "file": "Kurser/MekRel/Relativistisk Dynamik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relativistisk Dynamik.md"
+                "file": "Kurser/MekRel/Relativistisk Dynamik.md"
               }
             }
           },
@@ -179,15 +189,15 @@
   },
   "active": "5852642a33b33516",
   "lastOpenFiles": [
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "conflict-files-obsidian-git.md",
+    "Kurser/MekRel/Relativistisk Dynamik.md",
+    "Kurser/MekRel/Dokumenter/Kap10.pdf",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 12.md",
+    "Relativistisk Dynamik.md",
+    "personer.md",
+    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Pointopgave 11.md",
-    "Kurser/LinAlys/Højere ordens afledte.md",
-    "Kurser/LinAlys/Determinanter.md",
-    "Kurser/LinAlys/Abstrakte vektorrum.md",
-    "Kurser/LinAlys/Dokumenter/opg11.pdf",
-    "Kurser/MekRel/Papir til opgaver.md",
-    "Kurser/LinAlys/Lineære Afbildninger.md"
+    "Kurser/LinAlys/Højere ordens afledte.md"
   ]
 }
