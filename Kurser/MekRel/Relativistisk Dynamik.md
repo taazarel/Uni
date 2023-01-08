@@ -48,6 +48,8 @@ Helt generelt gælder det at et indre produkt af 4-vektorer er invariant. Vi skr
 
 4-vektoren for acceleration findes ved at differentiere med $\tau$ på hast-vektoren... :: $$A=\left(\gamma ^{4}v \dot v, \gamma ^{4}v \dot v \vec{v}+ \gamma ^{2} \frac{d\vec{v}}{dt}\right)$$ (10.95)
 
+Vi kan finde 4-vektoren for kraft gennem energi-impulsvektoren (10.88)... :: $F=\left(\frac{dE}{d \tau }, \frac{d\vec{p}}{d \tau}\right)$ (10.96). Når vi har konstant m, så kan vi skrive $F=mA=m\left(\gamma ^{4}v \dot v, \gamma ^{4}v \dot v \vec{v}+ \gamma ^{2} \frac{d\vec{v}}{dt}\right)$ (10.97)
+
 
 # Fodnoter
 [^1]: Når vi har en gamma tæt på 1. Betyder det bare at v er så lille at relativitet ikke spiller en rolle.
