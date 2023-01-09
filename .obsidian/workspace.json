@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b616c52045f0744",
+        "id": "07c4e8ee14c54867",
         "type": "tabs",
         "children": [
           {
-            "id": "5852642a33b33516",
+            "id": "f3ee87120a19c3da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,17 @@
             }
           },
           {
-            "id": "b65ce9cee5fdaf5f",
+            "id": "070f5714d83c76ba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/MekRel/Dokumenter/Kap9.pdf"
+              }
+            }
+          },
+          {
+            "id": "6065894d9e8dcb61",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -59,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "taylor",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +96,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,8 +120,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "4a5765a8570810be",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ceba97dbe93cd497",
@@ -123,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Relativistisk Dynamik.md",
+                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,16 +171,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Relativistisk Dynamik.md"
+                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md"
               }
-            }
-          },
-          {
-            "id": "150480a7a48fcaf0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           }
         ],
@@ -173,31 +185,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-dangling-links:Show dangling links panel": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "5852642a33b33516",
+  "floating": {
+    "id": "fc36dc7a77dd0168",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f96cce91f6b5dfb9",
+        "type": "window",
+        "children": [
+          {
+            "id": "a7edb50bd225fc99",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2820348daaeed425",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2820348daaeed425",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Kurser/MekRel/Relativistisk Dynamik.md",
-    "Kurser/MekRel/Dokumenter/Kap10.pdf",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 12.md",
-    "Relativistisk Dynamik.md",
-    "personer.md",
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
+    "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
-    "Pointopgave 11.md",
-    "Kurser/LinAlys/Højere ordens afledte.md"
+    "Kurser/MekRel/Papir til opgaver.md",
+    "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md",
+    "Kurser/MekRel/Dokumenter/Kap10.pdf",
+    "Pointopgave 12.md",
+    "Kurser/LinAlys/Egenværdier.md",
+    "Kurser/LinAlys/Partiel integration.md",
+    "Kurser/MekRel/Dokumenter/cpt123456.pdf"
   ]
 }
