@@ -8,14 +8,14 @@ Ud fra Einsteins postulater finder vi... :: (i) Samtidighed, (ii) Længde forkor
 Når vi skriver Rumtidsdiagrammer skal vi huske... :: at gange tid med c og at dividere v med c. Dermed også at c=1.
 <!--SR:!2023-03-15,69,310-->
 Et rumtidsdiagram tegnes sådan... :: ![[Forelæsning den 12 december 2022-12-12 11.48.09.excalidraw]]
-<!--SR:!2023-01-08,20,290-->
+<!--SR:!2023-04-04,85,310-->
 
 Egentid er altid... :: den korteste.
 <!--SR:!2023-02-27,56,297-->
 Egenrum er altid... :: den længste.
 <!--SR:!2023-02-26,55,297-->
 Forholdet mellem rum og tid, kalder vi sigma, og sigma er... :: en invariant i forhold til alle koordinatsystemer. $\Delta \tau ^{2}=-\Delta \sigma ^{2}$.[^1]
-<!--SR:!2023-01-09,4,291-->
+<!--SR:!2023-01-25,16,311-->
 
 
 [^1]: Hvor tau er egentid.

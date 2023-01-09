@@ -107,7 +107,7 @@ $\Delta K_{CM}=\frac{1}{2}m_{tot}(v_{CM,f}^{2}-v_{CM,i}^{2})$
 Man kan skrive $\Delta K_{CM}$ som dette for konstante kræfter som virker i én dimension... :: $\Delta K_{CM}=\sum \vec{F}_{ydre,x}\Delta x_{CM}$[^7]
 <!--SR:!2023-02-19,83,306-->
 Generelt gælder det at $\Delta K=\Delta K_{CM}+\Delta K_{konvert}$ men for et flerpartikelsystem kan vi sige... :: $\Delta K_{konvert}\neq 0$ modsat end i et punkt-partikel-system $\Delta K_{konvert}=0$.
-<!--SR:!2023-01-09,4,322-->
+<!--SR:!2023-01-27,18,342-->
 <!--SR:!2023-01-24,19,246-->
 
 ## Arbejde udført af variable og fordelte kræfter [6.7]

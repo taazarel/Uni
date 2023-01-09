@@ -8,13 +8,13 @@
     ],
     "convertFoldersToDecks": true,
     "cardCommentOnSameLine": false,
-    "burySiblingCards": false,
+    "burySiblingCards": true,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 80,
     "showFileNameInFileLink": true,
     "randomizeCardOrder": true,
-    "convertHighlightsToClozes": true,
+    "convertHighlightsToClozes": false,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
     "singleLineCardSeparator": "::",
@@ -42,7 +42,11 @@
     "singlelineCardSeparator": "::",
     "singlelineReversedCardSeparator": ":::"
   },
-  "buryDate": "2023-01-05",
-  "buryList": [],
+  "buryDate": "2023-01-09",
+  "buryList": [
+    "14909266474045",
+    "1f0da0d1a806b8",
+    "e0983c06aa244"
+  ],
   "historyDeck": "MekRel"
 }

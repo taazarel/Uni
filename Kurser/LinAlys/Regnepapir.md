@@ -14,3 +14,4 @@
 [[Regnepapir 2022-12-22 08.28.00.excalidraw]]
 [[Regnepapir 2023-01-03 09.31.55.excalidraw]]
 [[Regnepapir 2023-01-05 09.28.54.excalidraw]]
+[[Regnepapir 2023-01-09 10.42.49.excalidraw]]
