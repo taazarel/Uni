@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "74f1a2274f7c3d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "070f5714d83c76ba",
             "type": "leaf",
             "state": {
@@ -40,6 +52,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -236,15 +249,15 @@
   },
   "active": "2820348daaeed425",
   "lastOpenFiles": [
-    "Kurser/MekRel/Relativistisk Dynamik.md",
+    "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md",
+    "Kurser/MekRel/Relativistisk Dynamik.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/MekRel/Papir til opgaver.md",
     "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Pointopgave 12.md",
     "Kurser/LinAlys/Egenværdier.md",
-    "Kurser/LinAlys/Partiel integration.md",
-    "Kurser/MekRel/Dokumenter/cpt123456.pdf"
+    "Kurser/LinAlys/Partiel integration.md"
   ]
 }
