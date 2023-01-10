@@ -30,8 +30,19 @@ Når man har defineret sin ligning kan vi skrive løsningen som... :: $$\int_{}^
 # §10.5 Anden ordens homogen differentialligning
 Vi kan finde en anden ordens diff. ligning således hvis den er homogen... :: $y''(x)+p(x)y'(x)+q(x)y(x)=0$ hvilket skrives som dette i fysik $\ddot y(x)+p(x)\dot y(x)+q(x)y(x)=0$.
 ## Lemma 10.5.1
-Givet $y_{1},y_{2}: \mathbb{R}\to \mathbb{R}$ løse
+Givet $y_{1},y_{2}: \mathbb{R}\to \mathbb{R}$ kan løse diff. ligning af anden orden $y''+py'+qy=0$, hvor $C,D \in \mathbb{R}$ er konstanter. Så kan diff. ligningerne også løse... :: $y(x)=Cy_{1}(x)+Dy_{2}(x)$ således.
+### Konsekvens af lemma 10.5.1
+Givet at dette lemma er sandt vil y blive et underrum skrevet som... :: $\{y:\mathbb{R}\to \mathbb{R}|y''+py'+qy=0 \} \subseteq \mathbb{F_{R}}$.[^3]
+## Løsning af andenordens diff. ligning
+Givet et 2-dimensionalt underrum og ligningen $y''+py'+qy=0$ så kan vi finde løsningen ved først at udregne... :: andengradspolynomiet $r^{2}+pr+q=0$ hvor $r \in C$ og $y: \mathbb{R}\to \mathbb{R}$ er ubekendte. $D=p^{2}-4q \in \mathbb{R}$.
+Når man har løst andengradspolynomiet kan vi finde løsningen af diff. ligningen ved... :: $y_{1}(x)=e^{r_{1}x}\text{ og }y_{2}(x)=e^{r_{2}x}$ er løsninger til diff. hvor $r_{1}\text{ og }r_{2}$ er to reelle rødder. Vi ved også at de differentierede af y bliver $y'(x)=r_{i}e^{r_{i}x}$ og $y''(x)=r_{i}^{2}e^{r_{i}x}$.
+
+Vi finder at løsningen kan skrives som $y''+py'+qy=(r_{i}^{2}+pr_{i}+q)e^{r_{i}x}$. og så at gøre det med både r1 og r2.
+## Sætning 10.5.3 Generel løsning til diff ligninger af anden orden.
+Givet $D=p^{2}-4q>0$ så er løsningen... :: $y(x)=Ce^{r_{1}x}+De^{r_{2}x}$. hvor $C,D \in \mathbb{R}$.
+
 
 
 [^1]: Differentialligninger er meget vigtige for fysikere.
 [^2]: I dette kapitel brugte bogen y=y(x) som illustration af ukendte funktioner. I stedet for det normale f, g og h.
+[^3]: VI kan se at dette er en kerne af en operation, hvilket betyder at vi også kan beskrive dette underrum som en lineær operator. da der også eksisterer et billede som er onto.
