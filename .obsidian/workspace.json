@@ -172,45 +172,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "fc36dc7a77dd0168",
-    "type": "floating",
-    "children": [
-      {
-        "id": "52eb995e4e7f7691",
-        "type": "window",
-        "children": [
-          {
-            "id": "72b8123be29de890",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6c284ff505d77457",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Regnepapir 2023-01-09 10.42.49.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "527d8c30d5596069",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Regnepapir.md",
     "Assets/Excalidraw/Regnepapir 2023-01-09 10.42.49.excalidraw.md",
+    "Kurser/LinAlys/Regnepapir.md",
     "Kurser/MekRel/Relativistisk Dynamik.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md",
