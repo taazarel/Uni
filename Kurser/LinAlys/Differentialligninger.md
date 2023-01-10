@@ -39,7 +39,10 @@ Når man har løst andengradspolynomiet kan vi finde løsningen af diff. ligning
 
 Vi finder at løsningen kan skrives som $y''+py'+qy=(r_{i}^{2}+pr_{i}+q)e^{r_{i}x}$. og så at gøre det med både r1 og r2.
 ## Sætning 10.5.3 Generel løsning til diff ligninger af anden orden.
-Givet $D=p^{2}-4q>0$ så er løsningen... :: $y(x)=Ce^{r_{1}x}+De^{r_{2}x}$. hvor $C,D \in \mathbb{R}$.
+Givet $D=p^{2}-4q>0$ så er løsningen... :: $y(x)=Ce^{r_{1}x}+De^{r_{2}x}$. hvor $C,D \in \mathbb{R}$ ikke er det samme som D for determinanten.
+Andet tilfælde af den generelle løsning. Hvis vi har at $D=0$ så får vi én reel dobbelrod og to løsninger... :: $y_{1}(x)=e^{rx}$ og $y_{2}(x)=xe^{rx}$.
+Det tredje tilfælde af den generelle løsning, givet at $D<0$ får vi to komplekse rødder $r_{1}=a+ib$, $r_{2}=a-ib$, og to løsninger... :: $y_{1}(x)=e^{ax}\cos{bx}$ og $y_{2}(x)=e^{ax}\sin{bx}$
+
 
 
 
