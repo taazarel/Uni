@@ -7,7 +7,8 @@
 3. Hvad skal findes? Hvilke variable, normalt er det langt x' aksen.
 4. Vælg den "rigtige" LT (Lorentz transformation)
 5. Regne, regne $\Rightarrow$ fortolk.
-
+# Ekstra
+Man kan finde hasten af to relativistiske hastigheder lagt sammen ved formlen... :: $u= \frac{v_{2}+v_{1}}{1+v_{1}v_{2}}$ Hvis vi genindfører lysets hast får vi $u = \frac{v_{2}+v_{1}}{1+\frac{v_{1}v_{2}}{c^{2}}}$.
 # 9.1 Lysets hastighed
 Lysets hastighed er altid konstant, dette kan lade sig gøre fordi... :: uanset hvilken fart du har kan rumtiden bøjes, derfor kan lys altid have c som sin fart (i vakuum).
 <!--SR:!2023-01-08,20,290-->

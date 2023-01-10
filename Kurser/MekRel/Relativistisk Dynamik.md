@@ -18,7 +18,7 @@ Invarianten tau, som betegner egentid findes gennem de to ikke invarianter... ::
 Hvis vi benytter formlen for den totale energi (5.30) sammen med (10.6) finder vi den relativistiske energi er dette... :: $E=m \gamma$ og hvis vi indfører lysets hastighed igen får vi $E=\gamma mc^{2}$.
 Massen er en invariant størrelse som kan findes ved... :: $m^{2}=E^{2}-p^{2}$. (10.33)
 Egentiden er en invariant størrelse som kan findes ved... :: $\tau ^{2}=t^{2}-x^{2}$
-
+Center af momentum kan findes mellem to partikler således... :: $$\frac{v_{cm}}{c}= \frac{1-\frac{1}{\gamma}}{\frac{v_{i}}{c}}= \frac{1-\sqrt{\frac{1-v^{2}}{c^{2}}}}{\frac{v}{c}} $$
 
 ## 10.4
 Vi kan finde hastigheden af en partikel ved at bruge energi og impuls... :: $\vec{v}= \frac{\vec{p}}{E}$ (10.34)
