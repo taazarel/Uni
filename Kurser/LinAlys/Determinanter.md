@@ -1,177 +1,148 @@
 #forelæsning 
-Begyndelsesdato: Kl. 08:08  Den 08-12-2022   Uge-49
-## Definition 6.8 (Isometrier)
-En isometri fra V til W er en... :: lineær afbildning af $T:V \to W$ som er både injektiv og surjektiv.
-<!--SR:!2023-01-10,21,290-->
-V og W er isomorfe hvis der eksisterer... :: en isometri mellem dem $V \to W$.
-<!--SR:!2023-01-11,22,290-->
-Vi kan skrive isometri således på papir... :: $T: \mathbb{P}_{3}\to \mathbb{R}^{4}$. hvor $a_{3}x^{3}+...+a_{0}x^{0}\rightarrow (a_{0},...,a_{3})\text{ eller }(a_{3},...,a_{0})$.
-<!--SR:!2023-01-15,10,250-->
+Begyndelsesdato: Kl. 08:12  Den 22-11-2022   Uge-47
+# Programmet
+- n-k rødder af $z \in \mathbb{C}$. (TL 3.4)
+- Polynomier (TL 1.5)
 
-## Sætning
-Lad V og W være end. dim. Da er V og W isomorfe hvis og kun hvis... :: $dim(V)=dim(W)$.
-<!--SR:!2023-01-03,14,270-->
+## Definition 3.5.1
+lad $z \in \mathbb{C},n \in \mathbb{N}$ Da er en n-te rod af z skrevet som... :: $w^{n}=z \text{ hvor }w \in \mathbb{C}$.[^1]
+<!--SR:!2023-04-09,89,286-->
 
+## Sætning 3.5.2
+lad $z \in \mathbb{C}\backslash \{ 0\},n \in \mathbb{N}$ da vil z have disse rødder... :: n forskellige n-te rødder skrevet $w_{0},...,w_{n-1}\in \mathbb{C}$.
+<!--SR:!2023-03-31,80,266-->
+Givet $z,w \in \mathbb{C}$ og $w^{n}=z,z=re^{i \theta }$ så bliver den bestemte rod $w_{k}=$... :: $r^{\frac{1}{n}}e^{i \frac{\theta+2\pi k}{n}}$.
+<!--SR:!2022-12-30,25,286-->
 
-# Messer §7.1 Induktionsbevis
-Induktionsbeviser er en metode til at bevise påstande for alle $n \in \mathbb{N}$. Den går således: Påstand $S_{n}$ er sand og $S_{n}\Rightarrow S_{n+1}$ er sandt, så er... :: $S_{n}$ sandt for alle $n \in \mathbb{N}$.
-<!--SR:!2023-01-09,20,290-->
-### Eksempel for induktiontionsbevis
-$$\sum_{j=1}^{n}(2j-1)=n^{2}$$ Summen for alle ulige tal er antallet af tallene i anden. Dette er vores $S_{n}$. Vi kan vise at dette passer for $S_{1}$: $$\sum_{j=1}^{n}(2(1)-1)=1^{2}$$ er altså sandt.
-Vi kan nu vise at det gælder for vores n+1.
-$$\sum_{j=1}^{n+1}(2j-1)=\left(\sum_{j=1}^{n}(2j-1)\right)+2(n+1)-1=n^{2}+(2n+1)=(n+1)^{2}$$
-Vi har nu bevise at $S_{n+1}$ er sandt, og derfor må dette gælde for alle ulige naturlige tal.
-
-## §7 Determinanter
-## Definition
-Determinanten defineres som en transformation på en matrice $det:\mathbb{M}_{n,n}\to \mathbb{R}$. Determinanten skrives således på
-En 2x2 matrice...
-En 3x3 matrice...
-En generisk matrice...
+Nogle smutveje til at finde rødder af et kompleks tal er
 ?
-En 2x2 matrice:
-$$det(\vec{a},\vec{b})=det\left[
-\begin{array}{cc}a_{1} & b_{1} \\ a_{2} & b_{2}
-\end{array}
-\right] =a_{1}b_{2}-a_{2}b_{1}$$
-En 3x3 matrice:
-$$det(\vec{a},\vec{b},\vec{c})=det\left[
-\begin{array}{ccc}a_{1} & b_{1} & c_{1} \\ a_{2} & b_{2} & c_{2} \\ a_{3} & b_{3} & c_{3}
-\end{array}
-\right]$$$$=a_{1}\cdot det \left[
-\begin{array}{cc}b_{2} & c_{2} \\ b_{3} & c_{3}
-\end{array}
-\right] -b_{1}\cdot det \left[
-\begin{array}{cc}a_{2} & c_{2} \\ a_{3} & c_{3}
-\end{array}
-\right] +c_{1}\cdot det \left[
-\begin{array}{cc}a_{2} & b_{2} \\ a_{3} & b_{3}
-\end{array}
-\right] $$
-En generisk matrice:[^1]
-$$det(A)=\sum_{j=1}^{n}(-1)^{1+j}a_{1j}\cdot det(A_{1j})$$
-Hvor matricen $$A=\left[
-\begin{array}{ccc} a_{11} & a_{12} & ... \\ a_{21} & a_{22} & ... \\ \vdots & \vdots & \vdots
-\end{array}
-\right] $$
+At udregne $w_{k}=r^{\frac{1}{n}}e^{i \frac{\theta+2\pi k}{n}},k=0,n-1$
+Omregne $w_{k}$ til en reel og imaginær del. $w_{k}=r^{\frac{1}{n}}e^{\frac{i \theta }{n}}(e^{i \frac{2\pi}{n}})^{k}$ 
+At bruge $w_{k}=w_{0}\cdot (e^{i \frac{2\pi}{n}})^{k}$ 
+<!--SR:!2023-01-24,14,266-->
 
-## Sætning 7.6 (Rækkeoperationer i matricer)
-Lad $A \in \mathbb{M}_{n,n}$. Givet er følgende regler givet for sammenhængen mellem diskriminanten og rækkeoperationer.
-(I) Hvis A har en nulrække er... 
-(II) Hvis $A \to A'$ og $R_{i}\leftrightarrow R_{j}$  er... 
-(III) hvis $A \to A',c \in \mathbb{R}$ og $cR_{i} \to R_{i}$ er... 
-(IV) Hvis A har to ens rækker er... 
-(V) Hvis $A \to A'$ og $cR_{i} +R_{j} \to R_{j}$ er... 
-(VI) Determinanten af I er...  
+## Sætning 3.4.5 (Polynomiers løsning i det komplekse rum)
+At finde løsningen til et andengradspolynomie i det komplekse talrum er lidt anderledes. Givet $az^{2}+bz+c=0, z \neq 0$ så er løsningerne... :: $z= \frac{-b\pm\sqrt{d}}{2a}$ 
+<!--SR:!2022-12-30,25,286-->
+
+Disse ting er anderledes ved $az^{2}+bz+c=0 \in \mathbb{C}$...
 ?
-$det(A)=0$ 
-$det(A')=-det(A)$ 
-$det(A')=c\cdot det(A)$ 
-$det(A)=0$
-$det(A')=det(A)$
-$det(I)=1$[^2]
+$d>0$ har vi to forskellige reelle rødder[^2]
+$d=0$ har vi en reel rod
+$d<0$ har vi to ikke reelle rødder.
+<!--SR:!2022-12-26,21,266-->
 
-## Sætning 7.7
-Definition af den generelle formel for determinanten af en matrice.
-Givet $A \in \mathbb{M}_{n,n}$ og $r,k \in \{1,...,n \}$ så er det(A)=...
+Givet $az^{2}+bz+c=0,d=0$ så bliver $z=$... :: $\frac{-b}{2a}$.
+<!--SR:!2023-05-31,141,306-->
+
+## Definition 1.5 (Polynomier)
+Et komplekst polynomie $p:\mathbb{C}\to \mathbb{C}$ bliver skrevet på formen... :: $$p(z)=a_{n}z^{n}+a_{n-1}z^{n-1}+...+a_{0}z^{0},n \in \mathbb{N} \Rightarrow \sum_{k=0}^{n}a_{k}z^{k}$$
+<!--SR:!2022-12-27,22,266-->
+## Definition RM (Reelle polynomier)
+Et reelt polynomie $f:\mathbb{R}\to \mathbb{R}$ skrives som... :: $$f(x)=a_{n}x^{n}+...+a_{0}x^{0},n \in \mathbb{N},a_{n}\in \mathbb{R}$$
+<!--SR:!2023-01-03,29,286-->
+### Definition (Grad af polynomier)
+Graden af et polynomie p skrives som... :: $grad(p)$ er den største $n \in \{ 0,1,...\} \text{ så }a_{n} \neq 0$.
+
+<!--SR:!2023-05-06,121,306-->
+
+## Regneregler med polynomier
+Produktet af to polynomier $p,q:\mathbb{C}\to \mathbb{C}$ med graderne $grad(p)=n,grad(q)=m$ skrives som ... :: $p(z)q(z)=(a_{n}b_{m})z^{n+m}+(a_{n}b_{m-1}+a_{n-1}b_{m})z^{n+m-1}$ Et polynomie til graden $grad(p \cdot q)=grad(p)+grad(q)$.
+<!--SR:!2023-01-20,15,266-->
+
+### Sætning 1.5.2 (Division af polynomier med rest)
+Givet $p,q \in \mathbb{C}\text{ og }q \neq 0\text{ og } k=\frac{p}{q}$ så findes polynomiet $k(z)\text{ og }r(z)$ så $p(z)=$... :: $k(z)q(z)+r(z)$ med $grad(r)<grad(q)$.
+<!--SR:!2023-06-05,146,306-->
+
+Vektorer i $\mathbb{R}^{n}$ kan skrives som:
+afstand til $\vec{0},||\vec{v}||=\sqrt{\vec{v}\cdot \vec{v}}$.
+Afstand fra $\vec{v}$ til $\vec{w},||\vec{v}-\vec{w}||$
+Vinkel $\vec{v},\vec{w} \neq 0$ og $\theta =\cos^{-1}{\frac{\vec{v}\cdot\vec{w}}{||\vec{v}||\cdot||\vec{w}||}}$
+Projektion $proj_{\vec{u}}(\vec{v})= \frac{\vec{u}\cdot\vec{v}}{\vec{u}\cdot \vec{u}}$ 
+Ortogonalitet $\vec{u}\cdot \vec{v}=0$
+Oversat tilet V indre produkt rum er de...
 ?
-$$\sum_{k=1}^{n}(-1)^{r+k}a_{rk}\cdot det(A_{rk})$$[^3]
+norm $||\vec{v}||=\sqrt{\langle \vec{v},\vec{v}\rangle }$
+Afstand $\vec{v} \text{ til }\vec{w}$ $||\vec{v}-\vec{w}||$
+Vinkel $\vec{u},\vec{v}\in V \backslash 0$ så er $\theta =\cos^{-1}{\frac{\langle \vec{u},\vec{v}\rangle}{||\vec{u}||||\vec{v}||}}$
+Projektion $proj_\vec{u}(\vec{v})= \frac{\langle\vec{v},\vec{u}\rangle}{\langle \vec{u},\vec{u}\rangle }\vec{u}$
+Ortogonalitet $\langle \vec{u},\vec{v}\rangle =0$
+<!--SR:!2022-12-28,23,286-->
 
-## Sætning 7.9[[Lineære Afbildninger]]
-Hvis $A,B \in \mathbb{M}_{n,n}$ så er $det(AB)=...$::$det(A)det(B)$
-<!--SR:!2023-01-09,20,298-->
+## Sætning 4.11 Caudiy Schwarz ulighed
+Givet $\vec{u},\vec{v}\in V$ da kan vi vise en ulighed som... :: $|\langle \vec{u},\vec{v}\rangle| \leq ||\vec{u}||\cdot ||\vec{v}||$ altså $-(||\vec{u}||\cdot ||\vec{v}||)\leq \langle \vec{u},\vec{v}\rangle \leq ||\vec{v}||\cdot ||\vec{u}||$
+<!--SR:!2023-01-01,27,266-->
+### Korollar
+For $\frac{\langle \vec{u},\vec{v}\rangle }{||\vec{u}||\cdot ||\vec{v}||}\in [-1,1]$ så er $\theta =$... :: Veldefineret.
+<!--SR:!2023-03-23,72,270-->
 
-## Definition for transponering
-For $A \in \mathbb{M}_{n,n}$, sæt $A^{t}=...$:: matricen hvis (i,j)-te indgang er $a_{ji}$. Altså en spejlbildning i diagonalen.
-<!--SR:!2023-01-11,22,298-->
-
-## Sætning 7.12
-$det(A^{t})=...$::$det(A)$.
-<!--SR:!2023-01-10,21,298-->
-
-## Sætning 7.13 (Konsekvens af 7.6)
-Hvis vi kan reducere en matrice $A \in \mathbb{M}_{n,n}$ så vil determinanten... :: Ikke være nul da $A \to ... \to I$ gennem rækkereduktion[^4], og $det(I)\neq 0$ så for at få dette må $det(A)\neq 0$.
-
-## Formel for $A^{-1}$ 7.4
-Givet $A_{ij}\in \mathbb{M}_{n-1,n-1}$. Definition: Lad $A \in \mathbb{M}_{n,n}$ så bliver  $adj(A)\in \mathbb{M}_{n,n}$ til matricen hvis indgang $(i,j)$... :: $(-1)^{i+j}det(A_{ji})$.[^5] 
-
-## Sætning 7.14
-For alle $A \in \mathbb{M}_{n,n}$ så er $adj(A)=...$ :: $$adj(A)=\left[\begin{array}{ccc}det(A_{11}) & ... & (-1)^{n+1}det(A_{n1}) \\ \vdots &   & \vdots \\ (-1)^{1+n}det(A_{1n}) & ... & (-1)^{n+n}det(A_{nn})\end{array}\right]$$
-
-## Sætning 7.15
-Givet $adj(A)A=det(A)I \in \mathbb{M}_{n,n}$, Hvis $A \in \mathbb{M}_{n,n}$ har invers er dens invers defineret ved... :: $$A^{-1}=adj(A)/det(A)$$ Hvilket vi også kan skrive som $(A^{-1})_{ij}= (-1)^{i+j}det\frac{A_{ji}}{det(A)}= \frac{\text{Sum af +/- produkter af indgange}}{\text{Sum af +/- produkter af indgange}}$
-
-## Krydsprodukt på flere end to dimensioner
-Definitionen af et krydsprodukt er det samme som determinanten, med vektorerne som søjler... :: uden dens skalarer. Så i tre dimensioner ville det være $$\vec{v}\times \vec{w}=det\left(\left[
-\begin{array}{cc}v_{2} & w_{2} \\ v_{3} & w_{3}
-\end{array}
-\right] \right),-det\left(\left[
-\begin{array}{cc}v_{1} & w_{1} \\ v_{3} & w_{3}
-\end{array}
-\right] \right),det\left(\left[
-\begin{array}{cc}v_{1} & w_{1} \\ v_{2} & w_{2}
-\end{array}
-\right] \right)$$[^6]
-
-## Sætning 7.18 "Algebraiske egenskaber for Krydsprodukt"
-Vi har disse egenskaber for krydsprodukter
-1. $\vec{v}\times \vec{w}=...$
-2. $\vec{v}\times (\vec{w}+\vec{x})=...$
-3. $(\vec{v}+\vec{w})\times \vec{x}=...$
-4. $r(\vec{v}\times \vec{w})=...$
-5. $\vec{v}\times \vec{0}=...$
-6. $\vec{v}\times \vec{v}=...$
-7. $\vec{v}\cdot (\vec{w}\times \vec{x})$
+## Sætning 4.12
+V er et indre produkt rum $\vec{v},\vec{u}\in V$ og $a \in \mathbb{R}$
+1. Hvis $||\vec{u}||\geq 0$ og $||\vec{u}||=0$ så er...
+2. $||a \vec{u}||=...$
+3. $||\vec{u}+\vec{v}||\leq ...$
 ?
-$-\vec{w}\times \vec{v}$
-$\vec{v}\times \vec{w}+\vec{v}\times \vec{x}$
-$\vec{v}\times \vec{x}+\vec{w}\times \vec{x}$
-$(r \vec{v})\times \vec{w}=\vec{v}\times (r \vec{w})$
-$\vec{0}=\vec{0}\times \vec{v}$
-$\vec{0}$
-$det\left(\left[\begin{array}{ccc}- & \vec{u} & - \\ - & \vec{v} & - \\ - & \vec{w} & -\end{array}\right] \right)=(\vec{v}\times \vec{w})\cdot \vec{x}$
+1. $\vec{u}=\vec{0}$
+2. $|\vec{a}|\cdot ||\vec{u||}$
+3. $||\vec{u}||+||\vec{v}||$ Denne hedder også trekantsuligheden ![[Rødder og polynomier af komplekse tal 2022-11-24 08.33.27.excalidraw]]
+### Korollar
+For $f,g \in C_{[a,b]}$ så er $$\sqrt{\int_{a}^{b} (f(x)+g(x))^{2}dx}\leq ...$$ :: $$\sqrt{\int_{a}^{b} f(x)^{2}dx}+\sqrt{\int_{a}^{b} g(x)^{2}dx}$$
+<!--SR:!2023-01-13,24,310-->
 
-## Sætning 7.19 "Geometriske egenskaber af krydsprodukt"
-1. $\vec{v}\cdot (\vec{v}\times \vec{w})=\vec{0}$
-2. $\vec{w}\cdot (\vec{v}\times \vec{w})=\vec{0}$
-3. $||\vec{v}\times \vec{w}||^{2}=...$
-4. $||\vec{v}\times \vec{w}||=...$
-?
-$\vec{0}$
-$\vec{0}$
-$||\vec{v}||^{2}||\vec{w}||^{2}-(\vec{v}\cdot \vec{w})^{2}$
-$||\vec{v}||||\vec{w}||\sin{(\theta )}$
+<!--SR:!2023-02-02,50,306-->
+## Definition 4.16
+Lad V være et indre produkt rum. Vektorfamilien $\vec{u_{1}},...,\vec{u_{n}}\in V$ er ortogonale hvis.... :: $\langle \vec{u_{i}},\vec{u_{j}}\rangle =0$ for $i \neq j$ og $\langle \vec{u_{i}},\vec{u_{j}}\rangle =1$ for $i=j$.[^3]
+<!--SR:!2023-05-10,125,306-->
+Vi kan skrive skalaren $r_{i}=$$\frac{\langle \vec{u_{i}},\vec{v}\rangle}{\langle \vec{u_{i}},\vec{u_{i}}\rangle }= \text{ hvis ortonormal } =$... :: $\langle \vec{u_{i}},\vec{v}\rangle$.
+<!--SR:!2023-05-24,134,286-->
 
-## Orientering af baser
-Ordnede baser, $B = [\vec{u_{1}},\vec{u_{2}},\vec{u_{3}}] \in \mathbb{R}^{3}$ inddeles i... :: højrehåndede $det(B)>0$ og venstrehåndede $det(B)<0$ baser.
-<!--SR:!2022-12-23,3,268-->
+## Sætning 4.17
+Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale medfører det at familien er.... :: Lineært uafhængige. Men ortogonalitet er lettere at tjekke.
+<!--SR:!2023-01-04,15,290-->
 
-### Operation på base
-$T:\mathbb{R}^{3}\to \mathbb{R}^{3}$ lineær $T(\vec{x})=A \vec{x}$ hvor $A \in \mathbb{M}_{3,3}$. Givet at T er isomorf $\Leftrightarrow$ A har invers $\Leftrightarrow$ $det(A)\neq 0$ så er operationen på basen B... :: $T(B)=B'=[T(\vec{u_{1}}),T(\vec{u_{2}}),T(\vec{u_{3}})]$ også en basis og har samme orientering som B.
+<!--SR:!2023-01-09,26,226-->
+### Korollar "Ortonormal basis" (ONB)
+$\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en endelig $dim \{ V\}$ så vil ... :: vi finde en basis $\vec{u_{1}},...,\vec{u_{n}}\in V$ gennem en Gram Schmidt Proces.
 
-## Kryds notation
-givet $\vec{v},\vec{w} \in \mathbb{R}^{3}$ så bliver $$det\left[
-\begin{array}{ccc}
-\vec{i} & \vec{j} & \vec{k} \\ 
-\vec{v_{1}} & \vec{v_{2}} & \vec{v_{3}} \\ 
-\vec{w_{1}} & \vec{w_{2}} & \vec{w_{3}}
-\end{array}
-\right]=\vec{v}\times \vec{w}$$ Og dette giver kun mening hvis... :: $\vec{i}=\vec{e_{1}}=(1,0,0)$ $\vec{j}=\vec{e_{2}}$ og $\vec{k}=\vec{e_{3}}$
+<!--SR:!2023-01-24,35,246-->
 
-## Cramers formel
-For løsninger til $A \vec{x}=b$, når $t \in \mathbb{R}^{n}$ og $A \in \mathbb{M}_{n,n}$ så er $\vec{x}=...$ :: $A^{-1}b= \frac{1}{det(A)}adj(A)b \Rightarrow x_{j}= \frac{det(A_{j})}{det(A)}, A_{j}\in \mathbb{M}_{n,n}$.
+## Sætning 4.20 (Konstruktion af ONB)[^4]
+Givet $\vec{u_{1}},...,\vec{u_{n}}\in V$ er en basis, konstruerer vi ONB $\vec{e_{1}},...,\vec{e_{n}}\in V$ og kan definere... :: $\vec{e_{1}}= \frac{1}{||\vec{u_{1}}||}\vec{u_{1}}$ og $v_{2}=\vec{u_{2}}-\langle \vec{u_{2}},\vec{e_{1}}\rangle \vec{e_{1}}$ så kan vi definere $\vec{e_{2}}= \frac{1}{||\vec{v}||}\vec{v_{2}}$.
+<!--SR:!2023-01-01,27,286-->
+De generelle $\vec{v_{k}},\vec{e_{k}}$ kan skrives som... :: $\vec{v_{k}}=\vec{u_{k}}-\langle \vec{u_{k}},\vec{e_{1}}\rangle \vec{e_{1}}-...-\langle \vec{u_{k}},\vec{e_{k-1}}\rangle \vec{e_{k-1}}$. og $e_{k}= \frac{1}{||\vec{v_{k}}||}\vec{v_{k}}$. $v_{k}$ kan omdefineres til $$\vec{v_{k}}=\vec{u_{k}}-\sum_{j=1}^{k-1}\langle \vec{u_{k}},\vec{e_{j}}\rangle \vec{e_{j}}$$
+
+<!--SR:!2023-01-20,15,266-->
+## Sætning 1.5.5 
+et komplekst tal $a \in \mathbb{C}$ er rod i $P(z)=a_{n}z^{n}+...+a_{0},a_{i}\in \mathbb{C},a_{n}\neq 0$ hvis... :: $P(z)=k(z)(z-a)$, vi kan skrive $P(z)=K(z)(z-a)+r,\text{ a rod}\Rightarrow 0=P(a)=K(a)(a-a)+r=r$.
+<!--SR:!2023-05-05,120,306-->
+
+## Sætning 3.5.1 (Algebraens fundamentalsætning)
+Lad $P(z)=c_{n}z^{n}+...+c_{0},c_{i}\in \mathbb{C}$ da findes $r_{1},...,r_{n} \in \mathbb{C}$ så... :: $P(z)=c_{n}(z-r_{1})\cdot ...\cdot (z-r_{n})$[^5]
+
+<!--SR:!2023-04-26,111,306-->
+
+## Sætning 5.5.2[^6]
+Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$
+<!--SR:!2022-12-25,20,270-->
+
+## Lemma 3.5.3
+$P(z)=c_{n}z^{n}+...+c_{0}$ hvis $r \in \mathbb{C}$ er rod er... ::  $\vec{r}\in \mathbb{C}$ også en rod.
+
+<!--SR:!2023-02-13,55,266-->
 
 
+
+## Kig på senere
+### Eksempel 3.4.3 
+For at se hvordan man finder en rod.
+### Eksempel 1.5.1
+For at se hvordan man dividerer polynomier
+### Eksempel på side 181
+For at se konstruktion af en ONB
 # Fodnoter
-[^1]: Dette bliver til en sum af n! led. Så for en 3x3 matrice er det 6 led. Denne formel er meget upraktisk for en datalogisk synspunkt, men kan godt bruges til at give en definition på determinanten.
-[^2]: I er identitetsmatricen. Dette kan altså fortælle os hvad determinanten bliver når man reducerer. Enten får man en nulrække eller to ens rækker, og så er det nul, eller også finder man I.
-[^3]: r=1 er definitionen af determinanten.
-[^4]: her benytter vi 7.6 definitionen til at reducere lettere.
-[^5]: Hvor $A=\left[\begin{array}{ccc}a_{11} & ... & a_{1n} \\ \vdots  &   & \vdots \\ a_{n1} & ... & a_{nn}\end{array}\right]$.
-[^6]: Husk at $$det\left[
-\begin{array}{ccc}- & \vec{u} & - \\ - & \vec{v} & - \\ - & \vec{w} & -
-\end{array}
-\right] =det \left[
-\begin{array}{ccc}| & | & | \\ \vec{u} & \vec{v} & \vec{w} \\ | & | & |
-\end{array}
-\right] $$
+[^1]: Der kan både være flere en en rod, eller ingen gyldige rødder. Altså er rødderne ikke entydige.
+[^2]: Diskriminanten er stadigvæk $d=b^{2}-4ac$
+[^3]: Messer $S \subseteq V$ er ortogonal.
+[^4]: Hedder også Gram Schmidt Processen.
+[^5]: Bortset fra deres rækkefølge er $r_{1},...,r_{n}$ entydige.
+[^6]: Sætning 3.5.1=Sætning 5.5.2

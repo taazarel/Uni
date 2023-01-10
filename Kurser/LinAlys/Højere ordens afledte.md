@@ -6,7 +6,7 @@ Begyndelsesdato: Kl. 08:09  Den 06-12-2022   Uge-49
 # TK § 2.5
 ## [[Retningsafledte#Partielt afledte funktioner|Partielt Afledte]] af f af *anden* orden
 Vi kan finde partielt afledte af en højere orden således $$\frac{\delta^{2}f}{\delta x_{j}\delta x_{i}}=...$$:: $$\frac{\delta}{\delta x_{j}}\left(\frac{\delta f}{\delta x_{i}}\right)$$ 
-<!--SR:!2022-12-27,5,270-->
+<!--SR:!2023-03-22,71,290-->
 
 <!--SR:!2023-01-09,26,294-->
 
@@ -69,7 +69,7 @@ Lad $f:A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ f har lokalt maksimum i $\ve
 
 ## Sætning 3.2
 Hvis $f:A \to \mathbb{R}$, $A \subseteq \mathbb{R}^{n}$, hvis $\vec{a}\in A$ er lokalt ekstremumsværdi så er en af disse sandt... :: (i) $\vec{a}\in \delta A$ "Randpunkt", (ii) $\nabla f(\vec{a})$ eksisterer ikke "Singulære punkter", (iii) $\nabla f(\vec{a})=\vec{0}$ "Stationært punk"
-<!--SR:!2022-12-29,7,274-->
+<!--SR:!2023-03-25,74,294-->
 
 <!--SR:!2022-12-22,8,234-->
 

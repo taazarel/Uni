@@ -27,6 +27,10 @@ Givet $I \subseteq \mathbb{R}$ er et åbent interval, $f,g:I \to \mathbb{R}$ er 
 Givet $p,q: I \to \mathbb{R}$ er kont. så kan vi skrive... :: $q(y(x))y'(x)=p(x)$. Der er et trick som hedder $\frac{d}{dx}q(y(x))=p(x)$.
 ## Løsning (Seperation af Variable)
 Når man har defineret sin ligning kan vi skrive løsningen som... :: $$\int_{}^{} q(y(x))dy=\int_{}^{} p(x)dx$$
+# §10.5 Anden ordens homogen differentialligning
+Vi kan finde en anden ordens diff. ligning således hvis den er homogen... :: $y''(x)+p(x)y'(x)+q(x)y(x)=0$ hvilket skrives som dette i fysik $\ddot y(x)+p(x)\dot y(x)+q(x)y(x)=0$.
+## Lemma 10.5.1
+Givet $y_{1},y_{2}: \mathbb{R}\to \mathbb{R}$ løse
 
 
 [^1]: Differentialligninger er meget vigtige for fysikere.
