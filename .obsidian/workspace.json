@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "734288e228603c06",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/MekRel/Dokumenter/Kap10.pdf"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md",
+                "file": "Kurser/MekRel/Dokumenter/Kap10.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md"
+                "file": "Kurser/MekRel/Dokumenter/Kap10.pdf"
               }
             }
           }
@@ -179,8 +190,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "527d8c30d5596069",
+  "active": "734288e228603c06",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Differentialligninger.md",
     "Assets/Excalidraw/Regnepapir 2023-01-09 10.42.49.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Kurser/MekRel/Relativistisk Dynamik.md",
@@ -189,7 +201,6 @@
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
     "Kurser/MekRel/Papir til opgaver.md",
     "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.19.10.excalidraw.md",
-    "Kurser/MekRel/Dokumenter/Kap10.pdf",
-    "Pointopgave 12.md"
+    "Kurser/MekRel/Dokumenter/Kap10.pdf"
   ]
 }
