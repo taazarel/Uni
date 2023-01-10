@@ -57,7 +57,7 @@ Størsteværdipunkt er det samme som... ::: Globalt maksimumspunkt: $$f(\vec{x})
 
 <!--SR:!2023-01-06,23,294!2022-12-12,4,274-->
 Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\geq f(\vec{a})\text{ for alle }\vec{x}\in A$$
-<!--SR:!2023-01-10,21,294!2023-01-14,25,303-->
+<!--SR:!2023-04-06,86,314!2023-01-14,25,303-->
 
 <!--SR:!2023-01-08,25,290!2023-01-07,24,294-->
 
