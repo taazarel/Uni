@@ -31,7 +31,7 @@ Vi kan skrive alle muligheder for partielt afledte af en bestemt orden gennem en
 <!--SR:!2023-01-05,22,294-->
 ### Hessematrix fortsat
 Vi kan indsætte værdier i vores hessematrix. Lad os tage funktionen fra 278 som eksempel. Vi finder $Hf(0,0)=...$::$$\left[\begin{array}{cc}0 & 0 \\ 0 & 2\end{array}\right] $$
-<!--SR:!2023-01-12,23,303-->
+<!--SR:!2023-04-20,98,323-->
 
 <!--SR:!2023-01-06,23,301-->
 ## Definition 2.79
@@ -47,13 +47,13 @@ Lad $A \subseteq \mathbb{R}^{n}$ være åben og $r \in \mathbb{N}$ og $f:A \to \
 <!--SR:!2022-12-25,11,250-->
 ### Udvidelse af 2.82
 Hvis vi har $f \text{ er }C^{3}$ kan vi anvende... :: $$\frac{\delta^{3}f}{\delta x_{i}\delta x_{j}\delta x_{k}}= \frac{\delta^{3}f}{\delta x_{j}\delta x_{k}\delta x_{i}}$$[^1]
-<!--SR:!2023-01-12,23,294-->
+<!--SR:!2023-04-14,92,314-->
 
 <!--SR:!2023-01-04,21,290-->
 # TK § 3.1
 ## Definition af ekstremum
 Størsteværdipunkt er det samme som... ::: Globalt maksimumspunkt: $$f(\vec{x})\leq f(\vec{a})\text{ for alle }\vec{x}\in A$$
-<!--SR:!2023-01-13,24,303!2023-01-02,13,283-->
+<!--SR:!2023-01-13,24,303!2023-04-12,90,303-->
 
 <!--SR:!2023-01-06,23,294!2022-12-12,4,274-->
 Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\geq f(\vec{a})\text{ for alle }\vec{x}\in A$$
@@ -98,9 +98,9 @@ $f(-3+t,1-t)=-3t^{2}+9$ Er ikke et lokalt minimum
 ## Parametriseringsmetoden
 Vi ved hvordan vi finder et lokalt min, maks og sadelpunkter for stationære punkter, men vil også gerne vide det for randpunkter.
 Givet er $A=D_{1}\subseteq \mathbb{R}^{2}$ hvor $D_{1}=[0,1]\times [0,1]=\{(x,y)\in \mathbb{R}^{2}|\begin{array}{c}0\leq x \leq 1 \\ 0 \leq y \leq 1\end{array} \}$. og funktionen $g:D_{1}\to \mathbb{R}$, $g(x,y)=3x^{2}-x-y+y^{2}$. $\delta D_{1}$ er fire linjestykker, for at finde randpunkterne som kunne være lokale ekstremum... :: parametriserer vi således $g(1,t)=3-1-t+t^{2}=t^{2}-t+2=f(t)$ Vi differentierer $\frac{df(t)}{dt}=2t-1$ og finder hvor $f'(t)=0$ hvilket er $\frac{1}{2}$. Så har vi kandidat til et ekstremum som hedder $(1,\frac{1}{2})$.[^3]
-<!--SR:!2023-01-10,21,303-->
+<!--SR:!2023-04-17,95,323-->
 Parametriseringsmetoden er god at benytte når... :: Man har to variable, og kan gætte en parametrisering.
-<!--SR:!2023-01-11,22,290-->
+<!--SR:!2023-03-20,67,290-->
 
 ## Sætning 4.2 (Langranges multiplikatormetode)
 Lad f og g være $C^{1}$ funktioner $A \to \mathbb{R},A \subseteq \mathbb{R}^{n}$ (er åben).

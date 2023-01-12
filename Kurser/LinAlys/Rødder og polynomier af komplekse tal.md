@@ -52,7 +52,7 @@ Produktet af to polynomier $p,q:\mathbb{C}\to \mathbb{C}$ med graderne $grad(p)=
 
 ### Sætning 1.5.2 (Division af polynomier med rest)
 Givet $p,q \in \mathbb{C}\text{ og }q \neq 0\text{ og } k=\frac{p}{q}$ så findes polynomiet $k(z)\text{ og }r(z)$ så $p(z)=$... :: $k(z)q(z)+r(z)$ med $grad(r)<grad(q)$.
-<!--SR:!2022-12-31,26,286-->
+<!--SR:!2023-06-15,154,306-->
 
 Vektorer i $\mathbb{R}^{n}$ kan skrives som:
 afstand til $\vec{0},||\vec{v}||=\sqrt{\vec{v}\cdot \vec{v}}$.
@@ -71,7 +71,7 @@ Ortogonalitet $\langle \vec{u},\vec{v}\rangle =0$
 
 ## Sætning 4.11 Caudiy Schwarz ulighed
 Givet $\vec{u},\vec{v}\in V$ da kan vi vise en ulighed som... :: $|\langle \vec{u},\vec{v}\rangle| \leq ||\vec{u}||\cdot ||\vec{v}||$ altså $-(||\vec{u}||\cdot ||\vec{v}||)\leq \langle \vec{u},\vec{v}\rangle \leq ||\vec{v}||\cdot ||\vec{u}||$
-<!--SR:!2023-01-01,27,266-->
+<!--SR:!2023-05-28,136,286-->
 ### Korollar
 For $\frac{\langle \vec{u},\vec{v}\rangle }{||\vec{u}||\cdot ||\vec{v}||}\in [-1,1]$ så er $\theta =$... :: Veldefineret.
 <!--SR:!2023-03-23,72,270-->
@@ -98,7 +98,7 @@ Vi kan skrive skalaren $r_{i}=$$\frac{\langle \vec{u_{i}},\vec{v}\rangle}{\langl
 
 ## Sætning 4.17
 Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale medfører det at familien er.... :: Lineært uafhængige. Men ortogonalitet er lettere at tjekke.
-<!--SR:!2023-01-04,15,290-->
+<!--SR:!2023-01-21,9,270-->
 
 <!--SR:!2023-01-09,26,226-->
 ### Korollar "Ortonormal basis" (ONB)
@@ -108,7 +108,7 @@ $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en
 
 ## Sætning 4.20 (Konstruktion af ONB)[^4]
 Givet $\vec{u_{1}},...,\vec{u_{n}}\in V$ er en basis, konstruerer vi ONB $\vec{e_{1}},...,\vec{e_{n}}\in V$ og kan definere... :: $\vec{e_{1}}= \frac{1}{||\vec{u_{1}}||}\vec{u_{1}}$ og $v_{2}=\vec{u_{2}}-\langle \vec{u_{2}},\vec{e_{1}}\rangle \vec{e_{1}}$ så kan vi definere $\vec{e_{2}}= \frac{1}{||\vec{v}||}\vec{v_{2}}$.
-<!--SR:!2023-01-01,27,286-->
+<!--SR:!2023-06-09,148,306-->
 De generelle $\vec{v_{k}},\vec{e_{k}}$ kan skrives som... :: $\vec{v_{k}}=\vec{u_{k}}-\langle \vec{u_{k}},\vec{e_{1}}\rangle \vec{e_{1}}-...-\langle \vec{u_{k}},\vec{e_{k-1}}\rangle \vec{e_{k-1}}$. og $e_{k}= \frac{1}{||\vec{v_{k}}||}\vec{v_{k}}$. $v_{k}$ kan omdefineres til $$\vec{v_{k}}=\vec{u_{k}}-\sum_{j=1}^{k-1}\langle \vec{u_{k}},\vec{e_{j}}\rangle \vec{e_{j}}$$
 
 <!--SR:!2023-01-20,15,266-->
@@ -123,7 +123,7 @@ Lad $P(z)=c_{n}z^{n}+...+c_{0},c_{i}\in \mathbb{C}$ da findes $r_{1},...,r_{n} \
 
 ## Sætning 5.5.2[^6]
 Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$
-<!--SR:!2022-12-25,20,270-->
+<!--SR:!2023-04-01,79,270-->
 
 ## Lemma 3.5.3
 $P(z)=c_{n}z^{n}+...+c_{0}$ hvis $r \in \mathbb{C}$ er rod er... ::  $\vec{r}\in \mathbb{C}$ også en rod.

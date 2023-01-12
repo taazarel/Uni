@@ -72,12 +72,15 @@ For at finde løsningen til differentialligningen i lineær algebra kan vi finde
 a & b  \\ c & d
 \end{array}
 \right] $$
-Generelt løsning for LIA: Givet $A:[C,D]\to \mathbb{M}_{n,n}$ er kontinuert undersøg så... :: $$\{\vec{\phi }:[C,D]\to \mathbb{R}^{n}\text{ er diff. }|\vec{\phi'}(t)=A(t)\cdot \vec{\phi } \text{ for alle }t \in [C,D] \}$$
+Generelt spørgsmål: Givet $A:[C,D]\to \mathbb{M}_{n,n}$ er kontinuert undersøg så... :: $$\{\vec{\phi }:[C,D]\to \mathbb{R}^{n}\text{ er diff. }|\vec{\phi'}(t)=A(t)\cdot \vec{\phi } \text{ for alle }t \in [C,D] \}$$
 ## RM sætning 8.29 (Eksistens og Entydighed)
 Ved $A:[c,d]\to \mathbb{M}_{n,n}$ er kontinuert og $t \in [c,d],\vec{v_{0}}\in \mathbb{R}$ så har vi netop én løsning til $\vec{\phi}:[c,d]\to \mathbb{R}$ givet at... :: $\vec{\phi'}(t)=A(t)\cdot \vec{\phi}(t)$ og $\vec{\phi }(t_{0})=\vec{v_{0}}$.
 
 ## RM sætning 8.30
-Givet $V = \{\vec{\phi }:[C,D]\to \mathbb{R}^{n}\text{ er diff. }|\vec{\phi'}(t)=A(t)\cdot \vec{\phi } \text{ for alle }t \in [C,D] \}\subset \{\vec{\phi }:[C,D]\to \mathbb{R}^{n} \}$. Så vil vi have... :: at operationer
+Givet $V = \{\vec{\phi }:[C,D]\to \mathbb{R}^{n}\text{ er diff. }|\vec{\phi'}(t)=A(t)\cdot \vec{\phi } \text{ for alle }t \in [C,D] \}\subset \{\vec{\phi }:[C,D]\to \mathbb{R}^{n} \}$. Så vil vi have at operationerne... :: er lukkede under addition og multiplikation $(\vec{\phi_{1}}+\vec{\phi _{2}})(t)=\vec{\phi_{1}}(t)+\vec{\phi_{2}}(t)$. og $(r \vec{\phi })(t)=r \vec{\phi }(t)$, hvor $r \in \mathbb{R}$. OG at V har isomorfi. 
+
+## RM Generel løsning
+Generel løsning til $\vec{\phi '}=A \vec{\phi }$ | $A:[C,D]\to \mathbb{M}_{n,n}$. Vi kan beskrive løsningen  ved at finde en basis... :: Vi danner rækkerne med $\vec{\phi_{1}},...,\vec{\phi_{n}}\in V$ om til en basis for V. Vi kan tjekke om denne basis gælder ved $\Leftrightarrow \vec{\phi_{1}}(t_{0}),...,\vec{\phi_{n}}(t_{0})\in \mathbb{R}^{n}$ som er en basis.
 
 
 [^1]: Differentialligninger er meget vigtige for fysikere.
