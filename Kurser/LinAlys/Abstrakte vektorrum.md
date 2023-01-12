@@ -133,10 +133,12 @@ Vi har en basis af vektorer $\vec{v_{1}},...,\vec{v_{n}}$ i V når... :: Den bå
 
 ## Theorem 3.16
 Givet $\vec{v_{1}},...,\vec{v_{m}}\text{ og }\vec{w_{1}},...,\vec{w_{n}}$ er baser da er deres dimensioner... :: $n=m$ kvadratiske.
+<!--SR:!2023-01-16,4,302-->
 <!--SR:!2023-01-14,25,320-->
 
 <!--SR:!2023-05-02,139,323-->
 Theorem 3.16 kan bevises med... :: Sammenligningssætningen.
+<!--SR:!2023-01-16,4,303-->
 <!--SR:!2023-04-23,122,300-->
 
 ## Definition 3.13(Dimension)
@@ -163,6 +165,7 @@ Vektorrummet V udspændes af familien $\vec{v_{1}},...,\vec{v_{n}}$ givet $\vec{
 
 ## 3.18 (Udtydningssætningen)
 Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde familien til en basis.
+<!--SR:!2023-01-16,4,303-->
 <!--SR:!2023-01-17,28,320-->
 
 <!--SR:!2023-05-02,139,324-->

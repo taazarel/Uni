@@ -42,7 +42,7 @@ Lad $A \subseteq \mathbb{R}^{n}$ være åben, $r \in \mathbb{N}$. Så vil $f:A \
 
 ## Sætning 2.82
 Lad $A \subseteq \mathbb{R}^{n}$ være åben og $r \in \mathbb{N}$ og $f:A \to \mathbb{R}\text{ er }C^{2}$. For $i,j \in \{1,...,n \}$ har vi... :: En associations lov for alle $\vec{a} \in A$: $$\frac{\delta^{2}f}{\delta x_{i}\delta x_{j}}(\vec{a})= \frac{\delta^{2}f}{\delta x_{j}\delta x_{i}}(\vec{a})$$
-<!--SR:!2023-01-11,22,294-->
+<!--SR:!2023-04-16,94,314-->
 
 <!--SR:!2022-12-25,11,250-->
 ### Udvidelse af 2.82
@@ -120,6 +120,7 @@ Hvis $\vec{v}$ er lokalt max...
 ?
 Får vi en stabil ligevægt
 Får vi en ustabil ligevægt[^5]
+<!--SR:!2023-01-16,4,306-->
 
 ## Sætning 3.4 (ABC kriteriet)
 Lad $D=det(Hf(\vec{a}))$ altså determinanten til hessematricen af et punkt a.
@@ -141,6 +142,7 @@ Så er $\vec{a }$ et lokalt maximumspunkt
 1. Så er $\vec{a}$ et lokalt min.
 2. Så er $\vec{a}$ et lokalt max.
 3. Så er $\vec{a}$ et sadelpunkt.
+<!--SR:!2023-01-15,3,286-->
 
 # Fodnoter
 [^1]: Vi kan altså bytte om på dem, så længde at de står i samme rækkefølge.

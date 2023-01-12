@@ -15,6 +15,7 @@ $rT(\vec{v})$ Homogen lov
 
 #### Eksempel
 $A \in \mathbb{M}_{m,n}$[^7] og $\mu _{A}:\mathbb{R}^{n}\to \mathbb{R}^{m}$ $\mu_{A}(\vec{v})=A \vec{v}$. Givet at $A(\vec{v}+\vec{w})=A\vec{v}+A\vec{w}$ og $A(r \vec{v})=r A\vec{v}$ så må $\mu_{A}$ være... :: $\mu_{A}$ er lineær.
+<!--SR:!2023-01-16,4,304-->
 <!--SR:!2023-01-27,36,274-->
 
 ### Sætning 6.2
@@ -31,6 +32,7 @@ $T(r_{1}\vec{v_{1}}+...+r_{n}\vec{v_{n}})=r_{1}T(\vec{v_{1}})+...+r_{n}T(\vec{v_
 
 ### Sætning 6.3
 Lad $T,T':V \to W$ være lineær, og lad $S=\{\vec{v_{1}},...,\vec{v_{n}} \}\in V$ være udspændende. Hvis $T(\vec{v_{i}})=T'(\vec{v_{i}})$ for alle i, så er $T=$... :: $T'$ Altså har entydighed for disse funktioner.
+<!--SR:!2023-01-16,4,305-->
 <!--SR:!2023-01-23,34,274-->
 
 # Messer §6.3 (Sammenhæng af lineære afbildninger og matricer)

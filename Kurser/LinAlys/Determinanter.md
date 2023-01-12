@@ -12,7 +12,7 @@ lad $z \in \mathbb{C},n \in \mathbb{N}$ Da er en n-te rod af z skrevet som... ::
 lad $z \in \mathbb{C}\backslash \{ 0\},n \in \mathbb{N}$ da vil z have disse rødder... :: n forskellige n-te rødder skrevet $w_{0},...,w_{n-1}\in \mathbb{C}$.
 <!--SR:!2023-03-31,80,266-->
 Givet $z,w \in \mathbb{C}$ og $w^{n}=z,z=re^{i \theta }$ så bliver den bestemte rod $w_{k}=$... :: $r^{\frac{1}{n}}e^{i \frac{\theta+2\pi k}{n}}$.
-<!--SR:!2022-12-30,25,286-->
+<!--SR:!2023-06-18,157,306-->
 
 Nogle smutveje til at finde rødder af et kompleks tal er
 ?
@@ -30,17 +30,17 @@ Disse ting er anderledes ved $az^{2}+bz+c=0 \in \mathbb{C}$...
 $d>0$ har vi to forskellige reelle rødder[^2]
 $d=0$ har vi en reel rod
 $d<0$ har vi to ikke reelle rødder.
-<!--SR:!2022-12-26,21,266-->
+<!--SR:!2023-06-02,141,286-->
 
 Givet $az^{2}+bz+c=0,d=0$ så bliver $z=$... :: $\frac{-b}{2a}$.
 <!--SR:!2023-05-31,141,306-->
 
 ## Definition 1.5 (Polynomier)
 Et komplekst polynomie $p:\mathbb{C}\to \mathbb{C}$ bliver skrevet på formen... :: $$p(z)=a_{n}z^{n}+a_{n-1}z^{n-1}+...+a_{0}z^{0},n \in \mathbb{N} \Rightarrow \sum_{k=0}^{n}a_{k}z^{k}$$
-<!--SR:!2022-12-27,22,266-->
+<!--SR:!2023-05-27,135,286-->
 ## Definition RM (Reelle polynomier)
 Et reelt polynomie $f:\mathbb{R}\to \mathbb{R}$ skrives som... :: $$f(x)=a_{n}x^{n}+...+a_{0}x^{0},n \in \mathbb{N},a_{n}\in \mathbb{R}$$
-<!--SR:!2023-01-03,29,286-->
+<!--SR:!2023-06-16,155,306-->
 ### Definition (Grad af polynomier)
 Graden af et polynomie p skrives som... :: $grad(p)$ er den største $n \in \{ 0,1,...\} \text{ så }a_{n} \neq 0$.
 
@@ -98,7 +98,7 @@ Vi kan skrive skalaren $r_{i}=$$\frac{\langle \vec{u_{i}},\vec{v}\rangle}{\langl
 
 ## Sætning 4.17
 Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale medfører det at familien er.... :: Lineært uafhængige. Men ortogonalitet er lettere at tjekke.
-<!--SR:!2023-01-04,15,290-->
+<!--SR:!2023-04-15,93,310-->
 
 <!--SR:!2023-01-09,26,226-->
 ### Korollar "Ortonormal basis" (ONB)
@@ -108,8 +108,9 @@ $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en
 
 ## Sætning 4.20 (Konstruktion af ONB)[^4]
 Givet $\vec{u_{1}},...,\vec{u_{n}}\in V$ er en basis, konstruerer vi ONB $\vec{e_{1}},...,\vec{e_{n}}\in V$ og kan definere... :: $\vec{e_{1}}= \frac{1}{||\vec{u_{1}}||}\vec{u_{1}}$ og $v_{2}=\vec{u_{2}}-\langle \vec{u_{2}},\vec{e_{1}}\rangle \vec{e_{1}}$ så kan vi definere $\vec{e_{2}}= \frac{1}{||\vec{v}||}\vec{v_{2}}$.
-<!--SR:!2023-01-01,27,286-->
+<!--SR:!2023-06-08,147,306-->
 De generelle $\vec{v_{k}},\vec{e_{k}}$ kan skrives som... :: $\vec{v_{k}}=\vec{u_{k}}-\langle \vec{u_{k}},\vec{e_{1}}\rangle \vec{e_{1}}-...-\langle \vec{u_{k}},\vec{e_{k-1}}\rangle \vec{e_{k-1}}$. og $e_{k}= \frac{1}{||\vec{v_{k}}||}\vec{v_{k}}$. $v_{k}$ kan omdefineres til $$\vec{v_{k}}=\vec{u_{k}}-\sum_{j=1}^{k-1}\langle \vec{u_{k}},\vec{e_{j}}\rangle \vec{e_{j}}$$
+<!--SR:!2023-01-16,4,301-->
 
 <!--SR:!2023-01-20,15,266-->
 ## Sætning 1.5.5 
@@ -123,10 +124,11 @@ Lad $P(z)=c_{n}z^{n}+...+c_{0},c_{i}\in \mathbb{C}$ da findes $r_{1},...,r_{n} \
 
 ## Sætning 5.5.2[^6]
 Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$
-<!--SR:!2022-12-25,20,270-->
+<!--SR:!2023-01-23,11,250-->
 
 ## Lemma 3.5.3
 $P(z)=c_{n}z^{n}+...+c_{0}$ hvis $r \in \mathbb{C}$ er rod er... ::  $\vec{r}\in \mathbb{C}$ også en rod.
+<!--SR:!2023-01-16,4,301-->
 
 <!--SR:!2023-02-13,55,266-->
 

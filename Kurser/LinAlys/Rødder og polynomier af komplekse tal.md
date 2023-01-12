@@ -30,10 +30,10 @@ Disse ting er anderledes ved $az^{2}+bz+c=0 \in \mathbb{C}$...
 $d>0$ har vi to forskellige reelle rødder[^2]
 $d=0$ har vi en reel rod
 $d<0$ har vi to ikke reelle rødder.
-<!--SR:!2022-12-26,21,266-->
+<!--SR:!2023-04-02,80,266-->
 
 Givet $az^{2}+bz+c=0,d=0$ så bliver $z=$... :: $\frac{-b}{2a}$.
-<!--SR:!2022-12-29,24,286-->
+<!--SR:!2023-06-17,156,306-->
 
 ## Definition 1.5 (Polynomier)
 Et komplekst polynomie $p:\mathbb{C}\to \mathbb{C}$ bliver skrevet på formen... :: $$p(z)=a_{n}z^{n}+a_{n-1}z^{n-1}+...+a_{0}z^{0},n \in \mathbb{N} \Rightarrow \sum_{k=0}^{n}a_{k}z^{k}$$
@@ -43,6 +43,7 @@ Et reelt polynomie $f:\mathbb{R}\to \mathbb{R}$ skrives som... :: $$f(x)=a_{n}x^
 <!--SR:!2023-06-13,152,306-->
 ### Definition (Grad af polynomier)
 Graden af et polynomie p skrives som... :: $grad(p)$ er den største $n \in \{ 0,1,...\} \text{ så }a_{n} \neq 0$.
+<!--SR:!2023-01-16,4,298-->
 
 <!--SR:!2023-05-06,121,306-->
 
@@ -67,7 +68,7 @@ Afstand $\vec{v} \text{ til }\vec{w}$ $||\vec{v}-\vec{w}||$
 Vinkel $\vec{u},\vec{v}\in V \backslash 0$ så er $\theta =\cos^{-1}{\frac{\langle \vec{u},\vec{v}\rangle}{||\vec{u}||||\vec{v}||}}$
 Projektion $proj_\vec{u}(\vec{v})= \frac{\langle\vec{v},\vec{u}\rangle}{\langle \vec{u},\vec{u}\rangle }\vec{u}$
 Ortogonalitet $\langle \vec{u},\vec{v}\rangle =0$
-<!--SR:!2022-12-28,23,286-->
+<!--SR:!2023-06-07,146,306-->
 
 ## Sætning 4.11 Caudiy Schwarz ulighed
 Givet $\vec{u},\vec{v}\in V$ da kan vi vise en ulighed som... :: $|\langle \vec{u},\vec{v}\rangle| \leq ||\vec{u}||\cdot ||\vec{v}||$ altså $-(||\vec{u}||\cdot ||\vec{v}||)\leq \langle \vec{u},\vec{v}\rangle \leq ||\vec{v}||\cdot ||\vec{u}||$
@@ -103,6 +104,7 @@ Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale me
 <!--SR:!2023-01-09,26,226-->
 ### Korollar "Ortonormal basis" (ONB)
 $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en endelig $dim \{ V\}$ så vil ... :: vi finde en basis $\vec{u_{1}},...,\vec{u_{n}}\in V$ gennem en Gram Schmidt Proces.
+<!--SR:!2023-01-16,4,300-->
 
 <!--SR:!2023-01-24,35,246-->
 
@@ -127,6 +129,7 @@ Lad $P(z)$ være et polynomium af $grad \geq 1$, da findes ... :: $P(a)=0$
 
 ## Lemma 3.5.3
 $P(z)=c_{n}z^{n}+...+c_{0}$ hvis $r \in \mathbb{C}$ er rod er... ::  $\vec{r}\in \mathbb{C}$ også en rod.
+<!--SR:!2023-01-16,4,300-->
 
 <!--SR:!2023-02-13,55,266-->
 

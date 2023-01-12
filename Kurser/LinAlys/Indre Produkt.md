@@ -2,7 +2,7 @@
 Begyndelsesdato: 07:54   10-11-2022   Uge-45
 # Forelæsning
 W er en operation $\langle ,\rangle$, som hedder det indre produkt, og givet er $\vec{v},\vec{w}\in V$, vi bruger W på vektorerne og får... :: $\langle \vec{v},\vec{w}\rangle\in \mathbb{R}$.
-<!--SR:!2022-12-24,26,290-->
+<!--SR:!2023-07-12,181,310-->
 Liste af aksiomer:
 For alle $\vec{v}\in V:\langle \vec{v},\vec{v}\rangle\geq 0$ og hvis $\langle \vec{v},\vec{v}\rangle=0$ så får vi... :: $\vec{v}=\vec{0}$ (i)
 <!--SR:!2023-04-20,121,321-->

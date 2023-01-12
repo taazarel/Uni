@@ -22,12 +22,14 @@ Definitionen af division i $\mathbb{C}$, givet $\frac{1}{z}\neq \frac{1}{0}$, er
 Definitionen af eksponentialfunktionen i $\mathbb{C}$ er... :: $e^{z}=e^{a}(\cos{b}+i \sin{b})\in \mathbb{C}$.[^4]
 <!--SR:!2023-01-20,52,310-->
 Modulus af w er... :: $\sqrt{w \cdot w}=||w||$
+<!--SR:!2023-01-16,4,309-->
 <!--SR:!2023-04-18,119,320-->
 Værdimængden af den komplekse eksponentialfunktion er... :: hele $\mathbb{C}\backslash 0$ altså alle komplekse tal på nær 0.
 <!--SR:!2023-04-20,121,320-->
 Givet $z=a+ib,w=\frac{1}{a+ib}$ så bliver deres produkt... :: $zw=1=1+i0$.
 <!--SR:!2023-02-23,80,314-->
 Huskereglen for at regne med komplekse tal er... :: at bruge de sædvanlige regneregler og huske at $i^{2}=-1$.
+<!--SR:!2023-01-16,4,310-->
 <!--SR:!2023-04-19,120,320-->
 Mest for sjov: Hvad er kvadratroden af i? :: $\left(\frac{1}{\sqrt{2}}+ \frac{1}{\sqrt{2}}i\right)$ 
 <!--SR:!2023-02-13,70,270-->
