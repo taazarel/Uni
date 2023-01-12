@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7fdae6d642b1eefb",
+        "id": "18ddaff265e5747f",
         "type": "tabs",
         "children": [
           {
-            "id": "496711c5172da9d1",
+            "id": "bac0ca07c6add6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/MekRel/Speciel Relativitetsteori.md",
+                "file": "Kurser/LinAlys/Differentialligninger.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "527d8c30d5596069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/MekRel/Relativistisk Dynamik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "734288e228603c06",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap10.pdf"
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/MekRel/Relativistisk Dynamik.md",
+                "file": "Kurser/LinAlys/Differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/MekRel/Relativistisk Dynamik.md"
+                "file": "Kurser/LinAlys/Differentialligninger.md"
               }
             }
           }
@@ -202,13 +178,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "527d8c30d5596069",
+  "active": "bac0ca07c6add6a1",
   "lastOpenFiles": [
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
-    "Kurser/MekRel/Dokumenter/Kap9.pdf",
-    "Kurser/MekRel/Relativistisk Dynamik.md",
-    "Kurser/LinAlys/Differentialligninger.md",
     "Kurser/MekRel/Dokumenter/Kap10.pdf",
+    "Kurser/MekRel/Speciel Relativitetsteori.md",
+    "Kurser/MekRel/Relativistisk Dynamik.md",
+    "Kurser/MekRel/Dokumenter/Kap9.pdf",
+    "Kurser/LinAlys/Differentialligninger.md",
     "Assets/Excalidraw/Regnepapir 2023-01-09 10.42.49.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md",

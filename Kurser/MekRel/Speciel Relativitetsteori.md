@@ -9,11 +9,12 @@
 5. Regne, regne $\Rightarrow$ fortolk.
 # Ekstra
 Man kan finde hasten af to relativistiske hastigheder lagt sammen ved formlen... :: $u= \frac{v_{2}+v_{1}}{1+v_{1}v_{2}}$ Hvis vi genindfører lysets hast får vi $u = \frac{v_{2}+v_{1}}{1+\frac{v_{1}v_{2}}{c^{2}}}$.
+<!--SR:!2023-01-16,4,306-->
 # 9.1 Lysets hastighed
 Lysets hastighed er altid konstant, dette kan lade sig gøre fordi... :: uanset hvilken fart du har kan rumtiden bøjes, derfor kan lys altid have c som sin fart (i vakuum).
-<!--SR:!2023-01-08,20,290-->
+<!--SR:!2023-04-18,96,310-->
 Lysets hastighed er... :: Den hurtigste information i universet. Skrives med c. og har størrelsen: $10 \cdot 10^{8} \frac{m}{s}$.
-<!--SR:!2023-01-06,18,290-->
+<!--SR:!2023-04-15,93,310-->
 Ofte bruger vi dette til at måle distance... :: distancen lyset tilbagelægges over et givent interval i tid. Set som fx lyssekund og lysår.
 <!--SR:!2023-03-16,70,310-->
 
@@ -29,14 +30,14 @@ Tid og rum er begge ikke absolutte, men Rumtid, hvad de begge er en del af **er*
 <!--SR:!2023-03-18,72,308-->
 
 Rumtid kan plottes i to dimensioner således... :: som en kegleform, hvor randen er lysets hast. ![[Pasted image 20221209150323.png]].
-<!--SR:!2023-01-09,21,290-->
+<!--SR:!2023-04-23,101,310-->
 
 # 9.3 Koordinat Transformationer
 
 For at finde en transformation mellem to observanters synspunkter skal vi... :: Opskrive en transformation mellem deres koordinatsystemer som er relative til dem.
-<!--SR:!2023-01-09,21,290-->
+<!--SR:!2023-04-19,97,310-->
 For at vise problemet med Transformationen mellem to inertial koordinatsystemer set som Newtons tid og rum kan vi opskrive: $x'=x-vt$ eller $x=x'+vt'$ og $t'=t$. Hvis vi nu havde en til partikel kunne vi beskrive hastigheden således $x=v_{2}t$ og $x'=(v_{2}-v)t'$. Og hvis dette er sandt får vi et problem når... :: Vi bruger denne transformation for et foton. Så vil lysets hastighed ændre sig baseret på hvem der observerer det, og derfor vil vi have modstrid med Maxwells ligninger.![[Pasted image 20221209161024.png]]
-<!--SR:!2023-01-07,19,290-->
+<!--SR:!2023-04-17,95,310-->
 
 # 9.4 Samtidighed
 Samtidighed for ens eget synspunkt vises som... :: en horisontal linje i rumtidsdiagrammet.

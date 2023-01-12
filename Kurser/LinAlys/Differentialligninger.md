@@ -43,7 +43,22 @@ Givet $D=p^{2}-4q>0$ så er løsningen... :: $y(x)=Ce^{r_{1}x}+De^{r_{2}x}$. hvo
 Andet tilfælde af den generelle løsning. Hvis vi har at $D=0$ så får vi én reel dobbelrod og to løsninger... :: $y_{1}(x)=e^{rx}$ og $y_{2}(x)=xe^{rx}$.
 Det tredje tilfælde af den generelle løsning, givet at $D<0$ får vi to komplekse rødder $r_{1}=a+ib$, $r_{2}=a-ib$, og to løsninger... :: $y_{1}(x)=e^{ax}\cos{bx}$ og $y_{2}(x)=e^{ax}\sin{bx}$
 
+# §8.5 Messer
+Vi arbejder med koblede differentialligninger i lineær algebra.
 
+For at koble differentialligninger sammen, saml n antal funktioner, $\phi_{1},...,\phi _{n}: \mathbb{R}\to \mathbb{R} \text{ eller } : [C,D]\to \mathbb{R}$ til én funktion... :: $$\vec{\phi }(t)=\left[
+\begin{array}{c}
+\phi_{1}(t) \\ 
+\vdots \\ 
+\phi_{n}(t)
+\end{array}
+\right] $$Her er $\vec{\phi }:\mathbb{R}\to \mathbb{R}\text{ eller }$ Hvor den differentierede af denne funktion ville blot være $$\vec{\phi '}=\left[
+\begin{array}{c}
+\phi_{1}'(t) \\ 
+\vdots  \\ 
+\phi_{n}'(t)
+\end{array}
+\right] $$
 
 
 [^1]: Differentialligninger er meget vigtige for fysikere.

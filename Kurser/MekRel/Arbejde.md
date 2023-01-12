@@ -119,7 +119,7 @@ En fordelt kraft er... :: En kraft som ikke er fokuseret på et punkt, men er fo
 Ved variable kræfter kan man ikke bruge $W=F \Delta x$, så vi benytter os af... :: integraler i form af $\int_{x_{i}}^{x_{f}}F_{kf,x}(x)dx$
 <!--SR:!2023-04-11,123,337-->
 Integralet for variable kræfter kan reduceres til dette når vi har en kraft som virker på en fjeder... :: $W=\frac{1}{2}k(x-x_{i})^{2}$[^8]
-<!--SR:!2023-01-09,4,322-->
+<!--SR:!2023-02-15,34,342-->
 <!--SR:!2023-02-15,55,317-->
 Vi kan beskrive hastigheden af en punkt-partikel som bremses af en fjeder således... :: $v_{f}=\sqrt{v_{i}^{2}- \frac{k(x_{f}-x_{i})^{2}}{m}}$ 
 <!--SR:!2023-01-19,36,237-->

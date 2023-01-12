@@ -25,7 +25,7 @@ $L=\frac{1}{2}mv^{2}-mgx$, denne differentieret er $\frac{\delta L}{\delta x}=- 
 $$\frac{d}{dt}(\frac{\delta L}{\delta v})=ma$$
 Nu kan vi indsætte i mindstevirkningsprincippet.
 Lagrange formlen skrives som... :: $$\left[\left[\frac{d}{dt} \left(\frac{\delta L}{\delta v}\right)= \frac{\delta L}{\delta x}\right]\right]$$.
-<!--SR:!2023-01-09,4,305-->
+<!--SR:!2023-01-29,17,305-->
 <!--SR:!2023-10-28,296,330-->
 Denne formel kaldes også for Euler-Lagrange formlen. Enheden for "Lagrangen" er Joule.
 fx er: Euler lagrange ligningen for noget i fald i et tyngdefelt er derfor: $ma=-mg$ 
