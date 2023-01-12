@@ -21,42 +21,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "d57b49af95c0c714",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "12d1003e0da7c2ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Egenværdier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8eab4a6352189dbd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "527d0f52c4a0a3dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +178,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "527d0f52c4a0a3dd",
+  "active": "bac0ca07c6add6a1",
   "lastOpenFiles": [
     "Kurser/LinAlys/Egenværdier.md",
     "Kurser/LinAlys/Differentialligninger.md",

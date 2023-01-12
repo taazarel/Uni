@@ -52,19 +52,8 @@ Det tredje tilfælde af den generelle løsning, givet at $D<0$ får vi to komple
 # §8.5 Messer
 Vi arbejder med koblede differentialligninger i lineær algebra.
 
-For at koble differentialligninger sammen, saml n antal funktioner, $\phi_{1},...,\phi _{n}: \mathbb{R}\to \mathbb{R} \text{ eller } : [C,D]\to \mathbb{R}$ til én funktion... :: $$\vec{\phi }(t)=\left[
-\begin{array}{c}
-\phi_{1}(t) \\ 
-\vdots \\ 
-\phi_{n}(t)
-\end{array}
-\right] $$Her er $\vec{\phi }:\mathbb{R}\to \mathbb{R}\text{ eller }:[C,D]\to \mathbb{R}$ Hvor den differentierede af denne funktion ville blot være $$\vec{\phi '}=\left[
-\begin{array}{c}
-\phi_{1}'(t) \\ 
-\vdots  \\ 
-\phi_{n}'(t)
-\end{array}
-\right] $$
+For at koble differentialligninger sammen, saml n antal funktioner, $\phi_{1},...,\phi _{n}: \mathbb{R}\to \mathbb{R} \text{ eller } : [C,D]\to \mathbb{R}$ til én funktion... :: $$\vec{\phi }(t)=\left[\begin{array}{c}\phi_{1}(t) \\ \vdots \\ \phi_{n}(t)\end{array}\right] $$Her er $\vec{\phi }:\mathbb{R}\to \mathbb{R}\text{ eller }:[C,D]\to \mathbb{R}$ Hvor den differentierede af denne funktion ville blot være $$\vec{\phi '}=\left[\begin{array}{c}\phi_{1}'(t) \\ \vdots  \\ \phi_{n}'(t)\end{array}\right] $$
+
 Vi kan skrive $\vec{\phi'}$ som en lineær transformation... :: $\vec{\phi'}=A \cdot \vec{\phi }$.
 <!--SR:!2023-01-15,3,250-->
 For at finde løsningen til differentialligningen i lineær algebra kan vi finde det karakteristiske polynomie... :: $$det \left[
@@ -92,6 +81,13 @@ Givet $V = \{\vec{\phi }:[C,D]\to \mathbb{R}^{n}\text{ er diff. }|\vec{\phi'}(t)
 ## RM Generel løsning
 Generel løsning til $\vec{\phi '}=A \vec{\phi }$ | $A:[C,D]\to \mathbb{M}_{n,n}$. Vi kan beskrive løsningen  ved at finde en basis... :: Vi danner rækkerne med $\vec{\phi_{1}},...,\vec{\phi_{n}}\in V$ om til en basis for V. Vi kan tjekke om denne basis gælder ved $\Leftrightarrow \vec{\phi_{1}}(t_{0}),...,\vec{\phi_{n}}(t_{0})\in \mathbb{R}^{n}$ som er en basis.
 <!--SR:!2023-01-15,3,250-->
+
+## TL (Faseform)
+I det tredje tilfælde kan vi skrive løsningen som $C \cos{bt}+D \sin{bt}=$... ::$A \sin{(bt+\phi )}$ hvor $A = \sqrt{C^{2}+D^{2}}$. og $\phi = \tan^{-1}(\frac{\sin{\phi}}{\cos{\phi}})=\tan^{-1}{\frac{C}{D}}$.
+
+## Oversættelse fra An til LiA.
+Vi kan skrive diff. ligningen $y''+py'+qy=0$ som denne matrice... :: $\vec{\phi '}=A \vec{\phi }$ hvor $\vec{\phi }= \left[\begin{array}{c}y \\ y'\end{array}\right]$, $\vec{\phi }'=y''$ og $A= \left[\begin{array}{cc}0 & 1 \\ -q & -p\end{array}\right]$.
+
 
 
 [^1]: Differentialligninger er meget vigtige for fysikere.

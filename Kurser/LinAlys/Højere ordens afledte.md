@@ -109,6 +109,7 @@ Hvis $\vec{a}\in S$ er et lokalt ekstrema for $f:S \to A$ (betyder f på S), så
 ?
 (i) $\nabla g(\vec{a})=0$
 (ii) $\nabla f(\vec{a})=\lambda \nabla g(\vec{a})$ for et $\lambda \in \mathbb{R}$[^4]
+<!--SR:!2023-01-16,4,306-->
 
 Langranges multiplikatormetode giver... :: kandidater til ekstrema, ikke ekstrema i sig selv.
 <!--SR:!2023-03-21,68,294-->
