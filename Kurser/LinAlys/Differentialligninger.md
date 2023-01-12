@@ -52,13 +52,32 @@ For at koble differentialligninger sammen, saml n antal funktioner, $\phi_{1},..
 \vdots \\ 
 \phi_{n}(t)
 \end{array}
-\right] $$Her er $\vec{\phi }:\mathbb{R}\to \mathbb{R}\text{ eller }$ Hvor den differentierede af denne funktion ville blot være $$\vec{\phi '}=\left[
+\right] $$Her er $\vec{\phi }:\mathbb{R}\to \mathbb{R}\text{ eller }:[C,D]\to \mathbb{R}$ Hvor den differentierede af denne funktion ville blot være $$\vec{\phi '}=\left[
 \begin{array}{c}
 \phi_{1}'(t) \\ 
 \vdots  \\ 
 \phi_{n}'(t)
 \end{array}
 \right] $$
+Vi kan skrive $\vec{\phi'}$ som en lineær transformation... :: $\vec{\phi'}=A \cdot \vec{\phi }$.
+For at finde løsningen til differentialligningen i lineær algebra kan vi finde det karakteristiske polynomie... :: $$det \left[
+\begin{array}{cc}
+\lambda -a & -b \\ 
+-c & \lambda -d
+\end{array}
+\right]
+=
+(\lambda -a)(\lambda -d)-bc=\lambda ^{2}-\lambda (a+d)+ad\text{ hvor } A=\left[
+\begin{array}{cc}
+a & b  \\ c & d
+\end{array}
+\right] $$
+Generelt løsning for LIA: Givet $A:[C,D]\to \mathbb{M}_{n,n}$ er kontinuert undersøg så... :: $$\{\vec{\phi }:[C,D]\to \mathbb{R}^{n}\text{ er diff. }|\vec{\phi'}(t)=A(t)\cdot \vec{\phi } \text{ for alle }t \in [C,D] \}$$
+## RM sætning 8.29 (Eksistens og Entydighed)
+Ved $A:[c,d]\to \mathbb{M}_{n,n}$ er kontinuert og $t \in [c,d],\vec{v_{0}}\in \mathbb{R}$ så har vi netop én løsning til $\vec{\phi}:[c,d]\to \mathbb{R}$ givet at... :: $\vec{\phi'}(t)=A(t)\cdot \vec{\phi}(t)$ og $\vec{\phi }(t_{0})=\vec{v_{0}}$.
+
+## RM sætning 8.30
+Givet $V = \{\vec{\phi }:[C,D]\to \mathbb{R}^{n}\text{ er diff. }|\vec{\phi'}(t)=A(t)\cdot \vec{\phi } \text{ for alle }t \in [C,D] \}\subset \{\vec{\phi }:[C,D]\to \mathbb{R}^{n} \}$. Så vil vi have... :: at operationer
 
 
 [^1]: Differentialligninger er meget vigtige for fysikere.

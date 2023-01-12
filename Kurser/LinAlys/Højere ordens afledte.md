@@ -111,7 +111,7 @@ Hvis $\vec{a}\in S$ er et lokalt ekstrema for $f:S \to A$ (betyder f på S), så
 (ii) $\nabla f(\vec{a})=\lambda \nabla g(\vec{a})$ for et $\lambda \in \mathbb{R}$[^4]
 
 Langranges multiplikatormetode giver... :: kandidater til ekstrema, ikke ekstrema i sig selv.
-<!--SR:!2023-01-12,23,294-->
+<!--SR:!2023-03-21,68,294-->
 
 ## Ligevægtspunkter
 Antag at $\vec{x}(t)$ opfylder $\frac{d^{2}}{dt^{2}}\vec{x}(t)=-\nabla V(\vec{x}(t))$ hvor $V:\mathbb{R}^{n}\to \mathbb{R}$. Da vil $$V(\vec{x})=-G \sum \frac{m_{i}}{|\vec{x}-\vec{x}_{i}|}$$Får vi konstante løsninger $\vec{x}(t)=\vec{v} \leftrightarrow \nabla V(\vec{v})=\vec{0}$
