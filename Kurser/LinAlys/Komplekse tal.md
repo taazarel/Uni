@@ -25,6 +25,7 @@ Modulus af w er... :: $\sqrt{w \cdot w}=||w||$
 <!--SR:!2023-01-16,4,309-->
 <!--SR:!2023-04-18,119,320-->
 Værdimængden af den komplekse eksponentialfunktion er... :: hele $\mathbb{C}\backslash 0$ altså alle komplekse tal på nær 0.
+<!--SR:!2023-01-17,4,310-->
 <!--SR:!2023-04-20,121,320-->
 Givet $z=a+ib,w=\frac{1}{a+ib}$ så bliver deres produkt... :: $zw=1=1+i0$.
 <!--SR:!2023-02-23,80,314-->

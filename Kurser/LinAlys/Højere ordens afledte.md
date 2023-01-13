@@ -134,6 +134,7 @@ Så får vi tre sandheder
 Så er $\vec{a}$ et sadelpunkt
 Så er $\vec{a }$ et lokalt minimumspunkt
 Så er $\vec{a }$ et lokalt maximumspunkt
+<!--SR:!2023-01-17,4,308-->
 
 ### Udvidelse af ABC kriteriet
 1. Hvis alle [[Egenværdier]] for $Hf(\vec{a})$ er positive...

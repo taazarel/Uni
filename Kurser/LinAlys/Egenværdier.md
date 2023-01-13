@@ -8,6 +8,7 @@ Lad $T:V \to V$ være en lineær operator. En egenværdi for T er et $\lambda \i
 
 ### Specialtilfælde
 Givet $V=\mathbb{R}^{n}$ så kan egenvektoren defineres som... :: $A \vec{v}=\lambda \vec{v}\Rightarrow A \vec{v}=\lambda I \vec{v}\Rightarrow A \vec{v}-\lambda I \vec{v}=\vec{0}\Rightarrow (A-\lambda I)\vec{v}=\vec{0}$.
+<!--SR:!2023-01-17,4,276-->
 
 Egenvektorer og egenværdier kan beskrives intuitivt som... :: alle vektorer som bliver på deres eget span efter en transformation. De bliver blot skaleret som var der brugt en skalar, vi kalder denne skalar for egenværdien og betegner den $\lambda$.
 <!--SR:!2023-01-16,4,272-->
@@ -22,9 +23,11 @@ For $A \in \mathbb{M}_{n,n}$ er $p:\mathbb{R}\to \mathbb{R}$, polynomiet $p(\lam
 
 ## §8.2 At finde egenværdier for en operator
 V har end. dim. Vælg så en ordnet basis $B=[\vec{v_{1}},...,\vec{v_{n}}]$ lad $A \in \mathbb{M}_{n,n}$ være matricen for T, referende til B. Vi kan herved skrive $[T(\vec{v})]_{B}=A [\vec{v}]_{B}$ for alle $\vec{v}\in V$. Vi finder egenværdierne ved... :: $p(\lambda )=det(\lambda I-A)=\lambda ^{n}+c_{n-1 }\lambda ^{n-1}+...+c_{0}$  Så er rødderne egenværdierne.
+<!--SR:!2023-01-17,4,276-->
 
 ## Definition 8.4
 $A,A' \in \mathbb{M}_{n,n}$ similære hvis $A'=P^{-1}AP$. Så er $det(A'-\lambda I)=...$:: $det(A-\lambda I)$.
+<!--SR:!2023-01-16,3,256-->
 
 ## Definition 8.9
 V har end. dim. $T:V \to V$ er lineær. Så er det karakteristiske polynomie for T... :: $=det(\lambda I-A)=(-1)^{n}det(A-\lambda I)$.
@@ -69,6 +72,7 @@ Multiplicitet af rødder er blot hvor mange gange de opstår i det karakteristis
 Egenrummet som hører til egenværdien $\lambda$ er defineret som... :: $E_{T}(\lambda)=span \{\vec{u_{i}}|\lambda_{i}=\lambda  \}$
 <!--SR:!2023-01-15,3,252-->
 Hvis $V=\mathbb{R}^{n}$ og $T(\vec{v})=A \vec{v}$ findes $E_{A}(\lambda_{j})=ker(\lambda_{j}I-A)$ ved at... :: Rækkereducere $(\lambda_{j}-A)$, og så tage dimensionen, eller antallet af nulrækker.
+<!--SR:!2023-01-14,1,236-->
 
 ## Sætning 8.14
 Lad $T:V \to V$ have endelig dimension. $\lambda_{1},...,\lambda_{k} \in \mathbb{R}$. Forskellige egenværdier for $T,\vec{u_{1}},...,\vec{u_{k}}\in V$ tilhørende egenvektorerne $T(\vec{u_{i}})=\lambda_{i}\vec{u_{i}}$. Da vil basen bestående af $B=[\vec{u_{1}},...,\vec{u_{k}}]$ være... :: lineært uafhængig.
@@ -76,6 +80,7 @@ Lad $T:V \to V$ have endelig dimension. $\lambda_{1},...,\lambda_{k} \in \mathbb
 
 ## Sætning 8.16
 Hvis $dim(V)=n$ og $T:V \to V$ har n'te forskellig egenværdier så... :: er T diagonaliserbar.[^2]
+<!--SR:!2023-01-14,1,236-->
 
 ## Sætning 8.15
 For at finde en basis for egenværdier skal vi først finde for egenrum. Givet $T:V \to V$ har egenværdierne $\lambda_{1},...,\lambda_{k}$ vil T være diagonaliserbar hvis og kun hvis $dim(V)=...$ :: $dim(E_{T}(\lambda_{1})+...+dim(E_{T}(\lambda_{k})))$.

@@ -20,6 +20,7 @@ $n=3 \text{ , } h(x,y,z)=ax+by+cz+d$
 En affin funktion kan kaldes for en lineær funktion når $d=0$, men dette er grunden... :: $d=0$, da dette gør grafen af den lineære funktion til et underrum. Vi kan skrive $\vec{0}\in \{\vec{x}+r \vec{v}+s \vec{w}|r,s \in \mathbb{R} \}$.
 <!--SR:!2023-02-18,82,310-->
 Grafen for en affin funktion er... :: hyperplan.
+<!--SR:!2023-01-17,4,299-->
 <!--SR:!2023-05-01,132,290-->
 Man kan definere en hyperplan som... :: en graf som har n-1 dimensioner fra den n dimension vi arbejder i.
 <!--SR:!2023-02-22,86,310-->

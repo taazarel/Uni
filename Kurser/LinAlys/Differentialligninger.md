@@ -21,12 +21,15 @@ En første ordens lineær differentialligning er givet ved $f,g:I \to \mathbb{R}
 
 ## Sætning 10.1.3 (Generel Løsning)
 Givet $I \subseteq \mathbb{R}$ er et åbent interval, $f,g:I \to \mathbb{R}$ er kontinuerte. Da er løsningerne til $g=y'+fy$ givet ved... :: $$y(x)=e^{-F(x)}\cdot \left(\int_{}^{} e^{F(x)}g(x)dx+C\right)$$ hvor $C \in \mathbb{R}$ og $F:I \to \mathbb{R}$ er stamfunktionen til f.
+<!--SR:!2023-01-16,3,254-->
 
 ## 10.3.1 Med begyndelsesbetingelser
 Givet $I \subseteq \mathbb{R}$ er et åbent interval, $f,g:I \to \mathbb{R}$ er kontinuerte, og $y(c)=d$, hvor $c \in I,d \in \mathbb{R}$. Så har vi netop én løsning givet ved... :: $$y(x)=e^{-\int_{c}^{x}f(t)dt}\left(\int_{c}^{x}\left(g\left(t\right)e^{\int_{c}^{t}f(s)ds}\right)dt+d \right) $$
+<!--SR:!2023-01-17,4,274-->
 # §10.4 Seperation af variable
 ## Definition (Seperation af Variable)
 Givet $p,q: I \to \mathbb{R}$ er kont. så kan vi skrive... :: $q(y(x))y'(x)=p(x)$. Der er et trick som hedder $\frac{d}{dx}q(y(x))=p(x)$.
+<!--SR:!2023-01-17,4,274-->
 ## Løsning (Seperation af Variable)
 Når man har defineret sin ligning kan vi skrive løsningen som... :: $$\int_{}^{} q(y(x))dy=\int_{}^{} p(x)dx$$
 <!--SR:!2023-01-16,4,270-->
@@ -41,13 +44,16 @@ Givet at dette lemma er sandt vil y blive et underrum skrevet som... :: $\{y:\ma
 <!--SR:!2023-01-17,4,274-->
 ## Løsning af andenordens diff. ligning
 Givet et 2-dimensionalt underrum og ligningen $y''+py'+qy=0$ så kan vi finde løsningen ved først at udregne... :: andengradspolynomiet $r^{2}+pr+q=0$ hvor $r \in C$ og $y: \mathbb{R}\to \mathbb{R}$ er ubekendte. $D=p^{2}-4q \in \mathbb{R}$.
+<!--SR:!2023-01-17,4,274-->
 Når man har løst andengradspolynomiet kan vi finde løsningen af diff. ligningen ved... :: $y_{1}(x)=e^{r_{1}x}\text{ og }y_{2}(x)=e^{r_{2}x}$ er løsninger til diff. hvor $r_{1}\text{ og }r_{2}$ er to reelle rødder. Vi ved også at de differentierede af y bliver $y'(x)=r_{i}e^{r_{i}x}$ og $y''(x)=r_{i}^{2}e^{r_{i}x}$.
+<!--SR:!2023-01-17,4,274-->
 
 Vi finder at løsningen kan skrives som $y''+py'+qy=(r_{i}^{2}+pr_{i}+q)e^{r_{i}x}$. og så at gøre det med både r1 og r2.
 ## Sætning 10.5.3 Generel løsning til diff ligninger af anden orden.
 Givet $D=p^{2}-4q>0$ så er løsningen... :: $y(x)=Ce^{r_{1}x}+De^{r_{2}x}$. hvor $C,D \in \mathbb{R}$ ikke er det samme som D for determinanten.
 <!--SR:!2023-01-16,4,270-->
 Andet tilfælde af den generelle løsning. Hvis vi har at $D=0$ så får vi én reel dobbelrod og to løsninger... :: $y_{1}(x)=e^{rx}$ og $y_{2}(x)=xe^{rx}$.
+<!--SR:!2023-01-17,4,274-->
 Det tredje tilfælde af den generelle løsning, givet at $D<0$ får vi to komplekse rødder $r_{1}=a+ib$, $r_{2}=a-ib$, og to løsninger... :: $y_{1}(x)=e^{ax}\cos{bx}$ og $y_{2}(x)=e^{ax}\sin{bx}$
 <!--SR:!2023-01-15,3,250-->
 
@@ -55,6 +61,7 @@ Det tredje tilfælde af den generelle løsning, givet at $D<0$ får vi to komple
 Vi arbejder med koblede differentialligninger i lineær algebra.
 
 For at koble differentialligninger sammen, saml n antal funktioner, $\phi_{1},...,\phi _{n}: \mathbb{R}\to \mathbb{R} \text{ eller } : [C,D]\to \mathbb{R}$ til én funktion... :: $$\vec{\phi }(t)=\left[\begin{array}{c}\phi_{1}(t) \\ \vdots \\ \phi_{n}(t)\end{array}\right] $$Her er $\vec{\phi }:\mathbb{R}\to \mathbb{R}\text{ eller }:[C,D]\to \mathbb{R}$ Hvor den differentierede af denne funktion ville blot være $$\vec{\phi '}=\left[\begin{array}{c}\phi_{1}'(t) \\ \vdots  \\ \phi_{n}'(t)\end{array}\right] $$
+<!--SR:!2023-01-17,4,274-->
 
 Vi kan skrive $\vec{\phi'}$ som en lineær transformation... :: $\vec{\phi'}=A \cdot \vec{\phi }$.
 <!--SR:!2023-01-15,3,250-->
@@ -91,6 +98,7 @@ I det tredje tilfælde kan vi skrive løsningen som $C \cos{bt}+D \sin{bt}=$... 
 
 ## Oversættelse fra An til LiA.
 Vi kan skrive diff. ligningen $y''+py'+qy=0$ som denne matrice... :: $\vec{\phi '}=A \vec{\phi }$ hvor $\vec{\phi }= \left[\begin{array}{c}y \\ y'\end{array}\right]$, $\vec{\phi }'=y''$ og $A= \left[\begin{array}{cc}0 & 1 \\ -q & -p\end{array}\right]$.
+<!--SR:!2023-01-16,3,254-->
 
 
 

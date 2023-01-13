@@ -62,6 +62,7 @@ Værdimængden for $f:X \to Y$ defineres som... :: $f(Y)=\{f(x)|x \in X \}\subse
 <!--SR:!2022-12-31,17,274-->
 ### Sætning 6.7
 $T:V \to V'$ $T':V'\to V''$ altså $V \to V'\to V''$ linæere. Da er... :: $T'\circ T:V \to V'$ lineær.[^8]
+<!--SR:!2023-01-17,4,305-->
 <!--SR:!2023-02-01,43,290-->
 # Messer §6.5 (Basis-skift)
 #### Specialtilfælde af 6.12

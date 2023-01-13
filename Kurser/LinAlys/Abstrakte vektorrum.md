@@ -119,6 +119,7 @@ $\vec{o}=r_{1}\vec{v_{1}}+...+r_{i-1}\vec{v_{i-1}}-\vec{v_{i}}+r_{i+1}\vec{v_{i+
 ## Sammenligningssætningen(3.15)
 
 Et vektorrum V $\vec{v_{1}},...,\vec{v_{m}}$ udspænder V og $\vec{w_{1}},...,\vec{w_{n}}$, der er lineært uafhængig i V, da kan vi sige dette om størrelserne n og m... :: $m \geq n$.[^3]
+<!--SR:!2023-01-17,4,305-->
 <!--SR:!2023-01-17,28,323-->
 
 <!--SR:!2023-04-29,136,320-->

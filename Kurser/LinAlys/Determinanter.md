@@ -121,6 +121,7 @@ et komplekst tal $a \in \mathbb{C}$ er rod i $P(z)=a_{n}z^{n}+...+a_{0},a_{i}\in
 
 ## Sætning 3.5.1 (Algebraens fundamentalsætning)
 Lad $P(z)=c_{n}z^{n}+...+c_{0},c_{i}\in \mathbb{C}$ da findes $r_{1},...,r_{n} \in \mathbb{C}$ så... :: $P(z)=c_{n}(z-r_{1})\cdot ...\cdot (z-r_{n})$[^5]
+<!--SR:!2023-01-17,4,302-->
 
 <!--SR:!2023-04-26,111,306-->
 
