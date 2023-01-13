@@ -27,7 +27,7 @@ Massen er en invariant størrelse som kan findes ved... :: $m^{2}=E^{2}-p^{2}$. 
 Egentiden er en invariant størrelse som kan findes ved... :: $\tau ^{2}=t^{2}-x^{2}$
 <!--SR:!2023-01-16,4,270-->
 Center af momentum kan findes mellem to partikler således... :: $$\frac{v_{cm}}{c}= \frac{1-\frac{1}{\gamma}}{\frac{v_{i}}{c}}= \frac{1-\sqrt{1-\frac{v^{2}}{c^{2}}}}{\frac{v}{c}} $$
-<!--SR:!2023-01-13,1,230-->
+<!--SR:!2023-01-16,3,250-->
 
 ## 10.4
 Vi kan finde hastigheden af en partikel ved at bruge energi og impuls... :: $\vec{v}= \frac{\vec{p}}{E}$ (10.34)

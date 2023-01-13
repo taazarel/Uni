@@ -173,6 +173,7 @@ Familien $\vec{v_{1}},...,\vec{v_{n}}$ udspænder V, så kan man... :: Udtynde f
 <!--SR:!2023-05-02,139,324-->
 ### Bevis
 Familien skal være lin. uafhængig, hvis den starter der er vi færdige, ellers kan vi bruge... :: Udtyndingslemmaet da $dim V<n$ og derfor er $\vec{v_{1}},...,\vec{v_{n}}$ ikke lineært uafhængig. Så bruger vi bare 3.17. indtil $dim V=n$
+<!--SR:!2023-01-17,4,305-->
 <!--SR:!2023-05-06,137,300-->
 
 ## 3.19 (Udvidelseslemmaet)
@@ -181,6 +182,7 @@ Hvis vi har et span som $\vec{v_{n+1}}\notin span \{\vec{v_{1}},...,\vec{v_{n}} 
 
 ## 3.20 (Udvidelsessætningen)
 Hvis vi har en vektorfamilie $\vec{v_{1}},...,\vec{v_{n}}$ i et endeligt vektorrum med m, dimensioner, kan vi... :: udvide familien til en basis på m dimensioner.
+<!--SR:!2023-01-17,4,305-->
 <!--SR:!2023-01-15,26,323-->
 
 <!--SR:!2023-05-01,138,320-->
