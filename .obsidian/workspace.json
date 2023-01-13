@@ -21,6 +21,24 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "69062ebea2b99f84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f68a8dfffff80208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/LinAlys/Egenværdier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md",
+                "file": "Kurser/LinAlys/Egenværdier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md"
+                "file": "Kurser/LinAlys/Egenværdier.md"
               }
             }
           }
@@ -178,10 +196,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bac0ca07c6add6a1",
+  "active": "f68a8dfffff80208",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Egenværdier.md",
     "Kurser/LinAlys/Differentialligninger.md",
+    "Kurser/LinAlys/Egenværdier.md",
     "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Relativistisk Dynamik.md",

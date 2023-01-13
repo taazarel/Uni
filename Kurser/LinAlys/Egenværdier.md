@@ -45,10 +45,12 @@ For alle $A,B \in \mathbb{M}_{n,n}$
 2. $r \cdot tr(A)$
 3. $tr(BA)$
 4. $tr(A)$
+<!--SR:!2023-01-17,4,276-->
 
 # Messer §8.3+8.4 (Diagonalisering)
 ## Sætning 8.13
 Givet $B=[\vec{u_{1}},...,\vec{u_{n}}]$, vil en ordnet basis baseret på egenvektorer findes hvis $T(\vec{u_{i}})=\lambda_{i}\vec{u_{i}}$ opgør en række i matricen bliver den diagonaliserede basis... :: $$A=\left[\begin{array}{cccc}\lambda_{1} & 0 & ... & 0 \\ 0 & \lambda_{2} & ... &0 \\ \vdots & \vdots & \vdots & \vdots \\ 0 & 0 & ... & \lambda_{n}\end{array}\right] $$hvor $A \in \mathbb{M}_{n,n}$ er den diagonaliserede basis.
+<!--SR:!2023-01-16,3,256-->
 ### Konsekvens af diagonaliserbar base
 Givet en ordnet basis $B=[u_{1},...,u_{n}]$ en lineær transformation $T:V \to V$ og $T(\vec{u_{i}})=\lambda_{i}\vec{u_{i}}$. Bliver det karakteristikske polynomie $det(\lambda I-A)=...$:: $$\left[
 \begin{array}{cccc}
@@ -93,14 +95,16 @@ Hvis $dim(E_{T}\lambda_{i})=$ multiplicitet af $\lambda_{i}$ som rod i det karak
 En matrice givet ved $A \in \mathbb{M}_{n,n}$ er symmetrisk hvis $A=A^{t}$.
 ## Definition af symmetriske operatorer
 Givet operatoren $T:V \to V$ lineær, og V er et indre produkt rum. Vil T være symmetrisk hvis... :: $\langle T(\vec{v}),\vec{w}\rangle =\langle \vec{v},T(\vec{w})\rangle$ for alle $\vec{v},\vec{w}\in V$
-<!--SR:!2023-01-13,1,232-->
+<!--SR:!2023-01-15,2,232-->
 ## Sætning 8.21
 Givet $T:V \to V$ symmetrisk, V indre produkt rum, $B=[\vec{u_{1}},...,\vec{u_{n}}]$ ortonormal basis og $A \in \mathbb{M}_{n,n}$ er matricen for T relativ til B. Da vil... :: $A^{t}=A$. Altså da Operatoren er symmetrisk kan vi definere den som en symmetrisk matrix.
 <!--SR:!2023-01-16,4,272-->
 ## Sætning 8.23
 Givet $A \in \mathbb{M}_{n,n}$ er symmetrisk Da er alle rødder... :: i det karakteristiske polynomium reelle.
+<!--SR:!2023-01-16,3,256-->
 ### Konsekvens
 Givet V er et indre produkt rum, T er symmetrisk på V så er alle rødder... :: i det karakteristiske polynomium for T reelle.
+<!--SR:!2023-01-17,4,276-->
 
 ## Sætning 8.24 (Spektralsætningen)
 Lad V være et end. dim. indre produkt rum. T er symmetrisk på V. Da findes en... :: Ortonormal basis B bestående af [[Egenværdier#Definition 8.1 (Egenvektor)|Egenvektorer]].

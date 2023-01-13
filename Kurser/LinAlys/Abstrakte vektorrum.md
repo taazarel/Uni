@@ -146,6 +146,7 @@ Dimensionen af et vektorrum V med en basis med n elementer har... :: n dimension
 <!--SR:!2023-03-28,110,314-->
 ### Eksempel
 dimensionen af $\mathbb{R}^{n}$ kan skrives som... :: $dim \mathbb{R}^{n}=n$ da vi kan skrive en identitetsmatrix som er nxn.[^4]
+<!--SR:!2023-01-17,4,305-->
 <!--SR:!2023-01-14,25,320-->
 
 <!--SR:!2023-04-30,137,320-->

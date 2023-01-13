@@ -17,6 +17,7 @@ Vi finder $\dot v(t)+ \frac{k}{m}v(t)=g$.
 
 ## Første ordens lineære differentialligninger[^2]
 En første ordens lineær differentialligning er givet ved $f,g:I \to \mathbb{R}$ er kontinuerte, $g(x)=...$::$y'(x)+f(x)y(x)$. Ofte skriver man bare $g=y'+fy$.
+<!--SR:!2023-01-17,4,274-->
 
 ## Sætning 10.1.3 (Generel Løsning)
 Givet $I \subseteq \mathbb{R}$ er et åbent interval, $f,g:I \to \mathbb{R}$ er kontinuerte. Da er løsningerne til $g=y'+fy$ givet ved... :: $$y(x)=e^{-F(x)}\cdot \left(\int_{}^{} e^{F(x)}g(x)dx+C\right)$$ hvor $C \in \mathbb{R}$ og $F:I \to \mathbb{R}$ er stamfunktionen til f.
@@ -37,6 +38,7 @@ Givet $y_{1},y_{2}: \mathbb{R}\to \mathbb{R}$ kan løse diff. ligning af anden o
 <!--SR:!2023-01-16,4,270-->
 ### Konsekvens af lemma 10.5.1
 Givet at dette lemma er sandt vil y blive et underrum skrevet som... :: $\{y:\mathbb{R}\to \mathbb{R}|y''+py'+qy=0 \} \subseteq \mathbb{F_{R}}$.[^3]
+<!--SR:!2023-01-17,4,274-->
 ## Løsning af andenordens diff. ligning
 Givet et 2-dimensionalt underrum og ligningen $y''+py'+qy=0$ så kan vi finde løsningen ved først at udregne... :: andengradspolynomiet $r^{2}+pr+q=0$ hvor $r \in C$ og $y: \mathbb{R}\to \mathbb{R}$ er ubekendte. $D=p^{2}-4q \in \mathbb{R}$.
 Når man har løst andengradspolynomiet kan vi finde løsningen af diff. ligningen ved... :: $y_{1}(x)=e^{r_{1}x}\text{ og }y_{2}(x)=e^{r_{2}x}$ er løsninger til diff. hvor $r_{1}\text{ og }r_{2}$ er to reelle rødder. Vi ved også at de differentierede af y bliver $y'(x)=r_{i}e^{r_{i}x}$ og $y''(x)=r_{i}^{2}e^{r_{i}x}$.
@@ -77,6 +79,7 @@ Ved $A:[c,d]\to \mathbb{M}_{n,n}$ er kontinuert og $t \in [c,d],\vec{v_{0}}\in \
 
 ## RM sætning 8.30
 Givet $V = \{\vec{\phi }:[C,D]\to \mathbb{R}^{n}\text{ er diff. }|\vec{\phi'}(t)=A(t)\cdot \vec{\phi } \text{ for alle }t \in [C,D] \}\subset \{\vec{\phi }:[C,D]\to \mathbb{R}^{n} \}$. Så vil vi have at operationerne... :: er lukkede under addition og multiplikation $(\vec{\phi_{1}}+\vec{\phi _{2}})(t)=\vec{\phi_{1}}(t)+\vec{\phi_{2}}(t)$. og $(r \vec{\phi })(t)=r \vec{\phi }(t)$, hvor $r \in \mathbb{R}$. OG at V har isomorfi. 
+<!--SR:!2023-01-14,1,234-->
 
 ## RM Generel løsning
 Generel løsning til $\vec{\phi '}=A \vec{\phi }$ | $A:[C,D]\to \mathbb{M}_{n,n}$. Vi kan beskrive løsningen  ved at finde en basis... :: Vi danner rækkerne med $\vec{\phi_{1}},...,\vec{\phi_{n}}\in V$ om til en basis for V. Vi kan tjekke om denne basis gælder ved $\Leftrightarrow \vec{\phi_{1}}(t_{0}),...,\vec{\phi_{n}}(t_{0})\in \mathbb{R}^{n}$ som er en basis.
@@ -84,6 +87,7 @@ Generel løsning til $\vec{\phi '}=A \vec{\phi }$ | $A:[C,D]\to \mathbb{M}_{n,n}
 
 ## TL (Faseform)
 I det tredje tilfælde kan vi skrive løsningen som $C \cos{bt}+D \sin{bt}=$... ::$A \sin{(bt+\phi )}$ hvor $A = \sqrt{C^{2}+D^{2}}$. og $\phi = \tan^{-1}(\frac{\sin{\phi}}{\cos{\phi}})=\tan^{-1}{\frac{C}{D}}$.
+<!--SR:!2023-01-16,3,254-->
 
 ## Oversættelse fra An til LiA.
 Vi kan skrive diff. ligningen $y''+py'+qy=0$ som denne matrice... :: $\vec{\phi '}=A \vec{\phi }$ hvor $\vec{\phi }= \left[\begin{array}{c}y \\ y'\end{array}\right]$, $\vec{\phi }'=y''$ og $A= \left[\begin{array}{cc}0 & 1 \\ -q & -p\end{array}\right]$.

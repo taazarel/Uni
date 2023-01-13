@@ -36,7 +36,7 @@ Vi kan indsætte værdier i vores hessematrix. Lad os tage funktionen fra 278 so
 <!--SR:!2023-01-06,23,301-->
 ## Definition 2.79
 Lad $A \subseteq \mathbb{R}^{n}$ være åben, $r \in \mathbb{N}$. Så vil $f:A \to \mathbb{R}$ være $C^{r}$ funktion hvis... :: alle partielt afledte af orden $\leq r$ eksisterer og er kontinuerte.
-<!--SR:!2023-01-13,24,294-->
+<!--SR:!2023-04-25,102,314-->
 
 <!--SR:!2022-12-28,14,274-->
 
@@ -53,7 +53,7 @@ Hvis vi har $f \text{ er }C^{3}$ kan vi anvende... :: $$\frac{\delta^{3}f}{\delt
 # TK § 3.1
 ## Definition af ekstremum
 Størsteværdipunkt er det samme som... ::: Globalt maksimumspunkt: $$f(\vec{x})\leq f(\vec{a})\text{ for alle }\vec{x}\in A$$
-<!--SR:!2023-01-13,24,303!2023-04-12,90,303-->
+<!--SR:!2023-04-24,101,323!2023-04-12,90,303-->
 
 <!--SR:!2023-01-06,23,294!2022-12-12,4,274-->
 Mindsteværdipunkt er det samme som... ::: Globalt minimumspunkt: $$f(\vec{x})\geq f(\vec{a})\text{ for alle }\vec{x}\in A$$

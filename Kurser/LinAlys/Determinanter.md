@@ -43,6 +43,7 @@ Et reelt polynomie $f:\mathbb{R}\to \mathbb{R}$ skrives som... :: $$f(x)=a_{n}x^
 <!--SR:!2023-06-16,155,306-->
 ### Definition (Grad af polynomier)
 Graden af et polynomie p skrives som... :: $grad(p)$ er den største $n \in \{ 0,1,...\} \text{ så }a_{n} \neq 0$.
+<!--SR:!2023-01-17,4,302-->
 
 <!--SR:!2023-05-06,121,306-->
 
@@ -87,7 +88,7 @@ V er et indre produkt rum $\vec{v},\vec{u}\in V$ og $a \in \mathbb{R}$
 3. $||\vec{u}||+||\vec{v}||$ Denne hedder også trekantsuligheden ![[Rødder og polynomier af komplekse tal 2022-11-24 08.33.27.excalidraw]]
 ### Korollar
 For $f,g \in C_{[a,b]}$ så er $$\sqrt{\int_{a}^{b} (f(x)+g(x))^{2}dx}\leq ...$$ :: $$\sqrt{\int_{a}^{b} f(x)^{2}dx}+\sqrt{\int_{a}^{b} g(x)^{2}dx}$$
-<!--SR:!2023-01-13,24,310-->
+<!--SR:!2023-04-29,106,330-->
 
 <!--SR:!2023-02-02,50,306-->
 ## Definition 4.16
@@ -103,6 +104,7 @@ Hvis $\vec{u_{1}},...,\vec{u_{n}}\in V \backslash \{\vec{0} \}$ er ortogonale me
 <!--SR:!2023-01-09,26,226-->
 ### Korollar "Ortonormal basis" (ONB)
 $\vec{e_{1}},...,\vec{e_{n}}\in \mathbb{R}^{n}$ med prikprodukter. Hvis V har en endelig $dim \{ V\}$ så vil ... :: vi finde en basis $\vec{u_{1}},...,\vec{u_{n}}\in V$ gennem en Gram Schmidt Proces.
+<!--SR:!2023-01-17,4,302-->
 
 <!--SR:!2023-01-24,35,246-->
 
