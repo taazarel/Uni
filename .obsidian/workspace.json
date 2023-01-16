@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md",
+                "file": "Kurser/LinAlys/Egenværdier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md"
+                "file": "Kurser/LinAlys/Egenværdier.md"
               }
             }
           }
@@ -196,10 +196,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bac0ca07c6add6a1",
+  "active": "f68a8dfffff80208",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Regnepapir 2023-01-14 12.39.43.excalidraw.md",
     "Kurser/LinAlys/Differentialligninger.md",
+    "Assets/Excalidraw/Regnepapir 2023-01-14 12.39.43.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Kurser/LinAlys/Egenværdier.md",
     "Kurser/MekRel/Dokumenter/Kap10.pdf",
