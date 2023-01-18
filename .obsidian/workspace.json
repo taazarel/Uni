@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "18ddaff265e5747f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bac0ca07c6add6a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
         "id": "69062ebea2b99f84",
         "type": "tabs",
         "children": [
@@ -30,11 +11,9 @@
             "id": "f68a8dfffff80208",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Kurser/LinAlys/Egenværdier.md",
-                "mode": "source",
-                "source": false
+                "file": "Kurser/MekRel/Dokumenter/Kap10.pdf"
               }
             }
           }
@@ -140,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Egenværdier.md",
+                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Egenværdier.md"
+                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md"
               }
             }
           }
@@ -196,17 +175,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f68a8dfffff80208",
+  "floating": {
+    "id": "418762e15f797f62",
+    "type": "floating",
+    "children": [
+      {
+        "id": "385a370665573733",
+        "type": "window",
+        "children": [
+          {
+            "id": "98655e4cabd74b93",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc5e3c1984af4338",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -992,
+        "y": 350,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "fc5e3c1984af4338",
   "lastOpenFiles": [
+    "Kurser/MekRel/Dokumenter/Kap10.pdf",
+    "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md",
+    "Kurser/MekRel/Papir til opgaver.md",
+    "Kurser/LinAlys/Egenværdier.md",
     "Kurser/LinAlys/Differentialligninger.md",
     "Assets/Excalidraw/Regnepapir 2023-01-14 12.39.43.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
-    "Kurser/LinAlys/Egenværdier.md",
-    "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Relativistisk Dynamik.md",
-    "Kurser/MekRel/Dokumenter/Kap9.pdf",
-    "Assets/Excalidraw/Regnepapir 2023-01-09 10.42.49.excalidraw.md",
-    "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md"
+    "Kurser/MekRel/Dokumenter/Kap9.pdf"
   ]
 }
