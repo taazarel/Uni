@@ -11,13 +11,26 @@
             "id": "f68a8dfffff80208",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harmonisk oscillator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deecc70a3318aa6d",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap10.pdf"
+                "file": "Kurser/MekRel/Dokumenter/Kap8.pdf"
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md",
+                "file": "Harmonisk oscillator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md"
+                "file": "Harmonisk oscillator.md"
               }
             }
           }
@@ -180,20 +193,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "3f959f18277bc49a",
+        "id": "b007856a8126000b",
         "type": "window",
         "children": [
           {
-            "id": "87c000fcbcdccc46",
+            "id": "fec026228c92c725",
             "type": "tabs",
             "children": [
               {
-                "id": "d997f7c478f0057f",
+                "id": "51c73df6820d58be",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md"
+                    "file": "Assets/Excalidraw/Harmonisk oscillator 2023-01-18 15.42.53.excalidraw.md"
                   }
                 }
               }
@@ -201,26 +214,26 @@
           }
         ],
         "direction": "vertical",
-        "x": 651,
-        "y": 200,
-        "width": 618,
-        "height": 679,
+        "x": -947,
+        "y": 435,
+        "width": 1025,
+        "height": 801,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "d997f7c478f0057f",
+  "active": "f68a8dfffff80208",
   "lastOpenFiles": [
-    "Kurser/MekRel/Dokumenter/Kap10.pdf",
-    "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md",
+    "Assets/Excalidraw/Harmonisk oscillator 2023-01-18 15.42.53.excalidraw.md",
+    "Harmonisk oscillator.md",
+    "Kurser/MekRel/Dokumenter/Kap8.pdf",
     "Kurser/MekRel/Papir til opgaver.md",
+    "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md",
+    "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Kurser/LinAlys/Egenværdier.md",
     "Kurser/LinAlys/Differentialligninger.md",
     "Assets/Excalidraw/Regnepapir 2023-01-14 12.39.43.excalidraw.md",
-    "Kurser/LinAlys/Regnepapir.md",
-    "Kurser/MekRel/Speciel Relativitetsteori.md",
-    "Kurser/MekRel/Relativistisk Dynamik.md",
-    "Kurser/MekRel/Dokumenter/Kap9.pdf"
+    "Kurser/LinAlys/Regnepapir.md"
   ]
 }
