@@ -176,19 +176,19 @@
     }
   },
   "floating": {
-    "id": "418762e15f797f62",
+    "id": "39e44334bf512ca9",
     "type": "floating",
     "children": [
       {
-        "id": "385a370665573733",
+        "id": "3f959f18277bc49a",
         "type": "window",
         "children": [
           {
-            "id": "98655e4cabd74b93",
+            "id": "87c000fcbcdccc46",
             "type": "tabs",
             "children": [
               {
-                "id": "fc5e3c1984af4338",
+                "id": "d997f7c478f0057f",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -201,16 +201,16 @@
           }
         ],
         "direction": "vertical",
-        "x": -992,
-        "y": 350,
-        "width": 1024,
-        "height": 800,
+        "x": 651,
+        "y": 200,
+        "width": 618,
+        "height": 679,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "fc5e3c1984af4338",
+  "active": "d997f7c478f0057f",
   "lastOpenFiles": [
     "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md",
