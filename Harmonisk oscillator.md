@@ -8,6 +8,6 @@ Et tilfælde vi ofte ser er et pendul, hvilket vi skriver som... :: $\ddot \thet
 
 # 8.2 Dæmpet Harmonisk Oscillator (DHO)
 
-En dæmpet harmonisk oscillator har et led på som beskriver friktion (dæmpning), og denne kræver et nyt led for den resulterende kraft $m \ddot x = -kx - b \dot x$. Når vi så forandrer dette til en DHO får vi... :: $\ddot x + \omega_{0}^{2} x + \gamma \dot x = 0$. Her er $\gamma = \frac{b}{m}$.
+En dæmpet harmonisk oscillator har et led på som beskriver friktion (dæmpning), og denne kræver et nyt led for den resulterende kraft $m \ddot x = -kx - b \dot x$. Når vi så forandrer dette til en DHO får vi... :: $\ddot x + \omega_{0}^{2} x + \gamma \dot x = 0$. Her er $\gamma = \frac{b}{m}$. og $\omega^{2} = \omega_{0}^{2}- \frac{\gamma^{2}}{4}$.
 
 # Fodnoter
