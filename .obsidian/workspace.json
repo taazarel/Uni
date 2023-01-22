@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "deecc70a3318aa6d",
+            "id": "3405ce974b2627c1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Kurser/MekRel/Dokumenter/Kap8.pdf"
+                "file": "Assets/Rotationsinerti.png"
+              }
+            }
+          },
+          {
+            "id": "6440c4a0f2ff8cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/MekRel/Rotationsmekanik.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -190,15 +202,15 @@
   },
   "active": "f68a8dfffff80208",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Harmonisk oscillator 2023-01-18 15.42.53.excalidraw.md",
-    "Harmonisk oscillator.md",
     "Kurser/MekRel/Rotationsmekanik.md",
+    "Assets/Rotationsinerti.png",
+    "Harmonisk oscillator.md",
+    "Assets/Excalidraw/Harmonisk oscillator 2023-01-18 15.42.53.excalidraw.md",
     "Kurser/LinAlys/Differentialligninger.md",
     "Kurser/MekRel/Dokumenter/Kap8.pdf",
     "Kurser/MekRel/Papir til opgaver.md",
     "Assets/Excalidraw/Papir til opgaver 2023-01-18 09.52.30.excalidraw.md",
     "Kurser/MekRel/Dokumenter/Kap10.pdf",
-    "Kurser/LinAlys/Egenværdier.md",
-    "Assets/Excalidraw/Regnepapir 2023-01-14 12.39.43.excalidraw.md"
+    "Kurser/LinAlys/Egenværdier.md"
   ]
 }
