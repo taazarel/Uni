@@ -33,4 +33,4 @@ Svigningstiden T er givet ved $$T = 2 \pi \frac{1}{\omega} =1.07 s$$
 ## h
 Efter et sekunds rejsetid vil stangen have svunget $\frac{1s}{T}$ gange frem og tilbage. Derfor vil antallet af grader være. $$\frac{1s}{T} \cdot A \cdot 2 = 2.04^{\circ}$$
 ## i
-tangentielfarten er givet ved $v_{t}=\omega r = \omega d_{k} =$  
+tangentielfarten er givet ved $v_{t}=\omega r = \omega d_{k} =2.05 \frac{m}{s}$  
