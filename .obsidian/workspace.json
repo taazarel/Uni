@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca8e147688f34a5e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Rotationsinerti.png"
+              }
+            }
+          },
+          {
+            "id": "646ee60631aa1f90",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kurser/MekRel/Dokumenter/Usikkerheder og statistik.pdf"
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       },
       {
@@ -140,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md",
+                "file": "Kurser/MekRel/Dokumenter/Usikkerheder og statistik.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md"
+                "file": "Kurser/MekRel/Dokumenter/Usikkerheder og statistik.pdf"
               }
             }
           }
@@ -196,17 +217,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bac0ca07c6add6a1",
+  "active": "646ee60631aa1f90",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Regnepapir 2023-01-14 12.39.43.excalidraw.md",
+    "Assets/Rotationsinerti.png",
     "Kurser/LinAlys/Differentialligninger.md",
+    "Assets/Excalidraw/Regnepapir 2023-01-14 12.39.43.excalidraw.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Kurser/LinAlys/Egenværdier.md",
     "Kurser/MekRel/Dokumenter/Kap10.pdf",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/MekRel/Relativistisk Dynamik.md",
     "Kurser/MekRel/Dokumenter/Kap9.pdf",
-    "Assets/Excalidraw/Regnepapir 2023-01-09 10.42.49.excalidraw.md",
-    "Assets/Excalidraw/Papir til opgaver 2023-01-06 09.52.31.excalidraw.md"
+    "Assets/Excalidraw/Regnepapir 2023-01-09 10.42.49.excalidraw.md"
   ]
 }
