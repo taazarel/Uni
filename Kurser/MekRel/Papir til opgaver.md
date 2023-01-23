@@ -3,4 +3,5 @@
 [[Papir til opgaver 2022-12-20 13.36.34.excalidraw]]
 [[Papir til opgaver 2023-01-03 15.40.18.excalidraw]]
 [[Papir til opgaver 2023-01-06 09.19.10.excalidraw]]
-![[Papir til opgaver 2023-01-06 09.52.31.excalidraw]]
+[[Papir til opgaver 2023-01-06 09.52.31.excalidraw]]
+[[Papir til opgaver 2023-01-18 09.52.30.excalidraw]]
