@@ -1,5 +1,5 @@
 ## a Tegn
-
+![[Aflevering 6 2023-01-24 10.41.29.excalidraw]]
 
 ## b
 En stangs inertimoment er $I_{cm}=\frac{1}{12}m l^{2}$. Men da vores stang roterer omkring punktet P som er distancen d væk fra CM så bruger vi parallelakseteoremet. 
@@ -10,7 +10,7 @@ Vi kan benytte at vi har et lukket system til at finde den kinetiske energi af m
 
 Så kan vi opskrive vinkelhast efter stødet således: $$\omega = \sqrt{\frac{2E}{I_{P}}} \approx 6.41 \frac{1}{s}$$
 ## d Tegn
-
+![[Aflevering 6 2023-01-24 10.56.30.excalidraw]]
 ## e
 $$\sum \vec{\tau } = \vec{\tau_{Mg}} + \vec{\tau_{Mn}}+\vec{\tau_{m_{k}g}}$$
 $$\sum \tau = -dF_{Mg}-d_{k}F_{m_{k}g}= I_{P} \ddot \theta $$
