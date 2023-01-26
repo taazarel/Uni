@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md",
+                "file": "Kurser/LinAlys/Højere ordens afledte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md"
+                "file": "Kurser/LinAlys/Højere ordens afledte.md"
               }
             }
           }
@@ -178,48 +178,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "fcff07b8db8effb4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "320f0c3b2da31459",
-        "type": "window",
-        "children": [
-          {
-            "id": "2918b15de27b50f7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "60c5baeecd963bad",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -649,
-        "y": 491,
-        "width": 1025,
-        "height": 801,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "60c5baeecd963bad",
+  "active": "c45da7df54ce8415",
   "lastOpenFiles": [
+    "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
     "Kurser/LinAlys/Dokumenter/opg9.pdf",
     "Hjælpemidler/Periodic Notes/Daily/25-01-2023 Uge 4.md",
-    "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md",
     "Kurser/LinAlys/Differentialligninger.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 13.34.53.excalidraw.md",
