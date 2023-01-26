@@ -43,7 +43,7 @@ Givet $y_{1},y_{2}: \mathbb{R}\to \mathbb{R}$ kan løse diff. ligning af anden o
 Givet at dette lemma er sandt vil y blive et underrum skrevet som... :: $\{y:\mathbb{R}\to \mathbb{R}|y''+py'+qy=0 \} \subseteq \mathbb{F_{R}}$.[^3]
 <!--SR:!2023-01-17,4,274-->
 ## Løsning af andenordens diff. ligning
-Givet et 2-dimensionalt underrum og ligningen $y''+py'+qy=0$ så kan vi finde løsningen ved først at udregne... :: andengradspolynomiet $r^{2}+pr+q=0$ hvor $r \in C$ og $y: \mathbb{R}\to \mathbb{R}$ er ubekendte. $D=p^{2}-4q \in \mathbb{R}$.
+Givet et 2-dimensionalt underrum og ligningen $y''+py'+qy=0$ så kan vi finde løsningen ved først at udregne... :: andengradspolynomiet $r^{2}+pr+q=0$ hvor $r \in \mathbb{C}$ og $y: \mathbb{R}\to \mathbb{R}$ er ubekendte. $D=p^{2}-4q \in \mathbb{R}$.
 <!--SR:!2023-01-17,4,274-->
 Når man har løst andengradspolynomiet kan vi finde løsningen af diff. ligningen ved... :: $y_{1}(x)=e^{r_{1}x}\text{ og }y_{2}(x)=e^{r_{2}x}$ er løsninger til diff. hvor $r_{1}\text{ og }r_{2}$ er to reelle rødder. Vi ved også at de differentierede af y bliver $y'(x)=r_{i}e^{r_{i}x}$ og $y''(x)=r_{i}^{2}e^{r_{i}x}$.
 <!--SR:!2023-01-17,4,274-->
