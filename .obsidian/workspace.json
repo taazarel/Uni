@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Højere ordens afledte.md",
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stationære",
+                "query": "surjektiv",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md",
+                "file": "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 21.28.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md"
+                "file": "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 21.28.04.excalidraw.md"
               }
             }
           }
@@ -218,25 +216,25 @@
           }
         ],
         "direction": "vertical",
-        "x": -1371,
-        "y": 747,
-        "width": 1537,
-        "height": 1201,
+        "x": -1110,
+        "y": 387,
+        "width": 1024,
+        "height": 801,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "2ae1af4a653412e2",
+  "active": "f711809d17932fde",
   "lastOpenFiles": [
-    "Hjælpemidler/Periodic Notes/Daily/25-01-2023 Uge 4.md",
+    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 21.28.04.excalidraw.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
+    "Kurser/LinAlys/Differentialligninger.md",
+    "Hjælpemidler/Periodic Notes/Daily/25-01-2023 Uge 4.md",
     "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
     "Kurser/LinAlys/Dokumenter/opg9.pdf",
-    "Kurser/LinAlys/Differentialligninger.md",
-    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 13.34.53.excalidraw.md",
     "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-25 21.20.21.excalidraw.md"
   ]
