@@ -15,7 +15,7 @@ Egentid er altid... :: den korteste.
 Egenrum er altid... :: den længste.
 <!--SR:!2023-02-26,55,297-->
 Forholdet mellem rum og tid, kalder vi sigma, og sigma er... :: en invariant i forhold til alle koordinatsystemer. $\Delta \tau ^{2}=-\Delta \sigma ^{2}$.[^1]
-<!--SR:!2023-01-25,16,311-->
+<!--SR:!2023-04-14,77,331-->
 
 
 [^1]: Hvor tau er egentid.
