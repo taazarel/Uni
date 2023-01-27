@@ -31,7 +31,7 @@ For at vedligeholde en jævn cirkelbevægelse skal vi have... :: en kraft som p�
 Accelerationen på et legeme i cirkelbevægelse bliver påvirket af... :: centripetalaccelerationen[^3] som peger mod centrum af cirklen.
 <!--SR:!2023-02-05,69,310-->
 Centripetal-accelerationen $\vec{a}_{c}$ er givet ved... :: $\vec{a_{c}}=- \frac{\vec{v_{t}}^{2}}{r}\hat{r}$ [^4]
-<!--SR:!2023-01-25,58,270-->
+<!--SR:!2023-09-09,225,290-->
 Fordi centripetal-accelerationen er parallel med $\hat r=\vec{r}$ så kan vi skrive værdien af $\vec{a_{c}}$ som... :: $a_{c}=|\vec{a_{c}}|= \frac{\vec{v_{t}}^{2}}{r}$.[^5]
 <!--SR:!2023-06-11,157,270-->
 Ikke jævne cirkelbaner har også en anden acceleration som hedder... :: tangentiel-accelerationen $a_t$.
@@ -76,13 +76,13 @@ Vinkelhastigheden bliver ændret af snorlængden således... :: vinkelhast skriv
 Vinkelhastigheden bliver ændret af vinkel og tid således... :: $\omega = \frac{\Delta \theta}{\Delta t}$.
 <!--SR:!2023-02-12,73,330-->
 Vi kan omskrive den kinetiske energi til et udtryk af vinkelhastigheden... :: $K= \frac{1}{2}mv^{2}= \frac{1}{2}m (r \omega )^{2}$ Som vi også kan skrive som $\frac{1}{2}(mr^{2})\omega ^{2}$ (7.17)[^12]
-<!--SR:!2023-01-27,60,270-->
+<!--SR:!2023-09-10,226,290-->
 Den rotationskinetiske energi skrives som... :: $K_{ro}=\frac{1}{2}I_{Q}\omega ^{2}$ (7.18)
 <!--SR:!2023-02-03,67,310-->
 Ligningen af rotationsinertien for en punkt-partikel er... :: $I=mr^{2}$ (7.19)
 <!--SR:!2023-02-07,71,315-->
 Rotationskinetiske energi som en generel formel... :: bliver skrevet som $$K=\left(\sum_{i}^{N}(\delta m_{i}r_{i}^{2})\right)\omega ^{2}=\frac{1}{2}I_{Q}\omega ^{2}$$ (7.20+7.21)[^13]
-<!--SR:!2023-01-24,57,275-->
+<!--SR:!2023-09-13,229,295-->
 Inertimomentet $I_{Q}$ i (7.20) kan også integreres til... :: $I_{Q}=\int_{}^{} r^{2}dm$ (7.23)[^14]
 <!--SR:!2023-01-31,64,295-->
 
@@ -98,7 +98,7 @@ $I_{Q}=\rho \int_{}^{} r^{2}dV$ hvor $\rho = \frac{dm}{dV}$, rho er massefordeli
 <!--SR:!2023-05-16,131,310-->
 
 Parallelakseteoremet beskriver sammenhængen mellem aksen for massemidtpunktet $I_{CM}$ og en vilkårlig parallel akse $I_{Q}$ således... :: $I_{Q}=I_{CM}+md^{2}$ (7.43)[^15]
-<!--SR:!2023-01-26,59,275-->
+<!--SR:!2023-09-14,230,295-->
 Vinkelretakseteoremet viser sammenhængen mellem alle inertimomenterne over akserne i et tredimensionelt rum... :: $I_{z}=I_{x}+I_{y}$ (7.44) givet at vi har et legeme som er tæt på at være plan. dvs: $dz<<dx,dy$ 
 <!--SR:!2023-02-10,74,315-->
 
@@ -122,7 +122,7 @@ Den totale impulsmoment for en partikel som roterer og drejer skrives som.. :: $
 
 ## Kraftmoment (7.7)
 Den tidsligt afledte af impulsmomentet skrives som $\frac{d \vec{L}}{dt}=$... :: $d\frac{\vec{r}\times \vec{p}}{dt}= \frac{d \vec{r}}{dt}\times \vec{p}+\vec{r}\times \frac{d \vec{p}}{dt}$ (7.54)
-<!--SR:!2023-01-26,45,313-->
+<!--SR:!2023-02-17,21,293-->
 Kraftmomentet, eller torque, er det samme som $\frac{d \vec{L}}{dt}=\frac{d \vec{r}}{dt}\times \vec{p}+\vec{r}\times \frac{d \vec{p}}{dt}$, hvor $\vec{F}= \frac{d \vec{p}}{dt}$ og $\vec{v}\times \vec{p}$ er vinkelrette på hinanden da $\vec{p}=m \vec{v}$, så bliver kraftmomentet... :: $\tau =\frac{d \vec{L}}{dt}= \vec{r}\times \vec{F}$ (7.58)[^19]
 <!--SR:!2023-03-09,80,349-->
 
