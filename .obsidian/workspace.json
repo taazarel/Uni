@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md",
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md",
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Differentialligninger.md"
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md"
               }
             }
           }
@@ -171,8 +171,8 @@
   },
   "active": "097805422a2c7b67",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/LinAlys/Differentialligninger.md",
+    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/MekRel/Formelsamling.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
     "Kurser/LinAlys/Dokumenter/opg9.pdf",
