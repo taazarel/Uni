@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Højere ordens afledte.md",
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Højere ordens afledte.md"
+                "file": "Kurser/LinAlys/Lineære Afbildninger.md"
               }
             }
           }
@@ -181,10 +180,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c7c57f9ad104baeb",
+  "active": "097805422a2c7b67",
   "lastOpenFiles": [
-    "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
     "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-27 14.53.16.excalidraw.md",
     "Hjælpemidler/Periodic Notes/Daily/25-01-2023 Uge 4.md",
     "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 21.28.04.excalidraw.md",
