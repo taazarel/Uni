@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
+                "file": "Kurser/LinAlys/Differentialligninger.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "surjektiv",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "f67102a27132052b",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/LinAlys/Lineære Afbildninger.md",
+                "file": "Kurser/LinAlys/Differentialligninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/LinAlys/Lineære Afbildninger.md"
+                "file": "Kurser/LinAlys/Differentialligninger.md"
               }
             }
           }
@@ -170,6 +171,7 @@
   },
   "active": "097805422a2c7b67",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/LinAlys/Differentialligninger.md",
     "Kurser/MekRel/Formelsamling.md",
     "Kurser/MekRel/Speciel Relativitetsteori.md",
@@ -178,7 +180,6 @@
     "Kurser/MekRel/Friktion 2.md",
     "Kurser/MekRel/Friktion.md",
     "Assets/Rotationsinerti.png",
-    "Kurser/MekRel/Afleveringer/Aflevering 6.md",
-    "Kurser/MekRel/Dokumenter/Usikkerheder og statistik.pdf"
+    "Kurser/MekRel/Afleveringer/Aflevering 6.md"
   ]
 }
