@@ -26,7 +26,7 @@ $\sin{x+y}=\sin{x}\cos{y}+\cos{x}\sin{y}$
 $\cos{2x}=\cos^{2}{x}-\sin^{2}{x}$
 $\sin{2x}=2\cos{x}\sin{x}$
 
-$|\sin{}$
+$|\sin{x}|\leq |x|$ (A.20)
 
 [^1]: Kvadratsætninger er strengt voksende
 [^2]: Q er en ortonormal matrix og dens determinant er 1. Dette betyder at Q er en rotation, som starter i (1,0)
