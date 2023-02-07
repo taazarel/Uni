@@ -29,8 +29,18 @@ Empirical probability unfortunately has two shortcomings
 Objective probability states that probability is... :: an objective, observable and unchanging characteristic for a certain object. 
 Objective probability is the king of discrete sets of numbers, but... :: its theory breaks down when applied to continuous sets.
 
-## Subjective Probability
+## Subjective Probability[^4]
+Conditional probability is... :: The probability that a is true given b is true, and is denoted with $P(A|B)$.
+Bayes theorem uses $P(A|B)P(B)=P(A \text{ and } B)=P(AB)=P(B|A)P(A)$ to find the probability for $P(A|B)=$... :: $\frac{P(B|A)P(A)}{P(B)}$ (7.1)
+Often we will define $P(B)$ by $\vec{A}$[^3] like this... :: $P(B)=P(B|A)P(A)+P(B|\vec{A})P(\vec{A})$ (7.2)
+
+## Bayesian Statistics
+Bayesian statistics seeks to help rectify the shortcomings of the unscientific hole in empirical probability. This is achieved by... :: substituting actual probability for an initial guess and the degree of belief in which the experimentor has.[^5]
+
 
 
 [^1]: Given that E_1 and E_2 are mutually exclusive. Which means that they both cant happen at once. It cant both rain and not rain at the same time.
 [^2]: The set of all experiments is called, the collective, ensemble or population.
+[^3]: Where $\vec{A}$ denotes "not A".
+[^4]: Is also known as Bayesian statistics
+[^5]: This is still unscientific for continous cases.
