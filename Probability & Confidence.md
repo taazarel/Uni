@@ -26,6 +26,10 @@ Empirical probability unfortunately has two shortcomings
 2. a must for experiments. And the experiment must be repeatable with a range of different possible outcomes and identical starting conditions.
 
 ## Objective Probability / Propensity
+Objective probability states that probability is... :: an objective, observable and unchanging characteristic for a certain object. 
+Objective probability is the king of discrete sets of numbers, but... :: its theory breaks down when applied to continuous sets.
+
+## Subjective Probability
 
 
 [^1]: Given that E_1 and E_2 are mutually exclusive. Which means that they both cant happen at once. It cant both rain and not rain at the same time.
