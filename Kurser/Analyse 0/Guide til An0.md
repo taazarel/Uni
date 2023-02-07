@@ -11,3 +11,5 @@ Eksamen er 30 min mundtlig. Spørgsmålene er allerede på Absalon.
 	Spørgsmålene handler om store sætninger. Det handler egentligt bare om "Epsilon gymnastik", og hvordan man bruger det i sætningen.
 Eksamen ligger fra 11-14 april og 17-21 april altså mellemugen.
 
+Det anbefales at regne på øvelsesopgaverne hjemmefra først. Det anbefales også at gennemgå materialet bagefter forelæsningerne, fremfor før. 
+Der er lektiecafé hver tirsdag kl 16-19, og fredag 12-15 i vandrehallen.
