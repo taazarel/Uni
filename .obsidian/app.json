@@ -3,7 +3,8 @@
   "rightToLeft": false,
   "spellcheck": true,
   "spellcheckLanguages": [
-    "da"
+    "da",
+    "en-GB"
   ],
   "tabSize": 4,
   "trashOption": "local",
