@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funktioner af Flere Variable.md",
+                "file": "Grænseovergang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funktioner af Flere Variable.md"
+                "file": "Grænseovergang.md"
               }
             }
           }
@@ -185,10 +185,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c9b3a7d233c5831",
+  "active": "97f22f4551231637",
   "lastOpenFiles": [
-    "Grænseovergang.md",
     "Funktioner af Flere Variable.md",
+    "Grænseovergang.md",
     "Kurser/Data & Projekt/Theoretical Distributions.md",
     "Kurser/Data & Projekt/Projekt.md",
     "Kurser/Data & Projekt/Probability & Confidence.md",
