@@ -13,7 +13,21 @@ Lad $A \subset \mathbb{R}^{k}$ være en mængde. Vi har et pukt $\vec{x}\in A$ s
 ## Definition (Afsluttede mængder)
 Lad $A \subset \mathbb{R}^{k}$. Et punkt $\vec{x}\in \mathbb{R}^{k}$ er et kontaktpunkt for A hvis... :: $\forall \rho > 0 \exists \vec{y} \in A : ||\vec{y}-\vec{x}|| < \rho$    
 
-## Definition (Grænseværdi 1D)
-Lad $f : I \backslash \{ a\}\to \mathbb{R}$ hvor $a \in I$ er et indre punkt i intervallet I, og lad $b \in \mathbb{R}$. Hvis det gælder at $\forall \epsilon > 0 \exists \delta >0:|f(x)-b| < \epsilon$ for alle $x \in I \backslash $
+## Strategi til Epsilon delta gymnastik
+- Hav et gæt, eller tanke om hvad grænseværdien b er.
+- Undersøg relationen mellem $|f(x)-b| \text{ og } |x-a|$.
+- Vælg så en "Afpareringsstrategi"
+### True strike formel
+Der er en række kriterier som skal opnåes før vi kan få en sikker gevinst.
+1. Kriterie; Hvis det gælder for et passende C > 0 gælder at: $|f(x)-b| \leq C|x-a|$ for alle $x \in I \backslash \{ a\}$. Kan man parere ved...
+?
+- at vælge $\delta = \delta (\epsilon )= \frac{\epsilon}{C}$ for et givet $\epsilon >0$. Hvis $|x-a|<\delta$
+- 
 
-[^1]: Her er det vigtigt at x er en søjle
+## Definition (Grænseværdi 1D)
+Lad $f : I \backslash \{ a\}\to \mathbb{R}$ hvor $a \in I$ er et indre punkt i intervallet I, og lad $b \in \mathbb{R}$. Hvis det gælder at $\forall \epsilon > 0 \exists \delta >0$ : $|f(x)-b| < \epsilon$ for alle $x \in I \backslash \{ a\}$ med $|x-a|< \delta$. Så vil f have b som "grænseværdi" i "grænseovergangen" $x \to a$ og dette skrives som... ::: $f(x)\to b$ for $x \to a$
+
+
+
+
+[^1]: Her er det vigtigt at x er en søjle med k tal
