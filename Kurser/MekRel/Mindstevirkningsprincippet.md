@@ -92,7 +92,7 @@ I tredimensionelt rum er vektorer bevaret dvs $\vec{J}=\vec{r}x \vec{p}$ og derv
 Der er 7 bevarede størrelser i alt, de er... :: Impuls i 3 forskellige dimensioner, impulsmomentet J i tre forskellige dimensioner og energi.
 <!--SR:!2023-06-12,185,316-->
 
-## [[Funktioner af flere variable#Polære koordinater:|Polære Koordinater]]
+## [[Kurser/LinAlys/Funktioner af flere variable#Polære koordinater:|Polære Koordinater]]
 Spørgsmål om hvad fanden der sker i (5.35) da jeg ingen ide har !?
 
 Gennem polære koordinater kan vi se at en acceleration bliver til centrifugal kraften.

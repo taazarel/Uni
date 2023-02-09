@@ -4,48 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "ea3b18d8791b36fe",
+        "id": "97c2e6af9d789018",
         "type": "tabs",
         "children": [
           {
-            "id": "9f3dda5649f4185d",
+            "id": "3c9b3a7d233c5831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/Data & Projekt/Theoretical Distributions.md",
+                "file": "Funktioner af Flere Variable.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5e30230cb5406ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/Data & Projekt/Probability & Confidence.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       },
       {
-        "id": "6dd0f14a8e598761",
+        "id": "60b64c9ed408f854",
         "type": "tabs",
         "children": [
           {
-            "id": "faa7d52ed8561363",
+            "id": "97f22f4551231637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projekt.md",
+                "file": "Grænseovergang.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projekt.md",
+                "file": "Funktioner af Flere Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projekt.md"
+                "file": "Funktioner af Flere Variable.md"
               }
             }
           }
@@ -199,17 +185,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "faa7d52ed8561363",
+  "active": "3c9b3a7d233c5831",
   "lastOpenFiles": [
-    "Kurser/Data & Projekt/Probability & Confidence.md",
-    "Projekt.md",
+    "Grænseovergang.md",
+    "Funktioner af Flere Variable.md",
     "Kurser/Data & Projekt/Theoretical Distributions.md",
-    "Untitled.md",
+    "Kurser/Data & Projekt/Projekt.md",
+    "Kurser/Data & Projekt/Probability & Confidence.md",
     "Kurser/Analyse 0/Appendiks A.md",
     "Kurser/Analyse 0/Guide til An0.md",
     "25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md",
     "25-01-2023 Uge 4 2023-01-26 13.34.53.excalidraw.md",
-    "Kurser/LinAlys/Lineære Afbildninger.md",
-    "Kurser/LinAlys/Højere ordens afledte.md"
+    "Kurser/LinAlys/Lineære Afbildninger.md"
   ]
 }

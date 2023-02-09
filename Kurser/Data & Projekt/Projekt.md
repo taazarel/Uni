@@ -1,6 +1,6 @@
-**Gruppemedlemmer:** Luci, 
+**Gruppemedlemmer:** Luci, Stella, Christopher.
 ### Mulige emner
-- Characterising star-forming galaxies
+- **Characterising star-forming galaxies**
 - Characterising exo-planet interiors
 - Another one bites the dust
 - Creating a droplet of early universe
