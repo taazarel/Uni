@@ -1,4 +1,5 @@
 #kapitel 
+# §1.1 Talrummet $\mathbb{R}^{k}$
 Vektorer er altid... :: søjler. Det kan godt være at de skrives som rækker i teksten, men de er stadigvæk søjler.
 Givet to ortpgonale/vinkelrette vektorer $\vec{x}\cdot \vec{y}=0$ så vil $||x \cdot y||^{2}=...$:: $||x||^{2}+||y^{2}||$ 
 ### Cauchy-Schwarz ulighed
@@ -17,7 +18,7 @@ En delmængde $A \subset \mathbb{R}^{k}$ er "Konveks" hvis det gælder for alle 
 Hvis en mængde er "Stjerneformet" omkring et punkt betyder det... :: at alle linjestykker som indeholder dette punkt er fuldkomment inde i mængden. Vi skriver $\lambda \vec{x_{0}}+(1-\lambda )\vec{y} \in A \text{ for alle }\vec{y}\in A, \lambda \in (0,1)$.
 
 
-# Topologiske begreber
+# §1.2 Topologiske begreber
 ## Definition 1.12 (Indre punkt)
 Punktet $\vec{x}\in \mathbb{R}^k$ er et indre punkt i A, hvis der findes en kugle med punktet som centrum der er indeholdt i A. Matematisk kan vi skrive... :: $\exists \rho > 0: \space K(\vec{x}, \rho ) \subset A$.
 ## Definition 1.13 (kontaktpunkt)
@@ -26,7 +27,12 @@ Et punkt $\vec{x}\in \mathbb{R}^k$ er et kontaktpunkt for en mængde $A \subset 
 Lad $A \subset \mathbb{R}^{k}$. Et punkt $\vec{x}\in \mathbb{R}^{k}$ er et kontaktpunkt for A hvis... :: $\forall \rho > 0 \exists \vec{y} \in A : ||\vec{y}-\vec{x}|| < \rho$
 
 Hvad er Komplementærmængden... ::: alle punkter som mængden ikke er, $A^{c}=\mathbb{R}^{k}\backslash A$ 
-Hvad er Randen af mængden... ::: Afslutningen af mængden uden de indre punkter $\delta A = \vec{A}$
+Hvad er Randen af mængden... ::: Afslutningen af mængden uden de indre punkter $\delta A = \vec{A}\backslash A^{\circ}$.
+Hvad er Afslutningen... ::: Mængden af kontaktpunkter for A. Skrives som $\vec{A}$.
+En mængde er begrænset... :: når der findes en kugle omkring $\vec{0}$ som indeholder mængden.
+
+# §1.3 Afbildninger fra $\mathbb{R}^{k}$ til $\mathbb{R}^{m}$
+
 
 
 [^1]: Her er det vigtigt at x er en søjle med k tal

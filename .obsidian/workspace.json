@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb762f346ecf2711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/Analyse 0/Funktioner af Flere Variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1389eb1b279f2dca",
             "type": "leaf",
             "state": {
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Analyse 0/Funktioner af Flere Variable.md",
+                "file": "Kurser/Analyse 0/Grænseovergang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Analyse 0/Funktioner af Flere Variable.md"
+                "file": "Kurser/Analyse 0/Grænseovergang.md"
               }
             }
           }
@@ -180,10 +168,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb762f346ecf2711",
+  "active": "1389eb1b279f2dca",
   "lastOpenFiles": [
-    "Kurser/Analyse 0/Grænseovergang.md",
     "Kurser/Analyse 0/Funktioner af Flere Variable.md",
+    "Kurser/Analyse 0/Grænseovergang.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
     "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
