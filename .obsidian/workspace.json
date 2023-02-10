@@ -4,40 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "97c2e6af9d789018",
+        "id": "624ed7faf5203c25",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9b3a7d233c5831",
+            "id": "cb762f346ecf2711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funktioner af Flere Variable.md",
+                "file": "Kurser/Analyse 0/Funktioner af Flere Variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1389eb1b279f2dca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/Analyse 0/Grænseovergang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "60b64c9ed408f854",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "97f22f4551231637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grænseovergang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -129,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grænseovergang.md",
+                "file": "Kurser/Analyse 0/Funktioner af Flere Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grænseovergang.md"
+                "file": "Kurser/Analyse 0/Funktioner af Flere Variable.md"
               }
             }
           }
@@ -185,17 +180,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "97f22f4551231637",
+  "active": "cb762f346ecf2711",
   "lastOpenFiles": [
-    "Funktioner af Flere Variable.md",
-    "Grænseovergang.md",
-    "Kurser/Data & Projekt/Theoretical Distributions.md",
-    "Kurser/Data & Projekt/Projekt.md",
-    "Kurser/Data & Projekt/Probability & Confidence.md",
-    "Kurser/Analyse 0/Appendiks A.md",
-    "Kurser/Analyse 0/Guide til An0.md",
+    "Kurser/Analyse 0/Grænseovergang.md",
+    "Kurser/Analyse 0/Funktioner af Flere Variable.md",
+    "Kurser/LinAlys/Lineære Afbildninger.md",
+    "Kurser/LinAlys/Højere ordens afledte.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
+    "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-27 14.53.16.excalidraw.md",
+    "Hjælpemidler/Periodic Notes/Daily/25-01-2023 Uge 4.md",
+    "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 21.28.04.excalidraw.md",
     "25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md",
-    "25-01-2023 Uge 4 2023-01-26 13.34.53.excalidraw.md",
-    "Kurser/LinAlys/Lineære Afbildninger.md"
+    "25-01-2023 Uge 4 2023-01-26 13.34.53.excalidraw.md"
   ]
 }
