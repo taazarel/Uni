@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "624ed7faf5203c25",
+        "id": "eb8056688f6d14cd",
         "type": "tabs",
         "children": [
           {
-            "id": "1389eb1b279f2dca",
+            "id": "9efb6131ed64e403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/Analyse 0/Grænseovergang.md",
+                "file": "Kurser/Data & Projekt/Describing the Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Analyse 0/Grænseovergang.md",
+                "file": "Kurser/Data & Projekt/Describing the Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Analyse 0/Grænseovergang.md"
+                "file": "Kurser/Data & Projekt/Describing the Data.md"
               }
             }
           }
@@ -168,17 +167,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1389eb1b279f2dca",
+  "active": "9efb6131ed64e403",
   "lastOpenFiles": [
-    "Kurser/Analyse 0/Funktioner af Flere Variable.md",
-    "Kurser/Analyse 0/Grænseovergang.md",
-    "Kurser/LinAlys/Lineære Afbildninger.md",
-    "Kurser/LinAlys/Højere ordens afledte.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
-    "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-27 14.53.16.excalidraw.md",
-    "Hjælpemidler/Periodic Notes/Daily/25-01-2023 Uge 4.md",
-    "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 21.28.04.excalidraw.md",
+    "Grænseovergang.md",
+    "Funktioner af Flere Variable.md",
+    "Kurser/Data & Projekt/Theoretical Distributions.md",
+    "Kurser/Data & Projekt/Projekt.md",
+    "Kurser/Data & Projekt/Probability & Confidence.md",
+    "Kurser/Analyse 0/Appendiks A.md",
+    "Kurser/Analyse 0/Guide til An0.md",
     "25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md",
-    "25-01-2023 Uge 4 2023-01-26 13.34.53.excalidraw.md"
+    "25-01-2023 Uge 4 2023-01-26 13.34.53.excalidraw.md",
+    "Kurser/LinAlys/Lineære Afbildninger.md"
   ]
 }
