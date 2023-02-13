@@ -12,8 +12,7 @@ Der er en række kriterier som skal opnåes før vi kan få en sikker gevinst.[^
 - at vælge $\delta = \delta (\epsilon )= \frac{\epsilon}{C}$ for et givet $\epsilon >0$. Hvis $|x-a|<\delta$
 - vinde over et givet $\epsilon >0$ ved at vælge $\delta (\epsilon )= \sqrt{\frac{\epsilon}{C}}$.
 - $\delta (\epsilon )=min \{\frac{\epsilon}{C},\delta_{0} \}$ for et givet $\epsilon > 0$.
-
-
+ 
 
 ## Definition (Grænseværdi 1D)
 Lad $f : I \backslash \{ a\}\to \mathbb{R}$ hvor $a \in I$ er et indre punkt i intervallet I, og lad $b \in \mathbb{R}$. Hvis det gælder at $\forall \epsilon > 0 \exists \delta >0$ : $|f(x)-b| < \epsilon$ for alle $x \in I \backslash \{ a\}$ med $|x-a|< \delta$. Så vil f have b som "grænseværdi" i "grænseovergangen" $x \to a$ og dette skrives som... ::: $f(x)\to b$ for $x \to a$
