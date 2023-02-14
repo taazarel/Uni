@@ -17,6 +17,7 @@ Mathematical probability has a hole in it in the sense that... :: the number whi
 
 ## Empirical Probability
 When an experiment is performed N times, and A occurs M times, then while $N \to \infty$... :: a rational number occurs, which is represented by the ratio $\frac{M}{N}$ and denoted as the probability $P(A)$.[^2]
+<!--SR:!2023-02-18,4,270-->
 
 Empirical probability unfortunately has two shortcomings
 1. The probability of an event...

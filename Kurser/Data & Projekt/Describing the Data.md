@@ -4,6 +4,7 @@ Varians bliver beskrevet som hvor sandsynligt det er for et datapunkt at afvige 
 Standardafvigelsen/spredningen er... :: kvadratroden af varians $\sigma =\sqrt{V(x)}= \sqrt{\frac{1}{N} \sum_{j=1}^{N}(x_{j}-\vec{x})^{2}}$[^1]
 Covarians er sammenhæng mellem data, om de er afhængige eller uafhængige af hinanden. Vi bruger dette meget ofte i fysik og definerer... :: $$cov(x,y)=\frac{1}{N} \sum_{i}(x_{i}-\vec{x})(y_{i}-\vec{y})$$
 Correlation er endnu bedre end covariansen til at bestemme sammenhæng mellem datapunkter. Vi skriver correlation som... :: $\rho(x,y)= \frac{cov(x,y)}{\sigma_{x}\sigma_{y}}$[^2]
+<!--SR:!2023-02-18,4,270-->
 
 
 

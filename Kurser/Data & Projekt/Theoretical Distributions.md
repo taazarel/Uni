@@ -3,6 +3,7 @@
 ## A simple distribution
 The outcome of $P(A|B)=...$::$P(A)P(B)$ given mutual exclusivity.
 If given a set of probabilities $P(r)$ which are defined by the outcome r we have... :: a probability distribution. 
+<!--SR:!2023-02-15,1,230-->
 
 ## The law of large numbers
 Small sample sizes in statistics leave much room for error. Thus if we wish to diminish this error we... :: increase the sample size. Since the law of large numbers states that when $N \to \infty$ then $\frac{M}{N}=P$.

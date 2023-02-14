@@ -11,8 +11,12 @@
             "id": "a411f99f8f2d5ccc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/Analyse 0/Grænseovergang.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -107,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/Analyse 0/Grænseovergang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/Analyse 0/Grænseovergang.md"
+              }
             }
           }
         ],
