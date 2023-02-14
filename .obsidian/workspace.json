@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8056688f6d14cd",
+        "id": "281cbec0067fb575",
         "type": "tabs",
         "children": [
           {
-            "id": "9efb6131ed64e403",
+            "id": "a411f99f8f2d5ccc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/Data & Projekt/Describing the Data.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Data & Projekt/Describing the Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/Data & Projekt/Describing the Data.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -167,8 +160,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efb6131ed64e403",
+  "active": "a411f99f8f2d5ccc",
   "lastOpenFiles": [
+    "Kurser/Data & Projekt/Describing the Data.md",
     "Grænseovergang.md",
     "Funktioner af Flere Variable.md",
     "Kurser/Data & Projekt/Theoretical Distributions.md",
@@ -177,7 +171,6 @@
     "Kurser/Analyse 0/Appendiks A.md",
     "Kurser/Analyse 0/Guide til An0.md",
     "25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md",
-    "25-01-2023 Uge 4 2023-01-26 13.34.53.excalidraw.md",
-    "Kurser/LinAlys/Lineære Afbildninger.md"
+    "25-01-2023 Uge 4 2023-01-26 13.34.53.excalidraw.md"
   ]
 }
