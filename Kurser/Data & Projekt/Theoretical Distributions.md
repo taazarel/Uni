@@ -35,5 +35,9 @@ We have a few meaningful properties of the binomial...
 2. $V(r)=np(1-p)$ (3.9)
 3. $\sigma = \sqrt{np(1-p)}$ (3.10)
 
+# Poisson Distribution
+For an interval, an average expected amount of values to occur is denoted $\lambda$. If we were to disect this interval into indices so small that only one could occur at each slice, then use the binomial distribution we would find the probability... :: $P(r;\lambda )= \frac{e^{-\lambda}\lambda^{r}}{r!}$ (3.11) which is the probability of obtaining r events given the expected value $E(r)=\lambda$.[^2]
+
 
 [^1]: Where E(r) is the expectation value. Also somtimes written as $\langle r \rangle$ or $\mu$. r is the result and P(r) is the probability for the result.
+[^2]: The variance is also $V(r)=\lambda$ and therefore the deviation is $\sigma = \sqrt{\lambda }$.
