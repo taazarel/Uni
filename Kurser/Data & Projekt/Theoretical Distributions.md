@@ -43,8 +43,10 @@ Normalfordelingen or "The gaussian" has a range of useful features. Including...
 ?
 Its curve being centred on  $\mu$ the average.
 Its width is proportional to $\sigma$.
+The area under the distribution is 1.
 The formula is written as$$P(r)= e^{\frac{-(x-\mu)^{2}}{2\sigma^{2}}} \frac{1}{\sigma \sqrt{2 \pi }}$$
-
+# Breit-wigner / Cauchy / Lorentz Distribution
+This distribution is used for particles in physics and is written as... :: $$F(m;M, \Gamma )= \frac{1}{2\pi } \frac{\Gamma}{(m-M)^{2}+  (\frac{\Gamma }{2})^{2}}$$
 
 [^1]: Where E(r) is the expectation value. Also sometimes written as $\langle r \rangle$ or $\mu$. r is the result and P(r) is the probability for the result.
 [^2]: The variance is also $V(r)=\lambda$ and therefore the deviation is $\sigma = \sqrt{\lambda }$.
