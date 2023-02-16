@@ -22,6 +22,14 @@ Lad $f : I \backslash \{ a\}\to \mathbb{R}$ hvor $a \in I$ er et indre punkt i i
 ## Definition 2.15 (Grænseværdi i flere dimensioner)
 Grænseovergangen er det samme som i 1D, bortset fra... :: at vi bruger vektorer i stedet for punkterne x, b, og a. Og vi bruger norm i stedet for numerisk værdi $||f(\vec{x})-\vec{b}||<\epsilon$ og $||\vec{x}-\vec{a}||<\delta$.
 
+# §2.4 Sætninger om Grænseovergang
+## Definition 
+
+# §2.5 Variationer af grænseværdibegrebet 1D
+
+
+
+# §2.6 Størrelsesordener
 
 
 [^1]: Advarsel: Man kan ikke bruge $a \leq x \leq b \Rightarrow |a| \leq |x| \leq |b|$. Brug denne: $a \leq x \leq b \Rightarrow |x| \leq |a|+|b|$
