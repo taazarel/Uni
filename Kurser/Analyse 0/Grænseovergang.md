@@ -31,6 +31,12 @@ Lad $f = (f_1,...,f_{m}):A\to \mathbb{R}^{m}$ være en afbildning defineret på 
 ## Definition (Etsidede grænser)
 Lad $I \subset \mathbb{R}$ være vore interval. $f:I \to \mathbb{R}^{m}$ og $a \in I$. Hvis vi er givet et epsilon kan vi finde to grænser, nemlig... :: $f(x)\to \vec{b}$ for $x \to a^{+}$ hvilket betyder at man går mod a fra den højre side. Vi definerer $x \in (a, a+\delta)$. Vi finder også $f(x)\to \vec{c}$ for $x \to a^{-}$, fra den venstre side, x bliver $x \in (a- \delta, a)$.
 
+Når $x \to \infty$ så skal vi bruge en ny definition med hjælp fra $0 < K$, hvilket er et meget stort tal. Vi definerer... :: $f(x)\to b$ for $x \to \infty$ hvis $\forall \epsilon > 0\space \exists K > 0: ||f(x)-b||<\epsilon$ for alle $x \in A$ hvor $x > K$.
+
+Når $f(x)\to \infty$ så kan vi bruge tallet $M>0$ til at definere grænseværdien i punktet a... :: $\forall M > 0 \space \exists \delta > 0: f(x) > M$ for alle $x \in A$ med $||x-a|| < \delta$ Hvis vi har at $f(x)\to - \infty$ så får vi. $\forall M > 0 \space \exists \delta > 0: f(x)< -M$.
+
+
+
 # §2.6 Størrelsesordener
 
 
