@@ -23,11 +23,13 @@ Lad $f : I \backslash \{ a\}\to \mathbb{R}$ hvor $a \in I$ er et indre punkt i i
 Grænseovergangen er det samme som i 1D, bortset fra... :: at vi bruger vektorer i stedet for punkterne x, b, og a. Og vi bruger norm i stedet for numerisk værdi $||f(\vec{x})-\vec{b}||<\epsilon$ og $||\vec{x}-\vec{a}||<\delta$.
 
 # §2.4 Sætninger om Grænseovergang
-## Definition 
+## Sætning 2.27 (Koordinatvis grænseovergang)
+Lad $f = (f_1,...,f_{m}):A\to \mathbb{R}^{m}$ være en afbildning defineret på $A \subset \mathbb{R}^{k}$ og a er et randpunkt på A og $b =(b_{1},...,b_{m})\in \mathbb{R}^{m}$. Ved grænseovergangen vil det gælde at... :: $f(\vec{x})\to \vec{b} \Leftrightarrow (f_{1}(\vec{x})\to b_{1},...,f_{m}(\vec{x})\to b_{m})$.
+
 
 # §2.5 Variationer af grænseværdibegrebet 1D
-
-
+## Definition (Etsidede grænser)
+Lad $I \subset \mathbb{R}$ være vore interval. $f:I \to \mathbb{R}^{m}$ og $a \in I$. Hvis vi er givet et epsilon kan vi finde to grænser, nemlig... :: $f(x)\to \vec{b}$ for $x \to a^{+}$ hvilket betyder at man går mod a fra den højre side. Vi definerer $x \in (a, a+\delta)$. Vi finder også $f(x)\to \vec{c}$ for $x \to a^{-}$, fra den venstre side, x bliver $x \in (a- \delta, a)$.
 
 # §2.6 Størrelsesordener
 
