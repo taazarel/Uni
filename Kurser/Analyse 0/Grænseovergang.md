@@ -35,9 +35,17 @@ Når $x \to \infty$ så skal vi bruge en ny definition med hjælp fra $0 < K$, h
 
 Når $f(x)\to \infty$ så kan vi bruge tallet $M>0$ til at definere grænseværdien i punktet a... :: $\forall M > 0 \space \exists \delta > 0: f(x) > M$ for alle $x \in A$ med $||x-a|| < \delta$ Hvis vi har at $f(x)\to - \infty$ så får vi. $\forall M > 0 \space \exists \delta > 0: f(x)< -M$.
 
-
+## Definition (Epsilonfunktioner)
+En epsilon funktion er en funktion hvis... :: $f(x)\to 0$ for $x \to a, x \in A$.[^2]
 
 # §2.6 Størrelsesordener
+### Lille-o og store-O
+Vi definerer at $f = o(g)$[^4] ved $x \to a, x \in A$ hvis der findes en epsilon funktion $\epsilon (x)$ så... :: $f(x)=||g(x)||\epsilon (x) \Rightarrow \frac{f(x)}{||g(x)||}=\epsilon (x) \to 0$ ved $x \to a$.
+Vi definerer at $f = O(g)$[^3] ved $x \to a,x \in A$ hvis der findes $K > 0$ så... :: $||f(x)||\leq K||g(x)|| \Rightarrow \frac{||f(x)||}{||g(x)||} \leq K$
+
 
 
 [^1]: Advarsel: Man kan ikke bruge $a \leq x \leq b \Rightarrow |a| \leq |x| \leq |b|$. Brug denne: $a \leq x \leq b \Rightarrow |x| \leq |a|+|b|$
+[^2]: Grænseværdien for funktionen går altså mod nul
+[^3]: Dette betyder at de har højst samme størrelsesorden. Det gælder at hvis $f=o(g)$ så er $f=O(g)$.
+[^4]: Dette betyder at f har en lavere størrelsesorden end g.
