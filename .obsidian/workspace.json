@@ -4,40 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5108454b2c60857a",
+        "id": "0c0acaf0aacf7f77",
         "type": "tabs",
         "children": [
           {
-            "id": "64a66145db3e8c08",
+            "id": "6e09aab2a511b7a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/Analyse 0/Grænseovergang.md",
+                "file": "Kurser/Analyse 0/Opgave 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "f96e5438ddb66f07",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "51d459ac1a202a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/Analyse 0/Kontinuitet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -114,17 +97,9 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "8a452e5d2c06974b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ceba97dbe93cd497",
@@ -137,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Analyse 0/Kontinuitet.md",
+                "file": "Kurser/Analyse 0/Opgave 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Analyse 0/Kontinuitet.md"
+                "file": "Kurser/Analyse 0/Opgave 1.md"
               }
             }
           }
@@ -193,17 +168,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51d459ac1a202a67",
+  "active": "6e09aab2a511b7a0",
   "lastOpenFiles": [
+    "Kurser/LinAlys/Regnepapir.md",
     "Kurser/Analyse 0/Grænseovergang.md",
-    "Kurser/Analyse 0/Guide til An0.md",
-    "Kurser/Data & Projekt/Theoretical Distributions.md",
     "Kurser/Analyse 0/Funktioner af Flere Variable.md",
-    "Kurser/Data & Projekt/Describing the Data.md",
-    "Grænseovergang.md",
-    "Funktioner af Flere Variable.md",
-    "Kurser/Data & Projekt/Projekt.md",
-    "Kurser/Data & Projekt/Probability & Confidence.md",
-    "Kurser/Analyse 0/Appendiks A.md"
+    "Kurser/LinAlys/Lineære Afbildninger.md",
+    "Kurser/LinAlys/Højere ordens afledte.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
+    "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-27 14.53.16.excalidraw.md",
+    "Hjælpemidler/Periodic Notes/Daily/25-01-2023 Uge 4.md",
+    "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-26 21.28.04.excalidraw.md",
+    "25-01-2023 Uge 4 2023-01-26 15.35.42.excalidraw.md"
   ]
 }
