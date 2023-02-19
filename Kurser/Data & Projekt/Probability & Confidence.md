@@ -14,6 +14,7 @@ For a set of possible results S. Every event in this set has a probability of oc
 3. $\sum P(E_{i})=1$
 
 Mathematical probability has a hole in it in the sense that... :: the number which represents the probability holds no meaning.
+<!--SR:!2023-02-23,4,272-->
 
 ## Empirical Probability
 When an experiment is performed N times, and A occurs M times, then while $N \to \infty$... :: a rational number occurs, which is represented by the ratio $\frac{M}{N}$ and denoted as the probability $P(A)$.[^2]
@@ -28,15 +29,21 @@ Empirical probability unfortunately has two shortcomings
 
 ## Objective Probability / Propensity
 Objective probability states that probability is... :: an objective, observable and unchanging characteristic for a certain object. 
+<!--SR:!2023-02-23,4,272-->
 Objective probability is the king of discrete sets of numbers, but... :: its theory breaks down when applied to continuous sets.
+<!--SR:!2023-02-23,4,272-->
 
 ## Subjective Probability[^4]
 Conditional probability is... :: The probability that a is true given b is true, and is denoted with $P(A|B)$.
+<!--SR:!2023-02-22,3,252-->
 Bayes theorem uses $P(A|B)P(B)=P(A \text{ and } B)=P(AB)=P(B|A)P(A)$ to find the probability for $P(A|B)=$... :: $\frac{P(B|A)P(A)}{P(B)}$ (7.1)
+<!--SR:!2023-02-23,4,272-->
 Often we will define $P(B)$ by $\vec{A}$[^3] like this... :: $P(B)=P(B|A)P(A)+P(B|\vec{A})P(\vec{A})$ (7.2)
+<!--SR:!2023-02-22,3,252-->
 
 ## Bayesian Statistics
 Bayesian statistics seeks to help rectify the shortcomings of the unscientific hole in empirical probability. This is achieved by... :: substituting actual probability for an initial guess and the degree of belief in which the experimentor has.[^5]
+<!--SR:!2023-02-23,4,272-->
 
 
 
