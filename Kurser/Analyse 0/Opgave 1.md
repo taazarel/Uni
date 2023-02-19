@@ -44,4 +44,5 @@ $$\cosh(x)-\cosh(y)= \frac{e^{x}+e^{-x}}{2}- \frac{e^{y}+e^{-y}}{2} = \frac{e^{x
 
 $$\sinh\left(\frac{x+y}{2}\right)= \frac{e^{\frac{x}{2}}e^{\frac{y}{2}}-e^{\frac{-x}{2}}e^{\frac{-y}{2}}}{2}$$
 
-$$2\sinh\left(\frac{x+y}{2}\right)\sinh\left(\frac{x-y}{2}\right)=$$
+$$2\sinh\left(\frac{x+y}{2}\right)\sinh\left(\frac{x-y}{2}\right)= \frac{e^{x}-e^{y}-e^{-y}+e^{x}}{2}$$
+Er det samme som før, så den anden formel er også bevist.

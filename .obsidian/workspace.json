@@ -168,41 +168,6 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "13f53cf540e9f61c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2dd4d65df6e5b3e4",
-        "type": "window",
-        "children": [
-          {
-            "id": "2841c4aee1e19bf1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "90df90ddd2d48a79",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 610,
-        "y": 206,
-        "width": 700,
-        "height": 668,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "6e09aab2a511b7a0",
   "lastOpenFiles": [
     "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
