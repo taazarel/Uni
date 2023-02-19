@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
+                "file": "Kurser/Analyse 0/Opgave 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md"
+                "file": "Kurser/Analyse 0/Opgave 1.md"
               }
             }
           }
@@ -168,45 +168,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "4d43a783d5cb50c7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "636c151d8ba43cd8",
-        "type": "window",
-        "children": [
-          {
-            "id": "128be98475ff682b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4babbea5295ab8e0",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 669,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4babbea5295ab8e0",
+  "active": "6e09aab2a511b7a0",
   "lastOpenFiles": [
-    "Kurser/Analyse 0/Opgave 1.md",
     "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
+    "Kurser/Analyse 0/Opgave 1.md",
     "Kurser/LinAlys/Regnepapir.md",
     "Kurser/Analyse 0/Grænseovergang.md",
     "Kurser/Analyse 0/Funktioner af Flere Variable.md",
