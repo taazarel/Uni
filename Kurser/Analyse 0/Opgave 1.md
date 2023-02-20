@@ -48,4 +48,17 @@ $$2\sinh\left(\frac{x+y}{2}\right)\sinh\left(\frac{x-y}{2}\right)= \frac{e^{x}-e
 Er det samme som før, så den anden formel er også bevist.
 
 For $0 \leq x < y$ gælder det at $$\cosh(y)-\cosh(x)= \frac{e^{y}+e^{-y}-e^{x}-e^{-x}}{2}\Rightarrow \frac{e^{y}-e^{x}}{2} +\frac{e^{-y}-e^{-x}}{2}$$
-$$$$
+$0\leq x < y$
+$$\cosh(y)-\cosh(x) = \frac{e^{y}+e^{-y}-e^{x}-e^{-x}}{2}= \frac{e^{y}-e^{x}}{2} + \frac{e^{-y}-e^{-x}}{2}$$
+$$e^{y}-e^{x}\geq 1+y-1-x = y-x > 0 \Rightarrow y >x$$
+$$e^{-y}-e^{-x}= \frac{1}{e^{y}-e^{x}}\geq 1-y - 1+x = x-y$$
+$$\Rightarrow | \frac{1}{e^{y}-e^{x}}|\leq |x-y| \leq |e^{y}-e^{x}|$$
+Herved har vi bevist at $\cosh$ er strengt voksende for $[0, \infty )$.
+
+$y<x \leq 0 \Rightarrow 0 \leq -x < -y$.
+$$\cosh(x)=\cosh(-x)<\cosh(-y)=\cosh(y)$$
+Altså er $\cosh$ strengt aftagende på $(-\infty, 0]$
+
+Lad $x < y$. $\sinh(y)-\sinh(x)= \frac{e^{y}-e^{x}}{2}+ \frac{e^{-x}-e^{-y}}{2}$
+$e^{y}-e^{x}>0$ da exp er en strengt voksende funktion.
+Det venstre led kan skrives som $\frac{1}{2} \frac{1}{e^{x}-e^{y}}$. Vi kan altså se at denne brøk er negativ

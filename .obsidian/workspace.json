@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9c27c1af40082003",
+        "id": "0c0acaf0aacf7f77",
         "type": "tabs",
         "children": [
           {
-            "id": "67b47e69d54bd109",
+            "id": "6e09aab2a511b7a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/Data & Projekt/Errors.md",
+                "file": "Kurser/Analyse 0/Opgave 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -96,17 +97,9 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "8a452e5d2c06974b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ceba97dbe93cd497",
@@ -119,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Data & Projekt/Errors.md",
+                "file": "Kurser/Analyse 0/Opgave 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Data & Projekt/Errors.md"
+                "file": "Kurser/Analyse 0/Opgave 1.md"
               }
             }
           }
@@ -175,17 +168,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67b47e69d54bd109",
+  "active": "6e09aab2a511b7a0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Kurser/Data & Projekt/Errors.md",
-    "Kurser/Data & Projekt/Theoretical Distributions.md",
-    "Kurser/Data & Projekt/Describing the Data.md",
-    "Kurser/Data & Projekt/Projekt.md",
-    "Kurser/Data & Projekt/Probability & Confidence.md",
     "Kurser/Analyse 0/Kontinuitet.md",
+    "Kurser/Analyse 0/Opgave 1.md",
     "Kurser/Analyse 0/Grænseovergang.md",
     "Kurser/Analyse 0/Guide til An0.md",
-    "Kurser/Analyse 0/Funktioner af Flere Variable.md"
+    "Kurser/Analyse 0/Funktioner af Flere Variable.md",
+    "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
+    "Kurser/LinAlys/Regnepapir.md",
+    "Kurser/LinAlys/Lineære Afbildninger.md",
+    "Kurser/LinAlys/Højere ordens afledte.md",
+    "Kurser/LinAlys/Afleveringer/Pointopgave 11.md"
   ]
 }
