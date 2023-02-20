@@ -38,14 +38,14 @@ $$\sinh\left(\frac{x-y}{2}\right)= \frac{e^{\frac{x}{2}}e^{\frac{-y}{2}}-e^{\fra
 $$2\cosh\left(\frac{x+y}{2}\right)\sinh\left(\frac{x-y}{2}\right)= \frac{e^{x}-e^{y}+e^{-y}-e^{-x}}{2}$$
 
 $$\sinh(x)-\sinh(y) = \frac{e^{x}-e^{-x}}{2} - \frac{e^{y}-e^{-y}}{2}=\frac{e^{x}-e^{y}+e^{-y}-e^{-x}}{2}$$
-Dette er det samme som før, så denne er bevist.
+Begge sider er ens, altså må $\sinh(x)-\sinh(y)=2\cosh\left(\frac{x+y}{2}\right)\sinh\left(\frac{x-y}{2}\right)$.
 
 $$\cosh(x)-\cosh(y)= \frac{e^{x}+e^{-x}}{2}- \frac{e^{y}+e^{-y}}{2} = \frac{e^{x}+e^{-x}-e^{y}-e^{-y}}{2}$$
 
 $$\sinh\left(\frac{x+y}{2}\right)= \frac{e^{\frac{x}{2}}e^{\frac{y}{2}}-e^{\frac{-x}{2}}e^{\frac{-y}{2}}}{2}$$
 
 $$2\sinh\left(\frac{x+y}{2}\right)\sinh\left(\frac{x-y}{2}\right)= \frac{e^{x}-e^{y}-e^{-y}+e^{x}}{2}$$
-Er det samme som før, så den anden formel er også bevist.
+Er det samme på begge sider, derfor er $\cosh(x)-\cosh(y)=2\sinh\left(\frac{x+y}{2}\right)\sinh(\frac{x-y}{2})$
 
 For $0 \leq x < y$ 
 $$\cosh(y)-\cosh(x) = \frac{e^{y}+e^{-y}-e^{x}-e^{-x}}{2}= \frac{e^{y}-e^{x}}{2} + \frac{e^{-y}-e^{-x}}{2}$$
