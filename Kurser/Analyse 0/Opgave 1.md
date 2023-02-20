@@ -67,4 +67,14 @@ Fordi begge sider er positive er $\sinh(y)-\sinh(x)>0$ for alle $x, y \in \mathb
 
 # Opgave 1.b
 
-$c$
+$\cosh(x)\geq 1$ for alle $x \in \mathbb{R}$.
+Ved punkterne hvor $x \neq 0$ er $\cosh(x)> 1$. $\cosh(x)= \frac{1}{2}(e^{x}+e^{-x})\geq \frac{1}{2}(1+x+1-x)= 1$. Uligheden finder vi gennem (A.34) og (A.35).
+Det eneste tidspunkt at $e^{x}=e^{-x}$ er ved $x=0$. ved dette punkt bliver $\cosh(0)= \frac{1}{2}(e^{x}+e^{-x})= \frac{1}{2}(1+1)=1$.
+Så vi kan se at $\cosh(x)\geq 1$ for alle $x \in \mathbb{R}$.
+
+$$\sinh(x)= \frac{1}{2}(e^{x}-e^{-x})$$
+Hvis $x < 0$ så er $e^{x}-e^{-x}<0$ da exp er strengt voksende (Side 458). Vi kunne skrive $y = -x$ og $e^{y}-e^{-y} = e^{-x}-e^{x}<0$ hvilket er sandt da $-x < x$. Her er y blot en måde at vise at x er negativ.
+Hvis $x >0$ så er $e^{x}-e^{-x}<0$, da vi ved at exp er voksende, og $-x <x$.
+Det eneste sted at $\sinh(x)=0$ er når $e^{x}=e^{-x}$. Derfor må dette være i $x=0$. Vi prøver $\sinh(0)=\frac{1}{2}(e^{0}-e^{0})=0$.
+
+Vi har herved bevist at $\sinh(x) < 0$ ved $x <0$, $\sinh(x) >0$ ved $x >0$ og $\sinh(x)=0$ når $x=0$. 
