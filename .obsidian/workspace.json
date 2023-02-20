@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/Analyse 0/Opgave 1.md",
+                "file": "Kurser/Analyse 0/Kontinuitet.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Analyse 0/Opgave 1.md",
+                "file": "Kurser/Analyse 0/Kontinuitet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Analyse 0/Opgave 1.md"
+                "file": "Kurser/Analyse 0/Kontinuitet.md"
               }
             }
           }
@@ -170,15 +169,15 @@
   },
   "active": "6e09aab2a511b7a0",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
-    "Kurser/Analyse 0/Opgave 1.md",
-    "Kurser/LinAlys/Regnepapir.md",
     "Kurser/Analyse 0/Grænseovergang.md",
+    "Kurser/Analyse 0/Guide til An0.md",
+    "Kurser/Analyse 0/Kontinuitet.md",
+    "Kurser/Analyse 0/Opgave 1.md",
     "Kurser/Analyse 0/Funktioner af Flere Variable.md",
+    "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
+    "Kurser/LinAlys/Regnepapir.md",
     "Kurser/LinAlys/Lineære Afbildninger.md",
     "Kurser/LinAlys/Højere ordens afledte.md",
-    "Kurser/LinAlys/Afleveringer/Pointopgave 11.md",
-    "Assets/Excalidraw/25-01-2023 Uge 4 2023-01-27 14.53.16.excalidraw.md",
-    "Hjælpemidler/Periodic Notes/Daily/25-01-2023 Uge 4.md"
+    "Kurser/LinAlys/Afleveringer/Pointopgave 11.md"
   ]
 }
