@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5108454b2c60857a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "64a66145db3e8c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/Analyse 0/Grænseovergang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "f96e5438ddb66f07",
         "type": "tabs",
         "children": [
