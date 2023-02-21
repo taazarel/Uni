@@ -25,7 +25,16 @@ En funktion som er defineret på et afsluttet og begrænset interval $f:[a,b]\to
 <!--SR:!2023-02-23,4,270-->
 
 # §3.4 Anden Hovedsætning
+## Skæringssætningen
 For en kontinuert funktion $f:[a,b]\to \mathbb{R}$ hvor $[a,b]\subset \mathbb{R}$ vil billedmængden $f([a,b])$... :: indeholde alle tal mellem $f(a)$ og $f(b)$.
+
+### Korollar 3.25
+Et hvert interval I's billedmængde $f(I)$ er... :: Også et interval, så længe at billedet er bijektivt.
+
+For enhver funktion som er strengt voksende, som har et interval som billedmængde... :: Er der en invers funktion $f^{-1}$ af funktionen $f$, som har billedmængden af f's interval. [^5]
+
+
+
 
 # §3.5 Tredje Hovedsætning
 
@@ -36,3 +45,4 @@ For en kontinuert funktion $f:[a,b]\to \mathbb{R}$ hvor $[a,b]\subset \mathbb{R}
 [^2]: Hvis b er et overtal for A, så er $sup(A)\leq b$.
 [^3]: Hvis b er et undertal for A, så er $b \leq inf(A)$.
 [^4]: Hvor afbildningen $f:A \to \mathbb{R}$ hvor $A \subset \mathbb{R}^{k}$.
+[^5]: Tag fx exp og log, eller kvadratroden til x og x^2.
