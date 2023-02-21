@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df8096164660f958",
+        "id": "141dc4c4d75e81e2",
         "type": "tabs",
         "children": [
           {
-            "id": "393242d27665358b",
+            "id": "39ad48edc1c57236",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,8 +168,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "393242d27665358b",
+  "active": "39ad48edc1c57236",
   "lastOpenFiles": [
+    "Kurser/Analyse 0/Opgave 1.md",
+    "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
     "Kurser/Data & Projekt/Errors.md",
     "conflict-files-obsidian-git.md",
     "Kurser/Data & Projekt/Theoretical Distributions.md",
@@ -177,8 +179,6 @@
     "Kurser/Data & Projekt/Projekt.md",
     "Kurser/Data & Projekt/Probability & Confidence.md",
     "Kurser/Analyse 0/Kontinuitet.md",
-    "Kurser/Analyse 0/Grænseovergang.md",
-    "Kurser/Analyse 0/Guide til An0.md",
-    "Kurser/Analyse 0/Funktioner af Flere Variable.md"
+    "Kurser/Analyse 0/Grænseovergang.md"
   ]
 }

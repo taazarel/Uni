@@ -78,3 +78,9 @@ Hvis $x >0$ så er $e^{x}-e^{-x}<0$, da vi ved at exp er voksende, og $-x <x$.
 Det eneste sted at $\sinh(x)=0$ er når $e^{x}=e^{-x}$. Derfor må dette være i $x=0$. Vi prøver $\sinh(0)=\frac{1}{2}(e^{0}-e^{0})=0$.
 
 Vi har herved bevist at $\sinh(x) < 0$ ved $x <0$, $\sinh(x) >0$ ved $x >0$ og $\sinh(x)=0$ når $x=0$. 
+
+# Opgave 2
+$$|f(x)-1|=|\sqrt{1+x}-1|=| \frac{\sqrt{1+x}-1}{\sqrt{1+x}+1}(\sqrt{1+x}+1)| = | \frac{x}{\sqrt{1+x}+1}|$$
+Fordi at nævneren altid vil være større end eller lig med 1, da kvadratroden ikke kan blive negativ, og der står +1, så vil følgende være sandt:
+$$| \frac{x}{\sqrt{1+x}+1}| \leq |x| = |x-0| < \epsilon = \delta $$
+Altså kan vi vælge $\delta = \epsilon$ for $x \in [-1,\infty)$.
