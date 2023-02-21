@@ -13,6 +13,8 @@ Kontinuitetsaksiomet siger at... :: enhver opadbegrænset mængde har et supremu
 Det største undertal hedder infimum af mængden. Det skrives som... :: $\forall x \in A: x \geq inf(A)$.[^3]
 <!--SR:!2023-02-23,4,270-->
 
+En global kontinuert funktion bliver defineret som... :: $\forall \vec{a}>0\space \forall \epsilon >0\space \exists \delta >0:\space ||f(x)-f(a)||<\epsilon$ for alle $x \in A$ med $||x-a||<\delta$.[^4]
+
 ### Ruselemmaet
 Lad $[a_{1},b_{1}]\supset [a_{2},b_{2}]\supset...$ være en følge af intervaller i $\mathbb{R}$ hvor hvert interval er $b_{n+1}-a_{n+1}= \frac{b_{n}-a_{n}}{2}$ for alle $n \in \mathbb{N}$. Siger ruselemmaet at... :: der findes præcist ét tal som indgår i alle mængderne. $\xi \in [a_{n},b_{n}]$.
 <!--SR:!2023-02-22,3,250-->
@@ -22,6 +24,10 @@ Lad $[a_{1},b_{1}]\supset [a_{2},b_{2}]\supset...$ være en følge af intervalle
 En funktion som er defineret på et afsluttet og begrænset interval $f:[a,b]\to \mathbb{R}, [a,b]\in \mathbb{R}$. Har... :: en mindste og størsteværdi, og er også begrænset.
 <!--SR:!2023-02-23,4,270-->
 
+# §3.4 Anden Hovedsætning
+
+
+# §3.5 Tredje Hovedsætning
 
 
 
@@ -29,3 +35,4 @@ En funktion som er defineret på et afsluttet og begrænset interval $f:[a,b]\to
 [^1]: Herfra kan vi beskrive $||f(x)-f(a)|| = ||\triangle f||$ og $||x-a||=||\triangle x||$. Og som $\triangle x \to 0$ så $\triangle f \to 0$. (Nu kan vi også se at ved meget små forskelle bliver $\triangle x \to  dx$ og $\triangle f \to df$).
 [^2]: Hvis b er et overtal for A, så er $sup(A)\leq b$.
 [^3]: Hvis b er et undertal for A, så er $b \leq inf(A)$.
+[^4]: Hvor afbildningen $f:A \to \mathbb{R}$ hvor $A \subset \mathbb{R}^{k}$.
