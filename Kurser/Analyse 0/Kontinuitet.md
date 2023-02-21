@@ -25,7 +25,7 @@ En funktion som er defineret på et afsluttet og begrænset interval $f:[a,b]\to
 <!--SR:!2023-02-23,4,270-->
 
 # §3.4 Anden Hovedsætning
-
+For en kontinuert funktion $f:[a,b]\to \mathbb{R}$ hvor $[a,b]\subset \mathbb{R}$ vil billedmængden $f([a,b])$... :: indeholde alle tal mellem $f(a)$ og $f(b)$.
 
 # §3.5 Tredje Hovedsætning
 
