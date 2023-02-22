@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/Analyse 0/Kontinuitet.md",
+                "file": "Kurser/Data & Projekt/Describing the Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kritisk",
+                "query": "correlation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "f67102a27132052b",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Analyse 0/Kontinuitet.md",
+                "file": "Kurser/Data & Projekt/Describing the Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Analyse 0/Kontinuitet.md"
+                "file": "Kurser/Data & Projekt/Describing the Data.md"
               }
             }
           }
@@ -177,6 +177,7 @@
   },
   "active": "39ad48edc1c57236",
   "lastOpenFiles": [
+    "Kurser/Analyse 0/Kontinuitet.md",
     "Kurser/Analyse 0/Opgave 1.md",
     "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
     "Kurser/Data & Projekt/Errors.md",
@@ -185,7 +186,6 @@
     "Kurser/Data & Projekt/Describing the Data.md",
     "Kurser/Data & Projekt/Projekt.md",
     "Kurser/Data & Projekt/Probability & Confidence.md",
-    "Kurser/Analyse 0/Kontinuitet.md",
     "Kurser/Analyse 0/Grænseovergang.md"
   ]
 }
