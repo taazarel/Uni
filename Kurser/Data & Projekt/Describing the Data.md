@@ -11,6 +11,5 @@ Correlation er endnu bedre end covariansen til at bestemme sammenhæng mellem da
 <!--SR:!2023-02-18,4,270-->
 
 
-
 [^1]: Antallet af punkter som er indenfor spredningen er ca 68% $P(|\vec{x}-x_{j}|<\sigma )=0.68$
 [^2]: Dette giver et tal mellem 1 og -1.
