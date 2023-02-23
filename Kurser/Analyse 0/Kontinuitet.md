@@ -40,6 +40,9 @@ En uniform kontinuert funktion er... :: En stærkere definition på kontinuitet,
 ## Definition 3.36 (Lipschitz afbildninger)
 En afbildning $f: A \to \mathbb{R}^{m}$ af en mængde $A \subset \mathbb{R}^{k}$ er "Lipschitz", hvis der findes en konstant K[^7] så... :: $||f(y)-f(x)||\leq K||x-y|| \text{ for alle }x,y \in A$.[^6]
 
+## Hovedsætning 3
+Enhver kontinuert funktion på et afsluttet og begrænset interval er... :: automatisk også Uniform kontinuert.
+
 
 
 [^1]: Herfra kan vi beskrive $||f(x)-f(a)|| = ||\triangle f||$ og $||x-a||=||\triangle x||$. Og som $\triangle x \to 0$ så $\triangle f \to 0$. (Nu kan vi også se at ved meget små forskelle bliver $\triangle x \to  dx$ og $\triangle f \to df$).
