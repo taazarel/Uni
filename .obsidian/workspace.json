@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/Data & Projekt/Theoretical Distributions.md",
+                "file": "Kurser/Analyse 0/Kontinuitet.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "f67102a27132052b",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Data & Projekt/Theoretical Distributions.md",
+                "file": "Kurser/Analyse 0/Kontinuitet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Data & Projekt/Theoretical Distributions.md"
+                "file": "Kurser/Analyse 0/Kontinuitet.md"
               }
             }
           }
@@ -176,6 +177,7 @@
   },
   "active": "2c7e9edec0b392a2",
   "lastOpenFiles": [
+    "Kurser/Data & Projekt/Theoretical Distributions.md",
     "Kurser/Data & Projekt/Probability & Confidence.md",
     "Kurser/Data & Projekt/Describing the Data.md",
     "Kurser/Analyse 0/Kontinuitet.md",
@@ -183,7 +185,6 @@
     "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
     "Kurser/Data & Projekt/Errors.md",
     "conflict-files-obsidian-git.md",
-    "Kurser/Data & Projekt/Theoretical Distributions.md",
     "Kurser/Data & Projekt/Projekt.md",
     "Kurser/Analyse 0/Grænseovergang.md"
   ]

@@ -34,10 +34,11 @@ Et hvert interval I's billedmængde $f(I)$ er... :: Også et interval, så læng
 For enhver funktion som er strengt voksende, som har et interval som billedmængde... :: Er der en invers funktion $f^{-1}$ af funktionen $f$, som har billedmængden af f's interval. [^5]
 
 
-
-
 # §3.5 Tredje Hovedsætning
-
+## Definition 3.33 (Uniform Kontinuitet)
+En uniform kontinuert funktion er... :: En stærkere definition på kontinuitet, hvor $\delta$ kun er afhængig af $\epsilon$ og ikke x. Vi kan skrive $$\forall \epsilon > 0 \space \exists \delta>0\space : ||f(\vec{y})-f(\vec{x})||<\epsilon \text{ for } x,y \in A\space ||y-x||<\delta$$
+## Definition 3.36 (Lipschitz afbildninger)
+En afbildning $f: A \to \mathbb{R}^{m}$ af en mængde $A \subset \mathbb{R}^{k}$ er "Lipschitz", hvis der findes en konstant K[^7] så... :: $||f(y)-f(x)||\leq K||x-y|| \text{ for alle }x,y \in A$.[^6]
 
 
 
@@ -46,3 +47,5 @@ For enhver funktion som er strengt voksende, som har et interval som billedmæng
 [^3]: Hvis b er et undertal for A, så er $b \leq inf(A)$.
 [^4]: Hvor afbildningen $f:A \to \mathbb{R}$ hvor $A \subset \mathbb{R}^{k}$.
 [^5]: Tag fx exp og log, eller kvadratroden til x og x^2.
+[^6]: Vi kan her se at denne altid må være uniform kontinuert.
+[^7]: Kaldes også en "Lipschitz konstant"
