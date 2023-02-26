@@ -18,7 +18,7 @@ Der er en række kriterier som skal opnåes før vi kan få en sikker gevinst.[^
 
 ## Definition 2.1 (Grænseværdi 1D)
 Lad $f : I \backslash \{ a\}\to \mathbb{R}$ hvor $a \in I$ er et indre punkt i intervallet I, og lad $b \in \mathbb{R}$. Hvis det gælder at $\forall \epsilon > 0 \space\exists \delta >0$ : $|f(x)-b| < \epsilon$ for alle $x \in I \backslash \{ a\}$ med $|x-a|< \delta$. Så vil f have b som "grænseværdi" i "grænseovergangen" $x \to a$ og dette skrives som... ::: $f(x)\to b$ for $x \to a$
-<!--SR:!2023-02-23,4,270-->
+<!--SR:!2023-02-23,4,270!2023-02-26,4,277-->
 
 # §2.3 Grænseovergang i flere dimensioner
 ## Definition 2.15 (Grænseværdi i flere dimensioner)
@@ -40,7 +40,7 @@ Når $x \to \infty$ så skal vi bruge en ny definition med hjælp fra $0 < K$, h
 <!--SR:!2023-02-23,4,270-->
 
 Når $f(x)\to \infty$ så kan vi bruge tallet $M>0$ til at definere grænseværdien i punktet a... :: $\forall M > 0 \space \exists \delta > 0: f(x) > M$ for alle $x \in A$ med $||x-a|| < \delta$ Hvis vi har at $f(x)\to - \infty$ så får vi. $\forall M > 0 \space \exists \delta > 0: f(x)< -M$.
-<!--SR:!2023-02-20,1,230-->
+<!--SR:!2023-02-26,4,230-->
 
 ## Definition (Epsilonfunktioner)
 En epsilon funktion er en funktion hvis... :: $f(x)\to 0$ for $x \to a, x \in A$.[^2]
@@ -49,9 +49,9 @@ En epsilon funktion er en funktion hvis... :: $f(x)\to 0$ for $x \to a, x \in A$
 # §2.6 Størrelsesordener
 ### Lille-o og store-O
 Vi definerer at $f = o(g)$[^4] ved $x \to a, x \in A$ hvis der findes en epsilon funktion $\epsilon (x)$ så... :: $f(x)=||g(x)||\epsilon (x) \Rightarrow \frac{f(x)}{||g(x)||}=\epsilon (x) \to 0$ ved $x \to a$.
-<!--SR:!2023-02-22,3,250-->
+<!--SR:!2023-03-05,11,270-->
 Vi definerer at $f = O(g)$[^3] ved $x \to a,x \in A$ hvis der findes $K > 0$ så... :: $||f(x)||\leq K||g(x)|| \Rightarrow \frac{||f(x)||}{||g(x)||} \leq K$
-<!--SR:!2023-02-22,3,250-->
+<!--SR:!2023-03-03,9,270-->
 
 
 

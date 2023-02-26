@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac5844a77fe26983",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +185,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c7e9edec0b392a2",
+  "active": "ac5844a77fe26983",
   "lastOpenFiles": [
     "Kurser/Data & Projekt/Probability & Confidence.md",
     "Kurser/Data & Projekt/Describing the Data.md",

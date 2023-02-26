@@ -14,6 +14,7 @@ Det største undertal hedder infimum af mængden. Det skrives som... :: $\forall
 <!--SR:!2023-02-23,4,270-->
 
 En global kontinuert funktion bliver defineret som... :: $\forall \vec{a}>0\space \forall \epsilon >0\space \exists \delta >0:\space ||f(x)-f(a)||<\epsilon$ for alle $x \in A$ med $||x-a||<\delta$.[^4]
+<!--SR:!2023-02-26,4,276-->
 
 ### Ruselemmaet
 Lad $[a_{1},b_{1}]\supset [a_{2},b_{2}]\supset...$ være en følge af intervaller i $\mathbb{R}$ hvor hvert interval er $b_{n+1}-a_{n+1}= \frac{b_{n}-a_{n}}{2}$ for alle $n \in \mathbb{N}$. Siger ruselemmaet at... :: der findes præcist ét tal som indgår i alle mængderne. $\xi \in [a_{n},b_{n}]$.
@@ -27,11 +28,14 @@ En funktion som er defineret på et afsluttet og begrænset interval $f:[a,b]\to
 # §3.4 Anden Hovedsætning
 ## Skæringssætningen
 For en kontinuert funktion $f:[a,b]\to \mathbb{R}$ hvor $[a,b]\subset \mathbb{R}$ vil billedmængden $f([a,b])$... :: indeholde alle tal mellem $f(a)$ og $f(b)$.
+<!--SR:!2023-02-25,3,256-->
 
 ### Korollar 3.25
 Et hvert interval I's billedmængde $f(I)$ er... :: Også et interval, så længe at billedet er bijektivt.
+<!--SR:!2023-02-26,4,276-->
 
 For enhver funktion som er strengt voksende, som har et interval som billedmængde... :: Er der en invers funktion $f^{-1}$ af funktionen $f$, som har billedmængden af f's interval. [^5]
+<!--SR:!2023-02-26,4,276-->
 
 
 
