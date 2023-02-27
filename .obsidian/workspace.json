@@ -90,18 +90,18 @@
             }
           },
           {
-            "id": "4a5765a8570810be",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "8a452e5d2c06974b",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7067bdea0e0771b2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
@@ -169,16 +169,16 @@
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-dangling-links:Show dangling links panel": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "d0858257bc4acb27",
   "lastOpenFiles": [
-    "Assets/Excalidraw/Estimators 2023-02-27 13.15.19.excalidraw.md",
     "Kurser/Data & Projekt/Estimators.md",
+    "Assets/Excalidraw/Estimators 2023-02-27 13.15.19.excalidraw.md",
     "Differentiabilitet i én variabel.md",
     "Kurser/Analyse 0/Kontinuitet.md",
     "Kurser/Data & Projekt/Theoretical Distributions.md",
