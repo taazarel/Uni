@@ -171,9 +171,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "d0858257bc4acb27",
