@@ -2,10 +2,12 @@
 # §4.1 Differentiabilitet i et punkt
 ## Definition
 En funktion $f:I \subset \mathbb{R} \to \mathbb{R}^{m}$ er differentiabel i $a \in I$ med differentialkvotient $f'(a) = c$, hvis... :: $$\frac{f(x)-f(a)}{x-a}\to c \text{ for }x \to a, \space x \in I \Rightarrow \frac{\Delta f}{\Delta x} \to c$$. Her skrives $\Delta f = f(x)-f(a)=f(a+\Delta x)-f(a)$ og $\Delta x = x-a$.[^1]
+<!--SR:!2023-03-01,1,230-->
 
 # §4.2 Middelværdisætningen
 ## Rolles sætning
 Givet en differentiabel funktion som er differentiabel i $x \in (a,b)$ hvis vi så har $f(a)=0, f(b) = 0$. Findes... :: et punkt $\xi \in (a,b)$ så $f'(\xi)=0$. Altså må der være et sted hvor f antager middelværdien.
+<!--SR:!2023-03-04,4,270-->
 
 ## Middelværdisætningen
 Givet en differentierbar funktion f i $x \in (a,b)$ så findes et punkt $\xi \in (a,b)$ der gør at vi kan finde... :: $f'(\xi )= \frac{f(b)-f(a)}{b-a}$. Hvilket betyder at der skal være mindst ét punkt som har den samme værdi som hældningen fra a til b.
@@ -15,9 +17,11 @@ Givet en differentierbar funktion f i $x \in (a,b)$ så findes et punkt $\xi \in
 ## Højere ordens differentiablilitet
 ### $C^{1}$ definition.
 En funktion er c1 hvis den... :: er differentiabel i hvert punkt på sit domæne og hvis $f'$ er kontinuert.
+<!--SR:!2023-03-04,4,270-->
 
 ## Definition 4.24
 For en n gange differentiabel funktion $f: I \to \mathbb{R}$ og et givet punkt $a \in I$. Så kaldes følgen af alle de differentierede... :: Taylorpolynomiet og skrives som $$P_{n}(x)=f(a) + \frac{f'(a)}{1!}(x-a) +...+ \frac{f^{n}(a)}{n!}(x-a)^{n} = \sum_{i=0}^{n} \frac{f^{i}(a)}{i!}(x-a)^{i}$$[^2]
+<!--SR:!2023-03-04,4,270-->
 ## Udvidet Rolles Sætning (4.28)
 Vi har funktionen $g: I \to \mathbb{R}$ som er n gange differentiabel i $I \subset \mathbb{R}$. Vi har to punkter $a,b \in I, \space a \neq b$. Når $g(a)=g'(a)=...=g^{n-1}(a)=g(b)=0$ Siger Rolles udvidede sætning... :: der findes et tal $\xi$ mellem a og b hvor $g^{n}(\xi ) = 0$. 
 <!--SR:!2023-03-04,4,270-->
