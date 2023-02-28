@@ -39,6 +39,7 @@ $\left(\frac{df}{dx}\right)^{2}V(x)$
 ## Two or more variables
 ## The law of combination of errors
 If $f$ is a function of more than one variable, and is linear $f(x,y)=ax+by+c$. Given the independency of these variables, then the error becomes a combination of the variables written as... :: $$V(f)= \left(\frac{df}{dx}\right)^{2}V(x)+\left(\frac{df}{dy}\right)^{2}V(y)$$[^3]
+<!--SR:!2023-03-04,4,270-->
 
 
 [^1]: Dette er altså gennemsnittet af gennemsnittet.

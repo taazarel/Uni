@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe023e4008c94791",
+        "id": "a7035aebac64ba68",
         "type": "tabs",
         "children": [
           {
-            "id": "d0858257bc4acb27",
+            "id": "cbe5d5b4bed7d3b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kurser/Analyse 0/Differentiabilitet i én variabel.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Analyse 0/Differentiabilitet i én variabel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kurser/Analyse 0/Differentiabilitet i én variabel.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -176,11 +168,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d0858257bc4acb27",
+  "active": "cbe5d5b4bed7d3b8",
   "lastOpenFiles": [
     "Kurser/Data & Projekt/Estimators.md",
-    "Assets/Excalidraw/Estimators 2023-02-27 13.15.19.excalidraw.md",
     "Kurser/Analyse 0/Differentiabilitet i én variabel.md",
+    "Assets/Excalidraw/Estimators 2023-02-27 13.15.19.excalidraw.md",
     "Kurser/Analyse 0/Kontinuitet.md",
     "Kurser/Data & Projekt/Theoretical Distributions.md",
     "Kurser/Data & Projekt/Probability & Confidence.md",

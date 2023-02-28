@@ -7,7 +7,7 @@ Givet to ortpgonale/vinkelrette vektorer $\vec{x}\cdot \vec{y}=0$ så vil $||x \
 ### Cauchy-Schwarz ulighed
 For to vektorer $\vec{x},\vec{y}\in \mathbb{R}^{k}$ kan vi opsætte en ulighed, selvom vi ikke normalt må gøre dette. Den skrives som... :: $|x \cdot y| \leq ||x|| \space ||y||$.
 <!--SR:!2023-03-05,11,270-->
-Trekants uligheden findes gennem Cauchy-Scwarz uligheden og skrives... :: $||x + y|| = ||x|| + ||y||$
+Trekants uligheden findes gennem Cauchy-Scwarz uligheden og skrives... :: $||x + y|| \leq ||x|| + ||y||$
 <!--SR:!2023-02-23,4,270-->
 Den omvendte trekantsulighed er... :: $|||x|| - ||y||| \leq ||x-y||$  
 <!--SR:!2023-02-28,6,230-->
