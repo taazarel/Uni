@@ -21,6 +21,7 @@ Estimating $\sigma$ has two useful answers... :: $\sigma_{\sigma} = \frac{\sigma
 
 # §5.3 Maximum likelihood
 For a data sample, the maximum likelihood for an estimator is... :: the maximum for equation (5.1) which is $L(x_{1},...,x_{n}) = \Pi P(x_{i}, a)$.[^2] This value is called ML.
+<!--SR:!2023-03-04,4,270-->
 
 
 

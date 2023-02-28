@@ -21,7 +21,9 @@ $V(\vec{x})=\frac{1}{N^{2}}\sum V_{i}= \frac{\sigma^{2}}{N}$. (4.6)[^2]
 
 ## Averaging Weighted Measurements
 The generalised weight given to a result is proportional to the inverse square of the resolution... :: $\vec{x}=\frac{\sum\frac{x_{i}}{\sigma_{i}^{2}}}{\sum \frac{1}{\sigma_{i}^{2}}}$.
+<!--SR:!2023-03-03,3,250-->
 The variance becomes this when weighted... :: $V(\vec{x})= \frac{1}{\sum \frac{1}{\sigma_{i}^{2}}}$.
+<!--SR:!2023-03-04,4,270-->
 
 # 4.3 Combination of Errors
 ## One variable
