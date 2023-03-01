@@ -28,7 +28,10 @@ Estimating $\sigma$ gives us two answers, one for when we know the model, and on
 For a data sample, the maximum likelihood for an estimator is... :: the maximum for equation (5.1) which is $L(x_{1},...,x_{n}) = \Pi P(x_{i}, a)$.[^2] This value is called ML.
 <!--SR:!2023-03-04,4,270-->
 
+Vi kan finde det mest optimale $\chi ^{2}$ ved at minimere... :: det frie udtryk når vi tager ML. Ved gauss distribution bliver det $\chi ^{2} = \sum_{j=1}^{N} \frac{(x_{j}-\hat \mu)^{2}}{\sigma^{2}}$.[^3] Men helt generelt bliver det $\chi^{2} = \frac{1}{\sigma^{2}} \sum^{N}_{j=1} [\text{måling_{i}} - [\text{model}]]$
+
 
 
 [^1]: Remember the variance of this mean. This mean is consistent and unbiased.
 [^2]: It is usually easier to find the maximum of the log of L.
+[^3]: Her bliver $\langle \chi ^{2} \rangle = N$, $V(\chi ^{2})=2N$, $\sigma_{\chi^{2}}= \sqrt{2N}$.
