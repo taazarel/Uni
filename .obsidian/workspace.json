@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "057a96a8f4a44764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/Data & Projekt/Least Squares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Data & Projekt/Estimators.md",
+                "file": "Kurser/Data & Projekt/Least Squares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Data & Projekt/Estimators.md"
+                "file": "Kurser/Data & Projekt/Least Squares.md"
               }
             }
           }
@@ -176,10 +189,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cbe5d5b4bed7d3b8",
+  "active": "057a96a8f4a44764",
   "lastOpenFiles": [
-    "Kurser/Data & Projekt/Errors.md",
     "Kurser/Data & Projekt/Estimators.md",
+    "Kurser/Data & Projekt/Least Squares.md",
+    "Kurser/Data & Projekt/Errors.md",
     "Kurser/Analyse 0/Differentiabilitet i én variabel.md",
     "Assets/Excalidraw/Estimators 2023-02-27 13.15.19.excalidraw.md",
     "Kurser/Analyse 0/Kontinuitet.md",
