@@ -7,9 +7,14 @@ For at finde det mindste $\chi ^{2}$ kan vi blot... :: differentiere til estimat
 
 # §6.6 Linear Least Squares and Matrices
 
-$$\sum_{i=1}^{N}\sum_{j=1}^{N} [y_{i}-f(x_{i})]$$
+A linear Least Square describes... :: a model in which the parametres are linear. This can be written as. $$\sum_{i=1}^{N}\sum_{j=1}^{N} [y_{i}-f(x_{i}:\vec{a})]V_{ij}^{-1}[y_{j}-f(x_{j}:\vec{a})]$$$$\Rightarrow \chi ^{2} = (\vec{y'}-\vec{f'})\vec{V}^{-1}(\vec{y}-\vec{f})$$ (6.20)[^3]
 
 # §6.7 Non-linear Least Squares
 
+For non-linear least squares we can find the answer by... :: an **iterative**[^4] approach. Given a first guess we find the gradient and look for static points.
+
+
 [^1]:Her bliver $\langle \chi ^{2} \rangle = N$, $V(\chi ^{2})=2N$, $\sigma_{\chi^{2}}= \sqrt{2N}$.
 [^2]: Hvor data normalt skrives som $y_{j}$ og modellen $x_{j}$.
+[^3]: hvor ' betyder at det er en invers vektor/matrix.
+[^4]: The method is often the "Leuwenberg-Morquordt algrorithm/interpolation".
