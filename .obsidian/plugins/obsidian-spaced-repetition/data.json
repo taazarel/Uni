@@ -26,7 +26,10 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "/Assets"
+      "/Assets;",
+      "/Hjælpemidler;",
+      "/Kurser/MekRel;",
+      "/Kurser/LinAlys;"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
@@ -43,7 +46,7 @@
     "singlelineCardSeparator": "::",
     "singlelineReversedCardSeparator": ":::"
   },
-  "buryDate": "2023-03-01",
+  "buryDate": "2023-03-02",
   "buryList": [],
   "historyDeck": "Analyse 0"
 }
