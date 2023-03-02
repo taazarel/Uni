@@ -8,4 +8,8 @@ Trekantsuligheden for integraler siger at... :: Den absolutte værdi for integra
 
 ## Indskudsreglen sætning 5.11
 Hvis f er integrabel over to intervaller som overlapper vil f... :: også være integrabel over hele intervallet. $$\int_{a}^{b}f(x)dx = \int_{a}^{c} f(x)dx + \int_{c}^{b} f(x)dx$$
+## Bolzano-egenskaben
+En funktion har Bolzano-egenskaben hvis... :: $\forall \epsilon >0 \exists \delta >0:$ $$|\sum_{i=1}^{n}f(\xi_{i})\Delta x_{i} - \sum_{j=1}^{m}f(\eta_{j})\Delta y_{j}| < \epsilon $$ har en $finhed(D)<\delta$ og $finhed(D')<\delta$. [^1]
 
+
+[^1]: Denne bolzano egenskab er essentielt det samme som riemann integrabilitet. Hvis en funktion har bolzano egenskaben er den altid også riemann integrabel, og vice versa.
