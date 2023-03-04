@@ -7,12 +7,11 @@
       "#flashcards"
     ],
     "convertFoldersToDecks": true,
-    "cardCommentOnSameLine": false,
+    "cardCommentOnSameLine": true,
     "burySiblingCards": true,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 80,
-    "showFileNameInFileLink": true,
     "randomizeCardOrder": true,
     "convertHighlightsToClozes": false,
     "convertBoldTextToClozes": false,
@@ -21,12 +20,16 @@
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
+    "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "/Assets"
+      "/Assets;",
+      "/Hjælpemidler;",
+      "/Kurser/MekRel;",
+      "/Kurser/LinAlys;"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
@@ -39,33 +42,11 @@
     "maximumInterval": 36525,
     "maxLinkFactor": 1,
     "showDebugMessages": false,
+    "showFileNameInFileLink": true,
     "singlelineCardSeparator": "::",
     "singlelineReversedCardSeparator": ":::"
   },
-  "buryDate": "2023-02-22",
-  "buryList": [
-    "f0d6577104ce1",
-    "173f28d920ea3d",
-    "1b8a85112d9511",
-    "73a6017334eae",
-    "17e4281242e3bc",
-    "db01c3ac48eea",
-    "5b7d17dd01c6b",
-    "7d79cf7027e4a",
-    "1a075cf741a04d",
-    "1d5a272551ba52",
-    "87bc574af4d91",
-    "124a84a1d51a66",
-    "1c1c5eaf6f5cd4",
-    "16e69a909909b5",
-    "2ac1a9dbd98d7",
-    "b670e17ec293c",
-    "30387ae26239d",
-    "11c38e529e891d",
-    "285b71f3d98d9",
-    "1d5d2f07a4a398",
-    "176edbdca3c88",
-    "d1c60ee4ee32e"
-  ],
+  "buryDate": "2023-03-02",
+  "buryList": [],
   "historyDeck": "Analyse 0"
 }

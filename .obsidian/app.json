@@ -18,5 +18,6 @@
     "downscalePercent": 100
   },
   "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }

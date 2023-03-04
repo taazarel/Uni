@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ac5844a77fe26983",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +174,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac5844a77fe26983",
+  "active": "2c7e9edec0b392a2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Kurser/Data & Projekt/Theoretical Distributions.md",
     "Differentiabilitet i én variabel.md",
     "Kurser/Data & Projekt/Probability & Confidence.md",
     "Kurser/Data & Projekt/Describing the Data.md",
@@ -194,8 +185,6 @@
     "Kurser/Analyse 0/Opgave 1.md",
     "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
     "Kurser/Data & Projekt/Errors.md",
-    "conflict-files-obsidian-git.md",
-    "Kurser/Data & Projekt/Theoretical Distributions.md",
     "Kurser/Data & Projekt/Projekt.md",
     "Kurser/Analyse 0/Grænseovergang.md"
   ]

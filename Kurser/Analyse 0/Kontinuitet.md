@@ -41,11 +41,14 @@ For enhver funktion som er strengt voksende, som har et interval som billedmæng
 # §3.5 Tredje Hovedsætning
 ## Definition 3.33 (Uniform Kontinuitet)
 En uniform kontinuert funktion er... :: En stærkere definition på kontinuitet, hvor $\delta$ kun er afhængig af $\epsilon$ og ikke x. Vi kan skrive $$\forall \epsilon > 0 \space \exists \delta>0\space : ||f(\vec{y})-f(\vec{x})||<\epsilon \text{ for } x,y \in A\space ||y-x||<\delta$$
+<!--SR:!2023-03-04,4,279-->
 ## Definition 3.36 (Lipschitz afbildninger)
 En afbildning $f: A \to \mathbb{R}^{m}$ af en mængde $A \subset \mathbb{R}^{k}$ er "Lipschitz", hvis der findes en konstant K[^7] så... :: $||f(y)-f(x)||\leq K||x-y|| \text{ for alle }x,y \in A$.[^6]
+<!--SR:!2023-03-03,3,259-->
 
 ## Hovedsætning 3
 Enhver kontinuert funktion på et afsluttet og begrænset interval er... :: automatisk også Uniform kontinuert.
+<!--SR:!2023-03-04,4,279-->
 
 
 

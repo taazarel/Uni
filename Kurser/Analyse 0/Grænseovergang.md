@@ -33,7 +33,7 @@ Lad $f = (f_1,...,f_{m}):A\to \mathbb{R}^{m}$ være en afbildning defineret på 
 
 # §2.5 Variationer af grænseværdibegrebet 1D
 ## Definition (Etsidede grænser)
-Lad $I \subset \mathbb{R}$ være vore interval. $f:I \to \mathbb{R}^{m}$ og $a \in I$. Hvis vi er givet et epsilon kan vi finde to grænser, nemlig... :: $f(x)\to \vec{b}$ for $x \to a^{+}$ hvilket betyder at man går mod a fra den højre side. Vi definerer $x \in (a, a+\delta)$. Vi finder også $f(x)\to \vec{c}$ for $x \to a^{-}$, fra den venstre side, x bliver $x \in (a- \delta, a)$.
+Lad $I \subset \mathbb{R}$ være vor interval. $f:I \to \mathbb{R}^{m}$ og $a \in I$. Hvis vi er givet et epsilon kan vi finde to grænser, nemlig... :: $f(x)\to \vec{b}$ for $x \to a^{+}$ hvilket betyder at man går mod a fra den højre side. Vi definerer $x \in (a, a+\delta)$. Vi finder også $f(x)\to \vec{c}$ for $x \to a^{-}$, fra den venstre side, x bliver $x \in (a- \delta, a)$.
 <!--SR:!2023-02-23,4,270-->
 
 Når $x \to \infty$ så skal vi bruge en ny definition med hjælp fra $0 < K$, hvilket er et meget stort tal. Vi definerer... :: $f(x)\to b$ for $x \to \infty$ hvis $\forall \epsilon > 0\space \exists K > 0: ||f(x)-b||<\epsilon$ for alle $x \in A$ hvor $x > K$.
