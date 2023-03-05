@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a59018f2d8cf8e66",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-dangling-links:Show dangling links panel": false,
       "templater-obsidian:Templater": false,
       "graph:Open graph view": false,
@@ -171,11 +183,10 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "dc6df0fc1b5a6edf",
+  "active": "a59018f2d8cf8e66",
   "lastOpenFiles": [
     "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
     "Opgave 2.md",
