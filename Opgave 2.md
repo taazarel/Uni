@@ -36,6 +36,16 @@ Nu finder vi at dette er det samme som hvad står udenfor parantesen i $Q_{2}(\t
 Til sidst kan vi bevise dette forhold mere generelt gennem induktion.
 
 ## c
+Brug sammenhængen fundet fra (4.b) til at opskrive taylor polynomiet for 5 grad og omkring punktet 0.
+$$P_{5}(tan(x))=\tan{x}+ \frac{Q_{1}(\tan{x})}{1!}x + \frac{Q_{2}(\tan{x})}{2!}x^{2} + \frac{Q_{3}(\tan{x})}{3!}x^{3}+ \frac{Q_{4}(\tan{x})}{4!}x^{4}+ \frac{Q_{5}(\tan{x})}{5!}x^{5}$$
+$$Q_{1}(x)=1+x^{2}$$
+$$Q_{2}(x)=2x(1+x^{2}) = 2x+ 2x^{3}$$
+$$Q_{3}(x)=(2+6x^{2})(1+x^{2})=2+2x^{2}+6x^{2}+6x^{4}$$
+$$Q_{4}(x)=(16x + 24x^{3})(1+x^{2})=16x+24x^{3}+16x^{3}+24x^{5}$$
+$$Q_{5}=(16+120x^{2}+140x^{4})(1+x^{2})=16+136x^{2}+260x^{4}+140x^{6}
+$$$$=16+136x^{2}+260x^{4}+140x^{6}$$
+$P_{5}(\tan{x})=\tan{x}(1+(1+x^{2})x+(2x+2x^{3})x^{2}+(2+8x^{2}+6x^{4})x^{3}+())$
+## d
 
 
 # Opgave 5
