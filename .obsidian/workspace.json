@@ -131,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integralregning i én variabel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Integralregning i én variabel.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -189,6 +186,8 @@
   },
   "active": "260de645a9611038",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Opgave 2.md",
     "Integralregning i én variabel.md",
     "Kurser/Data & Projekt/Estimators.md",
     "Kurser/Data & Projekt/Least Squares.md",
@@ -201,7 +200,6 @@
     "Kurser/Data & Projekt/Describing the Data.md",
     "Kurser/Analyse 0/Opgave 1.md",
     "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Kurser/Data & Projekt/Projekt.md",
     "Kurser/Analyse 0/Grænseovergang.md"
   ]
