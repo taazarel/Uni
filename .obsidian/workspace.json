@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a59018f2d8cf8e66",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +175,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a59018f2d8cf8e66",
+  "active": "dc6df0fc1b5a6edf",
   "lastOpenFiles": [
     "Assets/Excalidraw/Opgave 1 2023-02-17 13.56.36.excalidraw.md",
     "Opgave 2.md",
