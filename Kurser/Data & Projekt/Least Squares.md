@@ -4,6 +4,9 @@
 Vi kan finde det mest optimale $\chi ^{2}$ ved at minimere... :: det frie udtryk når vi tager ML. Ved gauss distribution bliver det $\chi ^{2} = \sum_{j=1}^{N} \frac{(x_{j}-\hat \mu)^{2}}{\sigma^{2}}$. [^1]
 
 For at finde det mindste $\chi ^{2}$ kan vi blot... :: differentiere til estimatorene og sætte det lig nul $$\frac{d \chi ^{2}}{d\hat a}=0 \Leftrightarrow \frac{1}{\sigma^{2}}\sum_{j=1}^{N}\frac{df(x_{j}:\hat a)}{d\hat a}[y_{j} - f(x_{j}:\hat a)] = 0$$[^2]  
+# §6.4 The $\chi^{2}$ distribution
+For at finde ud af om sandsynligheden for at $\chi^{2}$ passer på modellen kan vi... :: opstille en distribution som viser sandsynligheden $$P(\chi^{2};n)= \frac{2^{\frac{-n}{2}}}{\Gamma(\frac{n}{2})}\chi^{n-2}e^{\frac{-\chi^{2}}{2}}$$ (6.18) Hvis $\chi ^{2}$ er meget lille er vores errors nok for store. [^5]
+
 
 # §6.6 Linear Least Squares and Matrices
 
@@ -18,3 +21,4 @@ For non-linear least squares we can find the answer by... :: an **iterative**[^4
 [^2]: Hvor data normalt skrives som $y_{j}$ og modellen $x_{j}$.
 [^3]: hvor ' betyder at det er en invers vektor/matrix.
 [^4]: The method is often the "Leuwenberg-Morquordt algrorithm/interpolation".
+[^5]: Gennemsnittet er n, og variansen 2n
