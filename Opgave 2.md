@@ -1,7 +1,15 @@
 #aflevering 
 # Opgave 1
+## a
+Givet er $x \in [0, \infty )$ hvorfra vi kan se på grænseovergangen ved $x \to \infty$. For at dette skal fungere må vi definere $K>0$ for dette interval. Vi finder altså $f:[0,K]\to \mathbb{R}$ må være Gyldigt, da K bare er et stort tal.
+Dette kan vi også gøre for den negative side, bortset fra at $K' < 0$. Så får vi $f:[K',0]\to \mathbb{R}$.
+Altså må f være kontinuert på nul da vi kan definere intervallet $[K', K]\subset \mathbb{R}$. Siden dette interval er både lukket og begrænset og at f er kontinuert på det, må f have uniform kontinuitet på intervallet. 
+Da intervallet indeholder nul, kan vi sammen med vores tidligere antagelser sige at f har uniform kontinuitet på hele $\mathbb{R}$.
 
-
+## b
+Vi er givet to grænseværdier for g(x) når $x \to \infty$ og når $x \to -\infty$. Hvis $x,y \geq K$ så vil vi kunne opstille et epsilon-budget da vi allerede ved at g(x) for de to grænseværdier er gyldige (mindre end et givet epsilon). Lad os sige at de er mindre end $\frac{\epsilon}{2}$ begge to. så finder vi:
+$$|g(x)-g(y)|< \frac{\epsilon}{2}+ \frac{\epsilon}{2}=\epsilon$$
+Ergo ligger $g(x)$ og $g(y)$ tættere på hinanden end et givet $\epsilon$, hvilket netop er definitionen for uniform kontinuitet (3.33). Og dette holder så længe $x,y \geq K$, fordi x og y ligger langt væk fra hinanden er vi nødt til at bruge $||K-K||<\delta$.
 # Opgave 2
 $$\sinh(x)' = f'(x) + g'(x) = \left(\frac{e^{x}}{2}\right)' + \left(\frac{-e^{-x}}{2}\right)' = \frac{e^{x}}{2} - \frac{e^{-x}}{2}(-1)$$
 $$= \frac{e^{x}+e^{-x}}{2}=\cosh(x)$$
