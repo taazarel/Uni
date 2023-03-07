@@ -16,6 +16,9 @@ Hvis en funktion er kontinuert... :: har den Bolzano egenskaben.
 ## Definition 5.28
 Givet en funktion på I så er dens stam... :: -funktion kontinuert på I og skrives $F'(x)=f(x)$.
 
+## Sætning 5.29 (Infinitesimalregningens hovedsætning)
+Lad $f:I \to \mathbb{R}$. Hvis f er kont. i alle punkter så har f en stamfunktion, nemlig... :: $\Phi (x)= \int_{x_{0}}^{x}f(y)dy$ for $x \in I$. Dette betyder altså at der er sammenhæng mellem stamfunktionen/integraler og differentialer.
+
 
 
 [^1]: Denne Bolzano egenskab er essentielt det samme som Riemann integrabilitet. Hvis en funktion har Bolzano egenskaben er den altid også Riemann integrabel, og vice versa.
