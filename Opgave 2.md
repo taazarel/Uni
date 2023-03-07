@@ -13,7 +13,10 @@ For $\tanh(x)'$ bruger vi både produkt og kædereglen.
 $$\tanh(x)' = \sinh(x)' \frac{1}{\cosh(x)} + \sinh(x) \left(\frac{1}{\cosh(x)}\right)'$$
 $$= \frac{\cosh(x)}{\cosh(x)} + \sinh(x) (-1)\left(\frac{1}{\cosh^{2}(x)}\right)\sinh(x)$$
 $$=1 - \frac{\sinh^{2}(x)}{\cosh^{2}(x)} = 1 - \tanh^{2}(x)$$
-
+Vi kan også skrive
+$$\frac{\cosh^{2}(x)-\sinh^{2}(x)}{\cosh^{2}(x)} $$
+Vi ved at $\cosh^2(x)-\sinh^2(x)=1$ så derfor bliver udtrykket
+$$\frac{1}{\cosh^{2}(x)}$$
 # Opgave 3
 
 
