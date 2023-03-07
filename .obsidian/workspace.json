@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94257d9a2bc9e51b",
+        "id": "53c01e231bffcf58",
         "type": "tabs",
         "children": [
           {
-            "id": "3969693b50a70a40",
+            "id": "8dfc3a682c8382c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taking descisions.md",
+                "file": "Kurser/Analyse 0/Integralregning i én variabel.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taking descisions.md",
+                "file": "Kurser/Analyse 0/Integralregning i én variabel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taking descisions.md"
+                "file": "Kurser/Analyse 0/Integralregning i én variabel.md"
               }
             }
           }
@@ -176,11 +176,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3969693b50a70a40",
+  "active": "8dfc3a682c8382c6",
   "lastOpenFiles": [
-    "Taking descisions.md",
+    "Kurser/Data & Projekt/Taking descisions.md",
     "Kurser/Data & Projekt/Least Squares.md",
-    "Integralregning i én variabel.md",
+    "Kurser/Analyse 0/Integralregning i én variabel.md",
     "conflict-files-obsidian-git.md",
     "Opgave 2.md",
     "Kurser/Data & Projekt/Estimators.md",
