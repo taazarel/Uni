@@ -8,7 +8,7 @@ Givet at summen X af N uafhængige variabler hver taget fra en distribution med 
 ?
 middelværdien af hele summen. $E(x)= E(\sum x_{i})=\sum E(x_{i})=\sum \mu_{i}$.
 $V(x)=\sum V_{i}=\sum \sigma^{2}$
-gaussian når $N \to \infty$.
+gaussian når $N \to \infty$. <!--SR:!2023-03-11,4,274-->
 
 # 4.2 Working with errors
 ## Repeated measurements
@@ -17,13 +17,13 @@ Gennemsnittet bliver...
 Variansen bliver...
 ?
 $\vec{x}= \frac{X}{N} \Rightarrow E(\vec{x})=\mu$.[^1] (4.5)
-$V(\vec{x})=\frac{1}{N^{2}}\sum V_{i}= \frac{\sigma^{2}}{N}$. (4.6)[^2]
+$V(\vec{x})=\frac{1}{N^{2}}\sum V_{i}= \frac{\sigma^{2}}{N}$. (4.6)[^2] <!--SR:!2023-03-11,4,274-->
 
 ## Averaging Weighted Measurements
 The generalised weight given to a result is proportional to the inverse square of the resolution... :: $\vec{x}=\frac{\sum\frac{x_{i}}{\sigma_{i}^{2}}}{\sum \frac{1}{\sigma_{i}^{2}}}$.
-<!--SR:!2023-03-03,3,250-->
+<!--SR:!2023-03-19,12,250-->
 The variance becomes this when weighted... :: $V(\vec{x})= \frac{1}{\sum \frac{1}{\sigma_{i}^{2}}}$.
-<!--SR:!2023-03-04,4,270-->
+<!--SR:!2023-03-21,14,270-->
 
 # 4.3 Combination of Errors
 ## One variable
@@ -34,12 +34,12 @@ Given $f(x)=ax+b$ is linear and of one variable, then
 ?
 $aE(x)+b$
 $a^{2}V(x)$
-$\left(\frac{df}{dx}\right)^{2}V(x)$
+$\left(\frac{df}{dx}\right)^{2}V(x)$ <!--SR:!2023-03-10,3,254-->
 
 ## Two or more variables
 ## The law of combination of errors
 If $f$ is a function of more than one variable, and is linear $f(x,y)=ax+by+c$. Given the independency of these variables, then the error becomes a combination of the variables written as... :: $$V(f)= \left(\frac{df}{dx}\right)^{2}V(x)+\left(\frac{df}{dy}\right)^{2}V(y)$$[^3]
-<!--SR:!2023-03-04,4,270-->
+<!--SR:!2023-04-04,28,290-->
 
 
 [^1]: Dette er altså gennemsnittet af gennemsnittet.

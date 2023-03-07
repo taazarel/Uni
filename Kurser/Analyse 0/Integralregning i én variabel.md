@@ -12,5 +12,10 @@ Hvis f er integrabel over to intervaller som overlapper vil f... :: også være 
 En funktion har Bolzano-egenskaben hvis... :: $\forall \epsilon >0 \exists \delta >0:$ $$|\sum_{i=1}^{n}f(\xi_{i})\Delta x_{i} - \sum_{j=1}^{m}f(\eta_{j})\Delta y_{j}| < \epsilon $$ har en $finhed(D)<\delta$ og $finhed(D')<\delta$. [^1]
 Hvis en funktion er kontinuert... :: har den Bolzano egenskaben.
 
+# §5.5 Stamfunktionsproblemet
+## Definition 5.28
+Givet en funktion på I så er dens stam... :: -funktion kontinuert på I og skrives $F'(x)=f(x)$.
+
+
 
 [^1]: Denne Bolzano egenskab er essentielt det samme som Riemann integrabilitet. Hvis en funktion har Bolzano egenskaben er den altid også Riemann integrabel, og vice versa.
