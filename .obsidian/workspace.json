@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/Analyse 0/Integralregning i én variabel.md",
+                "file": "Opgave 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Analyse 0/Integralregning i én variabel.md",
+                "file": "Opgave 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Analyse 0/Integralregning i én variabel.md"
+                "file": "Opgave 2.md"
               }
             }
           }
@@ -178,9 +178,9 @@
   },
   "active": "8dfc3a682c8382c6",
   "lastOpenFiles": [
+    "Kurser/Analyse 0/Integralregning i én variabel.md",
     "Kurser/Data & Projekt/Taking descisions.md",
     "Kurser/Data & Projekt/Least Squares.md",
-    "Kurser/Analyse 0/Integralregning i én variabel.md",
     "conflict-files-obsidian-git.md",
     "Opgave 2.md",
     "Kurser/Data & Projekt/Estimators.md",
