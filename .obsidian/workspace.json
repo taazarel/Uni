@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "53c01e231bffcf58",
+        "id": "6f3d079da53bf7cd",
         "type": "tabs",
         "children": [
           {
-            "id": "8dfc3a682c8382c6",
+            "id": "ba3eb2db34544b88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opgave 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "central",
+                "query": "induktion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +172,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8dfc3a682c8382c6",
+  "active": "477e1a55f44a8a4f",
   "lastOpenFiles": [
     "Kurser/Analyse 0/Integralregning i én variabel.md",
     "Kurser/Data & Projekt/Taking descisions.md",

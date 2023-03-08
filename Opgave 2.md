@@ -36,7 +36,12 @@ $$\tan''{x}=Q_{2}(\tan{x})=2\tan{x}+2\tan^{3}{x}=2\tan{x}(1+\tan^{2}{x})$$
 Hvis vi differentierer $Q_{1}(\tan{x})=1+ \tan^{2}{x}=(1+y^{2})\Rightarrow (1+y^{2})' = 0 + 2y = 2\tan{x}$.
 Nu finder vi at dette er det samme som hvad står udenfor parantesen i $Q_{2}(\tan{x})$. Her finder vi at sammenhængen mellem $Q_{1}$ og $Q_{2}$ er $Q_{2}(\tan{x})=(Q_{1}(\tan{x}))'(1+\tan^{2}{x})$.
 
-Til sidst kan vi bevise dette forhold mere generelt gennem induktion.
+Vi kan vise at forholdet $Q_{n+1}(x)=Q_{n}'(x)(1+x^{2})$ er sandt ved induktion.
+Lad os se på vores starttrin: n = 1. $$Q_{1}(x)=1+x^{2}\Rightarrow Q_{1}(\tan{x})=1+\tan^{2}{x}=\tan'{x}$$
+Forholdet er sandt for n. Vi ser nu på n+1.
+$$Q_{n+1}(x)=Q_{n}'(x)(1+x^{2}) \Rightarrow Q_{2}(x)=2x(1+x^{2})=2x+2x^{3}$$
+Vi indsætter tan(x) igen: $$Q_{2}(\tan{x})=2\tan{x}+2\tan^{3}{x}=\tan''{x}$$
+Forholdet er også sandt for n+1. Derfor må det holde for alle $n \in \mathbb{N}$ ifølge induktion.
 
 ## c
 Brug sammenhængen fundet fra (4.b) til at opskrive taylor polynomiet for 5 grad og omkring punktet 0.
