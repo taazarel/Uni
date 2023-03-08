@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opgave 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Opgave 2.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -172,13 +169,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "477e1a55f44a8a4f",
+  "active": "ba3eb2db34544b88",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Opgave 2.md",
     "Kurser/Analyse 0/Integralregning i én variabel.md",
     "Kurser/Data & Projekt/Taking descisions.md",
     "Kurser/Data & Projekt/Least Squares.md",
-    "conflict-files-obsidian-git.md",
-    "Opgave 2.md",
     "Kurser/Data & Projekt/Estimators.md",
     "Kurser/Data & Projekt/Errors.md",
     "Kurser/Analyse 0/Differentiabilitet i én variabel.md",
