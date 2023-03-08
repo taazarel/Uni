@@ -11,8 +11,12 @@
             "id": "ba3eb2db34544b88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kurser/Data & Projekt/Estimators.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "induktion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kurser/Data & Projekt/Estimators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kurser/Data & Projekt/Estimators.md"
+              }
             }
           }
         ],
@@ -169,7 +176,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ba3eb2db34544b88",
+  "active": "477e1a55f44a8a4f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Opgave 2.md",
