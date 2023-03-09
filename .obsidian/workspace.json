@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e741fd9a35c04f",
+        "id": "7d833624d258549a",
         "type": "tabs",
         "children": [
           {
-            "id": "c8a1883455d37e8d",
+            "id": "feafbf73245000e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurser/Analyse 0/Integralregning i én variabel.md",
+                "file": "Differentiering i flere variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Analyse 0/Integralregning i én variabel.md",
+                "file": "Differentiering i flere variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Analyse 0/Integralregning i én variabel.md"
+                "file": "Differentiering i flere variable.md"
               }
             }
           }
@@ -172,17 +172,18 @@
       "obsidian-dangling-links:Show dangling links panel": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8a1883455d37e8d",
+  "active": "feafbf73245000e5",
   "lastOpenFiles": [
+    "Differentiering i flere variable.md",
+    "Kurser/Analyse 0/Integralregning i én variabel.md",
     "Kurser/Analyse 0/Kontinuitet.md",
     "Kurser/Data & Projekt/Estimators.md",
     "conflict-files-obsidian-git.md",
     "Opgave 2.md",
-    "Kurser/Analyse 0/Integralregning i én variabel.md",
     "Kurser/Data & Projekt/Taking descisions.md",
     "Kurser/Data & Projekt/Least Squares.md",
     "Kurser/Data & Projekt/Errors.md",
