@@ -19,6 +19,10 @@ Funktionalmatricen skrives som... :: $$Df(\vec{a})= \left[
 \frac{\delta f_{1}}{\delta x_{k}} & ... & \frac{\delta f_{m}}{\delta x_{k}}
 \end{array}
 \right]$$
+## Den generaliserede kæderegel
+Den sammensatte afbilding $g \circ f$ kan skrives gennem funktionalmatricer således... :: $D(g\circ f)(\vec{a})= Dg(f(\vec{a}))Df(\vec{a})$[^2]
+
 
 
 [^1]: Dette er hvor den partielle afledte kommer fra. Her insisterer vi blot på en retning (vektoren v) fra start.
+[^2]: Det er meget vigtigt at man husker den korrekte rekkæfølge i produktet. Disse er jo matricer, hvilket betyder at vores kommutative regel ikke gælder.
