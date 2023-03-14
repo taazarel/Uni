@@ -25,4 +25,4 @@ Den sammensatte afbilding $g \circ f$ kan skrives gennem funktionalmatricer sål
 
 
 [^1]: Dette er hvor den partielle afledte kommer fra. Her insisterer vi blot på en retning (vektoren v) fra start.
-[^2]: Det er meget vigtigt at man husker den korrekte rekkæfølge i produktet. Disse er jo matricer, hvilket betyder at vores kommutative regel ikke gælder.
+[^2]: Det er meget vigtigt at man husker den korrekte rækkefølge i produktet. Disse er jo matricer, hvilket betyder at vores kommutative regel ikke gælder.

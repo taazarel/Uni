@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d833624d258549a",
+        "id": "c70ce0bca441b83c",
         "type": "tabs",
         "children": [
           {
-            "id": "feafbf73245000e5",
+            "id": "beee3b61a8d2005a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,10 +176,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "feafbf73245000e5",
+  "active": "beee3b61a8d2005a",
   "lastOpenFiles": [
-    "Hjælpemidler/Periodic Notes/Daily/14-03-2023 Uge 11.md",
+    "Untitled.canvas",
     "Differentiering i flere variable.md",
+    "Hjælpemidler/Periodic Notes/Daily/14-03-2023 Uge 11.md",
     "Kurser/Analyse 0/Integralregning i én variabel.md",
     "Kurser/Analyse 0/Kontinuitet.md",
     "Kurser/Data & Projekt/Estimators.md",
