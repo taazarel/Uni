@@ -6,6 +6,9 @@ En funktion er retningsafledt når... :: den er differentiabel i v's retning i  
 ## Gradient
 Gradienten for en funktion f defineres som... :: En vektor $\vec{c}\in \mathbb{R}^{k}$ som opfylder i grænseovergangen $\Delta x \to 0$: $\Delta f= \vec{c}\cdot \Delta \vec{x} + \epsilon (\Delta \vec{x})||\Delta \vec{x}||$  Noter at vi ofte skriver $\vec{c}=\nabla f(\vec{a})$
 
+## $C^{1}$ betingelsen
+Givet er $f:\Omega \to \mathbb{R}$ og $\vec{a}\in \Omega$. f er c1 hvis... :: $x \to \nabla f(x)$ er kontinuert og har partielt afledte i alle punkter i alle retninger i domænet $\Omega$. Så er f differentiabel i $\vec{a}$, og er $C^{1}$.
+
 
 
 [^1]: Dette er hvor den partielle afledte kommer fra. Her insisterer vi blot på en retning (vektoren v) fra start.

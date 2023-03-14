@@ -172,8 +172,8 @@
       "obsidian-dangling-links:Show dangling links panel": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "feafbf73245000e5",
