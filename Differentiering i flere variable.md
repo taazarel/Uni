@@ -9,6 +9,16 @@ Gradienten for en funktion f defineres som... :: En vektor $\vec{c}\in \mathbb{R
 ## $C^{1}$ betingelsen
 Givet er $f:\Omega \to \mathbb{R}$ og $\vec{a}\in \Omega$. f er c1 hvis... :: $x \to \nabla f(x)$ er kontinuert og har partielt afledte i alle punkter i alle retninger i domænet $\Omega$. Så er f differentiabel i $\vec{a}$, og er $C^{1}$.
 
+## Definition for differentiabilitet i dimension $k \to m$
+Lad $\Omega \subset \mathbb{R}^{k}$ være en åben mængde . Lad $f:\Omega \to \mathbb{R}^{m}$ være en afbildning og $\vec{a} \in \Omega$. Så vil f være differentiabel i $\vec{a}$ med funktionalmatrix C hvis... :: $\Delta f = f(\vec{a}+\Delta \vec{x})-f(\vec{a})= C \Delta \vec{x}+ \epsilon (\Delta \vec{x})||\Delta \vec{x}||$ er sandt.
+
+Funktionalmatricen skrives som... :: $$Df(\vec{a})= \left[
+\begin{array}{ccc}
+\frac{\delta f_{1}}{\delta x_{1}} & ... & \frac{\delta f_{m}}{\delta x_{1}} \\ 
+\vdots & ... & \vdots \\ 
+\frac{\delta f_{1}}{\delta x_{k}} & ... & \frac{\delta f_{m}}{\delta x_{k}}
+\end{array}
+\right]$$
 
 
 [^1]: Dette er hvor den partielle afledte kommer fra. Her insisterer vi blot på en retning (vektoren v) fra start.
