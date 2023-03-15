@@ -19,6 +19,9 @@ Givet en funktion på I så er dens stam... :: -funktion kontinuert på I og skr
 ## Sætning 5.29 (Infinitesimalregningens hovedsætning)
 Lad $f:I \to \mathbb{R}$. Hvis f er kont. i alle punkter så har f en stamfunktion, nemlig... :: $\Phi (x)= \int_{x_{0}}^{x}f(y)dy$ for $x \in I$. Dette betyder altså at der er sammenhæng mellem stamfunktionen/integraler og differentialer.
 
+### Uegentlig integral / improper integral
+Vi kan integrere for svære/åbne intervaller ved... :: at bruge uegentlige integraler. Altså at substituere uendeligt med en grænse, eller indsætte -$\epsilon$ ved den åbne grænse.
+
 
 
 [^1]: Denne Bolzano egenskab er essentielt det samme som Riemann integrabilitet. Hvis en funktion har Bolzano egenskaben er den altid også Riemann integrabel, og vice versa.
