@@ -23,8 +23,13 @@ Funktionalmatricen skrives som... :: $$Df(\vec{a})= \left[
 Den sammensatte afbilding $g \circ f$ kan skrives gennem funktionalmatricer således... :: $D(g\circ f)(\vec{a})= Dg(f(\vec{a}))Df(\vec{a})$[^2]
 
 ## Clairault definition
-Lad $\frac{\delta^{2}f}{\delta x_{2}\delta x_{1}}(x)$ og $\frac{\delta^{2}f}{\delta x_{1}\delta x_{2}}(x)$ eksistere for alle $x \in \Omega$, når begge dobbelt... :: partielle afledede er kontinuerte i punktet $a \in \Omega$ så er $$\frac{\delta^{2}f}{\delta x_{2}\delta x_{1}}(a)= \frac{\delta ^{2}f}{\delta x_{1}\delta x_{2}}(a)$$
+Lad $\frac{\delta^{2}f}{\delta x_{2}\delta x_{1}}(x)$ og $\frac{\delta^{2}f}{\delta x_{1}\delta x_{2}}(x)$ eksistere for alle $x \in \Omega$, når begge dobbelt... :: partielle afledede er kontinuerte i punktet $a \in \Omega$ så er $$\frac{\delta^{2}f}{\delta x_{2}\delta x_{1}}(a)= \frac{\delta ^{2}f}{\delta x_{1}\delta x_{2}}(a)$$[^3]
+
+## Taylor i flere variable
+Lad $f:\Omega \to \mathbb{R}$ være en $C^{2}$ funktion så er $f(a + \Delta x)=...$ :: $f(a)+\nabla f(a)\Delta x + \frac{1}{2}\Delta x^{T}D^{2}f(a)\Delta x + o(||\Delta x||)^{2}$ ved grænsen $\delta x \to 0$.
+
 
 
 [^1]: Dette er hvor den partielle afledte kommer fra. Her insisterer vi blot på en retning (vektoren v) fra start.
 [^2]: Det er meget vigtigt at man husker den korrekte rækkefølge i produktet. Disse er jo matricer, hvilket betyder at vores kommutative regel ikke gælder.
+[^3]: Dette fungerer også for højere ordner. Man kan altså bytte naboerne
