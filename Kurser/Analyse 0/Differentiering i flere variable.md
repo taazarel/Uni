@@ -22,6 +22,8 @@ Funktionalmatricen skrives som... :: $$Df(\vec{a})= \left[
 ## Den generaliserede kæderegel
 Den sammensatte afbilding $g \circ f$ kan skrives gennem funktionalmatricer således... :: $D(g\circ f)(\vec{a})= Dg(f(\vec{a}))Df(\vec{a})$[^2]
 
+## Clairault definition
+Lad $\frac{\delta^{2}f}{\delta x_{2}\delta x_{1}}(x)$ og $\frac{\delta^{2}f}{\delta x_{1}\delta x_{2}}(x)$ eksistere for alle $x \in \Omega$, når begge dobbelt... :: partielle afledede er kontinuerte i punktet $a \in \Omega$ så er $$\frac{\delta^{2}f}{\delta x_{2}\delta x_{1}}(a)= \frac{\delta ^{2}f}{\delta x_{1}\delta x_{2}}(a)$$
 
 
 [^1]: Dette er hvor den partielle afledte kommer fra. Her insisterer vi blot på en retning (vektoren v) fra start.
