@@ -21,6 +21,24 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "f40a14d92f8ef6df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "552a2f40a3636540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurveintegraler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurser/Analyse 0/Differentiering i flere variable.md",
+                "file": "Kurveintegraler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurser/Analyse 0/Differentiering i flere variable.md"
+                "file": "Kurveintegraler.md"
               }
             }
           }
@@ -176,10 +194,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "beee3b61a8d2005a",
+  "active": "552a2f40a3636540",
   "lastOpenFiles": [
-    "Hjælpemidler/Periodic Notes/Daily/16-03-2023 Uge 11.md",
     "Kurser/Analyse 0/Differentiering i flere variable.md",
+    "Kurveintegraler.md",
+    "Hjælpemidler/Periodic Notes/Daily/16-03-2023 Uge 11.md",
     "Opgave 3.md",
     "Untitled.canvas",
     "Hjælpemidler/Periodic Notes/Daily/14-03-2023 Uge 11.md",
