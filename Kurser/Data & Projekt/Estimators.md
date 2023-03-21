@@ -22,7 +22,7 @@ The variance can be shown as... :: $\hat V(x) = s^{2} = \frac{1}{N-1} \sum (x_{i
 Estimating $\sigma$ has two useful answers, where the error of the estimate is... :: $\sigma_{\sigma} = \frac{\sigma}{\sqrt{2N}}$ (5.23) when we know $\mu$. And $\sigma_{s}= \frac{\sigma}{\sqrt{2(N -1)}}$ (5.24) as an extrapolation of (5.14)
 <!--SR:!2023-04-07,31,294-->
 Estimating $\sigma$ gives us two answers, one for when we know the model, and one where we do not. These are written as... :: $\hat \sigma = \sqrt{\hat V(x)}$ for known theory and $\hat\sigma = s$ for equation (5.14).
-<!--SR:!2023-03-20,13,274-->
+<!--SR:!2023-04-28,38,274-->
 
 # §5.3 Maximum likelihood
 For a data sample, the maximum likelihood for an estimator is... :: the maximum for equation (5.1) which is $L(x_{1},...,x_{n}) = \Pi P(x_{i}, a)$.[^2] This value is called ML.
