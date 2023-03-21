@@ -1,17 +1,11 @@
 [
   "table-editor-obsidian",
-  "calendar",
-  "obsidian-dangling-links",
   "obsidian-excalidraw-plugin",
   "obsidian-footnotes",
   "hotkeysplus-obsidian",
   "note-refactor-obsidian",
-  "obsidian-charts",
-  "obsidian-functionplot",
   "obsidian-git",
   "quick-latex",
   "obsidian-spaced-repetition",
-  "tag-wrangler",
-  "templater-obsidian",
-  "periodic-notes"
+  "tag-wrangler"
 ]

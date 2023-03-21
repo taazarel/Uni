@@ -14,16 +14,16 @@
   "slash-command": false,
   "editor-status": false,
   "starred": true,
-  "markdown-importer": true,
+  "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,
   "word-count": true,
-  "slides": true,
-  "audio-recorder": true,
+  "slides": false,
+  "audio-recorder": false,
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
   "sync": false,
-  "canvas": true
+  "canvas": false
 }
