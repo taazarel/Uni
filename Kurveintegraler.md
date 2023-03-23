@@ -13,3 +13,8 @@ For en kontinuert kurve $r: [a,b]\to \mathbb{R}^{m}$ med begrænset, afsluttet p
 ### Sætning 7.19
 Hvis en kurve som er stykkevist $C^{1}$ så er dens længde... :: $l=\int_{a}^{b}||r'(t)||dt$ og den er også altid rektificerbar.
 
+### Ingredienser for kurveintegralet
+- lad $\Omega \subset \mathbb{R}^{k}$ være en åben mængde og lad $V:\Omega \to \mathbb{R}^{k}$ være et vektorfelt.
+
+## Kurveintegral for stykkevist $C^{1}$-kurve.
+Hvis $V:\Omega \to \mathbb{R}^{k}$ er et kontinuert vektorfelt og hvis $r:[a,b]\to \Omega$ er en stykkevist $C^{1}$ kurve så eksisterer kurveintegralet... :: $$\int_{\gamma}^{} V \cdot dr= \int_{a}^{b} V(r(t))\cdot r'(t)dt$$
