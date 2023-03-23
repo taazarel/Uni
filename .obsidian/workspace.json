@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurveintegraler.md",
+                "file": "Kurser/Analyse 0/Kurveintegraler.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kurveintegraler.md",
+                "file": "Kurser/Analyse 0/Kurveintegraler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kurveintegraler.md"
+                "file": "Kurser/Analyse 0/Kurveintegraler.md"
               }
             }
           }
@@ -179,8 +179,9 @@
   },
   "active": "552a2f40a3636540",
   "lastOpenFiles": [
+    "Opgave 2.md",
+    "Kurser/Analyse 0/Kurveintegraler.md",
     "Kurser/Analyse 0/Differentiering i flere variable.md",
-    "Kurveintegraler.md",
     "Hjælpemidler/Periodic Notes/Daily/16-03-2023 Uge 11.md",
     "Opgave 3.md",
     "Untitled.canvas",
@@ -189,7 +190,6 @@
     "Kurser/Analyse 0/Kontinuitet.md",
     "Kurser/Data & Projekt/Estimators.md",
     "conflict-files-obsidian-git.md",
-    "Opgave 2.md",
     "Kurser/Data & Projekt/Taking descisions.md",
     "Kurser/Data & Projekt/Least Squares.md",
     "Kurser/Data & Projekt/Errors.md",
