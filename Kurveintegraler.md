@@ -18,3 +18,16 @@ Hvis en kurve som er stykkevist $C^{1}$ så er dens længde... :: $l=\int_{a}^{b
 
 ## Kurveintegral for stykkevist $C^{1}$-kurve.
 Hvis $V:\Omega \to \mathbb{R}^{k}$ er et kontinuert vektorfelt og hvis $r:[a,b]\to \Omega$ er en stykkevist $C^{1}$ kurve så eksisterer kurveintegralet... :: $$\int_{\gamma}^{} V \cdot dr= \int_{a}^{b} V(r(t))\cdot r'(t)dt$$
+# Stamfunktionsproblemet i $\mathbb{R}^k$.
+## Definition af gradientfelt
+Lad $\Omega \subset \mathbb{R}^{k}$ være en åben mængde. Et vektorfelt V på $\Omega$ kaldes et gradientfelt hvis der findes en $C^{1}$ funktion $u:\Omega \to \mathbb{R}$ så... ::  $V(x)=\nabla u(x)$ for $x \in \Omega$.
+
+## Definition Stamfunktion (7.33)
+Lad $\Omega \subset \mathbb{R}^{k}$ være en åben mængde og lad $V: \Omega \to \mathbb{R}^{k}$ være et kontinuert vektorfelt. En $C^{1}$-funktion $u:\Omega \to \mathbb{R}$ er en stamfunktion til vektorfeltet V, hvis... :: $\nabla u(x)=V(x)$ for alle $x \in \Omega$
+
+### Sætning 7.34
+Lad $V:\Omega \to \mathbb{R}$ være et gradientfelt i en åben mængde $\Omega \subset \mathbb{R}^{k}$. For enhver stykkevist $C^{1}$-kurve $\gamma$ løbende fra startpunktet a til slutpunket b gælder det at... :: $$\int_{\gamma }^{} V \cdot dr=u(b)-u(a)$$ [^1]
+
+
+
+[^1]: Hvor u er stamfunktionen.
